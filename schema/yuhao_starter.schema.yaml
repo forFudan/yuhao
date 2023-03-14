@@ -1,0 +1,87 @@
+# Rime schema settings
+# encoding: utf-8
+
+__include: yuhao.schema:/
+
+schema:
+  schema_id: yuhao_starter
+  name: 宇浩·繁简通·新手
+  version: 20230312
+  author:
+    - 發明人 朱宇浩
+    - Rime方案 forFudan
+    - 官方QQ群 735728797
+  description: |
+    默認設定：
+    - 屏蔽生僻字，通過 0 鍵 或 Control+Shift+O 關閉。
+    - 開啓輸入預測。
+    - 顯示單字和詞語的拆分提示，通過 / 鍵 或 Control+Shift+C 關閉。
+    - 顯示九個候選項，豎排候選欄。
+    - Z 鍵反查拼音
+    - 按"help"或"zzzz"或"bang"提示快捷鍵和官方網站。
+
+switches:
+  - options:
+      - yuhao_char_only
+      - yuhao_char_first
+      - cjk
+    states: [只出常用字, 常用字前置, 全字集原排序]
+    reset: 0
+    # Control+Shift+O: 只出常用字
+    # Control+Shift+I: 常用字前置
+  - name: yuhao_single_char_only_for_full_code
+    states: ["字詞同出", "全碼出單"]
+    reset: 0
+    # Control+Shift+D
+  - name: yuhao_postpone_full_code
+    reset: 1
+    states: [原始排序, 全碼後置]
+  - name: chaifen
+    # Control+Shift+H
+    states: ["无拆分", "有拆分"]
+    reset: 1
+    # Control+Shift+C
+  - name: traditionalization
+    states: [简保持, 简转繁]
+    reset: 0
+    # Control+Shift+F
+  - name: simplification
+    reset: 0
+    states: [繁保持, 繁转简]
+    # Control+Shift+J
+  - name: ascii_punct
+    states: [。，, ．，]
+    reset: 0
+  - name: ascii_mode
+    states: [中文, 西文]
+    reset: 0
+  - name: full_shape
+    states: ["半角", "全角"]
+    reset: 0
+
+menu:
+  page_size: 9
+
+chaifen:
+  opencc_config: yuhao_chaifen.json
+  option_name: chaifen
+  show_in_comment: true
+  tags: [abc, reverse_lookup]
+  tips: all
+
+translator:
+  dictionary: yuhao
+  prism: yuhao
+  enable_completion: true
+  enable_sentence: true
+  enable_user_dict: true
+  enable_encoder: true
+  encode_commit_history: false # 对连续上屏的词自动成词
+  max_phrase_length: 4 # 自动成词的最大词长
+  preedit_format: []
+  disable_user_dict_for_patterns: 
+    - "^z.*$"
+
+style:
+  horizontal: false
+  inline_preedit: true
