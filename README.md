@@ -161,6 +161,7 @@
 patch:
   schema_list:
     - schema: yuhao
+    - schema: yuhao_starter
 ```
 
 点击「部署」之后即可使用。
