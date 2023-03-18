@@ -73,7 +73,7 @@ translator:
   dictionary: yuhao
   prism: yuhao
   enable_completion: true
-  enable_sentence: true
+  enable_sentence: false
   enable_user_dict: true
   enable_encoder: true
   encode_commit_history: false # 对连续上屏的词自动成词
@@ -84,4 +84,4 @@ translator:
 
 style:
   horizontal: false
-  inline_preedit: true
+  inline_preedit: false

@@ -143,14 +143,14 @@ translator:
   dictionary: yuhao
   prism: yuhao
   enable_completion: false
-  enable_sentence: true
+  enable_sentence: false
   enable_user_dict: true
   enable_encoder: true
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长
   preedit_format:
     - 'xform/^([a-z]*)$/$1\t〔\U$1\E〕/'
-    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|扌糸女石亻木王土氵日虫口目足宀疒竹金艹钅言厶月彐心查|"
+    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|扌糸女石亻木王土氵日虫口目足宀疒竹犭艹钅言厶月彐心查|"
   disable_user_dict_for_patterns: 
     - "^z.*$"
 

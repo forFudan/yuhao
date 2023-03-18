@@ -4,7 +4,7 @@
 
 local function translator(input, seg)
   local table
-  if input == 'zzzz' or input == 'help' or input == "bang" then
+  if input == 'help' or input == "bang" then
     table = {
       { '只出常用字', 'Ctrl + Shift + O' },
       { '常用字优先', 'Ctrl + Shift + I' },
@@ -19,7 +19,7 @@ local function translator(input, seg)
     }
   else return end
   for k, v in ipairs(table) do
-    local cand = Candidate('help', seg.start, seg._end, v[1], ' ' .. v[2])
+    local cand = Candidate('help', seg.start, seg._end, v[2], ' ' .. v[1])
     cand.preedit = input .. '　〔宇浩帮助〕'
     yield(cand)
   end
