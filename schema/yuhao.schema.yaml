@@ -17,6 +17,8 @@ schema:
     - 只顯示五個候選項，橫排候選欄。
     - Z 鍵反查拼音
     - 按"help"或"zzzz"或"bang"提示快捷鍵和官方網站。
+  dependencies:
+    - pinyin_simp
 
 switches:
   - options:
@@ -149,8 +151,8 @@ translator:
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长
   preedit_format:
-    - 'xform/^([a-z]*)$/$1\t〔\U$1\E〕/'
-    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXYZ|扌糸女石亻木王土氵日虫口目足宀疒竹犭艹钅言厶月彐心查|"
+    - 'xform/^([a-y]*)$/$1\t〔\U$1\E〕/'
+    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|扌糸女石亻木王土氵日虫口目足宀疒竹犭艹钅言厶月彐心|"
   disable_user_dict_for_patterns: 
     - "^z.*$"
 
@@ -161,18 +163,15 @@ fixed:
   enable_sentence: false
   initial_quality: 1000000
 
-history:
-  input: z
-  size: 1
-  initial_quality: 2000
-
 reverse_lookup:
-  dictionary: clover
+  dictionary: pinyin_simp
   prefix: "z"
   tips: 〔全拼反查〕
   closing_tips: 〔反查关闭〕
   preedit_format:
-    - xform/([nljqxy])v/$1ü/
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
 
 punctuator:
   import_preset: default
