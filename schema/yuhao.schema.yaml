@@ -6,7 +6,7 @@ schema:
   name: 宇浩·繁简通
   version: 20230312
   author:
-    - 發明人 朱宇浩
+    - 發明人 朱宇浩 <https://zhuyuhao.com/yuhao/>
     - Rime方案 forFudan
     - 官方QQ群 735728797
   description: |
@@ -215,7 +215,7 @@ recognizer:
   import_preset: default
   patterns:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
-    reverse_lookup: "^z([a-z]+?)*$"
+    reverse_lookup: "^[z]([a-z]+?)*$"
 
 style:
   horizontal: true
