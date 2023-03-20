@@ -666,7 +666,7 @@ encoder:
 物	ww
 服	wx
 脆	wy
-马	xa
+建	xa
 骚	xb
 驰	xc
 骠	xd
@@ -1946,6 +1946,7 @@ encoder:
 撋	akg
 聃	akh
 撄	akk
+拤	akm
 拽	akq
 聘	aks
 撊	akw
@@ -2839,6 +2840,7 @@ encoder:
 硼	dww
 酗	dwx
 鹕	dwy
+硉	dxa
 妻	dxc
 霧	dxe
 戡	dxg
@@ -2974,6 +2976,7 @@ encoder:
 惫	ejy
 佒	ekg
 泉	ekh
+侧	ekm
 俚	eks
 僩	ekw
 觅	ekx
@@ -3660,6 +3663,7 @@ encoder:
 爽	gww
 鞄	gwx
 鸥	gwy
+珉	gxa
 鞣	gxf
 戉	gxi
 琭	gxk
@@ -4556,6 +4560,7 @@ encoder:
 問	klv
 蜎	klw
 叔	kmb
+闤	kmf
 蠌	kmh
 蠦	kmj
 敊	kmk
@@ -4564,7 +4569,6 @@ encoder:
 卡	kmo
 闃	kms
 蛸	kmw
-閫	knf
 蝈	kng
 闛	knh
 蟷	knj
@@ -5849,11 +5853,11 @@ encoder:
 袀	pws
 膏	pwv
 袍	pwx
-闯	pxa
 断	pxe
 糅	pxf
 離	pxk
 穷	pxl
+闯	pxm
 裙	pxq
 瘳	pxt
 窋	pxx
@@ -6114,6 +6118,7 @@ encoder:
 籐	qwu
 飑	qww
 筋	qwx
+鲟	qxa
 簫	qxd
 氯	qxk
 笳	qxl
@@ -6278,6 +6283,7 @@ encoder:
 秧	rkg
 汆	rkh
 盥	rkm
+鍆	rkn
 鈾	rko
 狸	rks
 肏	rkt
@@ -6450,6 +6456,7 @@ encoder:
 舄	rwu
 覺	rww
 饱	rwx
+律	rxa
 鏽	rxd
 猱	rxf
 獝	rxk
@@ -6833,7 +6840,7 @@ encoder:
 脣	swv
 萄	sww
 苞	swx
-冯	sxa
+荨	sxa
 蕭	sxd
 騽	sxe
 蕁	sxf
@@ -7834,11 +7841,10 @@ encoder:
 敯	xaj
 牁	xal
 骁	xaq
-建	xax
 驿	xba
 骣	xbb
 驭	xbu
-丱	xcf
+屮	xcf
 妝	xcv
 頨	xdm
 骐	xdq
@@ -8314,7 +8320,7 @@ encoder:
 国	ngod
 走	dkf
 让	oksa
-被	pvpk
+被	pvpy
 给	vyes
 正	fnii
 问	plvn
@@ -8372,7 +8378,7 @@ encoder:
 候	embq
 公	tvvb
 相	fmv
-吗	lxa
+吗	lxm
 等	qhac
 别	lxmd
 色	ycam
@@ -8402,7 +8408,7 @@ encoder:
 应	uifi
 便	efjw
 放	oehg
-马	xaf
+马	xmf
 难	bwiu
 轻	hbfo
 更	fjwa
@@ -8570,7 +8576,7 @@ encoder:
 伤	eqxl
 百	djv
 拿	ytue
-妈	cxa
+妈	cxm
 办	xtbl
 星	jwg
 化	eri
@@ -8911,7 +8917,7 @@ encoder:
 岁	jrka
 礼	uxis
 独	rkv
-初	pbak
+初	pbay
 福	uflj
 顺	qdkb
 狂	rgv
@@ -9152,7 +9158,7 @@ encoder:
 袋	egow
 网	kwwa
 朱	qhep
-骂	llxa
+骂	llxm
 雄	svwi
 赛	ostk
 略	jelv
@@ -9402,7 +9408,7 @@ encoder:
 疼	pesr
 漫	ijmb
 材	faqp
-补	pmok
+补	pmoy
 私	rvvh
 吐	lhv
 纯	vaxc
@@ -9608,7 +9614,7 @@ encoder:
 货	erkb
 琴	ggtv
 踪	nohs
-码	dxa
+码	dxm
 慰	bhay
 蛇	kori
 玲	gtob
@@ -9760,7 +9766,7 @@ encoder:
 喃	ldkd
 廷	exne
 乘	ruri
-玛	gxa
+玛	gxm
 奉	gavn
 扯	ani
 岳	efja
@@ -9858,7 +9864,7 @@ encoder:
 阁	pelv
 舌	ref
 箱	qfmv
-冯	sxar
+冯	sxmr
 邦	dcfn
 钢	tkwa
 霞	dbsb
@@ -9875,7 +9881,7 @@ encoder:
 喷	ldsk
 拦	ausr
 嘉	hlul
-袖	pkok
+袖	pkoy
 殊	dqhe
 辰	snf
 繁	qbeb
@@ -9911,7 +9917,7 @@ encoder:
 梯	fuvq
 桃	fqss
 豆	flua
-驾	xlxa
+驾	xlxm
 浅	ifgg
 径	rbfo
 饿	rqag
@@ -10123,7 +10129,7 @@ encoder:
 瑶	gewo
 赐	kjwt
 捏	ajhv
-闯	pxan
+闯	pxmn
 姚	cqss
 瑟	ggyq
 渴	ijwx
@@ -10154,7 +10160,7 @@ encoder:
 申	kef
 割	odlm
 巫	ftte
-衫	ptik
+衫	ptiy
 棒	fgav
 阔	pire
 泣	iii
@@ -10249,7 +10255,7 @@ encoder:
 纠	vxcs
 慨	yxvq
 嚷	lolw
-驰	xcya
+驰	xcym
 拐	alxl
 宴	ojcv
 津	ixav
@@ -10414,7 +10420,7 @@ encoder:
 狮	rmqm
 邻	tobc
 契	dbgd
-骇	xoia
+骇	xoim
 卜	mof
 揭	ajwx
 妄	ucvw
@@ -10496,7 +10502,7 @@ encoder:
 杖	fsod
 芝	sok
 夷	gvod
-衬	pack
+衬	pacy
 佐	esfo
 巷	stxs
 捡	atsi
@@ -10894,7 +10900,7 @@ encoder:
 虞	mlfg
 综	vohs
 瘾	pcyy
-驴	xoha
+驴	xohm
 晒	jdi
 卦	hhmo
 迦	xlpo
@@ -10994,7 +11000,7 @@ encoder:
 膜	wsjg
 亨	olvl
 奕	pgdi
-蚂	kxa
+蚂	kxm
 猩	rjwg
 滨	ioet
 沁	iyv
@@ -11302,7 +11308,7 @@ encoder:
 棘	fkfk
 嗣	lnvl
 钗	tbod
-袜	phok
+袜	phoy
 妩	cfdo
 炕	uoqj
 偎	ejgf
@@ -11494,7 +11500,7 @@ encoder:
 炙	wuo
 翎	tobx
 惋	yorv
-驯	xqca
+驯	xqcm
 栩	fxu
 逾	tfwp
 墟	hmnu
@@ -11624,7 +11630,7 @@ encoder:
 钰	tgod
 傀	ewu
 噔	lbfu
-驭	xbua
+驭	xbum
 靶	gcae
 萦	sybv
 韬	aver
@@ -11632,7 +11638,7 @@ encoder:
 懿	hyfy
 竺	qsr
 吝	plve
-羁	mgxa
+羁	mgxm
 荀	swjv
 癫	pdmk
 嘭	lhlt
@@ -11673,7 +11679,7 @@ encoder:
 蹙	dkmn
 橡	fyld
 佯	eug
-笃	qxa
+笃	qxm
 崛	jbxx
 勘	dxxl
 稼	rods
@@ -11811,7 +11817,7 @@ encoder:
 拈	amlv
 抒	acu
 孰	olbo
-袄	peok
+袄	peoy
 褂	phhm
 孺	bdsj
 胭	wngd
@@ -11997,7 +12003,7 @@ encoder:
 簧	qskt
 甥	wjxl
 腼	wgi
-驮	xgda
+驮	xgdm
 缤	voet
 潺	ibbb
 獠	rgum
@@ -12130,7 +12136,7 @@ encoder:
 昱	jii
 旌	oqwg
 摞	ajbv
-們	ekm
+們	ekn
 吠	lsa
 濮	ieng
 卞	omoo
@@ -12707,7 +12713,7 @@ encoder:
 瑁	gjmv
 俅	efko
 侗	ekfl
-骛	xexa
+骛	xexm
 宕	odv
 纂	qmgb
 堰	hgjc
@@ -12988,7 +12994,7 @@ encoder:
 逡	vtep
 篙	qpg
 膑	woet
-問	klvm
+問	klvn
 荥	sykh
 隍	cegv
 蕨	ssue
@@ -13001,7 +13007,7 @@ encoder:
 蹇	ostn
 喱	lsks
 縯	boft
-間	kjvm
+間	kjvn
 話	ure
 肓	uwvw
 榈	fpll
@@ -13038,7 +13044,7 @@ encoder:
 氅	nerm
 寮	ogum
 鹑	olby
-驽	cbxa
+驽	cbxm
 囫	nwti
 炷	uogv
 缙	vauj
@@ -13056,7 +13062,7 @@ encoder:
 婳	cfjx
 兩	fmrr
 矍	mmwb
-犸	rxa
+犸	rxm
 哓	laqh
 酶	dqbm
 當	njis
@@ -13397,7 +13403,7 @@ encoder:
 伥	eth
 毐	hbsu
 疟	pgfi
-骓	xwia
+骓	xwim
 筌	qtgv
 屐	brdb
 靈	dllt
@@ -13615,7 +13621,7 @@ encoder:
 國	nglf
 備	esqt
 闿	pjbj
-衽	peek
+衽	peey
 鲈	qmbh
 紅	bfo
 缟	vpgs
@@ -13690,7 +13696,7 @@ encoder:
 恚	hhyv
 盱	mfau
 鼋	fhlk
-門	kmf
+門	knf
 钤	ttov
 矬	qtth
 帑	cbmj
@@ -13794,7 +13800,7 @@ encoder:
 龉	ntxl
 鬻	vpvm
 庥	uefv
-骐	xdqa
+骐	xdqm
 囗	nwf
 筢	qaca
 柝	feod
@@ -14415,10 +14421,10 @@ encoder:
 锶	tjyv
 砬	dii
 鼍	lljk
-閒	kwvm
+閒	kwvn
 跣	nwqr
 練	bfnu
-閃	ktem
+閃	kten
 迓	hpoy
 疖	pxj
 況	ilqr
@@ -14641,7 +14647,7 @@ encoder:
 郛	ebcf
 彖	bdsm
 買	mmbw
-裉	pvnk
+裉	pvny
 蓐	ssac
 脘	wofh
 袛	ptao
@@ -14826,7 +14832,7 @@ encoder:
 碡	dhbm
 唦	limq
 擔	aysu
-補	pfuk
+補	pfuy
 埽	hxym
 谠	onqr
 楙	fxfv
@@ -15057,7 +15063,7 @@ encoder:
 狔	rbri
 丏	axvi
 懼	ymmw
-袷	pyek
+袷	pyey
 氚	qqcq
 烃	ubfo
 黾	lkd
@@ -15187,7 +15193,7 @@ encoder:
 礡	dsfa
 嗙	louo
 厊	shyh
-骍	xoxa
+骍	xoxm
 階	crre
 標	fdhs
 褲	pugj
@@ -15219,7 +15225,7 @@ encoder:
 貐	ytfm
 閉	kaqp
 歸	ynxm
-聞	karm
+聞	karn
 砉	ddvn
 扌	avf
 龀	ntxr
@@ -15433,7 +15439,7 @@ encoder:
 庀	uriu
 暲	jijo
 冑	kksr
-袓	pmqk
+袓	pmqy
 燄	yruu
 載	dggj
 悽	ydxc
@@ -15730,7 +15736,7 @@ encoder:
 唼	licv
 酾	dfkk
 跫	fqnv
-杩	fxa
+杩	fxm
 骱	mttb
 蒡	souo
 恧	syvj
@@ -15757,7 +15763,7 @@ encoder:
 硐	dkfl
 氍	mmwr
 胲	woi
-凵	xcff
+凵	xcf
 跘	nuav
 鄠	dfsc
 瓖	golw
@@ -15903,7 +15909,7 @@ encoder:
 钘	tfsv
 肅	xdtx
 構	fskh
-悶	kyvm
+悶	kyvn
 諾	ussl
 鎚	rypo
 泺	itma
@@ -16079,13 +16085,13 @@ encoder:
 鲚	qptb
 胨	wama
 淠	ijaj
-饸	ryes
 拤	akmo
+饸	ryes
 拃	aqmo
 矻	dqvi
 儍	ewxe
 俛	eylq
-衪	pcyk
+衪	pcyy
 蔘	svvt
 剉	tthm
 鮻	tvte
@@ -16213,7 +16219,7 @@ encoder:
 潤	ikgv
 臘	wvnb
 嫰	cfle
-閤	kyem
+閤	kyen
 铋	tyqp
 揞	aijv
 岽	jama
@@ -16272,7 +16278,7 @@ encoder:
 窮	pwvo
 誌	uhyv
 螞	ksm
-闖	ksmm
+闖	ksmn
 鹛	bmya
 窀	paxc
 榍	fbmw
@@ -16355,7 +16361,7 @@ encoder:
 钷	tglv
 锪	twty
 丬	uqf
-閑	kfvm
+閑	kfvn
 罽	msum
 熇	upgo
 懞	ysyd
@@ -16375,7 +16381,7 @@ encoder:
 蛸	kmwv
 冱	ssbm
 憝	olby
-驵	xmqa
+驵	xmqm
 阯	cnif
 偓	ebhk
 韁	gfjj
@@ -16611,7 +16617,7 @@ encoder:
 攵	ehff
 榀	flll
 泶	iykh
-衤	pkf
+衤	pyf
 氙	qjaq
 耞	fhxl
 鴞	lsro
@@ -16631,7 +16637,7 @@ encoder:
 涁	ifti
 渏	igal
 屻	jbod
-閰	krjm
+閰	krjn
 吜	lbdh
 啲	lewo
 褕	ptfm
@@ -16670,7 +16676,7 @@ encoder:
 皽	onlv
 寛	osmx
 遆	ouyp
-袥	pdvk
+袥	pdvy
 癩	pflm
 褍	pjsj
 窊	pquu
@@ -18154,7 +18160,7 @@ encoder:
 宍	ootb
 鷟	oqqr
 褭	oswy
-裭	pmhk
+裭	pmhy
 袮	pqma
 襈	pxxt
 癚	pysu
@@ -18334,7 +18340,7 @@ encoder:
 県	mxma
 翝	osvx
 讻	owxc
-褀	pdqk
+褀	pdqy
 癉	plld
 粃	prri
 粫	psjm
@@ -18632,6 +18638,7 @@ encoder:
 亙	swvr
 惻	ymmd
 铈	tomj
+屮	xcff
 塥	hflm
 辁	htgv
 螋	krmb
@@ -18639,7 +18646,6 @@ encoder:
 镤	tnug
 灬	uif
 弪	vbfo
-屮	xcf
 撾	anpo
 搾	apqm
 邔	bcfj
@@ -18671,7 +18677,7 @@ encoder:
 胔	nrkt
 玈	ocqw
 褻	ohtw
-衵	pjvk
+衵	pjvy
 襴	pkfu
 襆	pnug
 袚	psbo
@@ -18959,7 +18965,7 @@ encoder:
 鵙	mrob
 甝	mssr
 罶	mtji
-裖	psnk
+裖	psny
 鼩	rbwl
 腎	sbwv
 騞	sddv
@@ -19116,7 +19122,7 @@ encoder:
 嚲	olbd
 齎	oumm
 痙	pfvf
-衭	pguk
+衭	pguy
 糦	phll
 帟	pmji
 粦	prav
@@ -19196,7 +19202,7 @@ encoder:
 胈	wsbo
 脄	wsuo
 匁	wwa
-驲	xjva
+驲	xjvm
 氄	xktr
 塈	xvgh
 憕	ybfu
@@ -19226,7 +19232,7 @@ encoder:
 燬	urfq
 絝	bgfs
 殞	dlmb
-閘	kkam
+閘	kkan
 蹌	ntol
 驢	smjm
 繾	blkp
@@ -19285,7 +19291,7 @@ encoder:
 踛	nhth
 呰	nrlv
 黲	nvvt
-褘	pcik
+褘	pciy
 襶	pdgt
 袺	phlv
 劘	plmd
@@ -19640,7 +19646,7 @@ encoder:
 烇	utgv
 夑	uuue
 誜	uvte
-祃	uxas
+祃	uxms
 禴	uyln
 弙	vfau
 亅	viff
@@ -20039,7 +20045,7 @@ encoder:
 岥	jvpa
 琞	jwgo
 曕	jysu
-閂	kfim
+閂	kfin
 闓	kjfu
 蚎	kjv
 尗	kmas
@@ -20329,7 +20335,7 @@ encoder:
 櫥	fuha
 鑒	sqor
 鸞	ubbr
-閩	kkvm
+閩	kkvn
 纓	bmmc
 鞏	fqge
 檻	fsqm
@@ -20428,6 +20434,7 @@ encoder:
 峮	jxql
 嶰	jytw
 蝃	kbbb
+闤	kmfw
 闃	kmsa
 蜲	krcv
 蝡	ksgd
@@ -20945,8 +20952,7 @@ encoder:
 螘	kjfu
 覸	kjmx
 呇	klvh
-闤	kmfw
-閡	koim
+閡	koin
 閼	kots
 蜁	kqvn
 蟎	ksfr
@@ -21406,7 +21412,7 @@ encoder:
 畵	xhjx
 弉	xhsv
 彛	xpts
-骉	xxxa
+骉	xxxm
 彚	xyjf
 櫱	xyof
 鄔	ycfw
@@ -21444,7 +21450,7 @@ encoder:
 飶	yyqp
 恑	yysv
 旣	ergq
-閔	kpem
+閔	kpen
 龔	iwmt
 諭	utfm
 薈	symj
@@ -21457,7 +21463,7 @@ encoder:
 齦	mvnc
 餛	yjrr
 玅	ocmq
-閏	kgvm
+閏	kgvn
 〇	oof
 跥	nvfv
 㨃	aolb
@@ -21477,7 +21483,7 @@ encoder:
 醞	dntm
 軲	gdgj
 疇	jhva
-闈	kcim
+闈	kcin
 擄	amjx
 嶗	juux
 幗	mngf
@@ -22410,18 +22416,18 @@ encoder:
 蛯	khri
 蚲	khua
 坔	khvh
-閕	khym
+閕	khyn
 畓	kjih
 蝹	kjmn
 蝐	kjmv
 蜫	kjrr
 蠵	kjwl
 沝	kkhh
-闁	kkmm
+闁	kknn
 蛧	kkww
 闠	klkm
 閭	kllv
-閴	kmbm
+閴	kmbn
 闣	knji
 蟐	knmj
 蟺	konf
@@ -22601,7 +22607,7 @@ encoder:
 窴	pdmt
 粸	pdqm
 褄	pdxc
-袙	pebk
+袙	peby
 褑	pese
 窛	pfhc
 窉	pfkt
@@ -22619,7 +22625,7 @@ encoder:
 襇	pkjv
 粙	pkom
 襉	pkwv
-裶	plik
+裶	pliy
 襙	pllf
 襗	pmhd
 痁	pmlv
@@ -22874,7 +22880,7 @@ encoder:
 黶	sjwn
 饜	sjwy
 蕳	skjv
-菛	skm
+菛	skn
 斢	sktd
 亜	slns
 悪	slny
@@ -23199,7 +23205,7 @@ encoder:
 㞞	brtn
 㑚	ebsc
 轆	gilj
-捫	akm
+捫	akn
 裋	pflu
 瘍	pjft
 鰻	tjmb
@@ -23209,7 +23215,7 @@ encoder:
 簍	qldc
 儷	efki
 堝	hna
-閆	kfnm
+閆	kfnn
 躋	nous
 騫	osts
 顴	sllm
@@ -23315,6 +23321,7 @@ encoder:
 趜	dwpm
 鶘	dwro
 歾	dwti
+硉	dxav
 倳	ealx
 侞	eclv
 偠	edcv
@@ -23480,12 +23487,11 @@ encoder:
 蠮	kgqx
 螼	kgsr
 蝳	khbm
-閈	khgm
+閈	khgn
 蠬	kiwm
 閺	kjpe
 蠌	kmhd
 蠦	kmjm
-閫	knfv
 闛	knhv
 蜠	knrh
 螛	kodl
@@ -23499,11 +23505,11 @@ encoder:
 蚥	ktwa
 蜵	ktxf
 螠	kutm
-誾	kuvm
+誾	kuvn
 闞	kvae
 蚗	kvgd
 蜬	kvkx
-閵	kwim
+閵	kwin
 蝬	kwxe
 蠗	kxwi
 噆	lgqj
@@ -23590,10 +23596,10 @@ encoder:
 痯	pobb
 瘯	poqq
 袉	pori
-袕	ppuk
+袕	ppuy
 袟	pqgu
 癤	pqxx
-襝	prlk
+襝	prly
 瘜	ptyv
 籸	pvdh
 痸	pwkm
@@ -23637,6 +23643,7 @@ encoder:
 徿	riwm
 鏍	rjbv
 馦	rjut
+鍆	rknn
 釙	rmon
 鉬	rmvn
 狦	rnfi
@@ -23794,7 +23801,6 @@ encoder:
 膾	wymj
 肒	wyod
 衋	xadm
-丱	xcff
 鞪	xege
 翴	xgpo
 翋	xiiu
@@ -24591,7 +24597,6 @@ encoder:
 趭	dwui
 靃	dwwi
 鄾	dwyc
-硉	dxav
 肂	dxav
 鶈	dxcr
 磖	dxeb
@@ -24928,7 +24933,7 @@ encoder:
 橍	fkgv
 橺	fkjv
 螙	fkkv
-椚	fkm
+椚	fkn
 皳	fkov
 慦	fkoy
 栧	fkqp
@@ -26120,7 +26125,7 @@ encoder:
 嶖	jyxu
 畁	kajo
 閜	kalv
-閅	kanm
+閅	kann
 閇	kaod
 虭	kba
 蝝	kbds
@@ -26135,7 +26140,7 @@ encoder:
 蝛	kdfc
 蚽	kdfi
 蠘	kdgw
-閪	kdim
+閪	kdin
 蛨	kdjv
 蛚	kdmd
 蚘	kdo
@@ -26160,7 +26165,7 @@ encoder:
 蜯	kgav
 蝒	kgi
 蝘	kgjc
-閳	kgjm
+閳	kgjn
 閾	kglf
 闚	kgmx
 閠	kgod
@@ -26173,18 +26178,18 @@ encoder:
 蜐	khvx
 䞍	khwv
 蟝	kigf
-閚	kiim
+閚	kiin
 蟙	kijg
 螰	kil
 閯	kimq
 蝋	kiqa
 濷	kisr
-閊	kjam
+閊	kjan
 閶	kjjv
 蝿	kjkd
 蟃	kjmb
 鷼	kjro
-閖	kkhm
+閖	kkhn
 蚦	kksr
 闦	kksu
 蝄	kkuu
@@ -26202,11 +26207,12 @@ encoder:
 虲	kmo
 蜆	kmx
 蟔	kne
+閫	knfv
 蟈	kngf
 蜖	knns
 蝊	kofn
 蚄	kog
-閍	kogm
+閍	kogn
 闙	kole
 蠰	kolw
 閙	komj
@@ -26219,12 +26225,12 @@ encoder:
 迧	kpoe
 虴	kqai
 蝩	kqgf
-閁	kqpm
+閁	kqpn
 蟱	kqsu
 蛌	kqu
-闏	krfm
+闏	krfn
 蟍	krmf
-閐	krmm
+閐	krmn
 蝔	krre
 蜌	krrh
 蛥	krrk
@@ -26245,7 +26251,7 @@ encoder:
 閎	ksvv
 蛕	kswv
 閽	ktaj
-閄	ktem
+閄	kten
 仧	ktes
 蜦	ktfn
 鹸	ktft
@@ -26258,7 +26264,7 @@ encoder:
 䦟	ktth
 闂	kugv
 蠩	kuhj
-焛	kuom
+焛	kuon
 蟅	kusu
 蠑	kuuf
 蝷	kuux
@@ -26742,7 +26748,7 @@ encoder:
 窱	pemf
 穾	peou
 穻	pfau
-襧	pfek
+襧	pfey
 襹	pfki
 襋	pfkk
 瘂	pfla
@@ -26762,10 +26768,10 @@ encoder:
 瘱	pgty
 痮	pha
 窙	phbi
-衦	phgk
+衦	phgy
 襓	phhh
 疶	phi
-袣	phik
+袣	phiy
 竃	phjk
 痓	phk
 褤	phlw
@@ -26848,7 +26854,7 @@ encoder:
 襔	psfr
 襼	pshv
 褿	psjj
-袻	psjk
+袻	psjy
 褠	pskh
 襺	pskk
 糎	psks
@@ -26886,7 +26892,7 @@ encoder:
 窓	pvyv
 﨎	pwbu
 粺	pwdh
-裑	pwek
+裑	pwey
 襍	pwfv
 袧	pwlv
 粷	pwpm
@@ -27357,7 +27363,6 @@ encoder:
 鉠	rkgd
 錔	rkjv
 鏀	rkln
-鍆	rkmn
 秞	rkoh
 鋰	rksr
 猠	rkst
@@ -28967,6 +28972,7 @@ encoder:
 刡	xamd
 鴖	xaro
 丩	xcff
+丱	xcff
 翄	xdbu
 歗	xdte
 敄	xeho
@@ -30566,8 +30572,8 @@ encoder:
 㒄	ewsu
 㑾	ewuv
 㑺	ewva
-㐷	exa
 㑱	exfv
+㐷	exm
 㐶	exs
 䎅	exub
 㐆	exvi
@@ -32018,7 +32024,7 @@ encoder:
 䦠	kdod
 䖶	kds
 䖨	kdv
-䦒	kdvm
+䦒	kdvn
 䗔	kebq
 䗦	kedp
 䖣	kek
@@ -32028,7 +32034,7 @@ encoder:
 䦱	keyw
 䗚	kfac
 䦜	kfcl
-䦵	kfem
+䦵	kfen
 䦥	kffv
 䦎	kfhw
 䗵	kfjj
@@ -32053,7 +32059,7 @@ encoder:
 䗀	khte
 䦝	khtt
 䗘	khvm
-䦌	khvm
+䦌	khvn
 䖼	khvx
 䎃	khxu
 䦞	kigv
@@ -32108,11 +32114,11 @@ encoder:
 䦍	kqvi
 䗻	kqxx
 䞌	kreb
-䦚	krem
+䦚	kren
 䖮	krg
 㳫	krjh
 䦭	krjv
-䦦	krnm
+䦦	krnn
 䳋	kro
 䦧	krqr
 䗥	krtn
@@ -32134,7 +32140,7 @@ encoder:
 㕯	ktlv
 䦏	kttb
 䘋	kttf
-䦐	ktum
+䦐	ktun
 䗄	ktwe
 䗨	kty
 䘎	kubv
@@ -32149,7 +32155,7 @@ encoder:
 䦑	kvgd
 㐕	kvio
 㕀	kvio
-䦘	kvnm
+䦘	kvnn
 䦳	kvqc
 㽕	kvxi
 䖲	kwjv
@@ -33001,7 +33007,7 @@ encoder:
 㪯	pave
 䆢	pavg
 䆯	pbbc
-䙍	pbek
+䙍	pbey
 䙆	pbfg
 䆸	pbfu
 䙞	pbfu
@@ -33078,9 +33084,9 @@ encoder:
 㿓	pgtn
 㾜	pgtt
 㿀	pgug
-䘝	pgyk
+䘝	pgyy
 㾏	phhv
-䘭	phkk
+䘭	phky
 㽵	phv
 㿒	phva
 䊭	phva
@@ -33104,8 +33110,8 @@ encoder:
 䆞	pjri
 䊐	pjrr
 䙖	pjww
-䘥	pkak
 䆘	pkau
+䘥	pkay
 㾎	pkfi
 䆚	pkfl
 䘧	pkgd
@@ -33134,8 +33140,8 @@ encoder:
 䯢	pmga
 䆩	pmgd
 䙓	pmhv
-䘜	pmjk
 㿖	pmjm
+䘜	pmjy
 䊫	pmli
 䙬	pmmc
 㿙	pmmg
@@ -33181,7 +33187,7 @@ encoder:
 䙰	ppxw
 䊈	pqbm
 䊃	pqfm
-䘛	pqjk
+䘛	pqjy
 䆝	pqmn
 䘰	pqnx
 䆺	pqpj
@@ -33198,8 +33204,8 @@ encoder:
 㿌	prl
 䊅	prlv
 㾣	prn
-䘳	prnk
 㿅	prnn
+䘳	prny
 䳸	proa
 㿆	prow
 㿗	prqm
@@ -33283,7 +33289,6 @@ encoder:
 䆶	pwui
 㾩	pwur
 䙀	pwwv
-䘞	pxak
 䊕	pxax
 㽱	pxc
 㐫	pxce
@@ -33293,6 +33298,7 @@ encoder:
 䊋	pxhh
 䘵	pxkh
 䆷	pxkl
+䘞	pxmy
 㿏	pxqu
 䆿	pxtf
 㿑	pxwi
@@ -35662,7 +35668,7 @@ encoder:
 㥜	yjwv
 㦨	ykfu
 䬬	ykgd
-㥃	ykm
+㥃	ykn
 㦦	ykrq
 㥏	ykst
 㦟	yksy
@@ -37446,8 +37452,8 @@ encoder:
 𨶽	bdkg
 𦂥	bdkh
 𠠞	bdkm
-𨴦	bdkm
 𦇰	bdkn
+𨴦	bdkn
 𡞔	bdlc
 𣫻	bdlc
 𦅇	bdlg
@@ -37765,11 +37771,11 @@ encoder:
 𢽜	bkku
 𧌣	bkkv
 𦄞	bklv
-𦁺	bkm
 𣀼	bkme
 𣥀	bkme
 𣀻	bkmk
 𪈺	bkmr
+𦁺	bkn
 𨐛	bkox
 𡦉	bkpe
 𦅤	bkpe
@@ -41038,12 +41044,12 @@ encoder:
 𡯩	dmwv
 𨡀	dmwv
 𩑋	dmx
-𩧮	dmxa
 𠚑	dmxc
 𨡁	dmxj
 𧼊	dmxk
 𧡛	dmxl
 𧱑	dmxl
+𩧮	dmxm
 𩆆	dmxt
 𩑍	dmxx
 𧾝	dmyb
@@ -43431,7 +43437,7 @@ encoder:
 𨾘	ewio
 𠊫	ewjb
 𠋹	ewjs
-𨶊	ewkm
+𨶊	ewkn
 𧡳	ewlm
 𠱧	ewlv
 𦅸	ewmb
@@ -44221,11 +44227,11 @@ encoder:
 𧵩	fkmb
 𧌐	fkmk
 𧢔	fkmm
-𨳔	fkmn
 𪑟	fkmn
 𡗭	fkms
 𧠵	fkmx
 𧟺	fknb
+𨳔	fknn
 𧟾	fknw
 𢾾	fkoe
 𣗲	fkof
@@ -44974,7 +44980,7 @@ encoder:
 𣛵	fsjv
 𣑏	fskh
 𣠷	fskk
-𨴚	fskm
+𨴚	fskn
 𣕺	fskq
 𣓃	fskt
 𣟫	fskw
@@ -45896,7 +45902,7 @@ encoder:
 𤥆	ggkg
 𤦗	ggkh
 𩌉	ggkh
-𤩟	ggkm
+𤩟	ggkn
 𩋉	gglf
 𡙮	gglg
 𢧤	gglg
@@ -47906,8 +47912,8 @@ encoder:
 𡊢	hkkf
 𣪗	hkkq
 𡔮	hklb
-𡍜	hkm
 𪉩	hkmn
+𡍜	hkn
 𡊡	hko
 𨜤	hkoc
 𡕌	hkou
@@ -49773,11 +49779,11 @@ encoder:
 𥪝	iklm
 𣹔	iklp
 𣼶	iklv
-𣶯	ikm
 𤂔	ikmm
 𣹉	ikmn
 𣳓	ikmo
 𥉩	ikmv
+𣶯	ikn
 𤄇	ikom
 𤂷	ikos
 𥫆	ikpt
@@ -52144,8 +52150,8 @@ encoder:
 𨟎	jwkc
 𡼕	jwkg
 𤳬	jwkl
-𡾧	jwkm
 𧢧	jwkm
+𡾧	jwkn
 𪈥	jwkr
 𢽢	jwku
 𣊤	jwls
@@ -52342,7 +52348,7 @@ encoder:
 𧏳	kafu
 𧉝	kafx
 𧎋	kaha
-𨳍	kaim
+𨳍	kain
 𨷝	kajh
 𧎺	kall
 𧐼	kamj
@@ -52388,7 +52394,7 @@ encoder:
 𨶋	kbhs
 𡉮	kbhv
 𨵠	kbhx
-𨳕	kbim
+𨳕	kbin
 𨵕	kbkv
 𧑷	kbkw
 𧕀	kblh
@@ -52442,7 +52448,7 @@ encoder:
 𧏶	kcgj
 𧍫	kci
 𨵾	kclm
-𨳐	kcvm
+𨳐	kcvn
 𨵬	kcvn
 𡛽	kcvo
 𨴒	kdba
@@ -52488,11 +52494,11 @@ encoder:
 𧏿	kdpo
 𧕡	kdre
 𨷘	kdsj
-𨴯	kdsm
+𨴯	kdsn
 𧊑	kdti
 𧍿	kdtt
 𧉈	kdu
-𨳫	kdum
+𨳫	kdun
 𨷢	kduu
 𧉦	kdw
 𪉠	kdwl
@@ -52508,7 +52514,7 @@ encoder:
 𨵁	keeb
 𨴟	keee
 𧓳	keem
-𨳝	keem
+𨳝	keen
 𨴳	kees
 𧓯	keey
 𧊛	kefl
@@ -52528,7 +52534,7 @@ encoder:
 𧋭	kehv
 𧋮	kehv
 𨴿	kehv
-𨳜	keim
+𨳜	kein
 𨵀	kejf
 𧍭	kekh
 𤰰	keko
@@ -52628,7 +52634,7 @@ encoder:
 𨴸	kfst
 𧊻	kfth
 𧌨	kftp
-𨴪	kfum
+𨴪	kfun
 𧋝	kfvf
 𣎻	kfvg
 𢍭	kfvs
@@ -52648,7 +52654,7 @@ encoder:
 𨷖	kgbe
 𨳽	kgbu
 𪉗	kgdl
-𨳓	kgdm
+𨳓	kgdn
 𧎔	kgds
 𧔜	kgej
 𣣇	kgen
@@ -52662,7 +52668,7 @@ encoder:
 𧑡	kggc
 𨵊	kggg
 𢧽	kggl
-𨳮	kggm
+𨳮	kggn
 𧒓	kggq
 𧑜	kggr
 𨪖	kggr
@@ -52720,7 +52726,7 @@ encoder:
 𪓚	khjm
 𣅾	khjv
 𤱣	khka
-𨴗	khkm
+𨴗	khkn
 𧏜	khlg
 𧑱	khll
 𧐐	khmb
@@ -52796,7 +52802,7 @@ encoder:
 𪉭	kjgf
 𧊩	kjhg
 𨷄	kjhj
-𨳸	kjim
+𨳸	kjin
 𧕫	kjjh
 𤄥	kjju
 𧑵	kjjv
@@ -52813,7 +52819,7 @@ encoder:
 𨶁	kjoc
 𧐿	kjoh
 𧑊	kjom
-𨴝	kjom
+𨴝	kjon
 𨓬	kjpo
 𨵒	kjqs
 𦧥	kjre
@@ -52846,13 +52852,13 @@ encoder:
 𧌾	kkan
 𧖌	kkdd
 𣾢	kkdm
-𨴄	kkdm
+𨴄	kkdn
 𧊋	kke
 𤱓	kkee
 𣷜	kkeh
-𨴁	kkem
 𣢻	kken
 𣶙	kken
+𨴁	kken
 𨰱	kker
 𧊚	kkfl
 𨴏	kkfl
@@ -52871,7 +52877,7 @@ encoder:
 𨶺	kkkk
 𨷷	kkkk
 𨷾	kkkk
-𨷮	kkkm
+𨷮	kkkn
 𨴀	kklv
 𠝃	kkmd
 𥋅	kkmv
@@ -52902,7 +52908,7 @@ encoder:
 𧋸	klgv
 𧹓	klgv
 𧍃	kli
-𨵈	klim
+𨵈	klin
 𨵜	klkd
 𧑋	klkm
 𧒭	klkp
@@ -52928,9 +52934,9 @@ encoder:
 𨴾	klxm
 𨴽	klyv
 𡬧	kmac
-𡮉	kmam
-𨳒	kmam
+𡮉	kman
 𧌧	kman
+𨳒	kman
 𥓍	kmbd
 𧎍	kmbi
 𣈉	kmbj
@@ -52951,7 +52957,7 @@ encoder:
 𧖃	kmfs
 𨵢	kmgd
 𧒿	kmgs
-𨵘	kmhm
+𨵘	kmhn
 𤳄	kmhv
 𧔘	kmhw
 𨷤	kmhw
@@ -52984,18 +52990,18 @@ encoder:
 𧌭	kmte
 𧊁	kmv
 𤳸	kmvr
-𨴼	kmxm
+𨴼	kmxn
 𠕪	kmxt
 𪔃	kmxt
 𧑽	kmyn
 𢙤	kmyv
-𨵧	knam
+𨵧	knan
 𦊉	knax
 𧋡	knbd
 𧉫	knbu
 𧏈	kndm
 𧒌	knel
-𨶯	knem
+𨶯	knen
 𨴕	knfi
 𧋕	knfv
 𧓘	knga
@@ -53027,7 +53033,7 @@ encoder:
 𨴣	kocv
 𧐤	kocw
 𧍐	kodm
-𨳉	kodm
+𨳉	kodn
 𧎧	koee
 𧐴	koej
 𧌊	koeo
@@ -53073,7 +53079,7 @@ encoder:
 𣹳	kovk
 𢽂	kovn
 𧒱	kovw
-𨴲	koxm
+𨴲	koxn
 𧎥	koxu
 𨷛	koyk
 𧑶	koym
@@ -53123,10 +53129,10 @@ encoder:
 𨳺	kqgu
 𧈻	kqh
 𪉘	kqhl
-𨴊	kqim
+𨴊	kqin
 𣱻	kqjh
-𨳋	kqjm
 𨷺	kqjm
+𨳋	kqjn
 𧐀	kqjt
 𥐂	kqky
 𧒊	kqlj
@@ -53175,7 +53181,7 @@ encoder:
 𧌫	krms
 𨥗	krnh
 𩾼	kroh
-𨶠	krom
+𨶠	kron
 𩿬	kroo
 𧓒	krot
 𧒬	krow
@@ -53252,8 +53258,8 @@ encoder:
 𨶱	kshs
 𨤵	ksiu
 𨷳	ksiu
-𨴎	ksjm
 𪓘	ksjm
+𨴎	ksjn
 𠕙	ksjv
 𧊳	ksjv
 𧓡	kskf
@@ -53288,8 +53294,8 @@ encoder:
 𪊇	ksqm
 𠀇	ksrg
 𣬭	ksrm
-𨳎	ksrm
 𧔝	ksrn
+𨳎	ksrn
 𨷦	ksrn
 𠕝	ksrr
 𪉴	kssf
@@ -53318,7 +53324,7 @@ encoder:
 𨤮	ksuu
 𧋽	ksuw
 𥝂	ksvi
-𨳡	ksvm
+𨳡	ksvn
 𢍁	ksvo
 𢏢	ksvo
 𣌵	ksvo
@@ -53339,8 +53345,8 @@ encoder:
 𧍎	ktaj
 𧋣	ktal
 𧷑	ktam
-𨴅	ktam
 𨵂	ktam
+𨴅	ktan
 𧈢	ktb
 𦌍	ktba
 𨳚	ktba
@@ -53380,7 +53386,7 @@ encoder:
 𠉁	ktnt
 𨶆	ktol
 𧈼	ktp
-𨳭	ktpm
+𨳭	ktpn
 𨑧	ktpo
 𧌤	ktrj
 𨶑	ktsa
@@ -53442,7 +53448,7 @@ encoder:
 𨓑	ktxp
 𦊭	ktye
 𣐷	ktyf
-𨶢	ktym
+𨶢	ktyn
 𤑇	ktyu
 𦊦	ktyx
 𦉰	kuag
@@ -53517,7 +53523,7 @@ encoder:
 𧥿	kuvh
 𧋘	kuvq
 𠕃	kuwg
-𨳑	kuwm
+𨳑	kuwn
 𨶔	kuxb
 𧊜	kuxc
 𧌞	kuxj
@@ -53539,7 +53545,7 @@ encoder:
 𧊱	kvfv
 𤱉	kvgd
 𧐊	kvha
-𨳖	kvhm
+𨳖	kvhn
 𧈝	kvi
 𧑀	kvjf
 𧑳	kvju
@@ -53569,7 +53575,7 @@ encoder:
 𤓑	kvyu
 𧌳	kwca
 𦊖	kwdg
-𨉖	kwem
+𨉖	kwen
 𧏫	kwfq
 𦊋	kwfv
 𧐃	kwgd
@@ -53589,7 +53595,7 @@ encoder:
 𦊕	kwmq
 𧉖	kwn
 𨷔	kwne
-𨳯	kwnm
+𨳯	kwnn
 𦍅	kwnt
 𧊦	kwo
 𦊬	kwow
@@ -53679,7 +53685,7 @@ encoder:
 𩓔	kxbm
 𠬸	kxbu
 𨳟	kxbu
-𨳹	kxcm
+𨳹	kxcn
 𧐔	kxeb
 𧎄	kxeh
 𧐙	kxex
@@ -53714,8 +53720,8 @@ encoder:
 𧎊	kygj
 𧋈	kyi
 𨶧	kyjj
-𨳊	kyjm
 𨷟	kyjm
+𨳊	kyjn
 𠢮	kyjx
 𧓬	kyke
 𧎑	kykg
@@ -53745,7 +53751,7 @@ encoder:
 𧒻	kytu
 𧋿	kyvg
 𢗨	kyvh
-𨶇	kywm
+𨶇	kywn
 𡆄	laaa
 𠯦	laba
 𠶅	labl
@@ -54397,10 +54403,10 @@ encoder:
 𨓺	lklp
 𠼋	lklv
 𩈂	lkly
-𠵘	lkm
 𠱙	lkma
 𠴫	lkmb
 𥅌	lkmv
+𠵘	lkn
 𠰬	lko
 𠱋	lko
 𠿷	lkom
@@ -56163,9 +56169,9 @@ encoder:
 𪙨	mkjv
 𧖂	mkkm
 𪛆	mklj
-𡮆	mkma
 𧡕	mkmb
-𪘶	mkmc
+𡮆	mkna
+𪘶	mknc
 𧆭	mkoh
 𢂎	mkoj
 𧷧	mkom
@@ -59798,13 +59804,12 @@ encoder:
 𠅫	owwq
 𧘯	owwv
 𧙌	owwx
-𩧷	owxa
 𠅛	owxm
+𩧷	owxm
 𠒋	owxq
 𩛚	owys
 𩝓	owys
 𧛁	owyw
-𡧁	oxa
 𢾹	oxae
 𡩌	oxax
 𨚃	oxcf
@@ -59820,6 +59825,7 @@ encoder:
 𢨤	oxih
 𨽷	oxkh
 𢜖	oxky
+𡧁	oxm
 𠞛	oxmd
 𠾃	oxml
 𡃬	oxml
@@ -59967,11 +59973,11 @@ encoder:
 𥦆	paqh
 𦗕	para
 𦕺	parg
-𧙫	park
 𥧢	parm
 𥹢	parm
 𪅒	paro
 𥥯	paru
+𧙫	pary
 𥦑	patt
 𥧺	pavl
 𥥟	pawu
@@ -60128,11 +60134,11 @@ encoder:
 𤹶	pdgd
 𧞬	pdgf
 𥽯	pdgi
-𧙖	pdgk
 𧛷	pdgl
 𤷀	pdgv
 𤻛	pdgw
 𧞛	pdgw
+𧙖	pdgy
 𧝪	pdha
 𧝼	pdhm
 𣁡	pdhs
@@ -60227,10 +60233,10 @@ encoder:
 𥻷	pegd
 𤵴	pehh
 𢼜	pehi
-𧘶	pehk
 𡒋	pehv
+𧘶	pehy
 𤴾	pei
-𧘻	peik
+𧘻	peiy
 𥺢	peji
 𤔨	peka
 𧏅	pekv
@@ -60359,7 +60365,7 @@ encoder:
 𥻂	pfnu
 𥥇	pfod
 𥼼	pfoe
-𧘍	pfok
+𧘍	pfoy
 𥩌	pfpf
 𨗗	pfpo
 𧟜	pfpp
@@ -60441,7 +60447,7 @@ encoder:
 𤴵	pgy
 𧸠	pgym
 𥹩	phac
-𧛇	phak
+𧛇	phay
 𤹱	phbb
 𥺄	phbi
 𤸚	phbm
@@ -60452,8 +60458,8 @@ encoder:
 𥜛	phdm
 𤸓	pheh
 𧛢	pheh
-𧙕	phek
 𥦔	phen
+𧙕	phey
 𥻈	phfv
 𤴲	phg
 𥨋	phgs
@@ -60511,16 +60517,16 @@ encoder:
 𪇒	phwr
 𧚫	phwv
 𤷶	phwy
-𧘪	phyk
 𨸌	phyu
 𥺃	phyv
+𧘪	phyy
 𧚪	picv
 𥨿	piee
 𥼔	pife
 𥨾	pifm
 𧜎	pift
 𤶶	pigv
-𧙀	piik
+𧙀	piiy
 𤻐	pije
 𧝊	pijg
 𤻨	pijs
@@ -60622,9 +60628,9 @@ encoder:
 𧓂	pkkv
 𧕔	pkkv
 𩫌	pklv
-𤷱	pkm
 𥺱	pkmb
 𧝴	pkmm
+𤷱	pkn
 𤶉	pkod
 𥥉	pkou
 𤺖	pkpe
@@ -60632,19 +60638,19 @@ encoder:
 𥹞	pkqp
 𧙟	pkqp
 𣂂	pksd
-𧘕	pksk
 𥺒	pkso
 𧚗	pkso
 𤴿	pksr
 𥦟	pkst
 𥽈	pksu
+𧘕	pksy
 𥺂	pktl
 𥦻	pktm
 𪎘	pkua
 𢋙	pkva
-𧙽	pkvk
 𧊾	pkvm
 𧉴	pkvu
+𧙽	pkvy
 𥦴	pkwt
 𤸒	pky
 𥻑	pkym
@@ -60721,7 +60727,7 @@ encoder:
 𥻸	pmff
 𥽉	pmgd
 𤼤	pmgg
-𧜓	pmgk
+𧜓	pmgy
 𤷡	pmh
 𤻂	pmhd
 𥼶	pmhd
@@ -60787,7 +60793,7 @@ encoder:
 𤹕	pngy
 𥽞	pnhv
 𤵁	pni
-𧘲	pnik
+𧘲	pniy
 𥼽	pnji
 𤹄	pnlf
 𩫗	pnlm
@@ -60809,7 +60815,7 @@ encoder:
 𧝉	pnut
 𨄬	pnva
 𨀶	pnvi
-𧚖	pnvk
+𧚖	pnvy
 𥺾	pnwv
 𧜮	poab
 𥹍	poan
@@ -60897,7 +60903,7 @@ encoder:
 𧚬	ppfo
 𤹒	pphv
 𠅯	ppii
-𧙡	ppik
+𧙡	ppiy
 𤶾	pplv
 𥹫	ppmm
 𣁕	pppe
@@ -60940,9 +60946,9 @@ encoder:
 𥥌	pqgu
 𤶎	pqhe
 𪎡	pqhe
-𧘣	pqhk
 𥨼	pqhq
 𥩁	pqht
+𧘣	pqhy
 𥼕	pqii
 𤴪	pqj
 𪎑	pqja
@@ -60982,8 +60988,8 @@ encoder:
 𥼣	pqsu
 𩫆	pqsv
 𤵡	pqua
-𧙆	pquk
 𤵮	pquo
+𧙆	pquy
 𥩅	pqwd
 𥺵	pqwv
 𤺭	pqxa
@@ -61025,9 +61031,9 @@ encoder:
 𥼹	prfq
 𥨗	prft
 𤵼	prg
-𧙹	prgk
 𥹝	prgm
 𥥩	prgu
+𧙹	prgy
 𤵥	prh
 𧛶	prha
 𥧾	prhe
@@ -61052,10 +61058,10 @@ encoder:
 𤷮	prog
 𪁚	prog
 𪁂	proi
-𧜣	prok
 𪀿	prom
 𤺇	pron
 𥧈	proq
+𧜣	proy
 𤺾	prpg
 𥨩	prpg
 𥻒	prpm
@@ -61169,7 +61175,6 @@ encoder:
 𩥊	psmg
 𤵗	psmj
 𧙛	psmj
-𧜗	psmk
 𤼁	psmm
 𩱵	psmm
 𤻻	psmo
@@ -61178,6 +61183,7 @@ encoder:
 𥧓	psmu
 𠅿	psmv
 𩱸	psmv
+𧜗	psmy
 𧙼	psni
 𧘓	psod
 𥩓	pspl
@@ -61230,8 +61236,8 @@ encoder:
 𪎕	ptba
 𡙢	ptbg
 𧏟	ptbk
-𧘋	ptbk
 𩔫	ptbm
+𧘋	ptby
 𥽃	ptdr
 𥸪	ptem
 𤻍	ptfe
@@ -61343,7 +61349,7 @@ encoder:
 𧝙	pumv
 𪎖	puoa
 𤌾	puog
-𤇷	puok
+𤇷	puoy
 𧙮	puqm
 𤹢	purs
 𨸈	pusg
@@ -61372,8 +61378,8 @@ encoder:
 𥨭	puyy
 𤺍	pvae
 𥼲	pvae
-𧘌	pvak
 𤼉	pvay
+𧘌	pvay
 𪄑	pver
 𧟂	pvfj
 𤺜	pvfl
@@ -61389,17 +61395,17 @@ encoder:
 𤻾	pvld
 𤷉	pvlf
 𧛘	pvlf
-𧘈	pvlk
 𥤣	pvlu
 𥹋	pvlv
 𤸊	pvly
+𧘈	pvly
 𧞪	pvnb
 𤹻	pvnn
 𨸄	pvnn
 𤸀	pvnw
 𪎔	pvoa
-𧘏	pvok
 𥸲	pvom
+𧘏	pvoy
 𩫋	pvpg
 𥹖	pvpm
 𤶗	pvqi
@@ -61442,7 +61448,7 @@ encoder:
 𥧗	pwhd
 𥺝	pwhl
 𩀪	pwia
-𧚮	pwik
+𧚮	pwiy
 𥨘	pwjf
 𤶇	pwjv
 𤺻	pwkg
@@ -61458,9 +61464,9 @@ encoder:
 𤚸	pwng
 𧘑	pwod
 𧝮	pwpy
-𧘜	pwqk
 𥽷	pwqm
 𥦥	pwqt
+𧘜	pwqy
 𤞮	pwsa
 𤺱	pwsu
 𤷤	pwsw
@@ -61829,7 +61835,7 @@ encoder:
 𥏄	qdjv
 𦫆	qdkk
 𦪊	qdkm
-𨳱	qdkm
+𨳱	qdkn
 𦫃	qdll
 𦩑	qdlo
 𦫊	qdlt
@@ -63401,9 +63407,9 @@ encoder:
 𤭇	rawe
 𨫻	rawi
 𨥯	rawn
-𩧶	raxa
 𩖤	raxc
 𡚃	raxg
+𩧶	raxm
 𩾳	raxv
 𪉋	raya
 𨭂	rayt
@@ -64934,10 +64940,10 @@ encoder:
 𣭱	rmwv
 𤞚	rmwv
 𤞭	rmx
-𩧸	rmxa
 𦫭	rmxc
 𠡩	rmxl
 𤞩	rmxl
+𩧸	rmxm
 𨩼	rmxn
 𨨴	rmxv
 𨩝	rmxv
@@ -66306,7 +66312,7 @@ encoder:
 𪀠	rwjv
 𪆳	rwkg
 𨨪	rwkm
-𨷫	rwkm
+𨷫	rwkn
 𨬺	rwkr
 𤟳	rwlb
 𡕴	rwle
@@ -68014,8 +68020,8 @@ encoder:
 𠩏	skma
 𠖺	skmo
 𦭌	skmo
-𨳌	skmr
-𨳏	skmr
+𨳌	sknr
+𨳏	sknr
 𠕇	skod
 𩦴	skom
 𧄌	skon
@@ -71108,7 +71114,6 @@ encoder:
 𩶵	twxl
 𩷇	twxq
 𩺥	twxx
-𨰾	txa
 𧗃	txam
 𩷅	txbu
 𡚶	txcv
@@ -71136,6 +71141,7 @@ encoder:
 𩶛	txlv
 𩸠	txlw
 𩵓	txly
+𨰾	txm
 𢌘	txni
 𩺠	txnt
 𢌜	txnu
@@ -74843,7 +74849,6 @@ encoder:
 𧕣	wkkk
 𧕲	wkkk
 𧍀	wkkv
-𦝋	wkm
 𡝧	wkmc
 𠟠	wkmd
 𨡐	wkmd
@@ -74857,6 +74862,7 @@ encoder:
 𤙲	wkmw
 𦜗	wkmw
 𢛁	wkmy
+𦝋	wkn
 𦝓	wkpm
 𦛈	wkqp
 𤊝	wkqu
@@ -76268,7 +76274,7 @@ encoder:
 𠃑	xiff
 𠄌	xiff
 𡿨	xiff
-𩧧	xiia
+𩧧	xiim
 𡴳	xjac
 𡴺	xjaj
 𡵒	xjas
@@ -76313,7 +76319,7 @@ encoder:
 𦘝	xkkx
 𪉝	xklo
 𩒌	xkmm
-𩧨	xkoa
+𩧨	xkom
 𨓻	xkpo
 𨔢	xkpo
 𦐪	xkqp
@@ -76478,8 +76484,8 @@ encoder:
 𦌺	xqlw
 𢁨	xqmj
 𥍦	xqmj
-𩧳	xqoa
 𢑺	xqom
+𩧳	xqom
 𦐩	xqou
 𠚣	xqpi
 𩨏	xqpj
@@ -79343,7 +79349,7 @@ encoder:
 𪲕	fkfb
 𪲸	fkfl
 𪱹	fkh
-𫔙	fkmo
+𫔙	fkno
 𪳡	fknr
 𪪵	fkos
 𪱲	fks
@@ -80324,11 +80330,11 @@ encoder:
 𪥤	kcvs
 𫋦	kdab
 𫔫	kddg
-𫔜	kdgm
+𫔜	kdgn
 𫎫	kdjo
 𫋣	kdkv
 𫋋	kdmn
-𫔥	kdqm
+𫔥	kdqn
 𫎦	kdqp
 𫋂	kdxc
 𫋃	kdy
@@ -80357,7 +80363,7 @@ encoder:
 𫔪	kijy
 𫊬	kkgd
 𪥠	kkkg
-𫔞	kkom
+𫔞	kkon
 𫋠	kksu
 𫜉	kkyl
 𫔢	kllm
@@ -80365,9 +80371,9 @@ encoder:
 𫊽	klym
 𫊮	kmbh
 𫊶	kmhw
-𫔘	kmsm
+𫔘	kmsn
 𫋩	kmsu
-𫔝	kmvm
+𫔝	kmvn
 𫋗	kmwi
 𪶂	kmxh
 𫛧	kmya
@@ -80424,7 +80430,7 @@ encoder:
 𫊻	kxac
 𪵼	kyca
 𫋇	kyfv
-𫔨	kysm
+𫔨	kysn
 𫎩	kytf
 𫋞	kyxu
 𪢅	labh
@@ -80592,7 +80598,7 @@ encoder:
 𫆶	mjow
 𪟷	mjvw
 𫛱	mjya
-𪩴	mkmj
+𪩴	mknj
 𪾽	mkpe
 𪾢	mkx
 𪟂	mlba
@@ -80953,7 +80959,7 @@ encoder:
 𪽵	pbqu
 𫃌	pbsg
 𫒄	pbss
-𫋼	pbvk
+𫋼	pbvy
 𫏻	pcgj
 𪽹	pcky
 𫁐	pcmq
@@ -81005,7 +81011,7 @@ encoder:
 𪹦	pjui
 𪰎	pjve
 𫂵	pjvm
-𫋵	pkek
+𫋵	pkey
 𪯦	pkst
 𫌓	pksu
 𫃐	pkyv
@@ -81024,8 +81030,8 @@ encoder:
 𫌘	pnub
 𪽰	pnv
 𫃀	pocv
-𫋳	pogk
 𫁊	pogu
+𫋳	pogy
 𫔹	pomm
 𫃅	ponl
 𫃎	ppam
@@ -81376,7 +81382,7 @@ encoder:
 𫀼	rjyv
 𫋭	rkga
 𫒎	rkhn
-𪺿	rkm
+𪺿	rkn
 𫒗	rkqp
 𫒆	rksn
 𫓒	rkss
@@ -81838,9 +81844,9 @@ encoder:
 𪱰	swuh
 𪠒	swux
 𫇬	swwa
-𪠃	sxah
 𫈍	sxes
 𫈠	sxlh
+𪠃	sxmh
 𫑘	sxoc
 𫉆	sxxw
 𪧹	syac
@@ -82494,8 +82500,8 @@ encoder:
 𫖈	xgeu
 𫅨	xgju
 𫘭	xgww
-𫘛	xhga
-𫘠	xhka
+𫘛	xhgm
+𫘠	xhkm
 𫅮	xikd
 𫘨	xjfn
 𫘣	xjhg
@@ -82513,7 +82519,7 @@ encoder:
 𫘡	xmhw
 𫘰	xonf
 𫘮	xoud
-𫘜	xpea
+𫘜	xpem
 𪩯	xpsw
 𫃙	xpxw
 𫘞	xqcy
@@ -82535,7 +82541,7 @@ encoder:
 𫜹	xvff
 𫘝	xvgd
 𪺟	xvji
-𫘟	xvpa
+𫘟	xvpm
 𫘤	xvqi
 𪞋	xvtt
 𪟙	xvxl
@@ -82902,7 +82908,7 @@ encoder:
 𫞅	wxac
 𫞖	xaod
 𫠌	xdhm
-𫠋	xila
+𫠋	xilm
 𫠊	xoco
 𫝖	ysst
 𬉼	ugwa
@@ -83017,7 +83023,7 @@ encoder:
 𫼞	aqua
 𫼟	aqvt
 𫽌	aqwt
-𫽢	aqxa
+𫽢	aqxm
 𫽍	arbu
 𫾛	areh
 𫼺	argv
@@ -83079,8 +83085,8 @@ encoder:
 𬎭	awkm
 𫾙	awnx
 𫼘	awoo
-𫼗	axa
 𫧹	axjk
+𫼗	axm
 𫾒	axod
 𫼯	axpo
 𫾉	axyh
@@ -83476,9 +83482,9 @@ encoder:
 𬯒	cwwo
 𬩈	cwwp
 𬯟	cxae
-𬮺	cxaf
 𬷳	cxar
 𫰩	cxfv
+𬮺	cxmf
 𫱐	cxsv
 𫱷	cxtd
 𬮽	cxxo
@@ -84882,7 +84888,7 @@ encoder:
 𬉤	iqsm
 𬱻	iqsr
 𬇮	iquw
-𬈏	iqxa
+𬈏	iqxm
 𬈾	irdk
 𬈫	irja
 𬐦	irmn
@@ -84951,8 +84957,8 @@ encoder:
 𬉣	iytf
 𬈯	iytl
 𬈐	iytm
-𬳸	iyxa
 𬔣	iyxj
+𬳸	iyxm
 𬁟	jac
 𫵲	jana
 𬀧	jaod
@@ -85121,7 +85127,7 @@ encoder:
 𬠍	kboy
 𬠌	kbsc
 𬩸	kcfe
-𬮆	kcym
+𬮆	kcyn
 𬏌	kdbj
 𬠂	kdi
 𬱖	kdkb
@@ -85202,7 +85208,7 @@ encoder:
 𬮋	kreh
 𬠃	krrd
 𬸲	krri
-𬮇	ksam
+𬮇	ksan
 𬟸	ksbu
 𫵢	ksbx
 𫷠	kscc
@@ -85252,12 +85258,12 @@ encoder:
 𫠺	kvyv
 𬮏	kwac
 𬠕	kwur
-𬮈	kwvm
+𬮈	kwvn
 𬙡	kwwd
 𬚰	kwwv
 𬮑	kxhj
 𬠨	kxhm
-𬮅	kxlm
+𬮅	kxln
 𬮉	kxxc
 𫠽	kyhw
 𫵈	kyma
@@ -86241,7 +86247,7 @@ encoder:
 𬗂	paaa
 𬩛	padp
 𬁏	pajt
-𬮌	pakm
+𬮌	pakn
 𬮠	palv
 𫴼	paqm
 𬏛	paqp
@@ -86252,15 +86258,15 @@ encoder:
 𫰥	pbcv
 𬡴	pbem
 𬮹	pbfu
-𬡆	pbjk
+𬡆	pbjy
 𬐀	pblh
 𬔊	pbni
 𬖪	pbus
-𬡊	pcak
 𬮰	pcal
+𬡊	pcay
 𬖗	pcbu
 𫻍	pcey
-𬡅	pcfk
+𬡅	pcfy
 𫦉	pcmd
 𬖠	pcsd
 𬞺	pcsj
@@ -86271,7 +86277,7 @@ encoder:
 𬮲	pdcv
 𬡪	pdfi
 𬮱	pdhv
-𬡈	pdnk
+𬡈	pdny
 𬏷	pdsk
 𬮙	pdvi
 𬏡	pdw
@@ -86305,7 +86311,7 @@ encoder:
 𬒵	phsi
 𬏭	phtt
 𬮨	phtt
-𬡃	phvk
+𬡃	phvy
 𬔌	phwq
 𬮬	phwv
 𬔒	pifv
@@ -86376,8 +86382,8 @@ encoder:
 𬡬	pqgx
 𬡱	pqpj
 𬴔	pqrg
-𬡦	pqxa
 𬴟	pqxa
+𬡦	pqxm
 𬖸	pqye
 𬖨	pral
 𬖿	pral
@@ -86387,7 +86393,7 @@ encoder:
 𬖩	prms
 𬔆	prmu
 𬖹	prmw
-𬡂	pruk
+𬡂	pruy
 𬮝	psan
 𬔋	psao
 𬡞	psca
@@ -86417,7 +86423,7 @@ encoder:
 𬮥	pttt
 𬖱	pubd
 𬮦	pugd
-𬡘	pugk
+𬡘	pugy
 𬮟	puon
 𬔇	puou
 𬡜	puvq
@@ -86432,7 +86438,6 @@ encoder:
 𬡷	pwqk
 𬐵	pwrm
 𬖕	pwto
-𬏜	pxa
 𫥥	pxbs
 𬔅	pxcu
 𬏦	pxeo
@@ -86441,6 +86446,7 @@ encoder:
 𬓟	pxkr
 𬓞	pxkv
 𫦨	pxlm
+𬏜	pxm
 𫥪	pxnt
 𬡳	pxod
 𬏵	pxsr
@@ -86449,7 +86455,7 @@ encoder:
 𬏬	pxu
 𬖥	pxym
 𬸀	pyae
-𬡍	pyak
+𬡍	pyay
 𬏴	pybh
 𬮤	pyen
 𬏸	pyfa
@@ -87915,7 +87921,7 @@ encoder:
 𫷳	uqnx
 𬢸	uqpb
 𫸂	uqwl
-𬊯	uqxa
+𬊯	uqxm
 𫦋	urab
 𬌒	uram
 𬣔	urca
@@ -88355,9 +88361,9 @@ encoder:
 𫧢	wwwq
 𬯭	wwxd
 𬪢	wwyc
-𬁳	wxa
 𬤼	wxds
 𬧠	wxie
+𬁳	wxm
 𬥑	wxmb
 𬂁	wxql
 𬎶	wxuo
@@ -88428,7 +88434,7 @@ encoder:
 𬳶	xklv
 𬸗	xkya
 𫦥	xlfi
-𬴂	xlia
+𬴂	xlim
 𬌎	xlmt
 𫦹	xlxl
 𬸇	xlya
@@ -88454,7 +88460,7 @@ encoder:
 𬌌	xqpj
 𬳪	xqsm
 𫩊	xqtb
-𬳷	xqua
+𬳷	xqum
 𬳳	xqwa
 𬌐	xrkt
 𬳾	xrrk
@@ -89511,7 +89517,7 @@ encoder:
 𮠾	dklj
 𮀣	dkmb
 𮙖	dkmu
-𮦗	dkmy
+𮦗	dkny
 𭁡	dksr
 𭮔	dksr
 𮦈	dkte
@@ -90100,7 +90106,7 @@ encoder:
 𭫠	fghj
 𭵾	fghu
 𮧎	fgie
-𭑙	fgkm
+𭑙	fgkn
 𭕇	fgma
 𭭯	fgng
 𭭫	fgnl
@@ -90733,9 +90739,9 @@ encoder:
 𭏉	hkji
 𭎡	hkjv
 𮋝	hkjv
-𮤇	hkm
 𮭭	hkmn
 𭁯	hkms
+𮤇	hkn
 𭁫	hksr
 𭯠	hksr
 𮁞	hkss
@@ -91700,7 +91706,7 @@ encoder:
 𮤛	kdxn
 𮔐	keft
 𮔄	kefv
-𮤉	kenm
+𮤉	kenn
 𮤌	kexo
 𭪳	kffv
 𭻡	kfge
@@ -92682,7 +92688,7 @@ encoder:
 𮜫	nmdn
 𮢸	nmer
 𮛆	nmj
-𮤓	nmkm
+𮤓	nmkn
 𮕔	nmlk
 𮛶	nmmb
 𭭞	nmqi
@@ -93147,7 +93153,7 @@ encoder:
 𮤫	pann
 𮇔	paua
 𮊯	paug
-𮕰	pawk
+𮕰	pawy
 𭞇	payq
 𭝵	payv
 𮪼	pbbf
@@ -93155,7 +93161,7 @@ encoder:
 𮇲	pbmo
 𮟟	pbmp
 𮖍	pbsc
-𮕧	pbuk
+𮕧	pbuy
 𭝘	pbyv
 𭼧	pccx
 𭼭	pcth
@@ -93201,7 +93207,7 @@ encoder:
 𮮈	pfva
 𭩼	pfvm
 𭄲	pfxl
-𮕨	pgdk
+𮕨	pgdy
 𬽎	pggg
 𭼟	pgsl
 𭼆	pgv
@@ -93253,7 +93259,7 @@ encoder:
 𮖅	plxg
 𮇍	plxj
 𮤭	pman
-𮕥	pmdk
+𮕥	pmdy
 𭤔	pmje
 𭲲	pmlk
 𭟀	pmlo
@@ -93262,7 +93268,7 @@ encoder:
 𮄑	pmna
 𮤰	pmqp
 𭼮	pmuu
-𮕲	pmvk
+𮕲	pmvy
 𭼲	pmwi
 𮖼	pmym
 𮖃	pnbh
@@ -93277,7 +93283,7 @@ encoder:
 𭼕	poeh
 𮇉	pogm
 𮇐	pogv
-𮖀	poik
+𮖀	poiy
 𮇪	polm
 𮇫	poog
 𮇱	poum
@@ -93327,7 +93333,7 @@ encoder:
 𮇗	pswa
 𭢽	ptcy
 𮇶	ptji
-𮕼	ptkk
+𮕼	ptky
 𭏳	ptlh
 𮚁	ptmb
 𭼒	ptol
@@ -93371,7 +93377,7 @@ encoder:
 𮕸	pxai
 𮇊	pxao
 𮀘	pxdv
-𮕤	pxik
+𮕤	pxiy
 𮇄	pxjm
 𮫧	pxkw
 𮇒	pxlv
@@ -93524,8 +93530,8 @@ encoder:
 𮅗	qkfa
 𭰋	qkhi
 𮔭	qkkj
-𮅘	qkm
 𮉼	qkms
+𮅘	qkn
 𮞣	qkpo
 𭂵	qkqj
 𮔒	qksh
@@ -96479,7 +96485,7 @@ encoder:
 𱀙	cjtn
 𱀴	ckgm
 𱂀	ckhi
-𰌋	ckm
+𰌋	ckn
 𰌉	clkd
 𱇫	clqy
 𱀭	cmef
@@ -96729,7 +96735,7 @@ encoder:
 𱍁	dqsv
 𰅣	dqur
 𰧤	dqxa
-𱅅	dqxa
+𱅅	dqxm
 𱁡	drea
 𰶤	dris
 𱁑	driy
@@ -97790,7 +97796,7 @@ encoder:
 𰝈	ipjt
 𰛉	ipn
 𰛛	ipte
-𰛩	ipxa
+𰛩	ipxm
 𰪒	iqdq
 𰩨	iqgf
 𰜺	iqii
@@ -97853,10 +97859,10 @@ encoder:
 𰛱	iwpo
 𰛚	iwwf
 𰜃	iwwl
-𰛊	ixa
 𰝪	ixaw
 𰝐	ixfa
 𰜢	ixlk
+𰛊	ixm
 𰛻	ixuo
 𰝧	ixvf
 𰝍	ixyh
@@ -98108,7 +98114,7 @@ encoder:
 𰀎	kkks
 𰳌	kkpo
 𰛘	klwa
-𰿗	kmom
+𰿗	kmon
 𱈡	kmro
 𰳇	kmyh
 𰳏	knqr
@@ -98127,7 +98133,7 @@ encoder:
 𰳍	kpgd
 𰳛	kqhw
 𰲪	kqvv
-𰿚	krkm
+𰿚	krkn
 𰿞	krmd
 𱈶	kryq
 𰃨	ksbu
@@ -98754,7 +98760,7 @@ encoder:
 𰕩	omwv
 𰜊	onlk
 𰻜	onsp
-𱅝	onxa
+𱅝	onxm
 𰵞	ookh
 𰺪	ookt
 𰶉	oonf
@@ -99011,7 +99017,7 @@ encoder:
 𰁠	pqsx
 𰪺	prah
 𰫄	prhv
-𰳰	prik
+𰳰	priy
 𰣼	prlt
 𰪽	prmd
 𰚫	prmg
@@ -99076,9 +99082,9 @@ encoder:
 𰤀	pwuq
 𰫈	pwus
 𰿱	pwwv
-𰪪	pxam
 𰄽	pxeb
 𰳷	pxlv
+𰪪	pxmm
 𰣧	pxtb
 𰫃	pygj
 𰪸	pyjv
@@ -99374,7 +99380,7 @@ encoder:
 𱃳	rdus
 𱈨	rdvi
 𰃗	rdwv
-𱅀	rdxa
+𱅀	rdxm
 𰚘	rdyb
 𰚛	reac
 𰚚	real
@@ -99459,8 +99465,8 @@ encoder:
 𰐱	rkmb
 𰐹	rkme
 𰄖	rkmf
-𰚣	rkmm
 𰯽	rkmo
+𰚣	rknm
 𰚓	rkom
 𰽍	rkpo
 𰼾	rkwv
@@ -100270,8 +100276,8 @@ encoder:
 𰏽	uguh
 𰟤	uguu
 𰑸	uguy
-𱅑	ugxa
 𰶩	ugxd
+𱅑	ugxm
 𰧴	ugyo
 𱂗	uhdm
 𰴫	uhe
@@ -100419,8 +100425,8 @@ encoder:
 𰵀	uwuv
 𰁝	uwwv
 𰟂	uwxu
-𰏲	uxau
 𰘒	uxef
+𰏲	uxmu
 𰇺	uxtl
 𱊤	uxwy
 𰞝	uxxv
@@ -100798,7 +100804,7 @@ encoder:
 𰮙	wyxv
 𰦱	xadv
 𰐣	xaii
-𱅋	xara
+𱅋	xarm
 𰍦	xasf
 𰎈	xbbm
 𰠏	xbbu
@@ -100876,7 +100882,7 @@ encoder:
 𰻌	xskp
 𱅦	xskt
 𱅆	xslv
-𱄼	xsva
+𱄼	xsvm
 𱅚	xthl
 𱈹	xtmr
 𱁌	xtmw
@@ -100885,7 +100891,7 @@ encoder:
 𱅙	xulq
 𰠕	xuqi
 𱅌	xurf
-𱄾	xuua
+𱄾	xuum
 𰚭	xvgr
 𰭯	xvgs
 𰟅	xvgu
@@ -100897,9 +100903,8 @@ encoder:
 𰀧	xwhl
 𰪨	xwpm
 𰠐	xwti
-𱅡	xwua
+𱅡	xwum
 𱊱	xwya
-𱄿	xxaa
 𰅌	xxai
 𰭼	xxav
 𱂢	xxdk
@@ -100909,6 +100914,7 @@ encoder:
 𱅟	xxfv
 𰆋	xxjj
 𱅫	xxkl
+𱄿	xxmm
 𰥜	xxmv
 𰌚	xxoc
 𰄘	xxpa
@@ -100916,7 +100922,7 @@ encoder:
 𰞞	xxuo
 𰰞	xxwa
 𱁐	xxww
-𱅒	xxxa
+𱅒	xxxm
 𰄔	xxxx
 𱅥	xyfd
 𰸷	xyon
@@ -101607,7 +101613,7 @@ encoder:
 𲉰	dvay
 𱪽	dvfu
 𱳷	dvfu
-𲈦	dvkm
+𲈦	dvkn
 𲆧	dvsr
 𱴊	dvwx
 𱳺	dvxn
@@ -101625,12 +101631,12 @@ encoder:
 𱭿	dwys
 𱳾	dxac
 𱴀	dxac
-𲃉	dxak
 𲆎	dxbp
 𱙳	dxcf
 𲊾	dxdk
 𱐷	dxex
 𱴵	dxhf
+𲃉	dxmk
 𱳸	dxtd
 𱻛	dxuq
 𲊁	dxva
@@ -102856,7 +102862,7 @@ encoder:
 𲈮	kegv
 𲂼	keib
 𲁒	keix
-𲈧	kekm
+𲈧	kekn
 𲀓	kema
 𲀅	kemr
 𱤸	keny
@@ -102885,7 +102891,7 @@ encoder:
 𲁓	kkxx
 𱿤	kllv
 𱿽	kmfn
-𲈨	kmnm
+𲈨	kmnn
 𲀄	kmnu
 𱦋	knlv
 𲈳	knqa
@@ -103467,9 +103473,9 @@ encoder:
 𲃞	nwfv
 𲃷	nwjf
 𱕹	nwxs
-𲃖	nxa
 𱖁	nxdd
 𱖂	nxkh
+𲃖	nxm
 𲃦	nxpo
 𲃜	nya
 𱡫	nyei
@@ -103633,7 +103639,7 @@ encoder:
 𱚓	oyqj
 𱚙	oyqj
 𱹔	pabb
-𲀤	pank
+𲀤	pany
 𲈾	papn
 𲈿	papn
 𱸼	paqh
@@ -103700,7 +103706,7 @@ encoder:
 𱹤	pijy
 𱱣	pism
 𲉄	pjfu
-𲀩	pjik
+𲀩	pjiy
 𱹩	pjsf
 𱹏	pjwg
 𱱨	pjwo
@@ -103819,7 +103825,7 @@ encoder:
 𱐪	pxln
 𱘥	pxte
 𱲢	pxtm
-𲀮	pxuk
+𲀮	pxuy
 𱹒	pykg
 𱱰	pyln
 𱞹	pyrr
@@ -104627,12 +104633,12 @@ encoder:
 𱞲	twsy
 𲈔	twu
 𲌸	twwo
-𲈤	txah
 𲇸	txai
 𱳲	txdv
 𱐏	txhu
 𲈊	txkh
 𱐮	txln
+𲈤	txmh
 𲇶	txqp
 𲇴	tyv
 𱞍	tyvn
@@ -105094,14 +105100,14 @@ encoder:
 𲉖	xmbd
 𲉒	xmbq
 𱐶	xmff
-𲌄	xmoa
+𲌄	xmom
 𱲤	xmvl
 𱭍	xnig
 𱡮	xnme
 𲌈	xolm
 𱐯	xori
 𲌖	xpgl
-𲅎	xpoa
+𲅎	xpom
 𱻖	xqll
 𱝠	xrmj
 𱍓	xsqa
@@ -105261,11 +105267,11 @@ encoder:
 𲈥	ywth
 𱞢	ywwo
 𱟚	ywwu
-𲍬	yxaa
 𱞕	yxac
 𱞻	yxax
 𱞩	yxkh
 𱞏	yxlv
+𲍬	yxma
 𲊖	yxvw
 𱟙	yxyi
 𱟖	yxyl
@@ -105324,13 +105330,13 @@ encoder:
 ⻮	ntxc
 ⻊	nvff
 ⻈	oaff
-⻂	pkff
 ⻔	pnff
 ⻌	poff
 ⻍	poff
 ⻎	poff
 ⻬	ptbe
 ⻫	ptsr
+⻂	pyff
 ⺇	qjff
 ⻱	qjmp
 ⺮	qvff
@@ -105364,9 +105370,9 @@ encoder:
 ⺆	wvff
 ⺝	wvff
 ⺼	wvff
-⻢	xaff
 ⺠	xais
 ⺃	xiff
+⻢	xmff
 ⺺	xms
 ⺒	xsff
 ⺕	xvff
@@ -105456,7 +105462,7 @@ encoder:
 ⼌	kgff
 ⽔	khff
 ⿄	klff
-⾨	kmff
+⾨	knff
 ⾥	ksra
 ⾁	ktte
 ⽁	kuff
@@ -107825,8 +107831,8 @@ encoder:
 拒绝	agvy
 挎包	agwx
 找寻	agxa
-拒马	agxa
 拒收	agxe
+拒马	agxm
 找出	agxx
 据理力争	agxy
 拮据	ahab
@@ -108875,12 +108881,12 @@ encoder:
 护腿	aowv
 下册	aoww
 东郭先生	aoww
-下马	aoxa
 下发	aoxe
 摘发	aoxe
 护卫	aoxf
 摘录	aoxk
 护驾	aoxl
+下马	aoxm
 下边	aoxp
 撤出	aoxx
 持之以恒	aoxy
@@ -109174,7 +109180,6 @@ encoder:
 指点	arml
 耳罩	armm
 搜罗	armr
-势利小人	armt
 耳目	armv
 势利眼	armv
 执行官	arob
@@ -111408,7 +111413,6 @@ encoder:
 忌口	bylv
 鸡鸣	byly
 鸡眼	bymv
-鸡圈	bynu
 忌讳	byoa
 孙悟空	bypf
 鸡瘟	bypj
@@ -112110,7 +112114,6 @@ encoder:
 防洪	cois
 防治	coiv
 防汛	coiv
-婶婆	coiv
 防晒	cojd
 防暑	cojh
 也就是说	cojo
@@ -112630,8 +112633,8 @@ encoder:
 隐约	cyvw
 隐身	cywe
 阿尔卑斯山脉	cyww
-巴拿马	cyxa
 巴拿马运河	cyxi
+巴拿马	cyxm
 隐忧	cyyd
 隐情	cyyh
 隐性	cyyw
@@ -113184,7 +113187,6 @@ encoder:
 南柯一梦	dfff
 威武	dffg
 霜天	dffg
-硬棒	dffg
 基本一致	dffh
 盛极一时	dffj
 基本相同	dffk
@@ -113264,7 +113266,6 @@ encoder:
 残疾	dfpq
 胡椒粉	dfpt
 石榴裙	dfpx
-硬闯	dfpx
 研究	dfpy
 感知	dfql
 硬盘	dfqm
@@ -114153,9 +114154,9 @@ encoder:
 真够	dmwl
 直肠	dmwv
 真凶	dmwx
-古罗马	dmxa
-烈马	dmxa
 夏收	dmxe
+古罗马	dmxm
+烈马	dmxm
 列出	dmxx
 西点军校	dmyf
 真情	dmyh
@@ -114214,8 +114215,8 @@ encoder:
 露脸	dnwt
 万紫千红	dnwv
 丰胸	dnww
-趟马	dnxa
 丰收	dnxe
+趟马	dnxm
 不足以	dnxo
 博览群书	dnxv
 露出	dnxx
@@ -114542,7 +114543,7 @@ encoder:
 龙胆	dqwj
 克制	dqwk
 克服	dqwx
-龙马	dqxa
+龙马	dqxm
 超乎寻常	dqxn
 死掉	dram
 斯德哥尔摩	drap
@@ -115350,7 +115351,6 @@ encoder:
 戴月披星	dwaj
 殉职	dwal
 胡扯	dwan
-卖身投靠	dwaw
 歼击	dwax
 酷热	dway
 胡子	dwbi
@@ -115769,12 +115769,9 @@ encoder:
 白沙	ebim
 乳液	ebio
 白海	ebiq
-白汤	ebiv
 假山	ebja
 返照	ebjb
 白果	ebjf
-反是	ebjf
-假果	ebjf
 反映	ebjk
 假冒	ebjm
 假日	ebjv
@@ -115900,9 +115897,9 @@ encoder:
 乳牛	ebwn
 乳胶	ebwo
 借刀杀人	ebwt
-白马	ebxa
 白发	ebxe
 假发	ebxe
+白马	ebxm
 反驳	ebxw
 白色	ebyc
 假象	ebyl
@@ -118495,7 +118492,6 @@ encoder:
 无故	fdde
 攻其不备	fdde
 无碍	fddj
-一百零八响	fddl
 无辜	fddo
 枯死	fddr
 无需	fdds
@@ -118856,7 +118852,6 @@ encoder:
 机械化	ffer
 焚化	ffer
 无一例外	ffer
-无功受禄	ffeu
 模棱两可	fffa
 检查一下	fffa
 栈桥	fffe
@@ -118977,7 +118972,6 @@ encoder:
 攀枝花	ffse
 机械厂	ffsh
 一来二去	ffsh
-无形资产	ffsi
 本草	ffsj
 一概而论	ffso
 梦魇	ffss
@@ -119486,7 +119480,6 @@ encoder:
 一日	fijv
 一晚	fijy
 一沓	fikj
-一曲	fiks
 三部曲	fiks
 一吨	fila
 一叶	fild
@@ -119509,7 +119502,6 @@ encoder:
 一步	finm
 一些	finr
 一圈	finu
-一蹭	finu
 政治家	fiod
 一夜	fioe
 一所	fioe
@@ -119651,7 +119643,6 @@ encoder:
 更是	fjjf
 更早	fjjo
 查明	fjjw
-更易	fjjw
 查账	fjkt
 查哨	fjlm
 画幅	fjmf
@@ -119694,7 +119685,6 @@ encoder:
 三思而行	fjsr
 一时冲动	fjss
 查分	fjtb
-查铺	fjtf
 查看	fjtm
 开山鼻祖	fjtu
 画卷	fjug
@@ -121278,7 +121268,6 @@ encoder:
 一个劲地	ftbh
 松子	ftbi
 一个劲儿	ftbq
-一鼻孔出气	ftbq
 一鼻子灰	ftbs
 一贫如洗	ftci
 柳絮	ftcl
@@ -121612,7 +121601,6 @@ encoder:
 梭镖	fvtd
 木锤	fvte
 极乐	fvtm
-无缝钢管	fvtq
 木牌	fvtw
 灭绝人性	fvty
 开绿灯	fvua
@@ -121629,9 +121617,9 @@ encoder:
 横纹肌	fvwq
 木然	fvws
 刺细胞	fvww
-木马	fvxa
 极力	fvxl
 木架	fvxl
+木马	fvxm
 枉费心机	fvyf
 木盒	fvym
 极快	fvyv
@@ -122849,8 +122837,8 @@ encoder:
 玉雕	gowh
 现实生活	gowi
 琼脂	gowr
-鞍马	goxa
 大放异彩	goxe
+鞍马	goxm
 玉色	goyc
 珍宝岛	goyj
 太慢	goyj
@@ -122875,7 +122863,7 @@ encoder:
 斑秃	gprq
 达人	gpte
 医疗费	gpvt
-斑马	gpxa
+斑马	gpxm
 斑驳	gpxw
 医疗卫生	gpxw
 斑鸠	gpyy
@@ -123589,9 +123577,9 @@ encoder:
 地膜	hcws
 车胎	hcwv
 地物	hcww
-车马	hcxa
 车驾	hcxl
 地力	hcxl
+车马	hcxm
 地边	hcxp
 地灵	hcxu
 地貌	hcye
@@ -123973,7 +123961,6 @@ encoder:
 填平补齐	hhpp
 封斋	hhps
 垃圾箱	hhqf
-平地风波	hhqi
 士气	hhqq
 轻车简从	hhqt
 款待	hhrh
@@ -124291,7 +124278,6 @@ encoder:
 坦诚相见	hofk
 坦诚相待	hofr
 平方根	hofv
-坑木	hofv
 较大	hogd
 培训班	hogu
 辖区	hogw
@@ -124783,7 +124769,6 @@ encoder:
 平日	hujv
 平易	hujw
 轻装上阵	hukc
-平邮	hukc
 平水	hukh
 老前辈	hulh
 增幅	humf
@@ -125206,7 +125191,7 @@ encoder:
 河北	iaur
 河道	iaut
 河豚	iawd
-河马	iaxa
+河马	iaxm
 河边	iaxp
 清热解毒	iayh
 河蟹	iayt
@@ -125954,7 +125939,6 @@ encoder:
 洁具	ihmt
 法眼	ihmv
 法国	ihng
-沥青路面	ihng
 法堂	ihnh
 法官	ihob
 清官	ihob
@@ -126043,7 +126027,6 @@ encoder:
 婆婆妈妈	iicc
 涪陵	iich
 产学研	iidf
-新泽西州	iidi
 新泽西	iidi
 泛滥成灾	iido
 源源不断	iidp
@@ -126144,10 +126127,10 @@ encoder:
 立约	iivw
 立身	iiwe
 浮游生物	iiww
-立马	iixa
 江湖骗子	iixb
 添油加醋	iixd
 注意力	iixl
+立马	iixm
 立即	iixv
 童颜鹤发	iiyx
 混事	ijal
@@ -126655,7 +126638,6 @@ encoder:
 靖国神社	inuu
 学龄前	inuw
 产业结构	invf
-濒临绝境	invh
 涉及	invo
 新四军	inyh
 濒危	inys
@@ -127079,7 +127061,6 @@ encoder:
 海底	iqut
 没底	iqut
 产前	iquw
-新年礼物	iquw
 海绵	iqve
 沿线	iqvf
 海参	iqvg
@@ -127090,8 +127071,8 @@ encoder:
 没脸	iqwt
 产物	iqww
 渔民	iqxa
-海马	iqxa
 没收	iqxe
+海马	iqxm
 海边	iqxp
 产出	iqxx
 泛出	iqxx
@@ -127176,7 +127157,6 @@ encoder:
 深藏不露	isdd
 满载	isdg
 流芳百世	isdh
-满而不溢	isdi
 港龙	isdq
 学而不厌	isds
 源码	isdx
@@ -127300,7 +127280,6 @@ encoder:
 音乐演奏	itig
 沧海	itiq
 沧州	itiq
-渊海	itiq
 渊源	itis
 溜号	itls
 滑铁卢	itmb
@@ -127817,7 +127796,6 @@ encoder:
 时雨	jady
 时值	jaed
 最优	jaed
-时逢	jaed
 最后	jaef
 山体	jaef
 山丘	jaef
@@ -128814,7 +128792,6 @@ encoder:
 明示	jwhs
 星河	jwia
 日月潭	jwid
-星湖	jwid
 明清	jwih
 崩溃	jwil
 明治	jwiv
@@ -130024,10 +130001,10 @@ encoder:
 贿选	kswq
 野鬼	kswu
 上月	kswv
-上马	ksxa
-野马	ksxa
 里加	ksxl
 上架	ksxl
+上马	ksxm
+野马	ksxm
 野驴	ksxo
 里边	ksxp
 上色	ksyc
@@ -131062,7 +131039,6 @@ encoder:
 中锋	lmte
 唬人	lmte
 中途	lmtf
-吊铺	lmtf
 吊销	lmtm
 中小企业	lmtn
 中用	lmtn
@@ -132284,8 +132260,8 @@ encoder:
 点赞	mlwq
 罪魁	mlws
 战胜	mlww
-战马	mlxa
 战力	mlxl
+战马	mlxm
 点出	mlxx
 点心	mlyv
 战争	mlyx
@@ -132541,8 +132517,8 @@ encoder:
 劣弧	mqvq
 省级	mqvv
 师生	mqwg
-劣马	mqxa
 省力	mqxl
+劣马	mqxm
 且慢	mqyj
 归心	mqyv
 罗技	mrad
@@ -132582,7 +132558,7 @@ encoder:
 罗兰	mrus
 罗绮	mrvg
 罗纳	mrvk
-罗马	mrxa
+罗马	mrxm
 餐盒	mrym
 餐食	mrys
 瞒报	msax
@@ -132805,7 +132781,6 @@ encoder:
 当中	mxlm
 当啷	mxlo
 当归	mxmq
-当当	mxmx
 当此	mxnr
 助跑	mxnw
 当官	mxob
@@ -133171,8 +133146,8 @@ encoder:
 黑脸	newt
 图腾	newu
 图册	neww
-黑马	nexa
 黑发	nexe
+黑马	nexm
 路边	nexp
 黑色	neyc
 图解	neyt
@@ -133747,7 +133722,6 @@ encoder:
 四则	nqkm
 四里	nqks
 圆舞曲	nqks
-四曲	nqks
 党内	nqkt
 监听	nqle
 党员	nqlk
@@ -133854,7 +133828,7 @@ encoder:
 党魁	nqws
 四月	nqwv
 党建	nqxa
-跳马	nqxa
+跳马	nqxm
 四边	nqxp
 党群	nqxq
 党羽	nqxu
@@ -134030,7 +134004,6 @@ encoder:
 业界	nujt
 圈里	nuks
 业内	nukt
-圈内	nukt
 监视器	nuls
 圈点	numl
 蹲点	numl
@@ -134115,7 +134088,7 @@ encoder:
 常胜将军	nwuy
 跃然纸上	nwvk
 跑腿	nwwv
-跑马	nwxa
+跑马	nwxm
 黔驴技穷	nxap
 跑马卖解	nxdy
 四边形	nxfs
@@ -134278,7 +134251,6 @@ encoder:
 字帖	obmm
 字眼	obmv
 字频	obnm
-宏观调控	oboa
 记诵	obob
 官家	obod
 诵读	obod
@@ -134315,7 +134287,6 @@ encoder:
 官司	obvf
 交通线	obvf
 宏观经济	obvi
-官纱	obvm
 交通费	obvt
 诏书	obvv
 字母组合	obvy
@@ -134565,8 +134536,6 @@ encoder:
 读物	odww
 宠物	odww
 主要矛盾	odxe
-说不出来	odxf
-认不出来	odxf
 读出	odxx
 害怕	odye
 豁免	odyl
@@ -134609,8 +134578,6 @@ encoder:
 谣传	oees
 讹传	oees
 所传	oees
-所受	oeey
-宿仇	oeey
 放权	oefb
 客栈	oeff
 宣传画	oefj
@@ -134618,7 +134585,6 @@ encoder:
 所想	oefm
 夜校	oefo
 放榜	oefo
-所述	oefo
 夜来	oefp
 宫廷政变	oefp
 客机	oefq
@@ -134700,7 +134666,6 @@ encoder:
 客商	oeou
 诉说	oeou
 放弃	oeov
-褒词	oeov
 褒义	oeow
 夜郎	oeox
 所闻	oepa
@@ -134766,7 +134731,6 @@ encoder:
 客座	oeut
 谣言	oeuv
 放言	oeuv
-所言	oeuv
 额前	oeuw
 放缓	oeve
 所及	oevo
@@ -135110,9 +135074,9 @@ encoder:
 主脑	ogwp
 宝物	ogww
 主导	ogxa
-宝马	ogxa
 寄发	ogxe
 主力	ogxl
+宝马	ogxm
 诓骗	ogxo
 谨以	ogxo
 试验	ogxt
@@ -135273,7 +135237,6 @@ encoder:
 夜深人静	oith
 交流会	oits
 谙练	oiva
-语法结构	oivf
 旅游胜地	oiwh
 弃暗投明	ojaj
 主题歌	ojal
@@ -135427,7 +135390,6 @@ encoder:
 亨通	olbt
 就好	olcb
 襄阳	olcj
-话虽如此	olcn
 守口如瓶	olcu
 宫女	olcv
 识趣	olda
@@ -135688,7 +135650,6 @@ encoder:
 该死	oodr
 鹑衣百结	oodv
 辩白	ooeb
-谢谢你们	ooee
 房价	ooet
 官官相护	oofa
 宗主权	oofb
@@ -135935,7 +135896,6 @@ encoder:
 话音	orij
 谐音	orij
 诱敌深入	orir
-课外活动	oris
 话题	orjf
 话别	orlx
 哀毁骨立	ormi
@@ -136173,10 +136133,10 @@ encoder:
 实缺	oswv
 宣腿	oswv
 实物	osww
-赛马	osxa
 主动出击	osxa
 实录	osxk
 实力	osxl
+赛马	osxm
 实验	osxt
 实习	osxu
 讲习	osxu
@@ -137287,7 +137247,6 @@ encoder:
 空袭	pfdq
 病死	pfdr
 断梗飘蓬	pfds
-磨杵成针	pfdt
 空白	pfeb
 病假	pfeb
 病例	pfed
@@ -137917,7 +137876,6 @@ encoder:
 闹剧	pobd
 粽子	pobi
 豪放不羁	podm
-穿衣戴帽	podm
 粮价	poet
 敲诈勒索	pogd
 闹市区	pogw
@@ -138008,7 +137966,6 @@ encoder:
 这间	pppj
 迷迷糊糊	pppp
 疯疯癫癫	pppp
-迷迷	pppp
 迷离	pppx
 迷恋	pppy
 迷失	ppqg
@@ -138129,8 +138086,8 @@ encoder:
 窗纱	prvm
 瘦弱	prvs
 遴选	prwq
-瘦马	prxa
 毫发	prxe
+瘦马	prxm
 突击	psax
 迷魂阵	psch
 突起	psdb
@@ -138156,7 +138113,6 @@ encoder:
 突兀	pshw
 料酒	psid
 闯荡江湖	psii
-蛮有意思	psij
 粗茶淡饭	psir
 料峭	psjm
 突显	psjn
@@ -138241,7 +138197,6 @@ encoder:
 闪耀	ptmh
 粉尘	ptmh
 容止	ptni
-空谷足音	ptni
 袖手旁观	ptob
 闪客	ptoe
 痴人说梦	ptof
@@ -138257,7 +138212,6 @@ encoder:
 齐鲁	ptqj
 这会儿	ptqr
 粉笔	ptqr
-类人猿	ptrh
 齐名	ptrl
 容积	ptrl
 粉饰	ptrq
@@ -138288,7 +138242,6 @@ encoder:
 摩尔	ptym
 齐心	ptyv
 精神抖擞	puaa
-穿着打扮	puaa
 精神损耗	puaf
 精神可嘉	puah
 摩拳擦掌	puan
@@ -138385,7 +138338,6 @@ encoder:
 疲累	pvjb
 弯曲	pvks
 高级中学	pvli
-初级中学	pvli
 被罩	pvmm
 弯路	pvne
 被困	pvnf
@@ -138556,10 +138508,7 @@ encoder:
 粗心大意	pygi
 高尔夫	pygu
 阎王	pygv
-襟怀坦白	pyhe
 究竟	pyij
-粗心浮气	pyiq
-精心照料	pyjp
 闷响	pylr
 离合器	pyls
 阎罗	pymr
@@ -138577,7 +138526,6 @@ encoder:
 豪情壮志	pyuh
 闹情绪	pyvh
 高性能	pyvw
-精心制作	pywe
 恋情	pyyh
 闲情逸致	pyyh
 年限	qacv
@@ -138783,7 +138731,6 @@ encoder:
 午觉	qdiy
 鱼龙混杂	qdiy
 午时	qdja
-敏感时期	qdjd
 风雨同舟	qdkq
 顺畅	qdkv
 顺口	qdlv
@@ -138813,7 +138760,6 @@ encoder:
 顺利	qdrm
 筹资	qdse
 顺次	qdse
-第十二任	qdse
 笼头	qdsg
 风起云涌	qdsi
 顺带	qdsy
@@ -138889,7 +138835,6 @@ encoder:
 箱子	qfbi
 航天局	qfbv
 风樯阵马	qfcx
-第五十七	qfda
 筑起	qfdb
 翻来覆去	qfdh
 翻天覆地	qfdh
@@ -138915,7 +138860,6 @@ encoder:
 短波	qfiv
 策略	qfje
 气吞山河	qfji
-每天晚上	qfjk
 剁肉	qfkt
 舶来品	qfll
 算无遗策	qflq
@@ -138924,8 +138868,6 @@ encoder:
 短少	qfmq
 筑路	qfne
 短路	qfne
-第一步	qfnm
-第三步	qfnm
 重工业	qfnu
 短跑	qfnw
 短语	qfof
@@ -138946,22 +138888,15 @@ encoder:
 短笛	qfqk
 短篇	qfqo
 几天几夜	qfqo
-第五第六	qfqo
 朵儿	qfqr
 知根知底	qfqu
-第一名	qfrl
-第三名	qfrl
 短程	qfrl
 第一次	qfse
 策动	qfsv
-第三节	qfsx
 短须	qftd
 短途	qftf
 短片	qftp
-第一人称	qftr
-第三人称	qftr
 盘根错节	qfts
-第一印象	qfty
 卸妆	qfuc
 短装	qfuh
 策应	qfui
@@ -139857,7 +139792,6 @@ encoder:
 气锅	qqtl
 气息	qqty
 延年益寿	qqud
-怎么着	qqum
 筵席	qqus
 气度	qqus
 气道	qqut
@@ -139892,7 +139826,6 @@ encoder:
 笔杆	qrfh
 笔画	qrfj
 风行一时	qrfj
-笔形	qrfs
 血循环	qrgd
 矮墙	qrhd
 笔者	qrhj
@@ -139930,10 +139863,10 @@ encoder:
 矮个	qrtm
 筹委会	qrts
 知名度	qrus
-儿马	qrxa
 笔录	qrxk
 笔架	qrxl
 笔力	qrxl
+儿马	qrxm
 笔触	qryt
 舞技	qsad
 升职	qsal
@@ -139994,12 +139927,10 @@ encoder:
 逃窜	qspl
 舞迷	qspp
 逃离	qspx
-第二第三	qsqf
 失而复得	qsqr
 年头儿	qsqr
 鳜鱼	qsqy
 升得	qsrj
-第二名	qsrl
 舞狮	qsrm
 逃往	qsro
 升入	qsru
@@ -140109,13 +140040,10 @@ encoder:
 笔底生花	quws
 瓜农	quyw
 乞丐	qvaf
-第七	qvai
 竹子	qvbi
 笑了起来	qvdf
-第十	qvdh
 竹帛	qvem
 等级森严	qvfa
-第五	qvfc
 竹桥	qvfe
 竹林	qvff
 第一	qvfi
@@ -140135,7 +140063,6 @@ encoder:
 第六	qvot
 竹帘	qvpm
 竹竿	qvqh
-第几	qvqj
 竹筒	qvqk
 竹笛	qvqk
 竹简	qvqp
@@ -140151,7 +140078,7 @@ encoder:
 几经周折	qvwa
 鹅蛋脸	qvwt
 血细胞	qvww
-竹马	qvxa
+竹马	qvxm
 第九	qvyj
 乞怜	qvyt
 系统性	qvyw
@@ -140206,7 +140133,6 @@ encoder:
 风帽	qwmj
 风帆	qwmq
 风尚	qwns
-风圈	qwnu
 风害	qwod
 风寒	qwos
 风灾	qwou
@@ -140269,7 +140195,6 @@ encoder:
 气象万千	qydw
 鱼白	qyeb
 知情权	qyfb
-复合元音	qyfi
 复合材料	qyfp
 知情达理	qygg
 知情者	qyhj
@@ -141551,7 +141476,6 @@ encoder:
 辞世	rohi
 金字塔	rohs
 辞去	rohv
-辞章	roij
 外交部	roil
 辞海	roiq
 辞源	rois
@@ -141609,7 +141533,6 @@ encoder:
 狱警	rosw
 称之为	rosx
 馆长	roth
-私设公堂	rotn
 狼烟	roun
 多谋善断	roup
 利害关系	rouq
@@ -141771,14 +141694,12 @@ encoder:
 移位	rrei
 多处	rrem
 比作	rreq
-多多保重	rreq
 比价	rret
 移植	rrfd
 比武	rrfg
 多天	rrfg
 多元	rrfh
 徇私枉法	rrfi
-微微一笑	rrfq
 外向型	rrfs
 多亏	rrfs
 移开	rrfs
@@ -141902,7 +141823,6 @@ encoder:
 科隆	rsce
 科幻	rscv
 科研	rsdf
-犯而不校	rsdf
 徒有其表	rsdh
 秘而不宣	rsdo
 积劳成疾	rsdp
@@ -141967,14 +141887,11 @@ encoder:
 甜头	rssg
 猎人	rste
 科长	rsth
-外资企业	rstn
-私营企业	rstn
 奥运会	rsts
 猫头鹰	rsue
 甜美	rsuh
 科盲	rsum
 科普	rsun
-香草美人	rsut
 私营经济	rsvi
 科级	rsvv
 猎杀	rswf
@@ -142142,7 +142059,6 @@ encoder:
 舌敝唇焦	rusw
 秋分	rutb
 剩余	rutf
-入锅	rutl
 毛遂自荐	ruts
 乘坐	rutt
 入手	rutu
@@ -142226,7 +142142,6 @@ encoder:
 透水	rvkh
 犯上	rvks
 外强中干	rvlh
-毛织品	rvll
 很小	rvma
 透骨	rvmg
 透光	rvmh
@@ -142268,7 +142183,6 @@ encoder:
 私利	rvrm
 犯疑	rvrq
 很多	rvrr
-很甜	rvrs
 积弱积贫	rvrt
 犯愁	rvru
 透入	rvru
@@ -142279,7 +142193,6 @@ encoder:
 私藏	rvsg
 很薄	rvsi
 私募	rvsj
-很厚	rvsj
 私蓄	rvso
 私有	rvsw
 犯有	rvsw
@@ -142654,8 +142567,6 @@ encoder:
 减速	sdfl
 准确无误	sdfo
 苦槠	sdfo
-二十五年	sdfq
-二十三年	sdfq
 减刑	sdfs
 苦功	sdfx
 减轻	sdhb
@@ -142711,7 +142622,6 @@ encoder:
 斗笠	sdqi
 头破血流	sdqi
 斗智	sdql
-二十几步	sdqn
 二十几米	sdqp
 斗气	sdqq
 苦瓜	sdqu
@@ -142746,9 +142656,7 @@ encoder:
 二十余只	sdtl
 苦乐	sdtm
 二十八年	sdtq
-蒙古人种	sdtr
 决不会	sdts
-二十分钟	sdtt
 减仓	sdtv
 减半	sdua
 苦差	sduf
@@ -142773,7 +142681,6 @@ encoder:
 苦力	sdxl
 减慢	sdyj
 二十九	sdyj
-二十九日	sdyj
 二十九岁	sdyj
 减负	sdyk
 减免	sdyl
@@ -142901,7 +142808,6 @@ encoder:
 有的放矢	seoq
 花旗	seoq
 进化论	seot
-准备充分	seot
 菜谱	seou
 资讯	seov
 咨询	seow
@@ -143021,10 +142927,8 @@ encoder:
 若无其事	sfda
 二三十	sfdh
 冰天雪地	sfdh
-二三十岁	sfdj
 与否	sfdl
 决一死战	sfdm
-互相帮助	sfdm
 有禁不止	sfdn
 与其	sfdq
 荆棘载途	sfdt
@@ -143077,7 +142981,6 @@ encoder:
 资本家	sfod
 艺术家	sfod
 左方	sfog
-某一方面	sfog
 燕京	sfol
 资本主义	sfoo
 厨房	sfoo
@@ -143386,8 +143289,8 @@ encoder:
 落选	siwq
 茫然	siws
 薄膜	siws
-落马	sixa
 落发	sixe
+落马	sixm
 有法必依	siye
 荣誉军人	siyt
 曹操	sjal
@@ -143530,7 +143433,6 @@ encoder:
 英烈	skdm
 黄磷	skdp
 黄龙	skdq
-黄曲霉菌	skds
 冰雹	skdw
 冰雪	skdx
 共同体	skef
@@ -144020,7 +143922,6 @@ encoder:
 凝聚	srab
 有利可图	sran
 二子	srbi
-二届	srbk
 二层	srbs
 二通	srbt
 专利局	srbv
@@ -144275,7 +144176,6 @@ encoder:
 惹祸	ssul
 惹火	ssuo
 运动神经	ssuv
-英姿焕发	ssux
 草草了事	ssva
 茕茕孑立	ssvi
 劳动强度	ssvu
@@ -144519,7 +144419,6 @@ encoder:
 卧床不起	sudd
 茁壮成长	sudt
 灰白	sueb
-营养价值	suee
 有益于	sufa
 荒村	sufa
 花言巧语	sufo
@@ -144545,7 +144444,6 @@ encoder:
 唇亡齿寒	suno
 井底之蛙	suok
 莫逆之交	suoo
-左道旁门	suop
 荒诞	suoq
 荒郊	suot
 有神论	suot
@@ -144856,7 +144754,6 @@ encoder:
 敬意	swij
 散漫	swij
 花生油	swik
-在生活上	swik
 在生活中	swil
 苟活	swir
 有源	swis
@@ -144912,7 +144809,6 @@ encoder:
 有种	swrl
 有利	swrm
 准入	swru
-有句名言	swru
 散乱	swrx
 警犬	swsa
 有辱	swsa
@@ -145033,7 +144929,6 @@ encoder:
 专注	sxio
 节流	sxio
 苏州	sxiq
-恭贺新禧	sxiu
 动力学	sxiy
 历时	sxja
 萧山	sxja
@@ -145703,8 +145598,8 @@ encoder:
 人选	tewq
 人物	teww
 人民	texa
-人马	texa
 人力	texl
+人马	texm
 人群	texq
 人仰马翻	texq
 银白色	teyc
@@ -146388,7 +146283,6 @@ encoder:
 自鸣得意	tlri
 钟头	tlsg
 今非昔比	tlsr
-贫嘴薄舌	tlsr
 自吹自擂	tlta
 锅铲	tlti
 众口铄金	tltr
@@ -146492,7 +146386,6 @@ encoder:
 锁门	tmpn
 看齐	tmpt
 看重	tmqg
-贪小失大	tmqg
 看管	tmqo
 个儿	tmqr
 乐儿	tmqr
@@ -146657,9 +146550,7 @@ encoder:
 领教	tohb
 领地	tohc
 领域	tohg
-公交车站	tohi
 领到	tohm
-公安干警	tohs
 领土	tohv
 八字没一撇	toia
 自讨没趣	toid
@@ -146714,7 +146605,6 @@ encoder:
 领袖	topk
 贪恋	topy
 今年	toqa
-人弃我取	toqa
 含笑	toqe
 领航	toqo
 长话短说	toqo
@@ -146778,7 +146668,6 @@ encoder:
 分文不值	tpde
 自豪感	tpdf
 片酬	tpdi
-含糊不清	tpdi
 含糊其辞	tpdr
 片段	tpef
 谷类作物	tpew
@@ -146795,7 +146684,6 @@ encoder:
 手疾眼快	tpmy
 禽畜	tpoc
 片刻	tpom
-人文主义	tpoo
 从容就义	tpoo
 片商	tpou
 贫病交加	tpox
@@ -147192,7 +147080,6 @@ encoder:
 从今以后	ttxe
 介怀	ttyd
 从军	ttyh
-令人心寒	ttyo
 手持	tuah
 手提	tuaj
 人言可畏	tuaj
@@ -147215,7 +147102,6 @@ encoder:
 印度支那	tudb
 坐北朝南	tudd
 手感	tudf
-坐视不救	tudf
 镁砂	tudm
 自视甚高	tudp
 坐视不管	tudq
@@ -147779,7 +147665,6 @@ encoder:
 首屈一指	ubfa
 唐璜	ubgs
 羞涩	ubib
-半壁河山	ubij
 焗油	ubik
 羞明	ubjw
 神圣同盟	ubkj
@@ -147800,7 +147685,6 @@ encoder:
 美好事物	ucaw
 慈母	ucbm
 慈姑	uccd
-美女如云	uccs
 序列	ucdm
 慈爱	ucey
 妄想	ucfm
@@ -147928,7 +147812,6 @@ encoder:
 腐败	ueke
 送货上门	uekp
 府上	ueks
-奖优罚劣	uemm
 炊具	uemt
 庭园	uenf
 康采恩	ueng
@@ -147936,7 +147819,6 @@ encoder:
 总的说来	ueof
 庭审	ueok
 背信弃义	ueoo
-背后议论	ueoo
 神采奕奕	uepp
 腐竹	ueqv
 腐蚀	uerk
@@ -148166,7 +148048,6 @@ encoder:
 誊录	ugxk
 庆贺	ugxl
 羊群	ugxq
-广大群众	ugxt
 关羽	ugxu
 关怀	ugyd
 康奈尔大学	ugyi
@@ -148380,7 +148261,6 @@ encoder:
 应用	uitn
 应从	uitt
 北海道	uiut
-广泛应用	uiut
 应承	uivk
 应允	uivq
 应制	uiwk
@@ -148553,10 +148433,10 @@ encoder:
 烛台	ukvl
 视网膜	ukws
 神物	ukww
-神马	ukxa
 火上加油	ukxi
 视力	ukxl
 神力	ukxl
+神马	ukxm
 神灵	ukxu
 神怪	ukyb
 神色	ukyc
@@ -149043,8 +148923,6 @@ encoder:
 酱菜	urse
 背脊	urss
 广种薄收	ursx
-礼多人不	urtd
-烧香拜佛	urte
 送往迎来	urtf
 将领	urto
 奖牌	urtw
@@ -149092,7 +148970,6 @@ encoder:
 并列	usdm
 煤砖	usds
 煤矿	usdu
-燎原烈火	usdu
 并不	usdu
 鹧鸪	usdy
 度假	useb
@@ -149399,7 +149276,6 @@ encoder:
 神神秘秘	uurr
 卷烟厂	uush
 遮羞布	uusm
-席卷而逃	uusq
 炯炯有神	uusu
 祥云	uusv
 广为	uusx
@@ -150137,9 +150013,9 @@ encoder:
 红肿	vfwl
 红脸	vfwt
 红包	vfwx
-司马	vfxa
 红杏出墙	vfxh
 约束力	vfxl
+司马	vfxm
 红边	vfxp
 纵横驰骋	vfxx
 红色	vfyc
@@ -151090,8 +150966,8 @@ encoder:
 纵身	vtwe
 绘制	vtwk
 纵然	vtws
-纸马	vtxa
 费力	vtxl
+纸马	vtxm
 纵情	vtyh
 纸盒	vtym
 费解	vtyt
@@ -151469,7 +151345,6 @@ encoder:
 选择性	wayw
 丹顶鹤	wayw
 杀鸡取卵	wbat
-杀鸡取蛋	wbav
 千难万险	wbdc
 千刀万剐	wbdl
 物尽其用	wbdt
@@ -152081,7 +151956,7 @@ encoder:
 制胜	wkww
 制服	wkwx
 制导	wkxa
-千里马	wkxa
+千里马	wkxm
 靠拢	wlad
 告捷	wlaf
 造势	wlay
@@ -152224,7 +152099,7 @@ encoder:
 牛犊	wnwd
 牛腩	wnwd
 胭脂	wnwr
-牛马	wnxa
+牛马	wnxm
 牛杂	wnyf
 集团军	wnyh
 牛角	wnyt
@@ -152665,7 +152540,6 @@ encoder:
 胜券在握	wusa
 服装厂	wush
 脱落	wusi
-卑礼厚币	wusq
 鬼魂	wusv
 脱节	wusx
 鬼节	wusx
@@ -152847,7 +152721,6 @@ encoder:
 生物界	wwjt
 脾胃	wwjw
 胜败	wwke
-服服贴贴	wwkk
 牛鬼蛇神	wwku
 物品	wwll
 牺牲品	wwll
@@ -153040,25 +152913,16 @@ encoder:
 寻找	xaag
 民事	xaal
 民歌	xaal
-马丁	xaan
 导报	xaax
 导热	xaay
-马刀	xaba
 民居	xabd
 寻欢	xabe
-马戏	xabg
-马子	xabi
-马尾	xabr
-马屁	xabr
 骁勇	xabt
 建好	xacb
 骤降	xace
 民防	xaco
 建院	xaco
-马队	xact
 建起	xadb
-马帮	xadc
-马克	xadq
 寻死	xadr
 建成	xadv
 骤雨	xady
@@ -153066,7 +152930,6 @@ encoder:
 发挥优势	xaea
 民兵	xaef
 导体	xaef
-马伕	xaeg
 寻觅	xaek
 办事处	xaem
 民俗	xaet
@@ -153076,66 +152939,46 @@ encoder:
 骈拇枝指	xafa
 建树	xafb
 民权	xafb
-马桶	xafb
 导板	xafe
 寻梦	xaff
 寻求	xafk
-马刺	xafk
 建档	xafm
 民政	xafn
 民工	xafo
 建校	xafo
-马术	xafo
 民校	xafo
 寻机	xafq
 马拉松	xaft
 寻根	xafv
 建构	xafw
 建功	xafx
-马鞭	xage
 民革	xage
-马鞍	xago
-马达	xagp
 寻医	xagq
 民声	xahb
-马车	xahc
 导致	xahe
 建都	xahj
 寻到	xahm
 寻址	xahn
-马鬃	xaho
-马赫	xaht
 骤增	xahu
-马匹	xahx
 民法	xaih
 建立	xaii
 民意	xaij
 导演	xaio
 导游	xaio
 寻思	xajy
-马甲	xaka
 导电	xakd
-马蜂	xake
-马贼	xakg
-马上	xaks
-马里	xaks
 导购	xakw
 建网	xakw
 办事员	xalk
 建置	xamd
 发指眦裂	xamd
 发扬光大	xamg
-马虎	xamh
 导师	xamq
 民团	xana
-马路	xane
 建国	xang
 民国	xang
 寻常	xanm
-马步	xanm
-马蹄	xano
 建党	xanq
-马掌	xant
 录取率	xaoc
 建安	xaoc
 导读	xaod
@@ -153151,22 +152994,18 @@ encoder:
 建设	xaoq
 民族	xaoq
 民宅	xaoq
-马赛	xaos
 建交	xaot
 导论	xaot
 骤变	xapb
 民变	xapb
 建文	xape
-马褂	xaph
 民间	xapj
-马粪	xaps
 建筑	xaqf
 民智	xaql
 寻衅	xaqm
 导航	xaqo
 民航	xaqo
 导管	xaqo
-马儿	xaqr
 民风	xaqw
 建委	xarc
 民委	xarc
@@ -153175,12 +153014,8 @@ encoder:
 力挽狂澜	xari
 导入	xaru
 民怨	xarv
-马头	xasg
 建厂	xash
-马莲	xash
 建在	xasm
-马蓝	xasn
-马蔺	xasp
 民进	xast
 骤冷	xast
 民运	xasv
@@ -153188,36 +153023,28 @@ encoder:
 民警	xasw
 民营	xasy
 发挥余热	xata
-马镫	xatb
 寻人	xate
 民乐	xatm
 民用	xatn
 民企	xatn
 力排众议	xato
 民众	xatt
-马灯	xaua
-马背	xaur
 建兰	xaus
 建言	xauv
 导言	xauv
-马廄	xaux
 导线	xavf
 导引	xavm
 导弹	xavu
 民生	xawg
-马脚	xawh
 建制	xawk
 建造	xawl
-马勺	xawo
 民选	xawq
 骤然	xaws
 民建	xaxa
 发掘出来	xaxf
-马力	xaxl
 民力	xaxl
 力挫群雄	xaxs
 民办	xaxt
-马驹	xaxw
 导出	xaxx
 民愤	xayd
 建军	xayh
@@ -153463,9 +153290,9 @@ encoder:
 发胖	xewu
 收服	xewx
 发包	xewx
-驸马	xexa
 收发	xexe
 收录	xexk
+驸马	xexm
 骆驼	xexo
 骄矜	xext
 发出	xexx
@@ -153483,7 +153310,6 @@ encoder:
 马来西亚	xfda
 卫戍	xfdo
 卫兵	xfef
-以权代法	xfei
 以工代赈	xfek
 异想天开	xfff
 出于无奈	xffg
@@ -153554,7 +153380,7 @@ encoder:
 加班费	xgvt
 以理服人	xgwt
 出奇制胜	xgww
-骑马	xgxa
+骑马	xgxm
 加班加点	xgxm
 马达加斯加	xgxx
 群轻折轴	xhah
@@ -153739,17 +153565,63 @@ encoder:
 力争	xlyx
 加急	xlyx
 以旧换新	xmai
+马丁	xman
+马刀	xmba
 骑虎难下	xmba
+马戏	xmbg
+马子	xmbi
+马尾	xmbr
+马屁	xmbr
+马队	xmct
 剥削阶级	xmcv
+马帮	xmdc
+马克	xmdq
 出师不利	xmdr
+马伕	xmeg
+马桶	xmfb
+马刺	xmfk
+马术	xmfo
+马鞭	xmge
+马鞍	xmgo
+马达	xmgp
+马车	xmhc
+马鬃	xmho
+马赫	xmht
 肃静	xmhw
+马匹	xmhx
 肃清	xmih
 肃立	xmii
+马甲	xmka
+马蜂	xmke
+马贼	xmkg
 以小见大	xmkg
+马上	xmks
+马里	xmks
+马虎	xmmh
+马路	xmne
+马步	xmnm
+马蹄	xmno
+马掌	xmnt
+马赛	xmos
+马褂	xmph
+马粪	xmps
+马儿	xmqr
 肃穆	xmre
+马头	xmsg
 以点带面	xmsg
+马莲	xmsh
+马蓝	xmsn
+马蔺	xmsp
+马镫	xmtb
 肃贪	xmto
+马灯	xmua
+马背	xmur
+马廄	xmux
+马脚	xmwh
+马勺	xmwo
 以少胜多	xmwr
+马力	xmxl
+马驹	xmxw
 异国他乡	xnev
 马蹄形	xnfs
 马路新闻	xnip
@@ -154110,7 +153982,7 @@ encoder:
 即告	xvwl
 既然	xvws
 羽绒服	xvwx
-骏马	xvxa
+骏马	xvxm
 柔肠寸断	xwap
 卫生局	xwbv
 既然如此	xwcn
@@ -154739,9 +154611,9 @@ encoder:
 军售	yhwl
 军服	yhwx
 军民	yhxa
-军马	yhxa
 惊世骇俗	yhxe
 军力	yhxl
+军马	yhxm
 情色	yhyc
 情怀	yhyd
 怯懦	yhyd
@@ -155340,7 +155212,6 @@ encoder:
 慌手慌脚	ytyw
 悦耳	yuar
 憎恶	yuau
-皱着眉头	yubs
 恼羞成怒	yudc
 心神不定	yudo
 忙碌	yudx
@@ -155710,7 +155581,6 @@ encoder:
 冤仇	yyey
 恰恰相反	yyfe
 冤枉	yyfg
-鸵鸟政策	yyfq
 恰巧	yyfs
 心心相印	yyft
 心怀叵测	yygi
@@ -155925,7 +155795,7 @@ encoder:
 聯盟	acjw
 把關	ackc
 搞好關係	acke
-把門	ackm
+把門	ackn
 把戲	acmf
 聯署	acmh
 聯體	acmk
@@ -156827,7 +156697,7 @@ encoder:
 聰明	arjw
 耳聞	arka
 技術開發	arkb
-耳門	arkm
+耳門	arkn
 批閱	arkt
 指數	arld
 技術員	arlm
@@ -156916,7 +156786,7 @@ encoder:
 聯歡晚會	asjy
 攤開	askf
 拔開	askf
-拱門	askm
+拱門	askn
 捅馬蜂窩	askp
 捱上	asks
 攤販	asme
@@ -157114,7 +156984,7 @@ encoder:
 瓦壟	awiw
 搖晃	awjm
 推開	awkf
-推門	awkm
+推門	awkn
 搖曳	awkq
 扼腕嘆息	awlt
 瓦當	awnj
@@ -157738,7 +157608,7 @@ encoder:
 紅日	bfjv
 紅星	bfjw
 紅暈	bfjy
-登門	bfkm
+登門	bfkn
 遐邇聞名	bfkr
 經典	bfks
 統一戰線	bflb
@@ -157903,7 +157773,7 @@ encoder:
 結盟	bhjw
 紛至沓來	bhkd
 慰問	bhkl
-屋門	bhkm
+屋門	bhkn
 屋內	bhkr
 繞嘴	bhln
 紙老虎	bhmh
@@ -158925,7 +158795,7 @@ encoder:
 阿媽	cacs
 阿拉伯數字	caeo
 巴釐	cahe
-阿門	cakm
+阿門	cakn
 階下囚	cant
 巴薩	casc
 阿聯酋	caud
@@ -159488,11 +159358,10 @@ encoder:
 防盜	coie
 嫡親	coif
 防塵	coih
-嬸婆	coiv
 防曬	cojf
 也就是說	coju
 防蟲	cokk
-院門	cokm
+院門	cokn
 院內	cokr
 巴塞羅那	comb
 孃家	cood
@@ -159662,7 +159531,7 @@ encoder:
 陰影	ctjo
 陰間	ctkj
 除蟲	ctkk
-陰門	ctkm
+陰門	ctkn
 除數	ctld
 予人口實	ctlo
 婚齡	ctmt
@@ -159795,7 +159664,7 @@ encoder:
 如飢似渴	cyei
 好逸惡勞	cyfu
 險象環生	cygw
-也門	cykm
+也門	cykn
 也罷	cymv
 豫園	cynh
 陷於	cyot
@@ -160122,7 +159991,6 @@ encoder:
 硬漢	dfis
 咸豐	dfjd
 戌時	dfjh
-硬闖	dfks
 不求上進	dfkw
 威嚇	dflh
 威嚴	dfll
@@ -160315,7 +160183,7 @@ encoder:
 超聲波	dhiv
 基準	dhiw
 十顆	dhjf
-十門	dhkm
+十門	dhkn
 豬肉	dhkt
 基數	dhld
 十數	dhld
@@ -160386,7 +160254,7 @@ encoder:
 霎時	dijh
 西嶽	dijr
 西關	dikc
-西門	dikm
+西門	dikn
 殲滅戰	dill
 西點	dinm
 不減當年	dinq
@@ -160574,8 +160442,8 @@ encoder:
 走開	dkkf
 南開	dkkf
 電閘	dkkk
-南門	dkkm
-電門	dkkm
+南門	dkkn
+電門	dkkn
 電噴	dkld
 走獸	dkll
 電器	dkls
@@ -160994,8 +160862,8 @@ encoder:
 覆滅	drid
 胡錦濤	drih
 覆沒	driy
-走後門	drkm
-死門	drkm
+走後門	drkn
+死門	drkn
 死戰	drll
 感覺器官	drlo
 死別	drly
@@ -161314,7 +161182,7 @@ encoder:
 破曉	dvjh
 盛開	dvkf
 成蟲	dvkk
-破門	dvkm
+破門	dvkn
 石蠟	dvkv
 成員	dvlm
 不費吹灰之力	dvlx
@@ -161588,8 +161456,6 @@ encoder:
 雞尾酒	ebid
 白淨	ebie
 反潛	ebig
-辭章	ebij
-白湯	ebij
 辭海	ebiq
 辭源	ebis
 乳暈	ebjy
@@ -161717,7 +161583,6 @@ encoder:
 妥當	ecnj
 偉業	ecnu
 樂業	ecnu
-雞圈	ecnu
 樂於	ecot
 雞雜	ecot
 雞瘟	ecpj
@@ -161821,7 +161686,6 @@ encoder:
 優生	edwg
 優先	edwq
 優勝	edwu
-岳不羣	edxq
 做飯	edye
 優越性	edyw
 僑聯	eeac
@@ -161929,7 +161793,7 @@ encoder:
 便壺	efhy
 偷工減料	efip
 彩顯	efjc
-便門	efkm
+便門	efkn
 休閒	efkw
 休戰	efll
 使喚	efly
@@ -162204,7 +162068,7 @@ encoder:
 堡壘	eljj
 各異	eljs
 信口開河	elki
-各門	elkm
+各門	elkn
 樂呵呵	ella
 保單	elll
 亂哄哄	ells
@@ -162298,7 +162162,7 @@ encoder:
 爲虎添翼	emix
 佛羅里達	emkh
 絛蟲	emkk
-側門	emkm
+側門	emkn
 悠閒	emkw
 條幅	emmf
 受賄罪	emml
@@ -162415,7 +162279,7 @@ encoder:
 偏執	eohu
 皎潔	eoid
 佇立	eoii
-偏門	eokm
+偏門	eokn
 僱農	eoks
 白衣戰士	eolh
 僱員	eolm
@@ -162909,7 +162773,7 @@ encoder:
 俊傑	ever
 伺機	evfc
 受災地區	evhg
-佛門	evkm
+佛門	evkn
 反函數	evld
 佛號	evls
 雞皮疙瘩	evpp
@@ -163250,7 +163114,6 @@ encoder:
 東走西顧	fddo
 東南西北	fddu
 東西南北	fddu
-一百零八響	fddv
 標價	fded
 標兵	fdef
 枝條	fdem
@@ -163536,8 +163399,8 @@ encoder:
 吞沒	fgiy
 天時	fgjh
 天問	fgkl
-天門	fgkm
-櫃門	fgkm
+天門	fgkn
+櫃門	fgkn
 天內	fgkr
 天數	fgld
 天吶	fglk
@@ -163772,7 +163635,7 @@ encoder:
 東岸	fjjs
 東盟	fjjw
 查問	fjkl
-東門	fjkm
+東門	fjkn
 查閱	fjkt
 求田問舍	fjkt
 東非	fjli
@@ -163791,7 +163654,6 @@ encoder:
 杳無	fjqs
 東風	fjrf
 東征	fjrf
-查鋪	fjrf
 桿秤	fjrh
 天曉得	fjrj
 一時衝動	fjrq
@@ -164099,7 +163961,7 @@ encoder:
 相間	fmkj
 一瞬間	fmkj
 兩間	fmkj
-兩門	fmkm
+兩門	fmkn
 極少數	fmld
 兩輩	fmlg
 貢品	fmll
@@ -164259,7 +164121,7 @@ encoder:
 正題	fnjf
 三峽	fnjg
 三間	fnkj
-正門	fnkm
+正門	fnkn
 正數	fnld
 三戰	fnll
 三號	fnls
@@ -164355,8 +164217,8 @@ encoder:
 校準	foiw
 工時	fojh
 天安門廣場	fokh
-天安門	fokm
-校門	fokm
+天安門	fokn
+校門	fokn
 校內	fokr
 工農	foks
 榜單	foll
@@ -164581,7 +164443,7 @@ encoder:
 橫暴	fsjs
 構思	fsjy
 三葉蟲	fskk
-權門	fskm
+權門	fskn
 形而上學	fskr
 梵蒂岡	fsku
 權數	fsld
@@ -164643,7 +164505,6 @@ encoder:
 權力	fsxl
 形狀	fsxs
 桃花運	fsyg
-一鼻孔出氣	ftbq
 工人階級	ftcb
 一貧如洗	ftci
 三八婦女節	ftcq
@@ -164788,7 +164649,7 @@ encoder:
 極端	fvij
 頸部	fvil
 極易	fvjw
-木門	fvkm
+木門	fvkn
 極品	fvll
 根號	fvls
 極小	fvma
@@ -164957,7 +164818,7 @@ encoder:
 專題	gajf
 奇異	gajs
 奇聞	gaka
-專門	gakm
+專門	gakn
 奇數	gald
 專員	galm
 專號	gals
@@ -165069,7 +164930,7 @@ encoder:
 大顯	gdjc
 大夥	gdjf
 大蝦	gdkb
-大門	gdkm
+大門	gdkn
 大戰	gdll
 奔走呼號	gdll
 大號	gdls
@@ -165231,7 +165092,7 @@ encoder:
 輔音	gfij
 環形山	gfja
 輕易	gfjw
-球門	gfkm
+球門	gfkn
 輕閒	gfkw
 輕吹	gfle
 球員	gflm
@@ -165394,7 +165255,7 @@ encoder:
 車到山前必有路	ghjn
 套間	ghkj
 太平間	ghkj
-轅門	ghkm
+轅門	ghkn
 匯款單	ghll
 大喜過望	ghnu
 鞋業	ghnu
@@ -165485,7 +165346,7 @@ encoder:
 春曉	gjjh
 春暉	gjjy
 車間	gjkj
-車門	gjkm
+車門	gjkn
 車上	gjks
 車主	gjog
 車裏	gjok
@@ -165721,7 +165582,7 @@ encoder:
 較量	gojf
 較易	gojw
 較晚	gojy
-玉門	gokm
+玉門	gokn
 大家閨秀	gokr
 太貴	golk
 遼寧省	gomq
@@ -166334,7 +166195,7 @@ encoder:
 地熱	hcht
 地溝	hcis
 地峽	hcjg
-邪門	hckm
+邪門	hckn
 邪財	hcma
 地處	hcme
 地圖	hcnl
@@ -166373,7 +166234,7 @@ encoder:
 填報	hdhu
 填滿	hdis
 城關	hdkc
-城門	hdkm
+城門	hdkn
 城內	hdkr
 填鴨	hdkr
 城裏	hdok
@@ -166524,7 +166385,6 @@ encoder:
 平平無奇	hhqg
 士氣	hhqp
 平均利潤	hhri
-平地風波	hhri
 封鎖	hhrm
 平平穩穩	hhrr
 長遠利益	hhru
@@ -166654,7 +166514,7 @@ encoder:
 遠山	hlja
 遠景	hljo
 臺盟	hljw
-遠門	hlkm
+遠門	hlkn
 臺上	hlks
 遠非	hlli
 臺中	hllm
@@ -166874,7 +166734,6 @@ encoder:
 青銅器	hrls
 老財	hrma
 老齡	hrmt
-勢利小人	hrmt
 勢利眼	hrmv
 平行四邊形	hrnf
 平衡點	hrnm
@@ -166972,7 +166831,7 @@ encoder:
 赤峯	htje
 熱量	htjf
 熱水	htkh
-熱門	htkm
+熱門	htkn
 鴉片戰爭	htle
 熱吻	htlw
 赤縣	htmm
@@ -167029,7 +166888,6 @@ encoder:
 報修	huem
 蟄伏	hues
 報備	hues
-平郵	hues
 報信	hueu
 報仇	huey
 達標	hufd
@@ -167168,7 +167026,6 @@ encoder:
 壽命	hvyx
 靜聽	hwag
 表揚	hwaj
-賣身投靠	hwaw
 青綠	hwbb
 青絲	hwbb
 雅緻	hwbh
@@ -167377,7 +167234,7 @@ encoder:
 減法	idih
 湮沒	idiy
 滅蟲	idkk
-滅門	idkm
+滅門	idkn
 漠不關心	idky
 減員	idlm
 減號	idls
@@ -167479,7 +167336,6 @@ encoder:
 淨額	ieoe
 淫褻	ieoh
 浮於	ieot
-準備充分	ieot
 盜竊	iepq
 激動	ieqg
 浮動	ieqg
@@ -167554,9 +167410,9 @@ encoder:
 灑滿	ifis
 親暱	ifjg
 新聞	ifka
-江門	ifkm
 波爾卡	ifkm
-鴻門	ifkm
+江門	ifkn
+鴻門	ifkn
 親嘴	ifln
 親口	iflv
 親吻	iflw
@@ -167718,7 +167574,7 @@ encoder:
 清淚	ihio
 澆灌	ihis
 澆水	ihkh
-法門	ihkm
+法門	ihkn
 汗鹼	ihkr
 清閒	ihkw
 塵囂	ihld
@@ -167727,7 +167583,6 @@ encoder:
 深表遺憾	ihly
 法則	ihmm
 法國	ihng
-瀝青路面	ihng
 清點	ihnm
 法寶	ihog
 清宮	ihol
@@ -167765,7 +167620,6 @@ encoder:
 婆婆媽媽	iicc
 滔滔不絕	iidb
 源源不斷	iidc
-新澤西州	iidi
 新澤西	iidi
 波瀾不驚	iids
 氾濫成災	iidv
@@ -167937,8 +167791,8 @@ encoder:
 新聞界	ikjt
 洞開	ikkf
 滷水	ikkh
-洞門	ikkm
-油門	ikkm
+洞門	ikkn
+油門	ikkn
 滷鴨	ikkr
 潤喉	ikle
 滷味	iklh
@@ -168004,7 +167858,7 @@ encoder:
 競渡	iliu
 沖洗	iliw
 剖開	ilkf
-部門	ilkm
+部門	ilkn
 清唱劇	ilmd
 潰敗	ilme
 況且	ilmq
@@ -168054,7 +167908,7 @@ encoder:
 測量	imjf
 站崗	imjk
 滑開	imkf
-沙門	imkm
+沙門	imkn
 站內	imkr
 親骨肉	imkt
 消閒	imkw
@@ -168313,7 +168167,6 @@ encoder:
 海魚	iqty
 汽燈	iqub
 滾瓜爛熟	iquo
-新年禮物	iquw
 新年快樂	iqye
 海軍	iqyg
 海運	iqyg
@@ -168333,8 +168186,8 @@ encoder:
 深入淺出	irix
 沉積岩	irjd
 清風明月	irjw
-澳門	irkm
-活門	irkm
+澳門	irkn
+活門	irkn
 鏖戰	irll
 滑稽戲	irmf
 滑鐵盧	irmj
@@ -168354,7 +168207,6 @@ encoder:
 意向書	irxh
 親和力	irxl
 灌頂	isad
-瀕臨絕境	isbh
 滿屋	isbh
 漢子	isbi
 溝通	isbt
@@ -168363,7 +168215,6 @@ encoder:
 漢姓	iscw
 滿載	isdg
 法蘭西	isdi
-滿而不溢	isdi
 漢朝	isdj
 源碼	isds
 法蘭克福	isdu
@@ -168400,7 +168251,7 @@ encoder:
 洪峯	isje
 演藝界	isjt
 潑冷水	iskh
-滿門	iskm
+滿門	iskn
 漢中	islm
 滿員	islm
 滿嘴	isln
@@ -168479,7 +168330,6 @@ encoder:
 溜達	ithu
 滄海	itiq
 滄州	itiq
-淵海	itiq
 淵源	itis
 漁港	itis
 洗手間	itkj
@@ -168634,7 +168484,7 @@ encoder:
 準星	iwjw
 渾身是膽	iwjw
 龍蝦	iwkb
-龍門	iwkm
+龍門	iwkn
 聾啞	iwlf
 龍吟	iwlt
 龍骨	iwmg
@@ -168783,7 +168633,7 @@ encoder:
 山嶽	jajr
 山嶺	jajt
 山間	jakj
-山門	jakm
+山門	jakn
 山體	jamk
 山裏	jaok
 山窩	japn
@@ -168891,6 +168741,7 @@ encoder:
 豐胸	jdww
 顯露出來	jdxd
 豐收	jdxe
+嶽不羣	jdxq
 岩漿	jdxw
 時來運轉	jdyg
 豐饒	jdyh
@@ -168997,7 +168848,6 @@ encoder:
 時雨	jhdy
 時值	jhed
 時價	jhed
-時逢	jhed
 時段	jhef
 時代	jheg
 時候	jhem
@@ -169059,7 +168909,7 @@ encoder:
 田壟	jiiw
 山海關	jikc
 田間	jikj
-暗門	jikm
+暗門	jikn
 暗號	jils
 暗處	jime
 暗罵	jims
@@ -169408,7 +169258,7 @@ encoder:
 水下景觀	kajs
 閉關	kakc
 甲蟲	kakk
-閉門	kakm
+閉門	kakn
 肉搏戰	kall
 閉嘴	kaln
 閉口	kalv
@@ -169474,8 +169324,8 @@ encoder:
 關山	kcja
 關照	kcjb
 關閉	kcka
-關門	kckm
 關卡	kckm
+關門	kckn
 關上	kcks
 關中	kclm
 關口	kclv
@@ -169521,7 +169371,7 @@ encoder:
 閱兵式	kegf
 申報	kehu
 蝗蟲	kekk
-閥門	kekm
+閥門	kekn
 申購	kems
 關係戶	keoh
 申辯	keou
@@ -169611,8 +169461,8 @@ encoder:
 開水	kfkh
 開天闢地	kfkh
 開闊	kfki
-開門	kfkm
-同門	kfkm
+開門	kfkn
+同門	kfkn
 開上	kfks
 同輩	kflg
 開戰	kfll
@@ -169826,7 +169676,7 @@ encoder:
 開關時間	kkjk
 閉門思過	kkjn
 剛剛開始	kkkc
-閘門	kkkm
+閘門	kkkn
 閘口	kklv
 閩劇	kkmd
 開門見山	kkmj
@@ -169877,89 +169727,89 @@ encoder:
 問及	klvo
 問句	klwl
 野戰軍	klyg
-門下	kmao
 督撫	kmaq
-門縫	kmbe
 卡紙	kmbt
-門巴	kmca
-門票	kmdh
 閒置不用	kmdt
-門楣	kmfb
-門板	kmfe
-門禁	kmff
-門框	kmfg
-門樓	kmfl
-門頭	kmfl
-門檻	kmfs
-門球	kmgf
-門面	kmgi
 卡車	kmgj
-門環	kmgm
-門規	kmgm
-門坎	kmhe
 卡殼	kmhf
-門牙	kmhy
-門派	kmie
-門洞	kmik
-門崗	kmjk
-門內	kmkr
-門上	kmks
 卡號	kmls
-門口	kmlv
-門齒	kmmc
-門路	kmne
 閉目塞聽	kmoa
-門戶	kmoh
-門市	kmom
-門旁	kmou
 督辦	kmox
-門扇	kmox
-門窗	kmpr
-門類	kmps
-門簾	kmqu
-門衛	kmrc
-門徒	kmrd
-門風	kmrf
-門外	kmrm
-門鎖	kmrm
-門兒	kmrq
-門鈴	kmrt
 督學	kmrw
-門邊	kmtp
-門牌	kmtw
 閃光燈	kmub
-門庭	kmue
 開小差	kmuf
-門神	kmuk
-門廊	kmuo
-門診	kmut
-門道	kmut
 督導	kmut
 閉目養神	kmuu
-門前	kmuw
 曳光彈	kmvl
-門生	kmwg
-門將	kmxw
 督師	kmyf
 督軍	kmyg
 由此可見	knam
+門下	knao
 蝸居	knbd
+門縫	knbe
 農業局	knbv
+門巴	knca
+門票	kndh
 閉路電視	kndu
+門楣	knfb
 上黨梆子	knfb
+門板	knfe
+門禁	knff
+門框	knfg
 蝸桿	knfj
+門樓	knfl
+門頭	knfl
+門檻	knfs
+門球	kngf
+門面	kngi
+門環	kngm
+門規	kngm
 蝸輪	kngt
+門坎	knhe
 由點到面	knhg
 同步增長	knhh
+門牙	knhy
+門派	knie
+門洞	knik
+門崗	knjk
 蛔蟲	knkk
 蟈蟈	knkn
+門內	knkr
+門上	knks
+門口	knlv
+門齒	knmc
 聞過則喜	knmh
+門路	knne
+門戶	knoh
+門市	knom
 門當戶對	knon
+門旁	knou
+門扇	knox
+門窗	knpr
+門類	knps
+門簾	knqu
+門衛	knrc
+門徒	knrd
+門風	knrf
+門外	knrm
+門鎖	knrm
+門兒	knrq
+門鈴	knrt
 農業稅	knrt
+門邊	kntp
+門牌	kntw
 同業公會	knty
+門庭	knue
+門神	knuk
+門廊	knuo
+門診	knut
+門道	knut
+門前	knuw
+門生	knwg
 蝸牛	knwn
 開路先鋒	knwr
 水墨畫	knxh
+門將	knxw
 蟾宮折桂	koaf
 曲裏拐彎	koau
 由來	kodl
@@ -170044,7 +169894,7 @@ encoder:
 內涵	kriv
 內嵌	krjs
 內閣	krke
-內門	krkm
+內門	krkn
 內戰	krll
 內置	krmd
 鴨舌帽	krmj
@@ -170425,7 +170275,7 @@ encoder:
 串通一氣	lbfq
 吼聲	lbhb
 中組部	lbil
-嗓門	lbkm
+嗓門	lbkn
 囑咐	lble
 叨唸	lblt
 哪裏	lbok
@@ -170811,7 +170661,7 @@ encoder:
 嚴峻	lljv
 單日	lljv
 嚴明	lljw
-串門	llkm
+串門	llkn
 單曲	llks
 單數	llld
 嘰嘰喳喳	llll
@@ -170938,7 +170788,6 @@ encoder:
 中鋒	lmre
 中風	lmrf
 中小學校	lmrf
-吊鋪	lmrf
 中興	lmrk
 員外	lmrm
 吊銷	lmrm
@@ -170977,7 +170826,6 @@ encoder:
 非常明顯	lnjj
 中國農業銀行	lnkr
 嚐嚐	lnln
-噹噹	lnln
 噹啷	lnlo
 另當別論	lnlu
 嚐點	lnnm
@@ -171319,7 +171167,7 @@ encoder:
 小時	majh
 財閥	make
 小蟲	makk
-小門	makm
+小門	makn
 小鴨	makr
 小農	maks
 小喫	mald
@@ -171666,7 +171514,7 @@ encoder:
 光澤	mhim
 賭注	mhio
 賊去關門	mhkk
-虎門	mhkm
+虎門	mhkn
 賬單	mhll
 齜牙咧嘴	mhll
 賭咒	mhll
@@ -172457,7 +172305,7 @@ encoder:
 國慶	ngiv
 國是	ngjf
 國界	ngjt
-國門	ngkm
+國門	ngkn
 國內	ngkr
 常規戰爭	ngle
 團員	nglm
@@ -172921,7 +172769,7 @@ encoder:
 過早	npjo
 過關	npkc
 過問	npkl
-過門	npkm
+過門	npkn
 過上	npks
 過數	npld
 過慮	npmj
@@ -173021,7 +172869,7 @@ encoder:
 此時	nrjh
 蹤影	nrjo
 此間	nrkj
-柴門	nrkm
+柴門	nrkn
 對外開放	nrko
 黑名單	nrll
 此處	nrme
@@ -173075,7 +172923,7 @@ encoder:
 囚車	ntgj
 掌聲	nthb
 四人幫	nthh
-掌門	ntkm
+掌門	ntkn
 黔劇	ntmd
 黑手黨	ntnn
 躡手躡腳	ntnw
@@ -173122,7 +172970,6 @@ encoder:
 對開	nukf
 業內	nukr
 對內	nukr
-圈內	nukr
 對吧	nulc
 對數	nuld
 對唱	nulj
@@ -173242,7 +173089,7 @@ encoder:
 審批權	oafs
 交換意見	oaim
 守時	oajh
-守門	oakm
+守門	oakn
 寄掛號信	oale
 辦事員	oalm
 方括號	oals
@@ -173275,7 +173122,6 @@ encoder:
 實屬	obbk
 交通網	obbk
 齊刷刷	obbm
-官紗	obbm
 字母組合	obby
 實際	obcw
 實感	obdf
@@ -173417,7 +173263,7 @@ encoder:
 割開	odkf
 害蟲	odkk
 敵百蟲	odkk
-家門	odkm
+家門	odkn
 夜不閉戶	odko
 顧不上	odks
 適配器	odls
@@ -173539,7 +173385,6 @@ encoder:
 夜話	oeur
 額度	oeus
 宿營	oeuu
-褒詞	oeuv
 額前	oeuw
 宣傳週	oewh
 放進	oewp
@@ -173792,7 +173637,7 @@ encoder:
 主戰場	olhj
 衰減	olid
 京滬	olio
-宮門	olkm
+宮門	olkn
 宮內	olkr
 宮闕	olku
 宮中	ollm
@@ -173839,7 +173684,7 @@ encoder:
 市區	omgl
 市長	omha
 市場	omhj
-所羅門	omkm
+所羅門	omkn
 市內	omkr
 市縣	ommm
 市裏	omok
@@ -173908,7 +173753,7 @@ encoder:
 敵敵畏	oojg
 顫顫巍巍	oojj
 房間	ookj
-房門	ookm
+房門	ookn
 房內	ookr
 旅遊團	oong
 宗主國	oong
@@ -174082,7 +173927,7 @@ encoder:
 塞滿	osis
 牢騷滿腹	osiw
 寬闊	oski
-寒門	oskm
+寒門	oskn
 宣戰	osll
 寒戰	osll
 寬敞	osne
@@ -174113,7 +173958,6 @@ encoder:
 賽馬	ossm
 寵辱若驚	osss
 刻苦耐勞	ossu
-宏觀調控	osua
 宣讀	osuh
 寬廣	osus
 寬度	osus
@@ -174238,7 +174082,7 @@ encoder:
 辯證法	ouih
 敵意	ouij
 適時	oujh
-旁門	oukm
+旁門	oukn
 審判員	oulm
 適中	oulm
 所言非虛	oulm
@@ -174452,7 +174296,6 @@ encoder:
 痛擊	pbgx
 亭子間	pbkj
 高級中學	pblr
-初級中學	pblr
 痛處	pbme
 痛罵	pbms
 初虧	pbmw
@@ -174522,7 +174365,7 @@ encoder:
 褫奪	pegw
 文壇	peho
 文靜	pehw
-竅門	pekm
+竅門	pekn
 精彩內容	pekp
 文號	pels
 文獻	pemf
@@ -174558,7 +174401,6 @@ encoder:
 空頭支票	pfdd
 病殘	pfdg
 補票	pfdh
-磨杵成針	pfdr
 補碼	pfds
 補償	pfen
 補救	pffk
@@ -174581,7 +174423,7 @@ encoder:
 空闊	pfki
 空間	pfkj
 病蟲	pfkk
-空門	pfkm
+空門	pfkn
 補上	pfks
 空閒	pfkw
 空戰	pfll
@@ -174758,7 +174600,7 @@ encoder:
 敲門磚	pkdg
 敲擊	pkgx
 空間站	pkim
-敲門	pkkm
+敲門	pkkn
 癩蛤蟆	pkks
 病蟲害	pkod
 糊里糊塗	pkpi
@@ -175016,7 +174858,6 @@ encoder:
 痊癒	ptpt
 粉筆	ptqx
 容積	ptrh
-類人猿	ptrh
 容錯	ptrs
 空手而歸	ptsy
 容許	ptuq
@@ -175137,16 +174978,12 @@ encoder:
 糧食局	pybv
 窮追不捨	pyda
 糧食作物	pyew
-複合元音	pyfi
 複合材料	pyfp
 粉飾太平	pygh
-襟懷坦白	pyhe
-粗心浮氣	pyiq
 離合器	pyls
 離心離德	pypr
 穿心蓮	pysg
 癡心妄想	pyuf
-精心製作	pywe
 豪情壯志	pyxh
 無可指責	qaah
 年紀	qabb
@@ -175234,7 +175071,6 @@ encoder:
 繁簡	qbqk
 每節	qbqx
 每種	qbrq
-無縫鋼管	qbrq
 敏銳	qbrt
 繁華	qbsh
 繁蕪	qbsq
@@ -175271,7 +175107,6 @@ encoder:
 順流	qdio
 順溜	qdit
 順治	qdiv
-敏感時期	qdjd
 午時	qdjh
 順暢	qdkj
 午間	qdkj
@@ -175347,7 +175182,6 @@ encoder:
 無一例外	qfer
 無機化學	qfer
 卸貨	qfer
-無功受祿	qfeu
 短暫	qfge
 籃板球	qfgf
 卸車	qfgj
@@ -175368,14 +175202,10 @@ encoder:
 盤根究底	qfpu
 鳳凰	qfqe
 策動	qfqg
-第三節	qfqx
 鳳梨	qfrm
 盤根錯節	qfrq
 年頭兒	qfrq
 朵兒	qfrq
-無形資產	qfsp
-第一人稱	qftr
-第三人稱	qftr
 策應	qfue
 短語	qfuf
 短評	qfuh
@@ -175510,7 +175340,7 @@ encoder:
 船到橋頭	qhff
 籌款	qhhh
 氣勢洶洶	qhii
-朱門	qhkm
+朱門	qhkn
 等閒	qhkw
 等額	qhoe
 等於	qhot
@@ -175838,7 +175668,6 @@ encoder:
 氣井	qpst
 氣息	qpty
 翻譯	qpum
-怎麼着	qpum
 氣度	qpus
 氣道	qput
 氣焰	qpuy
@@ -176165,7 +175994,6 @@ encoder:
 筆底生花	quws
 無言以對	quxn
 知識性	quyw
-第幾	qvcc
 笑了起來	qvdd
 動彈不得	qvdr
 管弦樂團	qven
@@ -176204,7 +176032,6 @@ encoder:
 節儉	qxer
 筆桿	qxfj
 筆頭	qxfl
-筆形	qxfs
 節奏	qxgf
 簫聲	qxhb
 知書達理	qxhg
@@ -176352,7 +176179,6 @@ encoder:
 猛漲	rbiv
 鼠輩	rblg
 猛獸	rbll
-毛織品	rbll
 針織品	rbll
 鋸齒	rbmc
 從那之後	rbor
@@ -176437,7 +176263,7 @@ encoder:
 後景	rcjo
 衛星	rcjw
 衛冕	rcjy
-後門	rckm
+後門	rckn
 後輩	rclg
 後患	rcll
 委員	rclm
@@ -176545,8 +176371,8 @@ encoder:
 鐵甲	rdka
 學期開始	rdkc
 鐵閘	rdkk
-鐵門	rdkm
 奧斯卡	rdkm
+鐵門	rdkn
 風雨同舟	rdkq
 鎮上	rdks
 鐵器	rdls
@@ -176781,7 +176607,7 @@ encoder:
 風聞	rfka
 從頭開始	rfkc
 風水	rfkh
-衙門	rfkm
+衙門	rfkn
 鋪上	rfks
 鐵樹開花	rfks
 術數	rfld
@@ -176804,7 +176630,6 @@ encoder:
 風尚	rfns
 種植業	rfnu
 金融業	rfnu
-風圈	rfnu
 風害	rfod
 鋪戶	rfoh
 風裏	rfok
@@ -177155,7 +176980,7 @@ encoder:
 鋼渣	rkif
 錦上添花	rkis
 興旺	rkjg
-銅門	rkkm
+銅門	rkkn
 興味	rklh
 銅器	rkls
 興嘆	rkls
@@ -177213,7 +177038,7 @@ encoder:
 和豐	rljd
 風吹日曬	rljj
 和暢	rlkj
-名門	rlkm
+名門	rlkn
 名數	rlld
 名貴	rllk
 名單	rlll
@@ -177327,9 +177152,9 @@ encoder:
 外間	rmkj
 金光閃閃	rmkk
 毛蟲	rmkk
-獨門	rmkm
-鎖門	rmkm
-外門	rmkm
+獨門	rmkn
+鎖門	rmkn
+外門	rmkn
 鎖上	rmks
 獨唱	rmlj
 外號	rmls
@@ -177441,7 +177266,7 @@ encoder:
 穢聞	rnka
 入國問禁	rnkf
 與此同時	rnkj
-金門	rnkm
+金門	rnkn
 外圓內方	rnko
 金剛	rnku
 得過且過	rnmn
@@ -177720,7 +177545,6 @@ encoder:
 多頭	rrfl
 針鋒相對	rrfn
 學徒工	rrfo
-鴕鳥政策	rrfq
 名譽權	rrfs
 衝鋒槍	rrft
 多樣	rrfu
@@ -177891,7 +177715,6 @@ encoder:
 錯落	rssi
 獲准	rssw
 舉人	rste
-外資企業	rstn
 錯用	rstn
 舉手	rstu
 舉證	rsub
@@ -178032,7 +177855,7 @@ encoder:
 入關	rukc
 秋闈	rukc
 秋蟬	rukl
-入門	rukm
+入門	rukn
 鍍上	ruks
 乘數	ruld
 獄中	rulm
@@ -178058,7 +177881,6 @@ encoder:
 乘積	rurh
 後視鏡	ruri
 鍍金	rurn
-入鍋	rurn
 鍍鋅	ruro
 猶疑	rurq
 多勞多得	rurr
@@ -178074,8 +177896,6 @@ encoder:
 獄警	rusw
 舌敝脣焦	rusw
 猶自	rutk
-私設公堂	rutn
-私營企業	rutn
 毛遂自薦	ruts
 多謀善斷	ruuc
 入庫	ruug
@@ -178520,7 +178340,6 @@ encoder:
 萊陽	sdcj
 魂不附體	sdcm
 原來如此	sdcn
-二十幾步	sdcn
 二十幾米	sdcp
 萬死不辭	sdde
 馬來西亞	sddf
@@ -178548,15 +178367,12 @@ encoder:
 壓電效應	sdou
 驅逐艦	sdqs
 二十多歲	sdrn
-黃麴黴菌	sdrs
 萬不得已	sdrv
 苦學	sdrw
 歷朝歷代	sdse
 苦難	sdsf
 苦勸	sdsl
 葫蘆	sdsm
-蒙古人種	sdtr
-二十分鐘	sdtr
 苦戀	sdub
 苦讀	sduh
 葬禮	sduk
@@ -178724,7 +178540,6 @@ encoder:
 帶走	sfdk
 帶電	sfdk
 帶來	sfdl
-二三十歲	sfdn
 凍死	sfdr
 荊棘載途	sfdt
 布爾什維克	sfed
@@ -178758,7 +178573,6 @@ encoder:
 蓬頭垢面	sfhg
 歡天喜地	sfhh
 帶到	sfhm
-互相幫助	sfhm
 凍壞	sfho
 帶壞	sfho
 蘇東坡	sfhv
@@ -179548,7 +179362,7 @@ encoder:
 臨界	sqjt
 鹽水	sqkh
 監督	sqkm
-臨門	sqkm
+臨門	sqkn
 臨戰	sqll
 緊箍咒	sqll
 驅動器	sqls
@@ -179598,7 +179412,6 @@ encoder:
 歷練	srbf
 歷屆	srbh
 凝結	srbh
-二屆	srbh
 萎縮	srbo
 二層	srbu
 二級	srbv
@@ -179629,7 +179442,7 @@ encoder:
 黃金時代	srje
 歷時	srjh
 黃金時間	srjk
-二門	srkm
+二門	srkn
 馬德里	srks
 花鳥蟲魚	srkt
 歷數	srld
@@ -179804,7 +179617,6 @@ encoder:
 黃魚	ssty
 黃花魚	ssty
 憑證	ssub
-英姿煥發	ssub
 黃羊	ssug
 憑着	ssum
 惹禍	ssun
@@ -179856,7 +179668,7 @@ encoder:
 蒼龍	stiw
 蒼山	stja
 蒼蠅	stkj
-冷門	stkm
+冷門	stkn
 井噴	stld
 冷戰	stll
 巷戰	stll
@@ -179928,7 +179740,6 @@ encoder:
 脣亡齒寒	sumo
 難言之隱	suoc
 有識之士	suoh
-左道旁門	suok
 友誼賽	suos
 有益於	suot
 馬前卒	suot
@@ -180123,7 +179934,6 @@ encoder:
 蕭瑟	sxgg
 茅臺	sxhl
 著書立說	sxiu
-恭賀新禧	sxiu
 蕭山	sxja
 莊嚴	sxll
 難以置信	sxme
@@ -180230,7 +180040,7 @@ encoder:
 分時	tbjh
 分開	tbkf
 岔開	tbkf
-八門	tbkm
+八門	tbkn
 貧農	tbks
 分數	tbld
 貧嘴	tbln
@@ -180540,7 +180350,6 @@ encoder:
 坐喫山空	tljp
 欲哭無淚	tlqi
 自鳴得意	tlri
-貧嘴薄舌	tlsr
 兌獎	tlxw
 人販子	tmbi
 貪財好色	tmcy
@@ -180557,14 +180366,13 @@ encoder:
 看漲	tmiv
 看準	tmiw
 貿易	tmjw
-看門	tmkm
+看門	tmkn
 看戲	tmmf
 自助餐廳	tmmu
 看見	tmmx
 看點	tmnm
 看過	tmnp
 看齊	tmou
-貪小失大	tmqg
 看錶	tmrh
 看錯	tmrs
 慾壑難填	tmsh
@@ -180621,7 +180429,6 @@ encoder:
 自顧不暇	todj
 領走	todk
 卻之不恭	tods
-公安幹警	tods
 倉皇	toeg
 倉促	toen
 創作	toeq
@@ -180637,7 +180444,6 @@ encoder:
 貪功	tofx
 貪玩	togf
 創匯	togi
-公交車站	togi
 領班	togu
 領教	tohb
 領地	tohc
@@ -180677,7 +180483,6 @@ encoder:
 創辦	toox
 領空	topf
 領袖	topk
-人棄我取	toqa
 公交系統	toqb
 領航	toqo
 今後	torc
@@ -180740,7 +180545,6 @@ encoder:
 邊上	tpks
 禽獸	tpll
 邊塞	tpos
-人文主義	tpou
 魚米之鄉	tpov
 貧病交加	tpox
 禽類	tpps
@@ -180859,7 +180663,6 @@ encoder:
 手繪	tuby
 鮮嫩	tucf
 鮮奶	tucv
-坐視不救	tudf
 手電	tudk
 用詞不當	tudn
 自視甚高	tudp
@@ -181120,7 +180923,6 @@ encoder:
 訂金	uarn
 討厭	uasj
 鶯歌燕舞	uasq
-席捲而逃	uasq
 謀事在人	uast
 半邊	uatp
 道聽途說	uatu
@@ -181328,7 +181130,6 @@ encoder:
 神經性	ubyw
 認命	ubyx
 祁紅	ucbf
-美女如雲	uccd
 曾幾何時	ucej
 妄爲	ucey
 慈愛	ucey
@@ -181392,7 +181193,7 @@ encoder:
 計量	udjf
 計時	udjh
 說不上來	udkd
-廈門	udkm
+廈門	udkn
 煩悶	udky
 計數	udld
 煩囂	udld
@@ -181448,8 +181249,6 @@ encoder:
 廝殺	udwf
 誠然	udws
 美不勝收	udwx
-說不出來	udxd
-認不出來	udxd
 廣西壯族自治區	udxg
 計劃	udxh
 言不盡意	udxi
@@ -181709,7 +181508,6 @@ encoder:
 拳腳	ugwt
 謹以	ugxo
 羊羣	ugxq
-廣大羣衆	ugxq
 誇獎	ugxw
 謹慎	ugyd
 送飯	ugye
@@ -181898,7 +181696,6 @@ encoder:
 義烏	uhyw
 請命	uhyx
 諳練	uibf
-語法結構	uibf
 逆溫層	uibu
 識趣	uida
 說法不一	uidf
@@ -181922,7 +181719,6 @@ encoder:
 諺語	uiuf
 識讀	uiuh
 煉油廠	uiun
-廣泛應用	uiut
 判決書	uixh
 北洋軍閥	uiyk
 廣泛性	uiyw
@@ -182019,7 +181815,6 @@ encoder:
 禮盒	ukym
 誤事	ulal
 並非如此	ulcn
-話雖如此	ulcn
 誤傳	uleg
 美味佳餚	uley
 禪機	ulfc
@@ -182468,11 +182263,10 @@ encoder:
 北歐	urgl
 話音	urij
 諧音	urij
-課外活動	uriq
 話題	urjf
 美術界	urjt
 請多關照	urkj
-北門	urkm
+北門	urkn
 禍從口出	urlx
 話別	urly
 話劇	urmd
@@ -182506,9 +182300,7 @@ encoder:
 前後左右	urss
 廣種薄收	ursx
 送往迎來	urtd
-禮多人不	urtd
 誘人	urte
-燒香拜佛	urte
 北邊	urtp
 背誦	urub
 庇廕	uruc
@@ -182518,7 +182310,6 @@ encoder:
 庇護	urus
 話說	urut
 誘導	urut
-背後議論	uruu
 話費	urvt
 背書	urxh
 誘餌	urya
@@ -182585,7 +182376,6 @@ encoder:
 護法	usih
 講法	usih
 廣韻	usij
-蠻有意思	usij
 講演	usio
 廣泛	usiq
 廣州	usiq
@@ -182837,8 +182627,6 @@ encoder:
 謙辭	uueb
 談妥	uuec
 廉價	uued
-謝謝你們	uuee
-營養價值	uuee
 勞保	uuel
 變廢爲寶	uueo
 勞作	uueq
@@ -183064,7 +182852,7 @@ encoder:
 調音	uwij
 剪開	uwkf
 詢問	uwkl
-前門	uwkm
+前門	uwkn
 前輩	uwlg
 調味	uwlh
 調遣	uwlk
@@ -183611,7 +183399,7 @@ encoder:
 射線	wabe
 射擊	wagx
 物換星移	wajr
-射門	wakm
+射門	wakn
 射頻	wanm
 肘窩	wapn
 射鵰	wawh
@@ -183668,7 +183456,6 @@ encoder:
 脈搏	weaf
 物價指數	weal
 殺雞取卵	weat
-殺雞取蛋	weav
 脈絡	webe
 物價局	webv
 身價百倍	wede
@@ -183735,7 +183522,7 @@ encoder:
 殺滅	wfid
 兇相畢露	wfjd
 殺蟲	wfkk
-肛門	wfkm
+肛門	wfkn
 生機盎然	wfkw
 遙相呼應	wflu
 脛骨	wfmg
@@ -184055,7 +183842,7 @@ encoder:
 進山	wpja
 生產關係	wpke
 進水	wpkh
-進門	wpkm
+進門	wpkn
 進口	wplv
 進賬	wpmh
 進餐	wpmr
@@ -184292,7 +184079,6 @@ encoder:
 謄抄	wuam
 騰飛	wube
 腦神經	wubf
-皺着眉頭	wubf
 勝局	wubv
 騰起	wudb
 勝任	wuee
@@ -184328,7 +184114,6 @@ encoder:
 千變萬化	wuse
 千差萬別	wusl
 千言萬語	wusu
-卑禮厚幣	wusu
 隻言片語	wutu
 勝訴	wuue
 勝券	wuug
@@ -184359,8 +184144,8 @@ encoder:
 腦部	wvil
 腦海	wviq
 月暈	wvjy
-腦門	wvkm
-缺門	wvkm
+腦門	wvkn
+缺門	wvkn
 臘肉	wvkt
 臘味	wvlh
 腦顱	wvmj
@@ -184441,12 +184226,11 @@ encoder:
 雙峯	wwje
 雙星	wwjw
 躲躲閃閃	wwkk
-雙門	wwkm
+雙門	wwkn
 胸悶	wwky
 雙數	wwld
 犧牲品	wwll
 物體	wwmk
-服服貼貼	wwmm
 雙眼	wwmv
 雙目	wwmv
 雙眸	wwmv
@@ -184704,7 +184488,6 @@ encoder:
 務農	xeks
 收羅	xemb
 收買	xemm
-獎優罰劣	xemm
 收購	xems
 務虛	xemx
 收點	xenm
@@ -184745,7 +184528,6 @@ encoder:
 裝模作樣	xfef
 出爾反爾	xfef
 牀位	xfei
-以權代法	xfei
 尋覓	xfem
 以工代賑	xfem
 以攻爲守	xfeo
@@ -185249,7 +185031,7 @@ encoder:
 出題	xxjf
 選題	xxjf
 出關	xxkc
-出門	xxkm
+出門	xxkn
 選上	xxks
 選單	xxll
 選中	xxlm
@@ -185469,8 +185251,8 @@ encoder:
 軍功章	yfij
 懶漢	yfis
 懶蟲	yfkk
-師門	yfkm
 師叔	yfkm
+師門	yfkn
 師兄	yflq
 危機四伏	yfne
 師範	yfqg
@@ -186129,7 +185911,7 @@ encoder:
 快滾	yvio
 慘淡	yviu
 心間	yvkj
-快門	yvkm
+快門	yvkn
 慘叫	yvlx
 慘劇	yvmd
 慘敗	yvme
@@ -186729,7 +186511,6 @@ encoder:
 顔貌	iqye
 産學研	irdf
 新德裏	irok
-瀕臨絶境	isbh
 灌漑	isie
 決絶	ivby
 剖腹産	iwiq
@@ -186764,8 +186545,8 @@ encoder:
 農産品	kill
 水産品	kill
 闊别	kilx
-門内	kmkt
-門户	kmoh
+門内	knkt
+門户	knoh
 門當户對	knon
 農業税	knru
 門户之見	koom
@@ -186789,7 +186570,7 @@ encoder:
 内測	ktim
 内澇	ktiu
 内閣	ktke
-内門	ktkm
+内門	ktkn
 内戰	ktll
 内賓	ktof
 内裏	ktok
@@ -187001,8 +186782,6 @@ encoder:
 動如脱兔	qcwy
 笑逐顔開	qdik
 笑顔	qeiq
-無功受禄	qfeu
-無形資産	qfsi
 動摇	qgae
 動脉	qgwo
 無産階級	qicb
@@ -187018,7 +186797,6 @@ encoder:
 氣虚	qpmn
 怎麽回事	qpna
 怎麽辦	qpox
-怎麽着	qpum
 短篇小説	qqmu
 無耻	qsan
 無顔	qsiq
@@ -187107,7 +186885,7 @@ encoder:
 苛捐雜税	saor
 腎虚	sbmn
 臨陣脱逃	scwq
-厦門	sdkm
+厦門	sdkn
 資産	seiq
 若卽若離	sesp
 莅臨	sesq
@@ -187179,14 +186957,12 @@ encoder:
 説不定	udof
 煙囱	udre
 説來話長	uduh
-説不出來	udxd
 訴説	ueuu
 廏肥	uewc
 説一不二	ufds
 説東道西	ufud
 談天説地	ufuh
 説大話	ugur
-廣大群衆	ugxq
 誇奬	ugxw
 變賣家産	uhoi
 説長道短	uhuq
@@ -187322,7 +187098,6 @@ encoder:
 包産	wxiq
 身懷絶技	wyba
 群威群膽	xdxw
-奬優罰劣	xemm
 務虚	xemn
 群輕折軸	xgag
 畫册	xhww
