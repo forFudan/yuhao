@@ -1,3 +1,13 @@
+encode=UTF-8
+name=宇浩輸入法
+key=abcdefghijklmnopqrstuvwxyz
+len=4
+match=1
+commit=0 0 0
+auto_clear=4
+simple = 3
+assist=z mb/pinyin.txt
+[DATA]
 a 过
 a 可以
 aa 打
