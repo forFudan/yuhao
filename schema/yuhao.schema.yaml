@@ -140,6 +140,11 @@ speller:
   delimiter: " `"
   max_code_length: 4
   auto_select: true
+  algebra:
+    # - "derive/^[a-y]([a-y]*)$/z$1/"
+    - "derive/^([a-y])[a-y]([a-y]+)$/$1z$2/"
+    - "derive/^([a-y]+)[a-y]([a-y])$/$1z$2/"
+    - "derive/^([a-y]+)[a-y]$/$1z/"
 
 translator:
   dictionary: yuhao
