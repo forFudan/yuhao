@@ -15934,7 +15934,6 @@ emxv 𰁸
 emxx 𫨀
 emya 䴘
 emym 𠏻
-emyv 偿
 emyv 𰂦
 ena 𠈥
 ena 𠊰
@@ -16078,6 +16077,7 @@ ensf 𬿾
 ensh 𬿗
 ensm 𰂮
 enst 𭁕
+ensv 偿
 entu 𰂱
 enua 𠏮
 enug 僕
@@ -18479,7 +18479,6 @@ fflv 𠵂
 fflv 𣒙
 ffmb 槓
 ffmf 𪲳
-ffmh 𪳯
 ffmj 杮
 ffmn 𥁹
 ffmn 𬐝
@@ -18488,6 +18487,7 @@ ffmq 𣐣
 ffmr 𣓈
 ffmv 𣕦
 ffn 㭅
+ffnh 𪳯
 ffnh 𰙆
 ffni 柾
 ffno 𢀚
@@ -29117,7 +29117,6 @@ hmym 龼
 hmym 𫙃
 hmyu 𡕃
 hmyv 𱗠
-hmyx 𡐃
 hna 堝
 hnaa 𩮑
 hndg 堌
@@ -29175,6 +29174,7 @@ hnrj 𰊺
 hnrm 𡍐
 hnrr 𨲝
 hns 埫
+hnsx 𡐃
 hntk 𱖯
 hntm 𧷗
 hntu 𡑄
@@ -41096,8 +41096,6 @@ kmxt 𠕪
 kmxt 𪔃
 kmxv 𬠅
 kmya 𫛧
-kmyh 𰳇
-kmyn 𧑽
 kmyv 𢙤
 kna 蝸
 knan 𨵧
@@ -41123,6 +41121,7 @@ knh 𧉆
 knhv 螳
 knhv 闛
 knhv 䘃
+knhv 𰳇
 kni 𧉀
 knig 𬅶
 knis 𬅸
@@ -41138,6 +41137,7 @@ knmj 蟐
 knmj 𬠄
 knmk 𣻣
 knns 蜖
+knnv 𧑽
 knpo 𧒖
 knpw 𧒞
 knqa 𲈳
@@ -44742,7 +44742,6 @@ lmxv 𪠽
 lmxy 𪬩
 lmyc 𦫮
 lmys 𩞂
-lmyv 𰈇
 lmyw 𬥩
 lna 喎
 lnan 𬻳
@@ -44831,6 +44830,7 @@ lns 𠮝
 lns 𠶤
 lnsr 𠮺
 lnss 𭋌
+lnsv 𰈇
 lntb 𠛸
 lnte 𭌔
 lnth 𡂥
@@ -48536,7 +48536,6 @@ mmxx 覞
 mmyk 𥋁
 mmyk 𥋬
 mmym 𥌑
-mmyn 𥊰
 mmyo 𥋥
 mmyr 鷪
 mmyv 愳
@@ -48617,6 +48616,7 @@ mnmd 𠞋
 mnmd 𠟔
 mnmm 𫵍
 mnne 矘
+mnnv 𥊰
 mnpo 𢅗
 mnpo 𨓘
 mnqm 𫷌
@@ -50391,7 +50391,6 @@ myag 鹘
 myaq 𱉘
 mybb 𱑖
 mybl 𱳖
-mybm 𮚑
 myca 𥅺
 myca 𪗼
 mydh 𥄌
@@ -50410,7 +50409,6 @@ myfb 叡
 myfb 㕡
 myfb 㕢
 myfb 𰇀
-myfc 𡜈
 myfd 𢄐
 myfd 𥉕
 myfe 𢿶
@@ -50423,7 +50421,6 @@ myfh 𡓝
 myfh 𧷎
 myfh 𪠀
 myfh 𫫽
-myfj 𱰲
 myfk 㪫
 myfk 𢿡
 myfk 𰕐
@@ -50438,12 +50435,9 @@ mygj 齳
 mygj 㡓
 mygj 𮊋
 mygp 𰦅
-mygq 𫴽
 myhc 𫷅
 myhc 𬑕
 myhh 𥍘
-myhv 坣
-myib 𱑾
 myig 𩨽
 myjg 骩
 myjh 𧆟
@@ -50454,13 +50448,10 @@ myjt 幎
 myjt 𧇻
 myjv 𧇅
 myjv 𫘲
-myka 𡭵
 myke 矎
 mykg 𥈉
 myld 𢄵
 myld 𬙧
-mylk 𫵂
-myln 𡮕
 myln 𢅹
 myln 𥌺
 myln 𧹊
@@ -50470,8 +50461,6 @@ mylo 䖘
 mylo 𪚃
 mylq 睌
 mylq 㡈
-myly 𢡭
-myma 龸
 myma 𥅘
 myma 𧵉
 myme 𢿓
@@ -50482,12 +50471,8 @@ mymj 䯤
 mymj 𧸤
 mymj 𫅋
 mymm 𥌔
-myne 𡮝
-mynh 𡓪
 myns 𫎑
 myns 𬑅
-mynv 䟫
-myoc 𡝷
 myod 骫
 myod 䀓
 myop 𲅮
@@ -50504,8 +50489,6 @@ myqr 眈
 myqr 帎
 myqr 𧴸
 myqr 𩨥
-myrh 𰣈
-myri 𡭠
 myrj 㡊
 myrj 䶟
 myrj 𥇌
@@ -50522,7 +50505,6 @@ mysu 幨
 mysu 贍
 mysu 𧸸
 mysu 𰷜
-mysv 尝
 mysv 𢂕
 mysv 𧵥
 mysv 𩨾
@@ -50539,14 +50521,11 @@ mytn 𥆌
 mytq 㲊
 mytu 𧷉
 myul 𱳏
-myuo 𤇑
 myv 𪫩
 myva 𢖿
 myvh 虑
 myvh 𧆹
-myvi 𰀶
 myvn 𥈥
-myvp 𬐓
 mywh 䖚
 mywi 罹
 mywi 髉
@@ -50554,11 +50533,8 @@ mywi 𥉑
 mywi 罹
 mywj 𢄓
 mywv 肻
-mywv 𫆙
-myxj 𠹉
 myxl 𰅔
 myxs 𦊳
-myxs 𭺮
 myxu 䁯
 myxu 𢅑
 myxu 𥋧
@@ -50682,6 +50658,7 @@ nblv 𬦪
 nblv 𱥁
 nbm 𧿹
 nbmb 䝨
+nbmb 𮚑
 nbmn 𪾋
 nbmv 𣥸
 nbod 䟕
@@ -51053,6 +51030,7 @@ nfcl 圄
 nfcl 𭭢
 nfco 𡆻
 nfco 𧿠
+nfcv 𡜈
 nfdb 𭣜
 nfdm 𩒱
 nfdm 𰉔
@@ -51096,6 +51074,7 @@ nfja 𡈀
 nfja 𨁶
 nfje 𩰚
 nfjf 蹅
+nfji 𱰲
 nfjj 𫏣
 nfjv 𣆩
 nfjw 𨁈
@@ -51249,6 +51228,7 @@ ngpo 蹥
 ngqj 𨅔
 ngqr 黖
 ngqr 旤
+ngqr 𫴽
 ngqy 𢢸
 ngrh 𪒆
 ngrj 蹖
@@ -51384,6 +51364,7 @@ nhve 墨
 nhvi 𫭠
 nhvm 圔
 nhvs 堂
+nhvs 坣
 nhvv 䟩
 nhvv 𭍝
 nhvx 踋
@@ -51425,6 +51406,7 @@ niks 蹱
 niks 𡈩
 niks 𣦟
 nil 蹗
+nilb 𱑾
 nile 𪒏
 nilv 踣
 nilv 𮮚
@@ -51539,6 +51521,7 @@ njxl 𡇨
 njxn 𢌧
 njxu 蹋
 nka 𧿵
+nkas 𡭵
 nkaw 㘡
 nkb 𬦥
 nkbs 赏
@@ -51626,12 +51609,15 @@ nlkm 蹪
 nlkm 圚
 nlkp 𨇀
 nlkp 𫏩
+nlks 𫵂
 nlks 𬻬
+nlky 𢡭
 nlld 䠤
 nlle 𡕭
 nllf 躁
 nllf 䵲
 nlll 𲃳
+nlln 𡮕
 nllr 𫭐
 nlls 𡈆
 nlls 𬧒
@@ -51793,6 +51779,7 @@ nndm 䠩
 nndm 𪒩
 nndm 𰸰
 nnes 黨
+nnes 𡮝
 nnet 𡈖
 nnfi 𨀢
 nnfv 𨁉
@@ -51802,6 +51789,7 @@ nngf 𫏜
 nngx 𰙯
 nnhi 歨
 nnhv 蹚
+nnhv 𡓪
 nnhy 𨅝
 nni 趾
 nnii 𣥒
@@ -51858,6 +51846,7 @@ nnuh 𪒲
 nnuh 𮜙
 nnv 踀
 nnvi 𭭤
+nnvs 䟫
 nnwv 𭍧
 nnwv 𰸕
 nnww 𠁴
@@ -51872,6 +51861,7 @@ nocd 𨄮
 nocj 𨃕
 noco 𡇎
 noco 𪐷
+nocv 𡝷
 nocw 𨄢
 nocw 𪒓
 nodv 𡇵
@@ -52225,10 +52215,12 @@ nrhe 𪐺
 nrhs 祡
 nrhv 㘹
 nrhv 𪑺
+nrhv 𰣈
 nrhw 囷
 nrii 此
 nrii 𣥅
 nris 𠤠
+nris 𡭠
 nriy 𱥉
 nrja 𰸪
 nrjf 𣆟
@@ -52365,6 +52357,7 @@ nsf 尚
 nsfa 蹰
 nsff 尙
 nsff 丨
+nsff 龸
 nsff 𨂏
 nsff 𪑞
 nsff 𫩠
@@ -52497,6 +52490,7 @@ nsv 𧿱
 nsvf 𨅈
 nsvi 𮛊
 nsvl 𨃐
+nsvv 尝
 nsvv 囩
 nsvw 㘟
 nswa 図
@@ -52816,6 +52810,7 @@ nuo 𧿮
 nuoe 𪐩
 nuoi 𭭝
 nuoo 𲄓
+nuos 𤇑
 nuow 𡇂
 nuqa 𨀟
 nuqm 𨃼
@@ -52957,6 +52952,7 @@ nvi 𲃔
 nvie 𪐘
 nvis 𠁡
 nvis 𠁢
+nvis 𰀶
 nviw 𡆠
 nviw 𡆢
 nvjf 𨄓
@@ -52979,6 +52975,7 @@ nvp 跛
 nvpi 𣥣
 nvpo 蹆
 nvps 𤿼
+nvps 𬐓
 nvqa 𫏦
 nvqu 𡇺
 nvrk 𨀨
@@ -53071,6 +53068,7 @@ nwur 𡇸
 nwur 𫏓
 nwv 跀
 nwvi 肯
+nwvs 𫆙
 nwvv 𪐯
 nwwb 𨇯
 nwwb 𭓘
@@ -53119,10 +53117,12 @@ nxkl 蹫
 nxkp 𪒡
 nxl 𧾼
 nxla 𮛮
+nxlj 𠹉
 nxlk 𰸦
 nxll 𣥼
 nxlm 𨆨
 nxlm 𮜗
+nxls 𭺮
 nxlv 跏
 nxlw 㘞
 nxm 𲃖
@@ -58595,7 +58595,6 @@ pmxu 𧝁
 pmxv 裆
 pmxv 𥹥
 pmym 𮖼
-pmyn 𬴞
 pna 瘑
 pnaa 𪎩
 pnae 𣁘
@@ -58661,6 +58660,7 @@ pnmn 𤼎
 pnne 𥽻
 pnnh 𧚺
 pnnn 𤺙
+pnnv 𬴞
 pnpo 䆼
 pnpo 䙤
 pnpo 𤻌
@@ -62800,7 +62800,6 @@ qmyo 𥴸
 qmyq 𧖵
 qmyr 䘓
 qmyv 怎
-qmyv 鲿
 qna 䈑
 qnau 𤬋
 qnax 𥭒
@@ -62911,6 +62910,7 @@ qnse 𭐥
 qnsk 𥏁
 qnsr 𥫪
 qnss 𢍘
+qnsv 鲿
 qntd 𬼐
 qnte 𱇠
 qntk 𥭮
@@ -70332,7 +70332,6 @@ rtma 鉩
 rtma 𤝝
 rtma 𮮑
 rtmb 䝿
-rtmd 𠜫
 rtmm 𠞙
 rtmo 𮮐
 rtmp 𨘤
@@ -77553,6 +77552,7 @@ stxo 𱜟
 stxq 𩢯
 stxq 𮎰
 stxs 巷
+stxu 𤇟
 stxu 𰟑
 stxx 𦵛
 stxx 𦺄
@@ -77613,7 +77613,6 @@ sufn 𰱨
 sufo 蒫
 sufo 𠪉
 sufo 𩥙
-suft 𤇟
 suft 𦳼
 sufu 𮑑
 sug 𦭵
@@ -85214,7 +85213,6 @@ umxu 𢈥
 umxv 𤇻
 umxx 𤍚
 umym 䜜
-umyp 𤋩
 una 諣
 unao 煱
 unaq 𰞏
@@ -85283,6 +85281,7 @@ unnn 𧬃
 unnr 𢊸
 unns 𧧚
 unns 𰏸
+unpe 𤋩
 unpo 𨘌
 unpo 𭶏
 unpo 𲁺
@@ -91218,6 +91217,7 @@ wkkv 𧍀
 wkl 㔪
 wkmc 𡝧
 wkmd 制
+wkmd 𠜫
 wkmd 𠟠
 wkmf 𭪨
 wkmg 𨡐
@@ -91574,8 +91574,6 @@ wmxi 𧡖
 wmxn 𤙧
 wmxv 𬙏
 wmxv 𮜴
-wmyd 𬂓
-wmyx 𫆟
 wna 腡
 wnbh 𭨶
 wnc 𦙱
@@ -91587,6 +91585,7 @@ wne 𣎚
 wnee 𨊂
 wneq 熏
 wnf 牛
+wnfd 𬂓
 wnff 牜
 wnff 𠂒
 wnff ⺧
@@ -91648,6 +91647,7 @@ wnv 𮌘
 wnve 𨉌
 wnwv 𦜨
 wnxl 勳
+wnxl 𫆟
 wnxn 𦚺
 wnyc 𦫯
 woan 䍆
