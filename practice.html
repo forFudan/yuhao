@@ -140,21 +140,80 @@
             },
             {
                 "qv": ["竹"],
+                "qp": ["丿"],
+                "qr": ["儿"],
+                "qy": ["鱼"],
+                "qj": ["几"],
+                "qi": ["矢"],
+                "qq": ["舟"],
+                "qh": ["殳"],
+                "qu": ["瓜"],
+                "qc": ["川"],
+                "qn": ["凡"],
+                "qq": ["气"],
             },
             {
                 "wv": ["月"],
+                "wa": ["乂"],
+                "wi": ["隹"],
+                "wn": ["牛"],
+                "wy": ["𧘇"],
+                "wq": ["千"],
+                "wu": ["鬼"],
+                "wo": ["缶"],
+                "wg": ["生"],
+                "we": ["身"],
             },
             {
                 "ev": ["亻"],
+                "eh": ["夂","⺙"],
+                "ej": ["斤","⺁"],
+                "eb": ["白"],
+                "ek": ["爪"],
+                "ei": ["欠"],
+                "ee": ["壬"],
+                "eo": ["夭"],
+                "ew": ["乌"],
             },
             {
                 "rv": ["犭"],
+                "ri": ["匕"],
+                "rh": ["禾"],
+                "rk": ["夕"],
+                "rj": ["臼"],
+                "rc": ["彳"],
+                "rm": ["饣"],
+                "rg": ["毛"],
+                "re": ["向"],
+                "rn": ["舌"],
+                "ri": ["金"],
+                "ru": ["入"],
+                "ro": ["鳥"],
+                "rl": ["僉"],
+                "rf": ["風"],
             },
             {
                 "tv": ["钅"],
+                "te": ["人"],
+                "tb": ["八"],
+                "ti": ["彡"],
+                "ta": ["卯"],
+                "tn": ["用"],
+                "tk": ["自"],
+                "tu": ["手"],
+                "th": ["长"],
+                "tp": ["片"],
+                "ty": ["魚"],
             },
             {
                 "yv": ["心", "忄"],
+                "ym": ["冖", "𠂊"],
+                "ya": ["鸟"],
+                "yj": ["九"],
+                "ye": ["合"],
+                "yi": ["豸"],
+                "ys": ["食"],
+                "yi": ["𠂤"],
             },
             {
                 "uv": ["言"],
@@ -258,11 +317,6 @@
         - ABCc
     四根及四根以上字：
         - ABCZ
-
-词语输入规则:
-- 二字词: AaBb
-- 三字词: ABCc
-- 四字及四字以上词: ABCZ
     */})
             raw_area.appendChild(span)
         }
@@ -597,7 +651,7 @@
         aside {
             text-align: center;
             width: 160px;
-            height: 100%;
+            height: 120%;
             background-color: #70abe6;
             position: absolute;
             top: 0;
@@ -608,7 +662,7 @@
 
         .textarea {
             width: 98%;
-            min-height: 300px;
+            min-height: 200px;
             padding: 8px;
             outline: 0;
             border: none;
@@ -652,7 +706,7 @@
 
         #mainbot {
             padding-left: 170px;
-            line-height: 35px;
+            line-height: 1.5;
         }
 
         #aside_title {
@@ -702,17 +756,13 @@
         <input type="radio" name="radiobutton" onclick="choose_root(cur_tab)" checked="">顺序单次</input>
         <input type="radio" name="radiobutton" onclick="choose_root(cur_tab)">乱序单次</input>
         <input type="radio" name="radiobutton" onclick="choose_root(cur_tab)">乱序重复</input>
-        <input type="checkbox" name="key_hint_checkbox" onclick="key_hint()">编码提示</input>
+        <input type="checkbox" name="key_hint_checkbox" onclick="key_hint()", checked=1>编码提示</input>
         <input type="checkbox" name="repeat_wrong_checkbox" checked="">错误复习</input>
         <br>
         <label id="totallabel"></label>
         <label id="speedlabel"></label>
         </br>
-        <p><b>横区字根都在中排左侧，包括 ASDFGH 六个按键</b><br>
-            <b>竖区字根都在中下排右侧，包括 JKLMN 五个按键</b><br>
-            <b>撇区字根都在上排左侧，包括 QWERTY 六个按键</b><br>
-            <b>点、捺区字根都在上排右侧，包括 UIOP 四个按键</b><br>
-            <b>折区字根都在下排左侧，包括 XCVB 四个按键</b>
+        <p><b>横区字根都在中排左侧，竖区字根都在中下排右侧，撇区字根都在上排左侧，点捺区字根都在上排右侧，折区字根都在下排左侧。</b>
         </p>
     </div>
     <div id="content">
