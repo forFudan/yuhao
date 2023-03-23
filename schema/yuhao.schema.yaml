@@ -141,10 +141,13 @@ speller:
   max_code_length: 4
   auto_select: true
   algebra:
-    # - "derive/^[a-y]([a-y]*)$/z$1/"
-    - "derive/^([a-y])[a-y]([a-y]+)$/$1z$2/"
-    - "derive/^([a-y]+)[a-y]([a-y])$/$1z$2/"
-    - "derive/^([a-y]+)[a-y]$/$1z/"
+    - "derive/^([a-y])[a-y]([a-y]*)$/$1z$2/" # Az AzC AzCD
+    - "derive/^([a-y]+)[a-y]([a-y]*)$/$1z$2/" # ABz ABzD ABCz AzC AzCD
+    - "derive/^([a-y]+)[a-y]$/$1z/" # ABz ABCz
+    - "derive/^([a-y]+)[a-y]{2}$/$1zz/" # ABzz Azz
+    - "derive/^([a-y])[a-y]{2}([a-y])$/$1zz$2/" # AzzD
+    - "derive/^([a-y])[a-y]{3}$/$1zzz/" # Azzz
+    - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
 
 translator:
   dictionary: yuhao
