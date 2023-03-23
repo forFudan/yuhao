@@ -3,9 +3,7 @@
 
 朱宇浩 创作 | 官方QQ群: 735728797
 
-[在线拆分查询系统](https://zhuyuhao.com/yuhao/chaifen)
-[输入法详细教程](https://zhuyuhao.com/yuhao/learn)
-[字根练习](https://zhuyuhao.com/yuhao/practice)
+[详细教程](https://zhuyuhao.com/yuhao/learn) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen) | [在线字根练习](https://zhuyuhao.com/yuhao/practice)
 
 - [1. 简介](#1-简介)
 - [2. 下载和安装](#2-下载和安装)
