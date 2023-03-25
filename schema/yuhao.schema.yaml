@@ -162,6 +162,7 @@ speller:
 translator:
   dictionary: yuhao
   prism: yuhao
+  db_class: tabledb
   enable_completion: false
   enable_sentence: false
   enable_user_dict: true
