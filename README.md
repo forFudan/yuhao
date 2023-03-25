@@ -3,7 +3,9 @@
 
 朱宇浩 创作 | 官方QQ群: 735728797
 
-[详细教程](https://zhuyuhao.com/yuhao/learn) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen) | [在线字根练习](https://zhuyuhao.com/yuhao/practice) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice_100) | [最常用50字根练习](https://zhuyuhao.com/yuhao/practice_50)
+[详细教程](https://zhuyuhao.com/yuhao/learn) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen) | [更新日志](https://zhuyuhao.com/yuhao/updates)
+
+[在线字根练习](https://zhuyuhao.com/yuhao/practice) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice_100) | [最常用50字根练习](https://zhuyuhao.com/yuhao/practice_50)
 
 ## 1. 简介
 
@@ -138,7 +140,11 @@ patch:
 
 按下 Z 键，可以随时使用拼音输入词语，并实现反查。袖珍简化字拼音：<https://github.com/rime/rime-pinyin-simp>
 
-#### 2.5.6. 输入特殊符号
+#### 2.5.6. 使用 z 键作为通配符/学习符
+
+除第一码外，可以使用z键代替其他编码，方便一下子忘记大小码的你继续输入。
+
+#### 2.5.7. 输入特殊符号
 
 本方案可以用编码输入特殊符号，包括标点符号、注音符号、日语假名（训令罗马字）等。有两种方法
 
@@ -157,11 +163,11 @@ patch:
 - 分号：`fhz`
 - 注音符号 ㄤ：`angz`
 
-#### 2.5.7. 使用 z 键作为通配符/学习符
+#### 2.5.8. 精确造词
 
-除第一码外，可以使用z键代替其他编码，方便一下子忘记大小码的你继续输入。
+输入过程中，按下 ` 符号作为分隔，使用**数字键或空格键**依次选择单字，即可实现精确造词。
 
-#### 2.5.8. 全码词语屏蔽
+#### 2.5.9. 全码词语屏蔽
 
 一键屏蔽四码词语，同时保留简码词。热键为「Shift+Ctrl+D」。适合保留简码词的全码单字派。
 

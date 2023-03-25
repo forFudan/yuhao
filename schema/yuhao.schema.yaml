@@ -75,6 +75,7 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
+    - affix_segmentor@zaoci # 用户造詞
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -83,7 +84,8 @@ engine:
     - table_translator@fixed
     - table_translator
     - reverse_lookup_translator
-    - lua_translator@yuhao_helper
+    - table_translator@zaoci # 用户造詞
+    - lua_translator@yuhao_helper # 幫助文檔
   filters:
     - lua_filter@yuhao_single_char_only_for_full_code
     - lua_filter@yuhao_postpone_full_code
@@ -126,6 +128,14 @@ chaifen:
   tags: [abc, reverse_lookup]
   tips: char
 
+zaoci:
+  __include: /translator
+  initial quality: 10000
+  enable_sentence: true
+  prifix: "`"
+  tips: "〔用户造詞〕"
+  tag: zaoci
+
 yuhao_postpone_full_code:
   tags: [abc]
   lua:
@@ -137,7 +147,7 @@ schema_name:
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
   initials: zyxwvutsrqponmlkjihgfedcba
-  delimiter: " `"
+  delimiter: "`"
   max_code_length: 4
   auto_select: true
   algebra:
@@ -161,6 +171,8 @@ translator:
   preedit_format:
     - 'xform/^([a-y]*)$/$1\t〔\U$1\E〕/'
     - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|扌糸女石亻木王土氵日虫口目足宀疒竹犭艹钅言厶月彐心|"
+  comment_format:
+    - 'xform/^~//'
   disable_user_dict_for_patterns: 
     - "^z.*$"
 
@@ -224,6 +236,7 @@ recognizer:
   patterns:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
     reverse_lookup: "^[z]([a-z]+?)*$"
+    zaoci: "^[a-y]+`[a-y`]+$"
 
 style:
   horizontal: true
