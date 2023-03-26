@@ -213,7 +213,7 @@ punctuator:
     "|": "|"
 
 key_binder:
-  import_preset: default
+  # import_preset: default
   bindings:
     - { when: always, accept: "Control+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
