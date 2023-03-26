@@ -75,17 +75,17 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
-    - affix_segmentor@zaoci # 用户造詞
+    - "affix_segmentor@zaoci" # 用户造詞
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
   translators:
     - punct_translator
+    - reverse_lookup_translator
     - table_translator@fixed
     - table_translator
-    - reverse_lookup_translator
-    - table_translator@zaoci # 用户造詞
     - lua_translator@yuhao_helper # 幫助文檔
+    - "table_translator@zaoci" # 用户造詞
   filters:
     - lua_filter@yuhao_single_char_only_for_full_code
     - lua_filter@yuhao_postpone_full_code
@@ -124,17 +124,8 @@ chaifen:
   opencc_config: yuhao_chaifen.json
   option_name: chaifen
   show_in_comment: true
-  # tags: [reverse_lookup]
   tags: [abc, reverse_lookup]
   tips: char
-
-zaoci:
-  __include: /translator
-  initial quality: 10000
-  enable_sentence: true
-  prifix: "`"
-  tips: "〔用户造詞〕"
-  tag: zaoci
 
 yuhao_postpone_full_code:
   tags: [abc]
@@ -163,9 +154,10 @@ translator:
   dictionary: yuhao
   prism: yuhao
   db_class: tabledb
+  # enable_charset_filter: true
   enable_completion: false
   enable_sentence: false
-  enable_user_dict: true
+  enable_user_dict: false
   enable_encoder: true
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长
@@ -173,9 +165,22 @@ translator:
     - 'xform/^([a-y]*)$/$1\t〔\U$1\E〕/'
     - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|扌糸女石亻木王土氵日虫口目足宀疒竹犭艹钅言厶月彐心|"
   comment_format:
-    - 'xform/^~//'
-  disable_user_dict_for_patterns: 
+    - 'xform/^~/ /'
+  disable_user_dict_for_patterns:
     - "^z.*$"
+
+# abc_segmentor:
+#   extra_tags:
+#     - reverse_lookup
+
+zaoci:
+  __include: /translator
+  initial_quality: 10
+  enable_sentence: true
+  enable_user_dict: true
+  prefix: '`'
+  tips: "〔用户造詞〕"
+  tag: zaoci
 
 # 固定词库词的权重，防止自动调频
 fixed:
@@ -208,6 +213,7 @@ punctuator:
     "|": "|"
 
 key_binder:
+  import_preset: default
   bindings:
     - { when: always, accept: "Control+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
@@ -236,8 +242,8 @@ recognizer:
   import_preset: default
   patterns:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
-    reverse_lookup: "^[z]([a-z]+?)*$"
-    zaoci: "^[a-y]+`[a-y`]+$"
+    reverse_lookup: "^z([a-z]+?)*$"
+    zaoci: "^[a-y]*`[a-y`]*$"
 
 style:
   horizontal: true
