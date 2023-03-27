@@ -154,7 +154,6 @@ translator:
   dictionary: yuhao
   prism: yuhao
   db_class: tabledb
-  # enable_charset_filter: true
   enable_completion: false
   enable_sentence: false
   enable_user_dict: false
