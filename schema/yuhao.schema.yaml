@@ -88,9 +88,9 @@ engine:
     - "table_translator@zaoci" # 用户造詞
   filters:
     - lua_filter@yuhao_single_char_only_for_full_code
-    - lua_filter@yuhao_postpone_full_code
     - lua_filter@yuhao_char_first
     - lua_filter@yuhao_char_only
+    - lua_filter@yuhao_postpone_full_code
     - simplifier@traditionalize
     - simplifier@simplify
     - simplifier@chaifen
@@ -162,7 +162,7 @@ translator:
   max_phrase_length: 4 # 自动成词的最大词长
   preedit_format:
     - 'xform/^([a-y]*)$/$1\t〔\U$1\E〕/'
-    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|扌糸女石亻木王土氵日虫口目足宀疒竹犭艹钅言厶月彐心|"
+    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|扌糸女石亻木王土氵日虫口目足宀疒竹犭艹钅火厶月彐心|"
   comment_format:
     - 'xform/^~/ /'
   disable_user_dict_for_patterns:
