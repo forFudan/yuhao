@@ -85,13 +85,14 @@ encoder:
 这个	p
 我们	q
 得到	r
-为什么	s
+有些	s
 今天	t
 应该	u
 已经	v
 然后	w
 出来	x
 必须	y
+为什么	o
 打	aa
 切	ab
 把	ac
@@ -465,7 +466,7 @@ encoder:
 说	ou
 充	ov
 谁	ow
-辛	ox
+为	ox
 密	oy
 麻	pa
 变	pb
@@ -565,7 +566,7 @@ encoder:
 灰	su
 动	sv
 准	sw
-为	sx
+历	sx
 带	sy
 昏	ta
 八	tb
@@ -1041,7 +1042,7 @@ encoder:
 认为	ot
 商品	ou
 充分	ov
-辛苦	ox
+辛	ox
 密切	oy
 麻烦	pa
 变化	pb
@@ -1131,7 +1132,7 @@ encoder:
 灰色	su
 运动	sv
 有的	sw
-为了	sx
+历史	sx
 带来	sy
 昏迷	ta
 针对	td
@@ -1357,7 +1358,7 @@ encoder:
 记忆	ob
 安全	oc
 丶	od
-所谓	oe
+所有	oe
 完全	of
 之后	ok
 就要	ol
@@ -5162,7 +5163,6 @@ encoder:
 肩	owv
 褢	oww
 袌	owx
-寤	oxf
 寐	oxh
 谲	oxk
 劾	oxl
@@ -6434,7 +6434,7 @@ encoder:
 蕁	sxf
 莊	sxh
 騄	sxk
-历	sxl
+茄	sxl
 冯	sxm
 莙	sxq
 鶜	sxr
