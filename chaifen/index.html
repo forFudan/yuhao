@@ -6,6 +6,16 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>宇浩繁简通用形码输入法在线拆分查询系统</title>
+    <style>
+        @font-face {
+            font-family: 'YuhaoSongti';
+            src: url("./fonts/YuhaoSongti.ttf");
+        }
+
+        body {
+            font-family: "YuhaoSongti", "Microsoft YaHei", sans-serif;
+        }
+    </style>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css"
         integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
     <!-- <script src="app.js"></script> -->
@@ -22,9 +32,9 @@
                 <h1 class=>宇浩在线拆分查询</h1>
                 <h2 class=>查询98000个汉字的拆分</h2>
                 <p></p>
-                    <br>朱宇浩 (forFudan) 发明
-                    <br>宇浩繁简通用形码输入法官网: <a target="_blank" href="https://zhuyuhao.com/yuhao/">https://zhuyuhao.com/yuhao/</a>
-                    <br>iPhone手机用户可将本网页「添加到主屏幕」从而一键打开。
+                <br>朱宇浩 (forFudan) 发明
+                <br>宇浩繁简通用形码输入法官网: <a target="_blank" href="https://zhuyuhao.com/yuhao/">https://zhuyuhao.com/yuhao/</a>
+                <br>iPhone手机用户可将本网页「添加到主屏幕」从而一键打开。
                 </p>
                 <form id="form">
                     <input class="form-control" id="user-input" placeholder=输入汉字>
@@ -38,6 +48,7 @@
                             <th scope="col">拆分</th>
                             <th scope="col">全码</th>
                             <th scope="col">字符集</th>
+                            <th scope="col">字根细节</th>
                         </tr>
                     </thead>
                     <tbody>
@@ -52,7 +63,7 @@
                     <br>字形标准取自：
                     <br>-《中华人民共和国国家标准 GB 18030--2022 信息技术 中文编码字符集》中刊载的汉字。
                     <br>- The Unicode Standard, Version 15.0 中刊载的汉字。
-                    </p>
+                </p>
             </div>
         </div>
     </div>

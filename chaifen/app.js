@@ -18,7 +18,8 @@ d3.csv("yuhao_chaifen.csv", function(data) {
                 "<td>" + (output[i]['char']) + "</td>" +
                 "<td>" + (output[i]['division']) + "</td>" +
                 "<td>" + (output[i]['code']) + "</td>" +
-                "<td>" + (output[i]['region']) + "</td>")
+                "<td>" + (output[i]['region']) + "</td>" +
+                "<td>" + (output[i]['details']) + "</td>")
         }
     };
 });
