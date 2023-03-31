@@ -91,27 +91,22 @@
 - 支持自定义字符集过滤生僻字。常用字约一万字，包括GB2312汉字、國語常用字、其它常用汉字等。支持用户自定义修改。
 - 提供四码只出单字功能，适合单字派。
 
-在安装了 Rime（小狼毫、鼠须管、同文、iRime）后，将 [/schema](https://github.com/forFudan/yuhao/tree/main/schema) 文件夹下的**所有文件**复制到 Rime 目录下。同时在 default.custom.yaml 文件中加入以下内容：
+在安装了 Rime（小狼毫、鼠须管、同文、iRime）后，将 [/schema](https://github.com/forFudan/yuhao/tree/main/schema) 文件夹下的**所有文件**复制到 Rime 目录下。点击「部署」之后即可使用。
 
-```yaml
-patch:
-  schema_list:
-    - schema: yuhao
-    - schema: yuhao_starter
-```
+方案文件介绍：
 
-点击「部署」之后即可使用。
-
-文件介绍：
-
-- yuhao.schema.yaml 给熟手的方案文件，默认关闭拆分提示、常用字优先、关闭预测、显示五个候选项，横排。
-- yuhao_starter.schema.yaml 给新手使用的方案文件，默认打开拆分提示、屏蔽生僻字、开启预测、显示9个候选项。
+- yuhao.schema.yaml 给熟手的方案，默认关闭拆分提示、常用字优先、关闭预测、横排显示5个候选项。
+- yuhao_starter.schema.yaml 给新手使用的方案，默认打开拆分提示、屏蔽生僻字、开启预测、竖排显示9个候选项。
+- yuhao_tradition.schema.yaml 传统汉字方案，默认关闭拆分提示、常用字优先、开启预测、横排显示5个候选项。
 - yuhao.dict.yaml 字典文件
+- yuhao_tradition.dict.yaml 传统汉字字典文件
 - rime.lua 脚本设定
 - lua/yuhao/... 各种脚本
-- opencc/... 单字拆分表
+- opencc/... 拆分表
 - pinyin_simp.schema.yaml 袖珍简化字拼音配置文件
 - pinyin_simp.dict.yaml 袖珍简化字拼音字典文件
+- luna_pinyin.schema.yaml 朙月拼音配置文件
+- luna_pinyin.dict.yaml 朙月拼音字典文件
 
 RIME 版詳細功能見第四章。
 

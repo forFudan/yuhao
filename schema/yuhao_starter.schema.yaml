@@ -18,7 +18,7 @@ schema:
     - 顯示單字和詞語的拆分提示，通過 / 鍵 或 Control+Shift+C 關閉。
     - 顯示九個候選項，豎排候選欄。
     - Z 鍵反查拼音
-    - 按"help"或"zzzz"或"bang"提示快捷鍵和官方網站。
+    - 按"help"或"bang"提示快捷鍵和官方網站。
   dependencies:
     - pinyin_simp
 
@@ -81,11 +81,6 @@ translator:
   enable_encoder: true
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长
-  preedit_format:
-    - 'xform/^([a-y]*)$/$1\t〔\U$1\E〕/'
-    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|扌糸女石亻木王土氵日虫口目足宀疒竹犭艹钅言厶月彐心|"
-  disable_user_dict_for_patterns: 
-    - "^z.*$"
 
 style:
   horizontal: false

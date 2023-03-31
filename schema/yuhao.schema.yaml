@@ -3,7 +3,7 @@
 
 schema:
   schema_id: yuhao
-  name: 宇浩·繁简通
+  name: 宇浩·繁简通用
   version: 20230312
   author:
     - 發明人 朱宇浩 <https://zhuyuhao.com/yuhao/>
@@ -16,7 +16,7 @@ schema:
     - 不顯示拆分提示，通過 / 鍵 或 Control+Shift+C 開啓。
     - 只顯示五個候選項，橫排候選欄。
     - Z 鍵反查拼音
-    - 按"help"或"zzzz"或"bang"提示快捷鍵和官方網站。
+    - 按"help"或"bang"提示快捷鍵和官方網站。
   dependencies:
     - pinyin_simp
 
@@ -156,7 +156,7 @@ translator:
   db_class: tabledb
   enable_completion: false
   enable_sentence: false
-  enable_user_dict: false
+  enable_user_dict: true
   enable_encoder: true
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长

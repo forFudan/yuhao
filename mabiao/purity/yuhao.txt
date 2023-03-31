@@ -186,6 +186,7 @@ abmn 𢭚
 abmo 𢯜
 abmv 𢰲
 abmw 㨝
+aboa 𤭿
 abod 扠
 abod 扨
 abod 択
@@ -195,6 +196,7 @@ aboi 𢱙
 abok 搔
 abok 𢸪
 abon 𰍎
+aboo 𤧬
 abow 袃
 abow 𧚿
 abox 搱
@@ -216,14 +218,12 @@ abri 抳
 abri 𮋯
 abrm 捤
 abrn 𨥓
-absa 𤭿
 absb 𢱈
 absb 𦖲
 absc 挪
 absg 搌
 absg 𦗘
 absk 𪯁
-abso 𤧬
 absq 㩔
 absy 𱻾
 abtc 𮠇
@@ -1868,6 +1868,7 @@ aowy 挔
 aox 𭡄
 aoxc 𢲲
 aoxc 𦗏
+aoxo 㧑
 aoxu 搧
 aoxw 𪮡
 aoxw 𫆍
@@ -2538,7 +2539,6 @@ aswy 𢶰
 aswy 𢷭
 asxi 𬚒
 asxj 𰓜
-asxl 㧑
 asxo 抟
 asxt 𫾃
 asxx 𢱝
@@ -5172,6 +5172,7 @@ bonh 𬆸
 boni 𣥉
 boni 𰙜
 bonn 𭃷
+bood 㕚
 book 𰎀
 boox 縡
 bope 𰄥
@@ -5789,7 +5790,6 @@ bsrd 𭃂
 bsrh 𡰥
 bsri 𡤾
 bsrn 𦇔
-bsru 㕚
 bsru 𬺹
 bsry 𦇎
 bssa 𡱕
@@ -5933,6 +5933,7 @@ btom 𦆺
 btov 紟
 btov 𦁌
 btoy 𦁤
+btoy 𦃕
 btoy 𭃮
 btpd 𨙖
 btpo 通
@@ -5943,7 +5944,6 @@ btsk 𭃈
 btsr 𥾪
 btsv 絵
 btsy 𦁇
-btsy 𦃕
 bttb 紒
 bttb 㜾
 bttc 𦃛
@@ -8119,6 +8119,7 @@ cowy 䧇
 cox 㛙
 coxc 嫏
 coxf 𬯁
+coxo 妫
 coxs 𨹕
 coya 嬣
 coyj 𭒛
@@ -8617,7 +8618,6 @@ cswv 姷
 csww 𨼞
 csww 𫱰
 csxh 𫱡
-csxl 妫
 csxn 𪦧
 csxo 𰋹
 csxt 𡛪
@@ -8701,6 +8701,7 @@ ctol 娢
 ctol 𪦔
 ctol 𲉝
 ctom 𮥞
+ctoo 𰆔
 ctov 妗
 ctov 陰
 ctov 𩎖
@@ -8717,7 +8718,6 @@ ctsd 𨼍
 ctsd 𩏤
 ctsi 险
 ctsi 𫰰
-ctsr 𰆔
 ctsv 𫰢
 ctsw 𨻔
 cttb 阶
@@ -11963,6 +11963,7 @@ dmxx 𩑍
 dmxy 悳
 dmxy 䨘
 dmxy 㥁
+dmxy 𰴒
 dmya 䴕
 dmyb 𧾝
 dmyb 𧾩
@@ -12247,6 +12248,7 @@ doxc 𧽗
 doxd 𰚀
 doxg 辜
 doxg 𨐒
+doxo 𰦨
 doxs 𢁁
 doxu 𥔱
 doxw 𩅜
@@ -13036,7 +13038,6 @@ dsww 𧽹
 dsxl 雳
 dsxl 𫎱
 dsxl 𰦦
-dsxl 𰦨
 dsxm 𭄆
 dsxo 砖
 dsxo 𬦆
@@ -16264,6 +16265,7 @@ eox 𠉄
 eoxb 𤽮
 eoxc 𠌇
 eoxl 𠌣
+eoxo 伪
 eoxu 傓
 eoxw 𱏃
 eoxw 𱱽
@@ -16781,6 +16783,7 @@ esob 𠭧
 esod 仗
 esog 𪝆
 esom 𫣥
+esoo 𫢭
 esoy 𤾸
 espa 𫣦
 espo 𨒟
@@ -16824,7 +16827,6 @@ essr 佄
 essv 𠊁
 essw 𪴞
 essx 翶
-essx 𫢭
 esta 𤾹
 estb 供
 estb 𠊠
@@ -16877,7 +16879,6 @@ eswx 𰅞
 eswy 𢣍
 esxe 𠍑
 esxi 𠆬
-esxl 伪
 esxo 传
 esya 𲍶
 esyb 𠑦
@@ -19443,27 +19444,43 @@ fkel 櫊
 fken 𢿋
 fkev 𠀸
 fkew 𧜌
+fkfb 𪋭
 fkfb 𪲕
+fkfc 酈
+fkfc 婯
+fkfc 𬜟
 fkff 𠕂
 fkfg 𫼄
+fkfi 麗
+fkfi 麗
 fkfj 𣟬
 fkfk 棘
 fkfk 棗
 fkfk 𠀙
 fkfk 𢿷
+fkfk 𣀷
 fkfk 𣝯
 fkfk 𣡍
 fkfl 桐
 fkfl 𪲸
 fkfl 𬃔
+fkfm 䚕
+fkfm 𠠫
+fkfm 𧢮
+fkfp 邐
 fkfq 𠒧
+fkfr 鸝
+fkfr 𣰿
 fkfs 𣛣
 fkft 僰
+fkft 彲
 fkfu 欄
 fkfu 𤏡
+fkfu 𮭷
 fkfu 欄
 fkfv 㯗
 fkfv 𣐫
+fkfv 𮭶
 fkfx 𠢠
 fkfy 𭞧
 fkg 朿
@@ -19486,11 +19503,22 @@ fkjv 㭼
 fkjv 𣡣
 fkka 𣜊
 fkkc 樱
+fkkc 郦
 fkke 𫿻
+fkkg 丽
+fkkg 丽
 fkkk 𧑖
+fkkk 𫾲
+fkkk 𰴗
+fkkm 𰄭
+fkkn 𠁖
+fkkp 逦
+fkkq 𱍪
+fkkt 彨
 fkku 𭣯
 fkkv 螙
 fkkv 𧋔
+fkky 鹂
 fkl 樐
 fkll 櫚
 fklp 𣔲
@@ -19552,9 +19580,7 @@ fkor 𪁖
 fkos 𩣗
 fkos 𪪵
 fkou 𤈿
-fkou 𮭷
 fkov 皳
-fkov 𮭶
 fkow 裘
 fkow 𭱉
 fkox 𠡟
@@ -19582,50 +19608,24 @@ fkro 𪀜
 fkrr 𭪣
 fkru 枘
 fks 𪱲
-fksb 𪋭
-fksc 郦
-fksc 酈
-fksc 婯
-fksc 𬜟
 fksf 欁
-fksi 麗
 fksi 㠪
-fksi 麗
-fksk 丽
 fksk 梬
-fksk 𣀷
-fksk 𫾲
-fksk 𰴗
-fksk 丽
-fksm 䚕
-fksm 𠠫
 fksm 𣔺
 fksm 𬅒
-fksm 𰄭
-fksm 𰴒
-fksm 𧢮
-fksn 𠁖
-fksp 逦
-fksp 邐
 fksq 𬻔
 fksq 𰀓
-fksq 𱍪
 fksr 枣
 fksr 枏
 fksr 梩
-fksr 鸝
 fksr 𠄬
 fksr 𠕅
-fksr 𣰿
 fkss 檂
-fkst 彨
-fkst 彲
 fkst 椣
 fksu 𣘸
 fksu 𪴀
 fksv 𪲇
 fksw 𣓍
-fksy 鹂
 fkta 𡭃
 fktc 邴
 fktc 𡠈
@@ -20622,6 +20622,7 @@ foxc 榔
 foxc 𠁿
 foxe 𰺬
 foxm 𣘕
+foxo 𱣄
 foxu 㮼
 foxw 樃
 foxw 𣟐
@@ -21437,7 +21438,6 @@ fsxi 𣏓
 fsxj 栉
 fsxl 枥
 fsxl 𣖚
-fsxl 𱣄
 fsxo 𣏢
 fsxt 𰘩
 fsxu 䍾
@@ -22595,7 +22595,6 @@ gbsc 𤥶
 gbsc 𩈩
 gbsc 𮧍
 gbsc 𰼈
-gbsf 𪲠
 gbsg 輾
 gbsg 𤧷
 gbsg 𨏲
@@ -22604,6 +22603,7 @@ gbso 𭚗
 gbsq 醗
 gbsq 𤩴
 gbsq 𫖋
+gbtf 𪲠
 gbtn 𢀧
 gbtn 𩊾
 gbtn 𱜙
@@ -27161,6 +27161,7 @@ hbqm 𰷎
 hbqn 𠭐
 hbqn 𣫆
 hbqn 𬆍
+hbqo 𣫘
 hbqp 𥼆
 hbqp 𮡑
 hbqq 𬺝
@@ -27168,7 +27169,6 @@ hbqr 鏧
 hbqr 䅽
 hbqr 𮭑
 hbqs 㲇
-hbqs 𣫘
 hbqs 𤯒
 hbqs 𪐕
 hbqt 撀
@@ -27911,8 +27911,8 @@ hfsv 𭍿
 hfta 𡋫
 hftk 䰍
 hftk 𪤦
+hfto 㲉
 hftr 𡒚
-hfts 㲉
 hftt 𱖫
 hftu 𰔕
 hftv 鬆
@@ -29058,8 +29058,8 @@ hmmm 覿
 hmmn 盐
 hmmn 𪤂
 hmmo 𠠠
+hmmo 𧸷
 hmmp 䢱
-hmms 𧸷
 hmms 𮚬
 hmmu 𮮟
 hmmv 皾
@@ -34048,6 +34048,7 @@ ioxb 𰝠
 ioxc 𱧧
 ioxd 𱩙
 ioxm 𣼡
+ioxo 沩
 ioxt 㵳
 ioxw 𣼽
 ioxw 𤁁
@@ -34929,7 +34930,6 @@ isxh 𣼥
 isxi 汚
 isxj 𰛤
 isxl 沥
-isxl 沩
 isxo 𫁟
 isxo 𬇘
 isxt 潇
@@ -38057,6 +38057,7 @@ jowy 𭥾
 jox 𣇛
 joxc 𬁈
 joxi 𣆍
+joxo 𱡼
 joxs 峷
 joxs 𣌪
 joxw 𱢞
@@ -38688,7 +38689,6 @@ jsxb 𣇗
 jsxh 𱢢
 jsxl 𫵷
 jsxl 𰕵
-jsxl 𱡼
 jsxo 𡹰
 jsxs 𤲐
 jsxt 𡷳
@@ -41283,6 +41283,8 @@ kowq 𱿹
 kox 𫋁
 koxc 螂
 koxn 𨴲
+koxo 𧹑
+koxo 𰲲
 koxu 𧎥
 koya 䗿
 koyj 𬮒
@@ -41860,8 +41862,6 @@ kswv 𣍟
 ksxi 𠃪
 ksxj 𮔂
 ksxj 𰆐
-ksxl 𧹑
-ksxl 𰲲
 ksxl 𱿚
 ksxn 𱝒
 ksxt 蟏
@@ -43418,6 +43418,7 @@ leo 㕭
 leoc 𫪢
 leod 𭇓
 leoe 噭
+leoo 𫩳
 leow 𠵱
 leoy 𠼮
 lepa 𠼵
@@ -43452,7 +43453,6 @@ lesr 𱒊
 lest 𡀠
 lest 𱓋
 lesv 唾
-lesx 𫩳
 leta 𠲐
 letb 𠴒
 letb 𪡀
@@ -45024,6 +45024,7 @@ lowy 𠲖
 lowy 𧘗
 lox 㖕
 loxc 啷
+loxo 𠯠
 loxt 𱕐
 loxu 𭉮
 loxw 𠻴
@@ -45683,7 +45684,6 @@ lsww 𫬇
 lswx 𡁿
 lsxj 𠰱
 lsxl 呖
-lsxl 𠯠
 lsxl 𠸏
 lsxo 𰇊
 lsxs 𭇼
@@ -45768,6 +45768,7 @@ ltol 唅
 ltom 嗿
 ltom 𩒻
 ltom 𰈼
+ltoo 𰇬
 ltos 𠹞
 ltov 吟
 ltow 𠹸
@@ -45786,7 +45787,6 @@ ltsi 𪡋
 ltsk 𠯋
 ltsm 𭉃
 ltsr 𠗀
-ltsr 𰇬
 ltsv 哙
 ltsw 𫪩
 ltsw 𫪫
@@ -46609,7 +46609,11 @@ mbod 䀔
 mbod 𠧓
 mbod 𧴬
 mbom 䁊
+mboo 𤦼
+mboo 𤧩
+mboo 𥄗
 mbos 䝲
+mbot 𢯲
 mboy 𢂻
 mboy 𥆾
 mbpm 𪾴
@@ -46623,12 +46627,8 @@ mbsb 睱
 mbsb 𩩱
 mbsg 𥉲
 mbsg 𪙕
-mbso 𤦼
-mbso 𤧩
 mbso 𰥩
-mbsr 𥄗
 mbsr 𥄿
-mbst 𢯲
 mbsu 𬊐
 mbtn 𧆿
 mbtn 𭾸
@@ -54904,6 +54904,8 @@ ooww 𲀭
 oowy 扆
 oowy 𧘩
 oox 宰
+ooxo 𰌷
+ooxo 𰵑
 ooxs 𫳄
 ooxu 𫍸
 ooxx 辡
@@ -55621,8 +55623,6 @@ oswy 𮕱
 osxc 𧥜
 osxf 𣑄
 osxi 𡧈
-osxl 𰌷
-osxl 𰵑
 osym 𬤈
 osyx 𬣿
 ota 𡧙
@@ -56376,6 +56376,8 @@ oxnl 𠾃
 oxnl 𡃬
 oxnl 𡄚
 oxnl 𡅟
+oxoc 𰻦
+oxod 为
 oxod 𭅳
 oxot 𢩡
 oxox 辦
@@ -58844,6 +58846,8 @@ poxc 㾿
 poxc 𥧫
 poxc 𧜛
 poxm 𮇞
+poxo 𰣦
+poxo 𰿫
 poxw 𬡨
 poya 𤻝
 poyj 𬖵
@@ -59597,8 +59601,6 @@ pswv 𧙸
 pswv 𫋸
 psxh 糚
 psxl 疬
-psxl 𰣦
-psxl 𰿫
 psxl 𱹐
 psxo 𰪫
 psya 𱊖
@@ -72173,6 +72175,7 @@ sbom 𩑱
 sbom 𩠖
 sbom 𪟁
 sbon 䔼
+sboo 㻨
 sboq 𦼟
 sbor 䳊
 sbos 荩
@@ -72214,7 +72217,6 @@ sbsd 𦽸
 sbsg 𩥇
 sbsg 𬝳
 sbsj 𮒖
-sbso 㻨
 sbsp 蕸
 sbsq 𦽄
 sbsv 𭆳
@@ -76033,6 +76035,7 @@ soxc 𠗷
 soxc 𮑛
 soxh 厗
 soxm 騂
+soxo 𫇭
 soxu 騸
 soxu 𦶋
 soxw 蓢
@@ -77153,7 +77156,6 @@ sswv 𰢨
 sswy 𮏣
 ssxa 𮏁
 ssxl 苈
-ssxl 𫇭
 ssxn 𦭢
 ssxs 𨑄
 ssxs 𱄟
@@ -78440,7 +78442,6 @@ sxbu 𮎢
 sxc 𦫶
 sxc 𦬏
 sxcc 𦱳
-sxcf 𰻦
 sxcm 𩢓
 sxcr 𤮺
 sxdm 頋
@@ -78508,7 +78509,6 @@ sxlh 历
 sxlh 𫈠
 sxlk 𦱫
 sxlp 𨔽
-sxlr 为
 sxlr 𭂇
 sxlv 茄
 sxlv 𦮑
@@ -80866,11 +80866,24 @@ tonf 𫔑
 tonk 𧖞
 tonk 𩽱
 tonr 𩼤
+toob 孵
+tooc 𬪁
+tood 卵
+tood 𠷞
+tood 卵
 toog 𤗐
 toog 𦤔
 toog 𩸗
+toog 𫧿
+tooh 𫧾
+toom 贕
 toop 𮟗
+tooq 毈
+toor 𮬺
 toos 𤠩
+toot 𱑚
+toov 𫧼
+tooy 㤻
 topo 𮞃
 toqa 𩶱
 toqa 𬭈
@@ -81007,6 +81020,7 @@ toxm 𠑜
 toxm 𢄕
 toxm 𲊶
 toxo 𠞴
+toxo 𬬶
 toxp 䢢
 toxr 鶬
 toxt 𠟐
@@ -81353,9 +81367,7 @@ tscf 鄓
 tscf 𨞲
 tsch 𢴝
 tscy 𩼰
-tsdg 𠷞
 tsdg 𩹜
-tsdg 𫧿
 tsdh 钭
 tsdh 𩵬
 tsdh 𰁩
@@ -81364,7 +81376,6 @@ tsdu 𦤭
 tsdw 𩹛
 tsdx 𦤯
 tsdy 𫺅
-tseb 孵
 tsei 𣢍
 tsej 𱡭
 tsel 𫙩
@@ -81372,7 +81383,6 @@ tsel 𭸫
 tsel 𮬉
 tsem 𫚁
 tsem 𫚆
-tseq 毈
 tser 𩸽
 tser 𰔀
 tsex 𩼚
@@ -81399,7 +81409,6 @@ tshg 𠈾
 tshg 𰯶
 tshg 𱆮
 tshj 䦃
-tshm 贕
 tshm 𫠁
 tshr 𩺆
 tshs 𩻮
@@ -81449,7 +81458,6 @@ tsku 𬵿
 tsky 𫙽
 tsky 𬵁
 tslc 𦤡
-tslc 𬪁
 tsll 𩺙
 tsls 𬵸
 tslt 𧇵
@@ -81484,13 +81492,10 @@ tsox 𩺵
 tsqm 𩼳
 tsqs 𬵘
 tsqt 㸢
-tsra 卵
-tsra 卵
 tsre 仒
 tsrm 𩸚
 tsrn 𤘃
 tsrn 𩽏
-tsro 𮬺
 tsrp 𩽃
 tssb 𦤱
 tssc 𨝲
@@ -81549,7 +81554,6 @@ tsvm 刽
 tsvm 𥁧
 tsvq 𩹋
 tsvt 𠊉
-tsvt 𱑚
 tsvu 𬵴
 tsvv 会
 tsvv 𦤆
@@ -81568,11 +81572,8 @@ tswv 铕
 tswv 鮪
 tswv 䱍
 tsxc 𦣹
-tsxh 𫧾
-tsxl 𬬶
 tsxl 𰽝
 tsxo 𲇲
-tsxv 𫧼
 tsxx 𢱞
 tsxx 𩼚
 tsyc 䒊
@@ -81581,7 +81582,6 @@ tsye 𨱏
 tsye 𩺗
 tsyf 𱇌
 tsyq 𬭒
-tsyv 㤻
 tsyv 𫝹
 tsyx 铹
 tta 铆
@@ -82661,6 +82661,7 @@ ubbm 㡩
 ubbm 𩪾
 ubbn 𣦱
 ubbn 𮜭
+ubbo 𠨫
 ubbo 𤫜
 ubbo 𦇥
 ubbq 𠙳
@@ -82674,7 +82675,6 @@ ubbr 𪈽
 ubbr 𪈿
 ubbr 𭯮
 ubbr 鸞
-ubbs 𠨫
 ubbs 𢍶
 ubbt 攣
 ubbt 臠
@@ -85585,6 +85585,7 @@ uoxc 𤍎
 uoxc 𬓌
 uoxc 廊
 uoxc 廊
+uoxo 𱪯
 uoxt 𮘈
 uoxu 煽
 uoxu 謆
@@ -86578,7 +86579,6 @@ usxk 𱬓
 usxl 㔙
 usxl 𦍠
 usxl 𱪪
-usxl 𱪯
 usxn 𠩖
 usxr 𣯠
 usxs 𭘊
@@ -90150,6 +90150,7 @@ wbof 𬧪
 wbog 𭑕
 wbok 𦞣
 wboo 𤘞
+wboo 𮌋
 wboy 躵
 wboy 㸾
 wboy 䏰
@@ -90166,7 +90167,6 @@ wbsb 腵
 wbsb 𨉣
 wbsc 𬛁
 wbsg 𦟌
-wbsr 𮌋
 wbsv 𭚘
 wbtn 𦛸
 wbtu 𢫪
@@ -94161,7 +94161,7 @@ xhso 𱳛
 xhsv 弉
 xhta 𠨡
 xhtl 牆
-xhts 𱑛
+xhto 𱑛
 xhuh 𦐜
 xhuh 𬳴
 xhum 𧗊
@@ -97389,6 +97389,7 @@ yowy 𮖛
 yox 𭝅
 yoxc 𩝢
 yoxn 𬻵
+yoxo 𱞅
 yoxw 𢠯
 yoya 懧
 yoya 䭢
@@ -98044,7 +98045,6 @@ yswv 𫎋
 yswv 𫗏
 yswy 憽
 ysxl 𪫡
-ysxl 𱞅
 ysxo 𰑁
 ysxx 𭞖
 ysxx 𰑾
