@@ -505,7 +505,7 @@ char,division,code,quick_simp,quick_trad,region,details
 劣,小丿力,MQXl,mqx,mqx,GB2312,
 动,二厶力,SVXl,sv,svx,GB2312,
 助,且力,MXlq,mxl,mxl,GB2312,
-努,女又力,CBXl,cb,cbx,GB2312,
+努,女又力,CBXl,cb,cb,GB2312,
 劫,土厶力,HVXl,,hvx,GB2312,
 劬,口力,WLXl,wlx,wlx,GB2312,{⼓同月}口力
 劭,刀口力,BLXl,blx,blx,GB2312,
@@ -643,7 +643,7 @@ char,division,code,quick_simp,quick_trad,region,details
 召,刀口,BLvd,blv,blv,GB2312,
 叭,口八,LTb,,,GB2312,
 叮,口丁,LAn,,,GB2312,
-可,丁口,ALvn,aal,a,GB2312,
+可,丁口,ALvn,al,a,GB2312,
 台,厶口,VLv,,,GB2312,
 叱,口匕,LRi,,,GB2312,
 史,口乂,LWa,lw,,GB2312,
@@ -1394,7 +1394,7 @@ char,division,code,quick_simp,quick_trad,region,details
 寨,宀八木,OSTF,,,GB2312,宀{冓上同艹}八木
 寮,宀大丷小,OGUM,ogu,ogu,GB2312,
 寰,宀罒一𧘇,OMFW,omf,omf,GB2312,
-寸,寸,Acƒ,,,GB2312,
+寸,寸,Acƒ,ac,,GB2312,
 对,又寸,BAcu,ba,,GB2312,
 寺,土寸,HAc,ha,,GB2312,
 寻,彐寸,XAc,,,GB2312,
@@ -1769,7 +1769,7 @@ char,division,code,quick_simp,quick_trad,region,details
 怍,忄,YQMo,,,GB2312,忄{丿一同竹}{乍下同卜}
 怎,心,QMYv,qmy,qm,GB2312,{丿一同竹}{乍下同卜}心
 怏,忄冂大,YKGd,ykg,ykg,GB2312,
-怒,女又心,CBYv,cby,cb,GB2312,
+怒,女又心,CBYv,cby,cby,GB2312,
 怔,忄一止,YFNi,yfn,yfn,GB2312,
 怕,忄白,YEb,,,GB2312,
 怖,忄巾,YSMj,ysm,ysm,GB2312,忄{右頭}巾
@@ -1994,7 +1994,7 @@ char,division,code,quick_simp,quick_trad,region,details
 技,扌十又,ADBu,adb,adb,GB2312,
 抄,扌小丿,AMQp,amq,amq,GB2312,
 抉,扌乙大,AVGd,,,GB2312,
-把,扌巴,ACa,ac,ac,GB2312,
+把,扌巴,ACa,a,ac,GB2312,
 抑,扌卩,ATXj,atx,atx,GB2312,扌{卬左同卯}卩
 抒,扌予,ACu,,,GB2312,
 抓,扌爪,AEk,,,GB2312,
@@ -3705,7 +3705,7 @@ char,division,code,quick_simp,quick_trad,region,details
 盯,目丁,MAn,ma,,GB2312,
 盱,目一,MFAu,mfa,mfa,GB2312,目一{于下}
 盲,亡目,UMvw,umv,umv,GB2312,
-直,十且,DMqh,dmq,dm,GB2312,
+直,十且,DMqh,dmq,dmq,GB2312,
 相,木目,FMv,,,GB2312,
 盹,目七凵,MAXc,max,max,GB2312,
 盼,目八刀,MTBd,mtb,mtb,GB2312,
@@ -3719,7 +3719,7 @@ char,division,code,quick_simp,quick_trad,region,details
 眍,目匚乂,MGWa,mgw,mgw,GB2312,
 眙,目厶口,MVLv,mvl,mvl,GB2312,
 眚,生目,WMvg,wmv,wmv,GB2312,
-真,十且八,DMTb,dm,dmt,GB2312,
+真,十且八,DMTb,dm,dm,GB2312,
 眠,目巳七,MXAi,mxa,mxa,GB2312,
 眢,夕乙目,RVMv,rvm,rvm,GB2312,
 眦,目止匕,MNRi,mnr,mnr,GB2312,
@@ -3796,7 +3796,7 @@ char,division,code,quick_simp,quick_trad,region,details
 矿,石广,DUu,,,GB2312,
 砀,石乙,DVTi,dvt,dvt,GB2312,石乙{两撇同彡}
 码,石马,DXm,,,GB2312,
-砂,石小丿,DMQp,,dmq,GB2312,
+砂,石小丿,DMQp,,,GB2312,
 砉,丰石,DDvn,ddv,ddv,GB2312,
 砌,石七刀,DABd,dab,dab,GB2312,
 砍,石欠,DEi,,,GB2312,
@@ -4426,7 +4426,7 @@ char,division,code,quick_simp,quick_trad,region,details
 耱,一未麻石,FHPD,,,GB2312,
 耳,耳,Arƒ,,,GB2312,
 耵,耳丁,AAnr,aan,aan,GB2312,
-耶,耳阝,ACfr,,,GB2312,
+耶,耳阝,ACfr,acf,,GB2312,
 耷,大耳,GArd,,,GB2312,
 耸,人人耳,TTAr,,,GB2312,
 耻,耳止,ANir,,,GB2312,
@@ -6475,7 +6475,7 @@ char,division,code,quick_simp,quick_trad,region,details
 驺,马冖彐,XYXv,,,GB2312,
 驻,马丶王,XOGv,xog,xog,GB2312,
 驼,马宀匕,XORi,xor,xor,GB2312,
-驽,女又马,CBXm,cbx,,GB2312,
+驽,女又马,CBXm,cbx,cbx,GB2312,
 驾,力口马,XLXm,xlx,xlx,GB2312,
 驿,马又,XBAv,xba,xba,GB2312,马又キ
 骀,马厶口,XVLv,xvl,xvl,GB2312,
@@ -14715,7 +14715,7 @@ char,division,code,quick_simp,quick_trad,region,details
 絣,糹䒑卄,BUSv,,,GBK,
 絤,糹西,BDi,,,GBK,
 絥,糹亻犬,BESa,,,GBK,
-給,糹合,BYe,,by,GBK,
+給,糹合,BYe,,,GBK,
 絧,糹冂一口,BKFL,bkf,bkf,GBK,
 絨,糹戈,BGSu,bgs,bg,GBK,糹戈{右頭}
 絩,糹儿二二,BQSS,,,GBK,
@@ -14734,7 +14734,7 @@ char,division,code,quick_simp,quick_trad,region,details
 絸,糹見,BMx,,,GBK,
 絹,糹口月,BLWv,blw,blw,GBK,
 絺,糹乂巾,BWSM,bws,bws,GBK,糹乂{右頭}巾
-絻,糹冖口儿,BYLQ,,,GBK,
+絻,糹冖口儿,BYLQ,,byl,GBK,
 絼,糹豸,BYi,,,GBK,
 絽,糹口口,BLLv,,,GBK,
 絾,糹戊乙,BDVi,,,GBK,
@@ -15009,7 +15009,7 @@ char,division,code,quick_simp,quick_trad,region,details
 纑,糹虍田皿,BMJM,,,GBK,糹{虎头同虎}田皿
 纒,糹厂甲土,BSKH,,,GBK,
 纓,糹貝貝女,BMMC,,,GBK,
-纔,糹冖口丶,BYLO,byl,byl,GBK,
+纔,糹冖口丶,BYLO,byl,by,GBK,
 纕,糹亠口𧘇,BOLW,,,GBK,
 纖,糹人人一,BTTF,btt,btt,GBK,
 纗,糹山隹口,BJWL,,,GBK,
@@ -19447,7 +19447,7 @@ char,division,code,quick_simp,quick_trad,region,details
 願,厂白小貝,SEMM,,,GBK,
 顙,又又又貝,BBBM,,,GBK,
 顚,匕目乚貝,RMXM,,,GBK,
-顛,十且八貝,DMTM,,,GBK,
+顛,十且八貝,DMTM,,dmt,GBK,
 顜,冂土貝,SKHM,,,GBK,{冓上同艹}冂土貝
 顝,骨貝,MDMb,,,GBK,骨{丆同石}貝
 類,米犬貝,PSDM,,,GBK,米犬{丆同石}貝

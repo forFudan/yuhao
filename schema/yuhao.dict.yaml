@@ -42,7 +42,7 @@ encoder:
       formula: "AaBaCaZa"
 ...
 
-可	a
+把	a
 那	b
 好	c
 不	d
@@ -67,7 +67,7 @@ encoder:
 然	w
 以	x
 心	y
-可以	a
+把握	a
 那么	b
 好的	c
 不是	d
@@ -92,7 +92,6 @@ encoder:
 然后	w
 以后	x
 心理	y
-可是	a
 那些	b
 好像	c
 不能	d
@@ -104,7 +103,7 @@ encoder:
 以为	x
 打	aa
 切	ab
-把	ac
+寸	ac
 顶	ad
 摇	ae
 抚	af
@@ -729,7 +728,6 @@ encoder:
 恰	yy
 打开	aa
 取得	ab
-把握	ac
 技术	ad
 抓住	ae
 捕捉	af
@@ -1271,7 +1269,6 @@ encoder:
 农业	yw
 命令	yx
 恰当	yy
-寸	ac
 亍	ah
 下去	ak
 可能	al
@@ -1299,6 +1296,7 @@ encoder:
 走进	dk
 來	dl
 还有	dp
+不知道	dq
 需求	ds
 白	eb
 壬	ee
@@ -1448,6 +1446,7 @@ encoder:
 摊	abw
 掘	abx
 聯	acc
+耶	acf
 拗	acx
 技	adb
 撕	ade
