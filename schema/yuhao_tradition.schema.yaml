@@ -89,9 +89,9 @@ engine:
     - lua_translator@yuhao_helper
   filters:
     - lua_filter@yuhao_single_char_only_for_full_code
-    - lua_filter@yuhao_postpone_full_code
     - lua_filter@yuhao_char_first
     - lua_filter@yuhao_char_only
+    - lua_filter@yuhao_postpone_full_code
     - simplifier@simplify
     - simplifier@chaifen
     - uniquifier

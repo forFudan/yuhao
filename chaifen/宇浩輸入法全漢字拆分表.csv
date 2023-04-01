@@ -28,7 +28,7 @@ char,division,code,quick_simp,quick_trad,region,details
 严,丌䒑丿,AUQp,auq,auq,GB2312,
 丧,十丷,DUGf,dug,dug,GB2312,十丷{畏下同匚}
 丨,丨,Nsƒƒ,,,GB2312,
-个,人丨,TNse,t,tns,GB2312,
+个,人丨,TNse,tns,tns,GB2312,
 丫,丷丨,UNsh,uns,uns,GB2312,
 丬,丬,Uhƒƒ,,,GB2312,
 中,口丨,LNs,l,l,GB2312,
@@ -38,7 +38,7 @@ char,division,code,quick_simp,quick_trad,region,details
 丶,丶,Odƒ,,,GB2312,
 丸,九丶,YOdj,,yod,GB2312,
 丹,亠,WOv,wo,wo,GB2312,{⺆同月}亠
-为,丶力丶,OXOd,ox,,GB2312,
+为,丶力丶,OXOd,oox,,GB2312,
 主,丶王,OGvd,ogv,ogv,GB2312,
 丽,一冂冂,FKKg,fkk,fkk,GB2312,一{冂丶同冂}{冂丶同冂}
 举,ッ一八,IFTA,,,GB2312,{三點同氵}一八キ
@@ -63,7 +63,7 @@ char,division,code,quick_simp,quick_trad,region,details
 乜,乙,Viƒƒ,vif,vif,GB2312,
 九,九,Yjƒ,yj,yj,GB2312,
 乞,乙,QVi,,,GB2312,{丿一同竹}乙
-也,也,Cyƒ,c,cy,GB2312,
+也,也,Cyƒ,cy,cy,GB2312,
 习,习,Xuƒƒ,xu,xuf,GB2312,{习同羽}
 乡,丿,VQps,vq,vqp,GB2312,{纟上同纟}丿
 书,乙乙丨丶,VVNO,vv,vvn,GB2312,
@@ -105,7 +105,7 @@ char,division,code,quick_simp,quick_trad,region,details
 亲,立朩,IFvi,if,,GB2312,
 亳,丿七,PQAi,pqa,pqa,GB2312,{高上同高}丿七
 亵,亠扌九𧘇,OAYW,oay,oay,GB2312,
-人,人,Teƒ,te,t,GB2312,
+人,人,Teƒ,tte,t,GB2312,
 亻,亻,Evƒ,,,GB2312,
 亿,亻乙,EVi,,,GB2312,
 什,亻十,EDh,,,GB2312,
@@ -135,7 +135,7 @@ char,division,code,quick_simp,quick_trad,region,details
 仡,亻乙,EQVi,eqv,eqv,GB2312,亻{丿一同竹}乙
 代,亻弋,EGy,eg,,GB2312,
 令,人丶又,TOBu,tob,,GB2312,人丶{マ同又}
-以,乚丶人,XOTe,xo,x,GB2312,
+以,乚丶人,XOTe,x,x,GB2312,
 仨,亻三,EFn,,,GB2312,
 仪,亻丶乂,EOWa,,,GB2312,
 仫,亻丿厶,EQVv,,,GB2312,
@@ -422,12 +422,12 @@ char,division,code,quick_simp,quick_trad,region,details
 凭,亻壬几,EEQj,eeq,eeq,GB2312,
 凯,山己几,JBQj,jbq,jbq,GB2312,
 凰,几白王,QEGv,qeg,qeg,GB2312,
-凳,癶一口几,BFLQ,,,GB2312,{登上同又}一口几
+凳,癶一口几,BFLQ,bfl,,GB2312,{登上同又}一口几
 凵,凵,Xcƒ,,,GB2312,
 凶,乂凵,WXca,wxc,wxc,GB2312,
 凸,丨一丨一,NFNF,nfn,nfn,GB2312,
 凹,一,KFig,kfi,kfi,GB2312,{雋下同冂}一
-出,屮凵,XXcc,xxx,xx,GB2312,{屮同凵}凵
+出,屮凵,XXcc,xx,xx,GB2312,{屮同凵}凵
 击,凵,AXc,ax,,GB2312,キ凵
 凼,水凵,KXch,kxc,kxc,GB2312,
 函,乙水凵,VKXc,vkx,vkx,GB2312,
@@ -505,12 +505,12 @@ char,division,code,quick_simp,quick_trad,region,details
 劣,小丿力,MQXl,mqx,mqx,GB2312,
 动,二厶力,SVXl,sv,svx,GB2312,
 助,且力,MXlq,mxl,mxl,GB2312,
-努,女又力,CBXl,cbx,cbx,GB2312,
+努,女又力,CBXl,cb,cbx,GB2312,
 劫,土厶力,HVXl,,hvx,GB2312,
 劬,口力,WLXl,wlx,wlx,GB2312,{⼓同月}口力
 劭,刀口力,BLXl,blx,blx,GB2312,
 励,厂乙力,SDVX,,,GB2312,厂{丆同石}乙力
-劲,ス工力,BFXl,bf,bfx,GB2312,{ス同又}工力
+劲,ス工力,BFXl,bfx,bfx,GB2312,{ス同又}工力
 劳,艹冖力,SYXl,syx,syx,GB2312,
 劾,亥力,OXli,oxl,oxl,GB2312,
 势,扌九丶力,AYOX,ay,ayo,GB2312,
@@ -578,7 +578,7 @@ char,division,code,quick_simp,quick_trad,region,details
 卣,卜囗コ,MNBu,mnb,mnb,GB2312,卜囗{コ同又}
 卤,卜囗乂,MNWa,mnw,mnw,GB2312,
 卦,土土卜,HHMo,hhm,hhm,GB2312,
-卧,臣卜,SMoc,smo,smo,GB2312,
+卧,臣卜,SMoc,sm,smo,GB2312,
 卩,卩,Xjƒ,,,GB2312,
 卫,卩一,XFij,xf,xfi,GB2312,
 卮,一乙,EFVi,,,GB2312,{𠂆同斤}一乙
@@ -643,7 +643,7 @@ char,division,code,quick_simp,quick_trad,region,details
 召,刀口,BLvd,blv,blv,GB2312,
 叭,口八,LTb,,,GB2312,
 叮,口丁,LAn,,,GB2312,
-可,丁口,ALvn,al,a,GB2312,
+可,丁口,ALvn,aal,a,GB2312,
 台,厶口,VLv,,,GB2312,
 叱,口匕,LRi,,,GB2312,
 史,口乂,LWa,lw,,GB2312,
@@ -993,7 +993,7 @@ char,division,code,quick_simp,quick_trad,region,details
 圊,囗龶月,NHWv,nhw,nhw,GB2312,
 圜,囗罒一𧘇,NMFW,nmf,nmf,GB2312,
 土,土,Hvƒ,hv,hv,GB2312,
-圣,又土,BHvu,bh,bhv,GB2312,
+圣,又土,BHvu,bhv,bhv,GB2312,
 在,丨土,SNHv,sn,sn,GB2312,{右頭}丨土
 圩,土一,HFAu,hfa,hfa,GB2312,土一{于下}
 圪,土乙,HQVi,hqv,hqv,GB2312,土{丿一同竹}乙
@@ -1190,7 +1190,7 @@ char,division,code,quick_simp,quick_trad,region,details
 奶,女乃,CVa,,,GB2312,
 奸,女干,CHg,,,GB2312,
 她,女也,CCy,cc,,GB2312,
-好,女子,CBi,cb,c,GB2312,
+好,女子,CBi,c,c,GB2312,
 妁,女丶,CWOd,cwo,cwo,GB2312,女{⼓同月}丶
 如,女口,CLv,cl,cl,GB2312,
 妃,女己,CBj,,,GB2312,
@@ -1202,7 +1202,7 @@ char,division,code,quick_simp,quick_trad,region,details
 妍,女一卄,CFSv,cfs,cfs,GB2312,
 妒,女户,COh,,,GB2312,
 妓,女十又,CDBu,cdb,cdb,GB2312,
-妖,女夭,CEo,ce,,GB2312,
+妖,女夭,CEo,,,GB2312,
 妗,女人丶乙,CTOV,cto,,GB2312,
 妙,女小丿,CMQp,,,GB2312,
 妞,女丑,CBc,,,GB2312,
@@ -1216,7 +1216,7 @@ char,division,code,quick_simp,quick_trad,region,details
 妮,女尸匕,CBRi,cbr,,GB2312,
 妯,女由,CKo,,,GB2312,
 妲,女日一,CJFi,cjf,cjf,GB2312,
-妹,女未,CHe,,,GB2312,
+妹,女未,CHe,ch,,GB2312,
 妻,十彐女,DXCv,,dxc,GB2312,
 妾,立女,ICvi,,,GB2312,
 姆,女母,CBm,,,GB2312,
@@ -1319,7 +1319,7 @@ char,division,code,quick_simp,quick_trad,region,details
 孙,子小,BMai,bma,bma,GB2312,
 孚,爪子,EBik,,,GB2312,
 孛,十冖子,DYBi,,,GB2312,
-孜,子夂,BEhi,,,GB2312,
+孜,子夂,BEhi,beh,,GB2312,
 孝,耂子,HBi,,,GB2312,
 孟,子皿,BMni,bmn,bmn,GB2312,
 孢,子巳,BWXs,bwx,,GB2312,子{⼓同月}巳
@@ -1419,7 +1419,7 @@ char,division,code,quick_simp,quick_trad,region,details
 尥,尢丶,DWOd,dwo,dwo,GB2312,尢{⼓同月}丶
 尧,七丿兀,AQHw,,,GB2312,
 尬,尢人,DTTb,,,GB2312,尢人{介下同八}
-就,亠口小尤,OLMD,o,ol,GB2312,
+就,亠口小尤,OLMD,ol,ol,GB2312,
 尴,尢〢皿,DNQM,dnq,dnq,GB2312,尢〢{⺮右同竹}皿
 尸,尸,Bhƒ,,,GB2312,
 尹,彐丿,XQp,,,GB2312,
@@ -1436,7 +1436,7 @@ char,division,code,quick_simp,quick_trad,region,details
 屈,尸屮凵,BXXc,bxx,bxx,GB2312,尸{屮同凵}凵
 屉,尸世,BHih,bhi,bhi,GB2312,
 届,尸由,BKoh,bko,bko,GB2312,
-屋,尸至,BHkh,bhk,bhk,GB2312,
+屋,尸至,BHkh,bh,bhk,GB2312,
 屎,尸米,BPmh,bpm,bpm,GB2312,
 屏,尸䒑卄,BUSv,bus,bus,GB2312,
 屐,尸彳十又,BRDB,brd,brd,GB2312,
@@ -2182,7 +2182,7 @@ char,division,code,quick_simp,quick_trad,region,details
 搔,扌又丶虫,ABOK,abo,abo,GB2312,
 搛,扌䒑彐八,AUXT,,aux,GB2312,
 搜,扌臼丨又,ARNB,arn,arn,GB2312,
-搞,扌高,APg,ap,ap,GB2312,
+搞,扌高,APg,,ap,GB2312,
 搠,扌䒑屮月,AUXW,aux,,GB2312,扌䒑{屮同凵}月
 搡,扌又又木,ABBF,,abb,GB2312,
 搦,扌弓二二,AVSS,avs,,GB2312,
@@ -2256,7 +2256,7 @@ char,division,code,quick_simp,quick_trad,region,details
 攵,夂,Ehƒƒ,,,GB2312,
 收,丩夂,XEhc,xeh,xe,GB2312,{丩同凵}夂
 攸,亻丨夂,ENEh,,,GB2312,
-改,己夂,BEhj,beh,beh,GB2312,
+改,己夂,BEhj,be,beh,GB2312,
 攻,工夂,FEho,fe,fe,GB2312,
 放,方夂,OEhg,oeh,oeh,GB2312,
 政,一止夂,FNEh,fne,fne,GB2312,
@@ -2716,7 +2716,7 @@ char,division,code,quick_simp,quick_trad,region,details
 檬,木艹冖豕,FSYD,fsy,fsy,GB2312,
 欠,欠,Eiƒ,,,GB2312,
 次,二欠,SEir,se,se,GB2312,
-欢,又欠,BEiu,be,bei,GB2312,
+欢,又欠,BEiu,bei,bei,GB2312,
 欣,斤欠,EEij,eei,eei,GB2312,
 欤,丂一欠,SFEi,sfe,sfe,GB2312,
 欧,匚乂欠,GWEi,gwe,gwe,GB2312,
@@ -3663,7 +3663,7 @@ char,division,code,quick_simp,quick_trad,region,details
 癫,疒十且贝,PDMK,pdm,,GB2312,
 癯,疒目目隹,PMMW,pmm,pmm,GB2312,
 癸,癶一大,BFGd,bfg,bfg,GB2312,{登上同又}一大
-登,癶一口䒑,BFLU,bfl,bfl,GB2312,{登上同又}一口䒑
+登,癶一口䒑,BFLU,bf,bfl,GB2312,{登上同又}一口䒑
 白,白,Ebƒ,,,GB2312,
 百,日,DJv,dj,,GB2312,{丆同石}日
 皂,白七,EAib,eai,eai,GB2312,
@@ -3777,7 +3777,7 @@ char,division,code,quick_simp,quick_trad,region,details
 瞿,目目隹,MMWi,mmw,mmw,GB2312,
 矍,目目隹又,MMWB,,,GB2312,
 矗,十且十且,DMDM,,,GB2312,
-矛,矛,Xoƒ,,xo,GB2312,
+矛,矛,Xoƒ,xo,xo,GB2312,
 矜,矛人丶乙,XTOV,xto,xto,GB2312,
 矢,矢,Qiƒ,qi,,GB2312,
 矣,厶矢,VQi,,,GB2312,
@@ -5323,7 +5323,7 @@ char,division,code,quick_simp,quick_trad,region,details
 诃,讠丁口,OALv,oal,oal,GB2312,
 评,讠干丷,OHUh,ohu,ohu,GB2312,
 诅,讠且,OMqa,,,GB2312,
-识,讠口八,OLTb,ol,olt,GB2312,
+识,讠口八,OLTb,olt,olt,GB2312,
 诈,讠,OQMo,oqm,oqm,GB2312,讠{丿一同竹}{乍下同卜}
 诉,讠斤丶,OEOd,oeo,oeo,GB2312,
 诊,讠人彡,OTTi,,,GB2312,
@@ -5704,7 +5704,7 @@ char,division,code,quick_simp,quick_trad,region,details
 迂,一辶,FAPo,fap,fap,GB2312,一{于下}辶
 迄,乙辶,QVPo,qvp,qvp,GB2312,{丿一同竹}乙辶
 迅,乙十辶,VDPo,vdp,vdp,GB2312,
-过,寸辶,APoc,a,apo,GB2312,
+过,寸辶,APoc,ap,apo,GB2312,
 迈,乙辶,DVPo,,,GB2312,{丆同石}乙辶
 迎,卩辶,TXPo,tx,tx,GB2312,{卬左同卯}卩辶
 运,二厶辶,SVPo,svp,svp,GB2312,
@@ -6214,7 +6214,7 @@ char,division,code,quick_simp,quick_trad,region,details
 防,阝方,COgf,co,co,GB2312,
 阳,阝日,CJvf,cj,cjv,GB2312,
 阴,阝月,CWvf,cw,cwv,GB2312,
-阵,阝车,CHcf,ch,chc,GB2312,
+阵,阝车,CHcf,chc,chc,GB2312,
 阶,阝人,CTTb,ctt,ctt,GB2312,阝人{介下同八}
 阻,阝且,CMqf,cmq,cmq,GB2312,
 阼,阝,CQMo,cqm,cqm,GB2312,阝{丿一同竹}{乍下同卜}
@@ -6222,7 +6222,7 @@ char,division,code,quick_simp,quick_trad,region,details
 阿,阝丁口,CALv,cal,cal,GB2312,
 陀,阝宀匕,CORi,,cor,GB2312,
 陂,阝皮,CVpf,cvp,cvp,GB2312,
-附,阝亻寸,CEAc,,ce,GB2312,
+附,阝亻寸,CEAc,ce,ce,GB2312,
 际,阝示,CHsf,chs,chs,GB2312,
 陆,阝凵,CAXc,cax,cax,GB2312,阝キ凵
 陇,阝尤丿,CDQp,cdq,cdq,GB2312,
@@ -6255,7 +6255,7 @@ char,division,code,quick_simp,quick_trad,region,details
 隋,阝工月,CSFW,csf,,GB2312,阝{右頭}工月
 隍,阝白王,CEGv,ceg,ceg,GB2312,
 随,阝月辶,CSWP,cs,csw,GB2312,阝{右頭}月辶
-隐,阝冖彐心,CYXY,cy,cyx,GB2312,
+隐,阝冖彐心,CYXY,cyx,cyx,GB2312,
 隔,阝一口丨,CFLN,cf,cfl,GB2312,
 隗,阝鬼,CWuf,cwu,cwu,GB2312,
 隘,阝䒑八皿,CUTM,cut,cut,GB2312,
@@ -6475,7 +6475,7 @@ char,division,code,quick_simp,quick_trad,region,details
 驺,马冖彐,XYXv,,,GB2312,
 驻,马丶王,XOGv,xog,xog,GB2312,
 驼,马宀匕,XORi,xor,xor,GB2312,
-驽,女又马,CBXm,,,GB2312,
+驽,女又马,CBXm,cbx,,GB2312,
 驾,力口马,XLXm,xlx,xlx,GB2312,
 驿,马又,XBAv,xba,xba,GB2312,马又キ
 骀,马厶口,XVLv,xvl,xvl,GB2312,
@@ -8807,7 +8807,7 @@ char,division,code,quick_simp,quick_trad,region,details
 嬐,女僉,CRl,,,GBK,
 嬑,女立日心,CIJY,,,GBK,
 嬒,女合小日,CYMJ,,,GBK,
-嬓,女白方夂,CEOE,ceo,,GBK,
+嬓,女白方夂,CEOE,,,GBK,
 嬔,女冖口生,CYLW,,,GBK,
 嬕,女罒土十,CMHD,,,GBK,
 嬘,女䒑豕辶,CUDP,,,GBK,
@@ -14667,7 +14667,7 @@ char,division,code,quick_simp,quick_trad,region,details
 紳,糹申,BKe,,,GBK,
 紴,糹皮,BVp,,,GBK,
 紵,糹宀丁,BOAn,boa,boa,GBK,
-紶,糹土厶,BHVv,bhv,,GBK,
+紶,糹土厶,BHVv,,,GBK,
 紷,糹人丶又,BTOB,,,GBK,糹人丶{マ同又}
 紸,糹丶王,BOGv,,,GBK,
 紹,糹刀口,BBLv,bbl,bbl,GBK,
@@ -14802,7 +14802,7 @@ char,division,code,quick_simp,quick_trad,region,details
 綾,糹土八夂,BHTE,bht,bht,GBK,
 綿,糹白巾,BEMj,bem,bem,GBK,
 緀,糹十彐女,BDXC,bdx,bdx,GBK,
-緁,糹一彐龰,BFXN,bfx,,GBK,
+緁,糹一彐龰,BFXN,,,GBK,
 緂,糹火火,BUUv,,,GBK,
 緃,糹人人龰,BTTN,,,GBK,
 緄,糹日匕匕,BJRR,bjr,bjr,GBK,
@@ -19677,7 +19677,7 @@ char,division,code,quick_simp,quick_trad,region,details
 馩,禾日十貝,RJDM,,,GBK,
 馪,禾日宀貝,RJOM,,,GBK,
 馫,禾日禾日,RJRJ,,,GBK,
-馬,馬,Smƒ,sm,sm,GBK,
+馬,馬,Smƒ,,sm,GBK,
 馭,馬又,SBum,sbu,,GBK,
 馮,二馬,SSmr,ssm,ssm,GBK,
 馯,馬干,SHgm,shg,shg,GBK,
@@ -28968,7 +28968,7 @@ char,division,code,quick_simp,quick_trad,region,details
 𠕄,一,KFig,,,CJK-B,{雋下同冂}一
 𠕅,一冂二,FKSr,,,CJK-B,
 𠕆,冂一,SKFi,,,CJK-B,{右頭}冂一
-𠕇,冂丶,SKOd,,,CJK-B,{右頭}冂丶
+𠕇,冂,SKgu,,,CJK-B,{右頭}{冂丶同冂}
 𠕈,冂人乚,KTXi,,,CJK-B,
 𠕉,丶冂八,OKTb,,,CJK-B,
 𠕊,冂一丁,KFAn,,,CJK-B,
