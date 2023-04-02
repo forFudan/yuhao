@@ -82,11 +82,12 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - history_translator@history
+    - reverse_lookup_translator
     - table_translator@fixed
     - table_translator
-    - reverse_lookup_translator
-    - table_translator@zaoci # 用户造詞
-    - lua_translator@yuhao_helper
+    - lua_translator@yuhao_helper # 幫助文檔
+    - "table_translator@zaoci" # 用户造詞
   filters:
     - lua_filter@yuhao_single_char_only_for_full_code
     - lua_filter@yuhao_char_first

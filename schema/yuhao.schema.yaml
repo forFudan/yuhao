@@ -81,6 +81,7 @@ engine:
     - fallback_segmentor
   translators:
     - punct_translator
+    - history_translator@history
     - reverse_lookup_translator
     - table_translator@fixed
     - table_translator
@@ -187,6 +188,11 @@ fixed:
   enable_user_dict: false
   enable_sentence: false
   initial_quality: 1000000
+
+history:
+  input: z
+  size: 1
+  initial_quality: 1
 
 reverse_lookup:
   dictionary: pinyin_simp
