@@ -61,7 +61,7 @@ encoder:
 被	p
 我	q
 得	r
-有	s
+在	s
 人	t
 這	u
 了	v
@@ -85,7 +85,7 @@ encoder:
 裏面	o
 我們	q
 覺得	r
-有些	s
+在家	s
 今天	t
 這個	u
 然後	w
@@ -106,7 +106,7 @@ encoder:
 對方	n
 裏頭	o
 我的	q
-有人	s
+在於	s
 這麽	u
 然而	w
 以爲	x
@@ -574,7 +574,7 @@ encoder:
 萬	sk
 右	sl
 馬	sm
-在	sn
+存	sn
 丈	so
 蓉	sp
 監	sq
@@ -583,7 +583,7 @@ encoder:
 茶	st
 灰	su
 蒸	sv
-驚	sw
+有	sw
 茄	sx
 蒙	sy
 卯	ta
@@ -933,7 +933,7 @@ encoder:
 所以	oe
 完全	of
 方法	og
-戶	oh
+户口	oh
 之後	ok
 就是	ol
 顫抖	on
@@ -1001,6 +1001,7 @@ encoder:
 荷蘭	se
 左手	sf
 芙蓉	sg
+有没有	si
 而且	sj
 英語	sk
 右手	sl
@@ -1010,7 +1011,9 @@ encoder:
 二人	sr
 厲害	ss
 茶杯	st
-驚訝	sw
+灰色	su
+蒸氣	sv
+有些	sw
 拜拜	tf
 全部	tg
 舒服	th
@@ -1112,12 +1115,15 @@ encoder:
 鹿	il
 氵	iv
 準確	iw
+問題	kl
 巾	mj
 目	mv
 罒	mw
 過去	np
 丶	od
 所有	oe
+方便	og
+戶	oh
 之前	ok
 就有	ol
 〇	oo
@@ -1132,6 +1138,7 @@ encoder:
 犭	rv
 學校	rw
 辰	sn
+有人	sw
 羊	ug
 灬	uh
 亡	uw
@@ -6159,7 +6166,6 @@ encoder:
 萷	smw
 薡	smx
 夢	smy
-存	snb
 凅	snd
 蕗	sne
 茵	sng
@@ -6313,7 +6319,7 @@ encoder:
 朢	swg
 蔡	swh
 荀	swj
-敬	swl
+驚	swl
 薰	swn
 芍	swo
 菊	swp
@@ -7791,7 +7797,11 @@ encoder:
 懈	yyt
 㤘	yyx
 惢	yyy
+軒	ghg
 渴	ijw
+悲	lyv
+亭	pan
+准	swi
 了	vlf
 的	ewod
 一	fif
