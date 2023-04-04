@@ -1192,6 +1192,7 @@ encoder:
 那邊	bs
 糸	bv
 纔能	by
+如何	cl
 幺	co
 女兒	cv
 也好	cy
@@ -163956,6 +163957,8 @@ encoder:
 斷絕	ccbb
 姍姍來遲	ccdb
 隱沒	ceiy
+嬌豔	cejd
+妖豔	cejd
 隱祕	ceuy
 隔絕	cfbb
 陳說	cfut
@@ -164091,6 +164094,7 @@ encoder:
 儲戶	euoh
 佛說	evut
 的說	ewut
+爭豔	exjd
 你說	eyut
 受獎	eyxw
 村內	fakr
@@ -164258,6 +164262,7 @@ encoder:
 漫說	ijut
 沒關係	ikeq
 潤溼	ikif
+濃豔	ikjd
 洞內	ikkr
 海內外	ikrm
 況且	ilmq
@@ -164352,8 +164357,20 @@ encoder:
 沒命	iyyx
 暴發戶	jboh
 照說	jbut
+豔紅	jdbf
+豔陽	jdcj
+豔女	jdcv
+豔麗	jdfk
 巔峯	jdje
+豔遇	jdkp
+豔史	jdlw
 豐產	jdps
+豔舞	jdqs
+豔福	jduf
+豔羨	jduh
+豔妝	jdxc
+豔裝	jdxh
+豔情	jdyh
 峯頂	jead
 峯值	jeed
 峯巔	jejd
@@ -164375,6 +164392,7 @@ encoder:
 界說	jtut
 日內	jvkr
 日產	jvps
+明豔	jwjd
 明說	jwut
 內聚力	kaxl
 內陸河	kcia
@@ -164539,6 +164557,7 @@ encoder:
 吹噓	lelm
 唾罵	lemd
 呈閱	lgkt
+吐豔	lhjd
 吶喊	lkld
 遺產	lkps
 雖說	lkut
@@ -164799,6 +164818,7 @@ encoder:
 永別	okly
 之說	okut
 塞內加爾	okxf
+哀豔	oljd
 宮內	olkr
 家喻戶曉	oloj
 戶口簿	olqi
@@ -164950,6 +164970,7 @@ encoder:
 毀了	rhvl
 風溼病	ripf
 毀滅性	riyw
+香豔	rjjd
 島內	rjkr
 得獎	rjxw
 委內瑞拉	rkga
@@ -165071,11 +165092,14 @@ encoder:
 二等獎	sqxw
 花名冊	srnc
 艱苦卓絕	ssmb
+冷豔	stjd
 共產	stps
 二話不說	sudu
 二話沒說	suiu
 難道說	suut
+冶豔	svjd
 有沒	swiy
+驚豔	swjd
 有別	swly
 散戶	swoh
 有獎	swxw
@@ -165113,6 +165137,7 @@ encoder:
 卻說	ttut
 手搖	tuaw
 自討沒趣	tuid
+鮮豔	tujd
 手冊	tunc
 全軍覆沒	tydi
 含情脈脈	tyww
@@ -165143,6 +165168,7 @@ encoder:
 說大話	ugur
 羊羣	ugxq
 養貓	ugys
+美豔	uhjd
 評閱	uhkt
 美顏	uhps
 說長道短	uhuq
@@ -165466,6 +165492,7 @@ encoder:
 出產	xxps
 出脫	xxwt
 慘絕人寰	ybto
+悽豔	ydjd
 恬不知恥	ydqa
 合羣	yexq
 貓頭鷹	yfue
@@ -168923,6 +168950,8 @@ encoder:
 预备队	cect
 降龙	cedq
 娇妻	cedx
+娇艳	cedy
+妖艳	cedy
 附体	ceef
 娇俏	ceem
 降价	ceet
@@ -168933,7 +168962,6 @@ encoder:
 降温	ceij
 附注	ceio
 附则	cekm
-娇艶	ceks
 附赠	ceku
 娇嗔	celd
 娇贵	celk
@@ -171126,7 +171154,9 @@ encoder:
 趋避	dybl
 趋附	dyce
 不怀好意	dyci
+艳阳	dycj
 确如	dycl
+艳女	dycv
 其貌不扬	dyda
 感慨万千	dydw
 鹁鸪	dydy
@@ -171137,13 +171167,16 @@ encoder:
 索爱	dyey
 趋于	dyfa
 万象更新	dyfi
+艳丽	dyfk
 雨声	dyhb
 确立	dyii
 确是	dyjf
 不合时宜	dyjo
 趋同	dykf
 索赔	dyki
+艳遇	dykp
 索贿	dyks
+艳史	dylw
 雨点	dyml
 龙争虎斗	dyms
 确当	dymx
@@ -171162,6 +171195,7 @@ encoder:
 丧心病狂	dypr
 确系	dyqb
 确知	dyql
+艳舞	dyqs
 确乎	dyqu
 趋向	dyrg
 趋利	dyrm
@@ -171169,10 +171203,16 @@ encoder:
 确有	dysw
 雨伞	dytu
 不负众望	dytu
+艳妆	dyuc
+艳福	dyuf
+艳羡	dyuh
+艳装	dyuh
 趋缓	dyve
+艳红	dyvf
 雨丝	dyvv
 确然	dyws
 勃发	dyxe
+艳情	dyyh
 十拿九稳	dyyr
 伟哥	eaal
 各抒己见	eabk
@@ -179159,6 +179199,7 @@ encoder:
 浓烈	iydm
 学成	iydv
 学期	iydw
+浓艳	iydy
 染色体	iyef
 学位	iyei
 深处	iyem
@@ -179196,7 +179237,6 @@ encoder:
 学时	iyja
 学界	iyjt
 浑水	iykh
-浓艶	iyks
 洽购	iykw
 学员	iylk
 学号	iyls
@@ -179815,6 +179855,7 @@ encoder:
 岿然不动	jwds
 明码	jwdx
 明确	jwdy
+明艳	jwdy
 星体	jwef
 明后	jwef
 明处	jwem
@@ -180522,7 +180563,6 @@ encoder:
 野鸡	ksby
 上阵	ksch
 曲阳	kscj
-艶阳	kscj
 冒险	ksct
 内蒙古自治区	ksdg
 上载	ksdg
@@ -180535,7 +180575,6 @@ encoder:
 上亿	ksev
 蜡像	ksey
 上树	ksfb
-艶丽	ksfk
 上档	ksfm
 上来	ksfp
 上楼	ksfp
@@ -180613,12 +180652,9 @@ encoder:
 冒领	ksto
 里手	kstu
 上钩	kstw
-艶妆	ksuc
 上床	ksuf
 蜡炬	ksug
 上装	ksuh
-艶羡	ksuh
-艶装	ksuh
 野兽	ksuj
 蜡烛	ksuk
 冒烟	ksun
@@ -180627,7 +180663,6 @@ encoder:
 上缴	ksve
 曲线	ksvf
 上线	ksvf
-艶红	ksvf
 上台	ksvl
 蜡纸	ksvt
 上级	ksvv
@@ -181209,6 +181244,7 @@ encoder:
 咬牙切齿	lhan
 辈子	lhbi
 喀麦隆	lhce
+吐艳	lhdy
 味觉	lhiy
 啧啧	lhlh
 唉声叹气	lhlq
@@ -184501,6 +184537,7 @@ encoder:
 识趣	olda
 扉页	oldk
 识破	oldv
+哀艳	oldy
 为非作歹	oled
 哀伤	oleq
 误伤	oleq
@@ -188062,6 +188099,7 @@ encoder:
 风烛残年	qudq
 气度不凡	qudq
 风卷残云	quds
+鲜艳	qudy
 鲜货	quer
 鲜丽	qufk
 箭楼	qufp
@@ -188070,7 +188108,6 @@ encoder:
 鲜果	qujf
 气壮山河	quji
 鲜明	qujw
-鲜艶	quks
 鲜肉	qukt
 鲜见	qukx
 鲜味	qulh
@@ -188654,6 +188691,7 @@ encoder:
 得势	rjay
 得劲	rjbf
 舅妈	rjcx
+香艳	rjdy
 得体	rjef
 香槟	rjfo
 得来	rjfp
@@ -189590,6 +189628,7 @@ encoder:
 凄婉	sdco
 减除	sdct
 减震	sdds
+凄艳	sddy
 苦处	sdem
 减低	sdet
 减价	sdet
@@ -189615,7 +189654,6 @@ encoder:
 厮混	sdij
 减产	sdiq
 苦学	sdiy
-凄艶	sdks
 减员	sdlk
 斗嘴	sdln
 减号	sdls
@@ -190673,6 +190711,7 @@ encoder:
 与众不同	stdk
 苍南	stdk
 苍龙	stdq
+冷艳	stdy
 苍白	steb
 进兵	stef
 进位	stei
@@ -190870,6 +190909,7 @@ encoder:
 决不	svdu
 药石	svdv
 云雨	svdy
+冶艳	svdy
 雄伟	svea
 药皂	svea
 云彩	svef
@@ -193700,6 +193740,7 @@ encoder:
 装死	uhdr
 装成	uhdv
 美协	uhdx
+美艳	uhdy
 装假	uheb
 尊老爱幼	uhec
 装做	uhed
@@ -199214,6 +199255,7 @@ encoder:
 惊起	yodb
 争论不休	yode
 惊雷	yodj
+惊艳	yody
 解放后	yoef
 惊梦	yoff
 合订本	yoff
@@ -199230,7 +199272,6 @@ encoder:
 惊鸿	yoif
 九寨沟	yoiw
 惊觉	yoiy
-惊艶	yoks
 惊吓	yola
 惊叹	yolb
 惊呆	yolf
@@ -199647,6 +199688,7 @@ encoder:
 皱起	yxdb
 争霸	yxdg
 农民起义	yxdo
+争艳	yxdy
 急务	yxex
 急于	yxfa
 争权	yxfb
@@ -199660,7 +199702,6 @@ encoder:
 争端	yxij
 命题	yxjf
 急电	yxkd
-争艶	yxks
 争购	yxkw
 慨叹	yxlb
 争吵	yxlm
