@@ -2,6 +2,7 @@
 # 宇浩输入法·繁简通打·极致低重·全汉字输入
 
 朱宇浩 创作 | 官方QQ群: 735728797 | 扫码加入
+
 ![qq](image/qq.png)
 
 [详细教程](./learn.md) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen) | [更新日志](./updates.md)
