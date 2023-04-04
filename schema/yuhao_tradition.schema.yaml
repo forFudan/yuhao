@@ -103,7 +103,7 @@ chaifen:
   show_in_comment: true
   # tags: [reverse_lookup]
   tags: [abc, reverse_lookup]
-  tips: all
+  tips: char
 
 zaoci:
   __include: translator

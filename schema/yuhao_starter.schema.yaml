@@ -69,7 +69,7 @@ chaifen:
   option_name: chaifen
   show_in_comment: true
   tags: [abc, reverse_lookup]
-  tips: all
+  tips: char
 
 translator:
   dictionary: yuhao
