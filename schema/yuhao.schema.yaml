@@ -163,7 +163,7 @@ translator:
   max_phrase_length: 4 # 自动成词的最大词长
   preedit_format:
     - 'xform/^([a-y]*)$/$1\t〔\U$1\E〕/'
-    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|扌糸女石亻木王土氵日虫口目足宀疒竹犭艹钅火厶月彐心|"
+    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|耳子女石爪木夫土鹿田水口目足户米竹禾犬人火皮金羽心|"
   comment_format:
     - 'xform/^~/ /'
   disable_user_dict_for_patterns:

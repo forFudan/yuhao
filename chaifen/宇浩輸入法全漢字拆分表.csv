@@ -1405,7 +1405,7 @@ char,division,code,quick_simp,quick_trad,region,details
 将,丬夕寸,URAc,ur,ura,GB2312,
 尉,尸示寸,BHAc,,,GB2312,
 尊,丷酉寸,UGAc,uga,uga,GB2312,
-小,小,Maƒ,m,,GB2312,
+小,小,Maƒ,m,ma,GB2312,
 少,小丿,MQpa,mq,mq,GB2312,
 尔,冖小,YMam,ym,yma,GB2312,
 尕,乃小,VMaa,vma,vma,GB2312,
@@ -3701,7 +3701,7 @@ char,division,code,quick_simp,quick_trad,region,details
 盟,日月皿,JWMn,jwm,jwm,GB2312,
 盥,臼水皿,RKMn,rkm,rkm,GB2312,
 目,目,Mvƒ,,,GB2312,
-盯,目丁,MAn,ma,ma,GB2312,
+盯,目丁,MAn,ma,,GB2312,
 盱,目一,MFAu,mfa,mfa,GB2312,目一{于下}
 盲,亡目,UMvw,umv,umv,GB2312,
 直,十且,DMqh,dmq,dmq,GB2312,
@@ -7365,7 +7365,7 @@ char,division,code,quick_simp,quick_trad,region,details
 刔,乙大刂,VGMd,,,GBK,{顺折同乙}大刂
 刕,刀刀刀,BBBd,,,GBK,
 刜,弓刂,VTMd,,vtm,GBK,弓{介下同八}刂
-刞,且刂,MMdq,,,GBK,
+刞,且刂,MMdq,,mmd,GBK,
 刟,刀口刂,BLMd,,,GBK,
 刡,巳七刂,XAMd,,,GBK,
 刢,人丶又刂,TOBM,,,GBK,人丶{マ同又}刂
@@ -7385,7 +7385,7 @@ char,division,code,quick_simp,quick_trad,region,details
 剄,一巛工刂,FVFM,,,GBK,
 剅,一口䒑刂,FLUM,,,GBK,
 剆,丶彐厶刂,OXVM,,,GBK,
-則,貝刂,MMdb,mmd,mmd,GBK,
+則,貝刂,MMdb,mmd,mm,GBK,
 剈,口月刂,LWMd,,,GBK,
 剉,人人土刂,TTHM,,tth,GBK,
 剋,古儿刂,DQMd,,dqm,GBK,
@@ -11572,7 +11572,7 @@ char,division,code,quick_simp,quick_trad,region,details
 歺,卜夕,MRko,,,GBK,
 歽,歹斤,DEjd,,,GBK,
 歾,歹,DWTi,dwt,dwt,GBK,歹{⼓同月}{两撇同彡}
-歿,歹冖又,DYBu,,,GBK,
+歿,歹又,DWBu,,,GBK,歹{⼓同月}又
 殀,歹夭,DEod,,,GBK,
 殅,歹生,DWgd,,,GBK,
 殈,歹丿皿,DQMn,,,GBK,
@@ -11732,7 +11732,7 @@ char,division,code,quick_simp,quick_trad,region,details
 沍,氵二,ISBm,,,GBK,氵二{互中同母}
 沎,氵亻匕,IERi,,,GBK,
 沑,氵丑,IBc,,,GBK,
-沒,氵冖又,IYBu,iyb,,GBK,
+沒,氵又,IWBu,iyb,,GBK,氵{⼓同月}又
 沕,氵,IWTi,,,GBK,氵{⼓同月}{两撇同彡}
 沖,氵口丨,ILNs,iln,iln,GBK,
 沗,一大水,FGKh,,,GBK,
@@ -17339,7 +17339,7 @@ char,division,code,quick_simp,quick_trad,region,details
 貛,豸艹口隹,YSLW,,,GBK,
 貜,豸目目又,YMMB,,,GBK,
 貝,貝,Mbƒ,,mb,GBK,
-貞,卜貝,MMbo,,mmb,GBK,
+貞,卜貝,MMbo,,,GBK,
 貟,厶貝,VMb,,,GBK,
 負,冖貝,YMbm,ymb,ymb,GBK,
 財,貝丿,MAQp,maq,maq,GBK,貝{于下}丿
@@ -17364,7 +17364,7 @@ char,division,code,quick_simp,quick_trad,region,details
 貴,口上貝,LKMb,,,GBK,
 貵,厶大貝,VGMb,,,GBK,
 貶,貝丿之,MQOk,,,GBK,
-買,罒貝,MMbw,mmb,mm,GBK,
+買,罒貝,MMbw,mmb,mmb,GBK,
 貸,亻弋貝,EGMb,egm,egm,GBK,
 貹,貝生,MWgb,,,GBK,
 貺,貝口儿,MLQr,mlq,mlq,GBK,
@@ -46294,7 +46294,7 @@ char,division,code,quick_simp,quick_trad,region,details
 𤣸,王乀,GSOd,,,CJK-B,王{右上}乀
 𤣹,王彐丿,GXQp,,,CJK-B,
 𤣺,王爪,GEk,,,CJK-B,
-𤣻,王冖又,GYBu,,,CJK-B,
+𤣻,王又,GWBu,,,CJK-B,王{⼓同月}又
 𤣼,冂人王丶,KTGO,,,CJK-B,
 𤣽,王冂二,GKSr,,,CJK-B,
 𤣾,王厶,GSVv,,,CJK-B,王{右上}厶
@@ -53783,7 +53783,7 @@ char,division,code,quick_simp,quick_trad,region,details
 𦘼,二乚月,SXWv,,,CJK-B,二{逆折同乚}月
 𦘽,冂人人女,KTTC,,,CJK-B,
 𦘾,冂人人丶,KTTO,,,CJK-B,
-𦘿,月冖又,WYBu,,,CJK-B,
+𦘿,月又,WWBu,,,CJK-B,月{⼓同月}又
 𦙀,月又,WEBu,,,CJK-B,月{𠂆同斤}又
 𦙁,月二,WSBm,,,CJK-B,月二{互中同母}
 𦙂,不冂人人,DKTT,,,CJK-B,
@@ -64664,7 +64664,7 @@ char,division,code,quick_simp,quick_trad,region,details
 𩂾,雨田丂,DJSk,,,CJK-B,
 𩂿,雨彐丿口,DXQL,,,CJK-B,
 𩃀,雨丿止廴,DQNX,,,CJK-B,
-𩃁,雨氵冖又,DIYB,,,CJK-B,
+𩃁,雨氵又,DIWB,,,CJK-B,雨氵{⼓同月}又
 𩃂,雨扌夂,DAEh,,,CJK-B,
 𩃃,雨厶厶夂,DVVE,,,CJK-B,
 𩃄,雨尤彡,DDTi,,,CJK-B,
@@ -65597,7 +65597,7 @@ char,division,code,quick_simp,quick_trad,region,details
 𩑣,尤貝,DDMb,,,CJK-B,尤{丆同石}貝
 𩑤,十貝,QDDM,,,CJK-B,{丿一同竹}十{丆同石}貝
 𩑥,七貝,TADM,,,CJK-B,{卬左同卯}七{丆同石}貝
-𩑦,冖又貝,YBDM,,,CJK-B,冖又{丆同石}貝
+𩑦,又貝,WBDM,,,CJK-B,{⼓同月}又{丆同石}貝
 𩑧,丑貝,BDMb,,,CJK-B,丑{丆同石}貝
 𩑨,上乙貝,KVDM,,,CJK-B,上乙{丆同石}貝
 𩑩,牜貝,WDMb,,,CJK-B,牜{丆同石}貝

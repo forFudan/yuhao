@@ -1487,6 +1487,8 @@ encoder:
 气质	qq
 笔画	qr
 升起	qs
+签名	qt
+瓜子	qu
 第二	qv
 风俗	qw
 鱼	qy
@@ -2651,6 +2653,7 @@ encoder:
 磣	dvv
 劢	dvx
 赵	dwa
+歿	dwb
 碑	dwd
 霢	dwe
 碉	dwh
@@ -4114,6 +4117,7 @@ encoder:
 潍	ivw
 慶	ivy
 麝	iwa
+沒	iwb
 淝	iwc
 準	iwd
 潗	iwf
@@ -4144,7 +4148,7 @@ encoder:
 濯	ixw
 潠	ixx
 浸	ixy
-沒	iyb
+敩	iyb
 𬒈	iyd
 染	iyf
 渾	iyg
@@ -12402,7 +12406,7 @@ encoder:
 剐	lktm
 鸠	yyaj
 磷	dpra
-沒	iybu
+沒	iwbu
 娑	imqc
 巳	xsf
 谄	oyrj
@@ -21651,6 +21655,7 @@ encoder:
 礪	dssk
 駾	dulq
 砐	dvod
+歿	dwbu
 霢	dwew
 雺	dxoy
 屔	efbr
@@ -22097,7 +22102,6 @@ encoder:
 劯	dxl
 磟	dxtt
 趉	dxxc
-歿	dybu
 砕	dydh
 趂	dyma
 磓	dypo
@@ -23574,6 +23578,7 @@ encoder:
 鍌	iwqw
 澅	ixhf
 瀷	ixjt
+敩	iybe
 澮	iymj
 嶊	jawi
 鄳	jcfm
@@ -26145,7 +26150,6 @@ encoder:
 泤	ixot
 瀥	ixpg
 瀈	ixyg
-敩	iybe
 溮	iyfm
 峃	iyjs
 蛍	iykv
@@ -40770,13 +40774,13 @@ encoder:
 𥖂	dive
 𧻯	divg
 𩃦	divl
+𩃁	diwb
 𩆀	diwb
 𧲖	diwm
 𧾪	diwm
 𪚗	diwm
 𩅕	dixm
 𩆸	dixw
-𩃁	diyb
 𩃵	diyf
 𩅴	diyg
 𩂸	diyq
@@ -47471,6 +47475,7 @@ encoder:
 𤣱	gvy
 𡚞	gwaf
 𡙜	gwbu
+𤣻	gwbu
 𤤣	gwbu
 𩍔	gwde
 𠥉	gwdh
@@ -47627,7 +47632,6 @@ encoder:
 𩈟	gxxv
 𨡉	gxyb
 𤥊	gybo
-𤣻	gybu
 𦫥	gyca
 𨋭	gyca
 𨠶	gyca
@@ -73735,6 +73739,7 @@ encoder:
 𦟓	wbbw
 𡝑	wbcv
 𦜼	wbdm
+𩑦	wbdm
 𠚲	wbdq
 𢤹	wbdy
 𨫒	wbdy
@@ -75771,6 +75776,7 @@ encoder:
 𤚑	wwac
 𡥈	wwbi
 𡦴	wwbu
+𦘿	wwbu
 𧧿	wwbu
 𥾥	wwbv
 𢺽	wwdb
@@ -76009,7 +76015,6 @@ encoder:
 𨧪	wxym
 𦛾	wybc
 𣎤	wybg
-𦘿	wybu
 𨉆	wyca
 𠭟	wycb
 𦙈	wydh
@@ -77016,7 +77021,6 @@ encoder:
 𢡌	ybdc
 𡒰	ybdh
 𢥾	ybdk
-𩑦	ybdm
 𧳩	ybds
 𢚲	ybeh
 𩜧	ybeq
@@ -157357,7 +157361,6 @@ encoder:
 愁烦	ruud
 翻炒	qpum
 釉料	qpps
-循名责实	rrho
 笑看	qetm
 笔盒	qrym
 箭靶	qugc
