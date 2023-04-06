@@ -161,17 +161,13 @@ translator:
   enable_encoder: true
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长
-  preedit_format:
-    - 'xform/^([a-y]*)$/$1\t〔\U$1\E〕/'
-    - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|耳子女石爪木夫土鹿田水口目足户米竹禾犬人火皮金羽心|"
+  preedit_format: []
+    # - 'xform/^([a-y]*)$/$1\t〔\U$1\E〕/'
+    # - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|耳子女石爪木夫土鹿田水口目足户米竹禾犬人火皮金羽心|"
   comment_format:
     - 'xform/^~/ /'
   disable_user_dict_for_patterns:
     - "^z.*$"
-
-# abc_segmentor:
-#   extra_tags:
-#     - reverse_lookup
 
 zaoci:
   __include: /translator
@@ -218,7 +214,6 @@ punctuator:
     "|": "|"
 
 key_binder:
-  # import_preset: default
   bindings:
     - { when: always, accept: "Control+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
@@ -253,3 +248,4 @@ recognizer:
 style:
   horizontal: true
   inline_preedit: true
+  # preedit_type: preview

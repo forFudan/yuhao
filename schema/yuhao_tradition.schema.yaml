@@ -1,8 +1,6 @@
 # Rime schema settings
 # encoding: utf-8
 
-__include: yuhao.schema:/
-
 schema:
   schema_id: yuhao_tradition
   name: 宇浩·傳統漢字
@@ -97,24 +95,50 @@ engine:
     - simplifier@chaifen
     - uniquifier
 
+yuhao_char_first:
+  tags: [abc]
+
+yuhao_char_only:
+  tags: [abc]
+
+simplify:
+  tags: [abc, reverse_lookup]
+  option_name: simplification
+  opencc_config: t2s.json
+  tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
 chaifen:
   opencc_config: yuhao_chaifen.json
   option_name: chaifen
   show_in_comment: true
-  # tags: [reverse_lookup]
   tags: [abc, reverse_lookup]
   tips: char
 
-zaoci:
-  __include: translator
-  initial_quality: 10000
-  enable_sentence: true
-  prifix: "`"
-  tips: "〔用户造詞〕"
-  tag: zaoci
+yuhao_postpone_full_code:
+  tags: [abc]
+  lua:
+    max_index: 5 # 最大后置位置，默认为 4
 
 schema_name:
   code: yuhao_tradition
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: "`"
+  max_code_length: 4
+  auto_select: true
+  algebra:
+    - "derive/^([a-y])[a-y]([a-y]*)$/$1z$2/" # Az AzC AzCD
+    - "derive/^([a-y]+)[a-y]([a-y]*)$/$1z$2/" # ABz ABzD ABCz AzC AzCD
+    - "derive/^([a-y]+)[a-y]$/$1z/" # ABz ABCz
+    - "derive/^([a-y]+)[a-y]{2}$/$1zz/" # ABzz Azz
+    - "derive/^([a-y])[a-y]{2}([a-y])$/$1zz$2/" # AzzD
+    - "derive/^([a-y])[a-y]{3}$/$1zzz/" # Azzz
+    - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
 
 translator:
   dictionary: yuhao_tradition
@@ -127,6 +151,18 @@ translator:
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长
   preedit_format: []
+  comment_format:
+    - 'xform/^~/ /'
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+
+zaoci:
+  __include: translator
+  initial_quality: 10000
+  enable_sentence: true
+  prifix: "`"
+  tips: "〔用户造詞〕"
+  tag: zaoci
 
 # 固定词库词的权重，防止自动调频
 fixed:
@@ -134,6 +170,11 @@ fixed:
   enable_user_dict: false
   enable_sentence: false
   initial_quality: 1000000
+
+history:
+  input: z
+  size: 1
+  initial_quality: 1
 
 reverse_lookup:
   dictionary: luna_pinyin
@@ -145,10 +186,18 @@ reverse_lookup:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
-style:
-  horizontal: true
-  inline_preedit: true
-  # preedit_type: preview
+punctuator:
+  import_preset: default
+  half_shape:
+    "%": "%"
+    "*": "*"
+    "\\": "、"
+    "[": "「"
+    "]": "」"
+    "{": "『"
+    "}": "』"
+    "/": "/"
+    "|": "|"
 
 key_binder:
   bindings:
@@ -173,3 +222,15 @@ key_binder:
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
     - { when: has_menu, accept: Tab, send: 4 } # 製表符四选
+
+recognizer:
+  import_preset: default
+  patterns:
+    uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
+    reverse_lookup: "^z([a-z]+?)*$"
+    zaoci: "^[a-y]*`[a-y`]*$"
+
+style:
+  horizontal: true
+  inline_preedit: true
+  # preedit_type: preview

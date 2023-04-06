@@ -1,6 +1,10 @@
 <!-- omit in toc -->
 # 常见汉字输入方案重码数据统计
 
+[官方主页](https://zhuyuhao.com/yuhao/learn.md) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
+
+[在线字根练习](https://zhuyuhao.com/yuhao/practice) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice_100) | [最常用50字根练习](https://zhuyuhao.com/yuhao/practice_50)
+
 <!-- omit in toc -->
 ## 目录
 
