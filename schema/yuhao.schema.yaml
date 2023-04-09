@@ -4,7 +4,7 @@
 schema:
   schema_id: yuhao
   name: 宇浩·繁简通用
-  version: 20230312
+  version: 20230408
   author:
     - 發明人 朱宇浩 <https://zhuyuhao.com/yuhao/>
     - Rime方案 forFudan
@@ -14,7 +14,7 @@ schema:
     - 常用字前置，不屏蔽生僻字。
     - 關閉輸入預測。
     - 不顯示拆分提示，通過 / 鍵 或 Control+Shift+C 開啓。
-    - 只顯示五個候選項，橫排候選欄。
+    - 顯示五個候選項，橫排候選欄。
     - Z 鍵反查拼音
     - 按"help"或"bang"提示快捷鍵和官方網站。
   dependencies:
@@ -146,10 +146,10 @@ speller:
     - "derive/^([a-y])[a-y]([a-y]*)$/$1z$2/" # Az AzC AzCD
     - "derive/^([a-y]+)[a-y]([a-y]*)$/$1z$2/" # ABz ABzD ABCz AzC AzCD
     - "derive/^([a-y]+)[a-y]$/$1z/" # ABz ABCz
-    - "derive/^([a-y]+)[a-y]{2}$/$1zz/" # ABzz Azz
-    - "derive/^([a-y])[a-y]{2}([a-y])$/$1zz$2/" # AzzD
-    - "derive/^([a-y])[a-y]{3}$/$1zzz/" # Azzz
-    - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
+    # - "derive/^([a-y]+)[a-y]{2}$/$1zz/" # ABzz Azz
+    # - "derive/^([a-y])[a-y]{2}([a-y])$/$1zz$2/" # AzzD
+    # - "derive/^([a-y])[a-y]{3}$/$1zzz/" # Azzz
+    # - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
 
 translator:
   dictionary: yuhao
@@ -248,4 +248,4 @@ recognizer:
 style:
   horizontal: true
   inline_preedit: true
-  # preedit_type: preview
+  preedit_type: preview

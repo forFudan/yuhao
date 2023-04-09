@@ -1,6 +1,6 @@
 # encoding: utf-8
 #
-# 宇浩·繁简通
+# 宇浩·新手
 # 版本：202304048
 
 # 朱宇浩 开发
@@ -10,34 +10,25 @@
 # 特点：
 # - 单字排序，以简化字字频为主，繁体字字频为辅。
 # - 设置一、二、三级简码。
-# - 设置简化、繁体、大陆古籍繁体词库。
+# - 设置简化词库。
 
 #
 # 码表排列:
 # - 一二三级简码
-# - 单字全码
+# - 常用繁简汉字单字全码
 # - 台湾、香港、大陆古籍繁体字形兼容补充
 # - 易错拆分容错码
 # - 宇浩简化字一级词库
 # - 特殊符号
 # - 用户自定义词库
-# 
-# 可选导入:
-# - 台湾繁体、香港繁体、大陆古籍繁体词库
-# - 宇浩简化字二级词库（次常用词语）
-# - 宇浩简化字三级词库（成语、诗词）
 ---
-name: "yuhao"
-version: "20230401"
+name: "yuhao_starter"
+version: "20230408"
 sort: original
 import_tables:
-  # 去除下方的 # 符号以导入词库
   - yuhao.quick
-  - yuhao.full
+  - yuhao_starter.full
   - yuhao.words_l1
-  #  - yuhao.words_tc
-  #  - yuhao.words_l2
-  #  - yuhao.words_l3
   - yuhao.symbols
   - yuhao.extended
 columns:
