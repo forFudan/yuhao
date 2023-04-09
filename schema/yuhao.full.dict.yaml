@@ -10009,7 +10009,7 @@ columns:
 燭	umwk
 蘆	smjm
 揀	afnu
-晉	svvj
+晉	fvvj
 檳	fofm
 餚	ywsw
 鏽	wxdx
@@ -12125,7 +12125,7 @@ columns:
 卽	erxj
 餃	yotw
 貸	egmb
-戩	svvg
+戩	fvvg
 樞	fgll
 鑼	wmbw
 攏	aiwm
@@ -36513,6 +36513,7 @@ columns:
 𣞪	fnhv
 𣥄	fnii
 𥩠	fnii
+𠀥	fnjf
 𣅯	fnjf
 𤰱	fnjf
 𣐤	fnjv
@@ -37165,6 +37166,7 @@ columns:
 𠸲	fvvl
 𤴖	fvvn
 𣚈	fvvo
+𤐦	fvvu
 𣐜	fvvv
 𠃴	fvwx
 𠀟	fvxi
@@ -37185,7 +37187,6 @@ columns:
 𣡸	fwfa
 𩏴	fwfc
 𣏵	fwff
-𠄡	fwfi
 𣏊	fwfi
 𢾵	fwfk
 𧊪	fwfk
@@ -59663,7 +59664,6 @@ columns:
 𦾪	snje
 𦼨	snjt
 𦼲	snjt
-𠀥	snjv
 𧁥	snkb
 𧃌	snkj
 𦻷	snkk
@@ -60604,7 +60604,6 @@ columns:
 𠗿	svvt
 𦳪	svvt
 𦺬	svvt
-𤐦	svvu
 𦭷	svwn
 𠪟	svwo
 𨗑	svwp
@@ -60614,6 +60613,7 @@ columns:
 𪉂	svya
 𦰴	svym
 𦯡	svyn
+𠄡	swae
 𣍳	swal
 𦱙	swbc
 𣤨	swbe
@@ -66028,6 +66028,7 @@ columns:
 𨧲	wfvf
 𩳍	wfvf
 𦞥	wfvh
+𨫌	wfvj
 𧸶	wfvm
 𤘬	wfvn
 𤘱	wfvn
@@ -67260,7 +67261,6 @@ columns:
 𡯮	wsvd
 𨫳	wsve
 𦙜	wsvi
-𨫌	wsvj
 𡥉	wsvk
 𡮱	wsvm
 𠫷	wsvo
@@ -74390,6 +74390,7 @@ columns:
 𫒺	yewj
 𪞒	yfhd
 𪪀	yfmf
+𪬕	yfvj
 𪫟	yfvn
 𪫝	yfxi
 𫗎	ygbu
@@ -74465,7 +74466,6 @@ columns:
 𪬠	ysll
 𪫿	yspc
 𫗝	ysqm
-𪬕	ysvj
 𫎋	yswv
 𫗏	yswv
 𪫡	ysxl
@@ -98523,14 +98523,14 @@ columns:
 抐	akru
 捛	alrn
 揤	aerx
-搢	asvj
+搢	afvj
 摡	aerq
 擳	aqex
 梠	flrn
 椂	fbfk
 楌	fpst
 楖	ferx
-榗	fsvj
+榗	ffvj
 槏	ftat
 槩	ergf
 櫛	fqex
@@ -98539,7 +98539,7 @@ columns:
 氝	qkru
 汭	ikru
 洖	ilxg
-溍	isvj
+溍	ifvj
 溓	itat
 瀄	iqex
 焒	ulrn
@@ -98547,7 +98547,7 @@ columns:
 營	uuyr
 燫	uutt
 琭	gbfk
-瑨	gsvj
+瑨	gfvj
 甉	taxa
 痥	ptlq
 癤	pqex
@@ -98571,7 +98571,7 @@ columns:
 納	bkru
 絽	blrn
 綐	btlq
-縉	bsvj
+縉	bfvj
 縑	btat
 脵	wlxg
 膁	wtat
@@ -98602,7 +98602,7 @@ columns:
 邍	ejbp
 郘	lrcf
 郷	vqec
-鄑	svvc
+鄑	fvvc
 醁	gbfk
 鈉	wkru
 銏	wncj
@@ -98652,7 +98652,7 @@ columns:
 㪖	bfkk
 㪠	taxk
 㫽	jbfk
-㬐	jsvj
+㬐	jfvj
 㮣	ergf
 㯟	ffbk
 㶧	ukru
@@ -98735,10 +98735,10 @@ columns:
 𡗄	taxr
 𡙓	gpst
 𡜴	ckrl
-𡠂	csvj
+𡠂	cfvj
 𡠣	cerq
 𡡫	cott
-𡦌	vsvj
+𡦌	vfvj
 𡩴	owwo
 𡬠	erac
 𡭇	gakr
@@ -98752,7 +98752,7 @@ columns:
 𡷦	erxj
 𡸎	jerx
 𡸮	jbfk
-𡺽	jsvj
+𡺽	jfvj
 𡿷	vlrn
 𢁩	mkru
 𢅏	mutt
@@ -98772,7 +98772,7 @@ columns:
 𢢋	yjpt
 𢧥	taxg
 𢧿	dskr
-𢨙	svvg
+𢨙	fvvg
 𢫸	alxg
 𢬷	akrl
 𢮑	abfk
@@ -98851,7 +98851,7 @@ columns:
 𥪞	ikkr
 𥰐	qerm
 𥰓	qkrd
-𥰸	qsvj
+𥰸	qfvj
 𥲤	qmxf
 𥹲	ptlq
 𥻧	ptat
@@ -98882,7 +98882,7 @@ columns:
 𦩵	qtat
 𦩾	qwwo
 𦪡	qmxf
-𦵻	ssvj
+𦵻	sfvj
 𦺄	stex
 𧀋	spvo
 𧇓	mtlq
@@ -98891,14 +98891,14 @@ columns:
 𧈁	taxt
 𧌍	kbfk
 𧎟	kerc
-𧎽	ksvj
+𧎽	kfvj
 𧐆	ergk
 𧑂	kerq
 𧜳	perq
 𧝔	pmxf
 𧞋	putt
 𧨹	ubfk
-𧪽	usvj
+𧪽	ufvj
 𧫜	ergu
 𧱱	dpst
 𧴆	ymxf
@@ -98911,7 +98911,7 @@ columns:
 𨉋	wtlq
 𨌔	gtlq
 𨌠	gbfk
-𨍬	gsvj
+𨍬	gfvj
 𨎷	gutt
 𨐩	otat
 𨑧	krpo
@@ -98979,7 +98979,7 @@ columns:
 𪪗	uerx
 𪫰	lryn
 𪬒	erey
-𪹓	usvj
+𪹓	ufvj
 𪹣	umxf
 𪺜	twex
 𪼥	gutt
@@ -99011,7 +99011,7 @@ columns:
 𬊰	upst
 𬋺	emet
 𬌞	wlrn
-𬓎	usvj
+𬓎	ufvj
 𬔉	plrn
 𬚜	atlq
 𬚢	erga
@@ -99025,10 +99025,10 @@ columns:
 𭂕	sbfk
 𭅼	vqex
 𭅽	rrex
-𭉟	lsvj
+𭉟	lfvj
 𭑍	lrgd
 𭔂	opst
-𭚣	gsvj
+𭚣	gfvj
 𭛚	mxft
 𭛛	pstj
 𭞖	ysex
@@ -99039,11 +99039,11 @@ columns:
 𭦧	jbfk
 𭦷	jwkr
 𭪣	fkrr
-𭭒	svve
+𭭒	fvve
 𭽼	krmn
 𮔕	erxk
 𮖨	ptat
-𮥔	csvj
+𮥔	cfvj
 𮦈	dkru
 𮬐	ttex
 𰂼	etlq

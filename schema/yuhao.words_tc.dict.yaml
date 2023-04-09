@@ -4506,7 +4506,7 @@ columns:
 圖形	nlfs
 異地	jshc
 有餘	swyt
-晉級	svbv
+晉級	fvbv
 飛翔	bfux
 預見	cdmx
 力學	xlrw
@@ -4654,7 +4654,7 @@ columns:
 首領	utto
 客體	oemk
 後世	rvhi
-晉升	svqs
+晉升	fvqs
 鮮紅	tubf
 天文臺	fphl
 國策	ngqf
@@ -16643,7 +16643,7 @@ columns:
 校驗	fodr
 節衣縮食	qoby
 借調	esuw
-晉職	svai
+晉職	fvai
 靜物	hwww
 軍刀	ygbd
 龜裂	qjdm
@@ -19548,7 +19548,7 @@ columns:
 貨單	erll
 積欠	rhei
 加號	xlls
-晉劇	svmd
+晉劇	fvmd
 浸漬	ixih
 精紡	phbo
 厲兵秣馬	serd
@@ -21509,7 +21509,7 @@ columns:
 評閱	uhkt
 強顏歡笑	vpsq
 蹺蹺板	nnfe
-秦晉之好	gspc
+秦晉之好	gfpc
 軟糖	gepu
 軟梯	gefu
 撒種	asrq
@@ -26493,7 +26493,7 @@ columns:
 兩道	fmut
 兩位	fmei
 嚴苛	llsa
-晉見	svmx
+晉見	fvmx
 與狼共舞	rrsq
 麥克	dedq
 不知凡幾	dqqv
@@ -27293,7 +27293,7 @@ columns:
 物語	wwuf
 剩飯	ruye
 很壞	rvho
-魏晉	rcsv
+魏晉	rcfv
 繫於	gxot
 每戶	qbih
 並有	unsw
@@ -27560,8 +27560,8 @@ columns:
 瓦塊	awhw
 下情上達	aykh
 與此	rsnr
-晉城	svhd
-晉朝	svdj
+晉城	fvhd
+晉朝	fvdj
 滅鼠	idrb
 殘杯冷炙	dfsw
 不辨菽麥	dosd
@@ -28591,7 +28591,7 @@ columns:
 來時	dljh
 來接	dlai
 嚴辭	lleb
-晉代	sveg
+晉代	fveg
 琿春	gygj
 更待何時	frej
 班裡	gupk
@@ -29884,6 +29884,8 @@ columns:
 誰的	uwew
 諧波	uriv
 該批	uoar
+京東	olfj
+凡爾賽	qfos
 苦戀	sdub
 匡復	ggrq
 邪術	hcrf
@@ -29931,7 +29933,7 @@ columns:
 廳外	uarm
 百舸爭流	dqei
 磁條	duen
-秦晉	grsv
+秦晉	grfv
 奏議	gfuu
 須在	tdsn
 月結	wvbh
@@ -31617,7 +31619,7 @@ columns:
 帶扣	sfal
 畫滿	xhis
 來後	dlrv
-晉身	svwe
+晉身	fvwe
 死鎖	drwm
 殘冬臘月	deww
 不智之舉	dqpr
@@ -32268,7 +32270,7 @@ columns:
 過隙	npcm
 一頁頁	fddm
 惠賜	gymj
-晉封	svhh
+晉封	fvhh
 嚴責	llhm
 惡炒	fjum
 殘荷	dgse
@@ -32693,6 +32695,7 @@ columns:
 羊質虎皮	uemv
 試崗	ugjk
 謔稱	umre
+內卷	krug
 暮煙	sjud
 奮袂而起	gpsd
 殘弱	dgvs
@@ -32715,7 +32718,7 @@ columns:
 縈繫	uugx
 有職無權	saqf
 採精	aeph
-晉爵	svem
+晉爵	fvem
 跌漲	nqiv
 購樓	msfl
 蟹腳	ytwt
@@ -32739,6 +32742,7 @@ columns:
 民計	caud
 頌讀	tvuh
 候駕	enxl
+甩鍋	wxwn
 廠棚	unfw
 熾情	uiyh
 橫測	fsim
@@ -32747,7 +32751,7 @@ columns:
 恭稱	stre
 驚愣	swym
 拗勁	avfv
-京東	olfj
+社會性死亡	uyyu
 槓精	ffph
 網路	bkne
 使用者	ethj
@@ -35371,15 +35375,7 @@ columns:
 産險	iqcr
 幼託	vxuq
 離情别緒	pylb
-塔座	hsut
-麗雅	fkhw
-轉上	ggks
 内邊	kttp
-避凶趨吉	bwdh
-包工包料	wfwp
-鎳氫電池	wqdi
-解衣推食	yoay
-持幣觀望	ausu
 卽應	erue
 約翰内斯堡	bdke
 無别	qslx
