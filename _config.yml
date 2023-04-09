@@ -1,4 +1,5 @@
 plugins:
+  - jekyll-remote-theme
   - jekyll-relative-links
   - jekyll-seo-tag
 relative_links:
@@ -12,5 +13,6 @@ include:
   - CODE_OF_CONDUCT.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/cayman@v0.2.0
 title: 宇浩输入法·繁簡通打·全汉字覆盖
