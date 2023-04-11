@@ -8,7 +8,9 @@
 ![qq](./image/qq.png)
 
 [详细教程](./learn.md) | [更新日志](./updates.md) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
+
 [最常用50字根练习](https://zhuyuhao.com/yuhao/practice_50) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice_100)
+
 [最常用50汉字拆分练习](https://zhuyuhao.com/yuhao/practice_characters) | [全部字根练习](https://zhuyuhao.com/yuhao/practice)
 
 [宇浩输入法免安装版下载（可放在优盘中）](https://zhuyuhao.com/yuhao/assets/宇浩输入法-小小输入平台.exe)
