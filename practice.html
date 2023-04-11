@@ -326,7 +326,8 @@
             max_words_count = 0
             wrong_words = []
 
-            display_release_note()
+            // display_help()
+            choose_root(6)
         }
 
         function display_release_note() {
@@ -391,8 +392,8 @@
         function choose_root(val) {
             clear_tabs_background(val)
             enable_user_input(true)
-            raw_area.style.fontSize = "45px"
-            raw_area.style.fontHeight = "45px"
+            raw_area.style.fontSize = "100px"
+            raw_area.style.fontHeight = "100px"
             user_input.removeAttribute("disabled")
             user_input.focus()
             total_index = 0
@@ -717,26 +718,25 @@
 
         aside {
             text-align: center;
-            width: 160px;
-            height: 120%;
+            width: 120px;
+            height: 60%;
             background-color: #70abe6;
             position: absolute;
             top: 0;
             left: 0;
-            font-size: 130%;
+            font-size: 125%;
             cursor: default;
         }
 
         .textarea {
-            width: 98%;
-            min-height: 200px;
+            width: 90%;
+            min-height: 300px;
             padding: 8px;
             outline: 0;
             border: none;
             word-wrap: normal;
             overflow-y: visible;
             resize: none;
-
             border-color: rgba(82, 168, 236, 0.8);
             box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.3), 0 0 16px rgba(82, 168, 236, 1);
         }
@@ -746,7 +746,6 @@
             padding: 5px;
             outline: 0;
             border: 2px solid #a0b3d6;
-
             border-color: rgba(82, 168, 236, 0.8);
             box-shadow: inset 0 2px 6px rgba(0, 0, 0, 0.1), 0 0 16px rgba(82, 168, 236, 0.6);
         }
@@ -777,7 +776,7 @@
         }
 
         #aside_title {
-            font-size: 220%;
+            font-size: 120%;
             padding: 20px;
         }
 
@@ -791,11 +790,11 @@
         #user_input {
             margin-top: 20px;
             align-self: center;
-            height: 80px;
-            width: 90px;
-            margin-left: 42%;
+            height: 150px;
+            width: 200px;
+            margin-left: 30%;
             align-content: center;
-            font-size: 400%;
+            font-size: 1000%;
         }
     </style>
 </head>
@@ -807,7 +806,7 @@
         <div class="tab" id="tab1" onclick="choose_root(1)">横区字根</div>
         <div class="tab" id="tab2" onclick="choose_root(2)">竖区字根</div>
         <div class="tab" id="tab3" onclick="choose_root(3)">撇区字根</div>
-        <div class="tab" id="tab4" onclick="choose_root(4)">点、捺区字根</div>
+        <div class="tab" id="tab4" onclick="choose_root(4)">捺区字根</div>
         <div class="tab" id="tab5" onclick="choose_root(5)">折区字根</div>
         <div class="tab" id="tab6" onclick="choose_root(6)">全部字根</div>
         <div class="tab" id="tab999" onclick="display_release_note()">更新历史</div>
@@ -816,49 +815,34 @@
     <div id="maintop">
         <br>
         <label>单次字根数：</label>
-        <input id="one_time_count" class="spinner" type="number" , min="10" , max="500" , value="30">
+        <input id="one_time_count" class="spinner" type="number" , min="10" , max="500" , value="8">
         <label>练习字根数：</label>
-        <input id="total_count" class="spinner" type="number" , min="10" , max="500" , value="120">
+        <input id="total_count" class="spinner" type="number" , min="10" , max="500" , value="200">
         </br>
         <input type="radio" name="radiobutton" onclick="choose_root(cur_tab)" checked="">顺序单次</input>
         <input type="radio" name="radiobutton" onclick="choose_root(cur_tab)">乱序单次</input>
         <input type="radio" name="radiobutton" onclick="choose_root(cur_tab)">乱序重复</input>
-        <input type="checkbox" name="key_hint_checkbox" onclick="key_hint()", checked=1>编码提示</input>
+        <input type="checkbox" name="key_hint_checkbox" onclick="key_hint()" , checked=1>编码提示</input>
         <input type="checkbox" name="repeat_wrong_checkbox" checked="">错误复习</input>
         <br>
         <label id="totallabel"></label>
         <label id="speedlabel"></label>
         </br>
-        <p><b>横区字根都在中排左侧，竖区字根都在中下排右侧，撇区字根都在上排左侧，点捺区字根都在上排右侧，折区字根都在下排左侧。</b>
-        </p>
     </div>
     <div id="content">
         <div class="textarea" , id="raw_area"></div>
         <input id="user_input" oninput="user_input_change()">
     </div>
     <div id="mainbot">
-        <p>字根口诀:
-            <br>A 丁丌行右瓦，耳下打七寸。（亍丅扌）
-            S 草头二犬厂，辰考而有臣。（丂𠂇）
-            <br>D 古來十石尤其戊，西雨不走歹豕丰，
-            F 一木甫三工。
-            <br>G 大王革春夫，框面弋酉戈。（匚𡗗）
-            H 老上青士示兀牙，末世土干未至车。（耂龶）
-            <br>J 早日山曰田，
-            K 甲申由禺电，下框敲右边，重門兼繁鹵，虫贝水上见。（冂攴）
-            <br>L 四口非口，（㗊）
-            M 巾网貝皿且具上，小目立刀卜虎骨。（罒刂）
-            N 方框二三竖，黑册尚止足。（囗〢〣龰）
-            <br>Q 荒下没右鱼儿气，撇川竹矢凡几舟。（殳丿）
-            W 周圍炙顶皆同月，千鬼上身生牛头，衣下杀上谁侧缶？（⺆勹牜⺧𧘇乂隹）
-            <br>E 反文人欠斤，白爪壬乌夭。（攵亻）
-            R 双人饣匕入舌臼，犬向夕禾微金毛。（彳饣犭）
-            <br>T 八人手长二三撇，金边自用介下卯。（钅彡）
-            Y 冪头心合豸，阜上食九鸟。（冖𠂤）
-            <br>U 兰头将左四点火，赢框广衣言亡羊，（丷丬灬礻）
-            I 鹿头三点立水上。（氵）
-            <br>O 辛亥之宝盖，言边户点方。（宀讠丶）
-            P 高门麻穴文亦米，病头走之衣字旁。（辶衤）
+        <p> 学习路线：
+            <br>
+            <a target="_blank" href="https://zhuyuhao.com/yuhao/practice_50">练习并熟悉最常用的50个字根，一共5遍</a>。到这里，已经学会了占50%频率的字根。
+            <br>
+            <a target="_blank" href="https://zhuyuhao.com/yuhao/practice_100">练习并熟悉最常用的100个字根，一共5遍</a>。到这里，你已经学会了占85%频率的字根。
+            <br>
+            <a target="_blank" href="https://kylebing.cn/tools/typepad/">使用玫枫跟打器练习字频最高的500个常用汉字</a>。巩固字根记忆。
+            <br>
+            <a target="_blank" href="https://zhuyuhao.com/yuhao/practice">练习并熟悉全部字根，每日1遍。</a>
         </p>
     </div>
 </body>
