@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>宇浩常用100字根练习</title>
+    <title>宇浩输入法·常用字练习</title>
     <style media="screen, print">
         @font-face {
             font-family: 'YuhaoSongti';
@@ -16,104 +16,106 @@
     </style>
     <script style="font-family: YuhaoSongti;">
         var root_map = [
-            // 横区
+            // 前100
             {
-                "av": ["扌"],
-                "ak": ["下", "丅"],
-                "ac": ["寸"],
+                "ewod": ["的〔白丶〕"],
+                "fif": ["一〔一〕"],
+                "jfnh": ["是〔日一龰〕"],
+                "vlf": ["了〔了〕"],
+                "duf": ["不〔不〕"],
+                "snhv": ["在〔丨土〕"],
+                "swv": ["有〔月〕"],
+                "tns": ["个〔人丨〕"],
+                "tef": ["人〔人〕"],
+                "ppow": ["这〔文辶〕"],
             },
             {
-                "sv": ["𠂇"],
-                "se": ["二", "冫", "⺀"],
-                "sq": ["犬"],
+                "ksf": ["上〔上〕"],
+                "lns": ["中〔口丨〕"],
+                "gdf": ["大〔大〕"],
+                "oxod": ["为〔丶力丶〕"],
+                "fpmi": ["来〔一米〕"],
+                "qagg": ["我〔丿扌戈〕"],
+                "hmdk": ["到〔至刂〕"],
+                "xxaa": ["出〔屮凵〕"],
+                "dcvi": ["要〔覀女〕"],
+                "xote": ["以〔乚丶人〕"],
             },
             {
-                "du": ["不"],
-                "do": ["尤", ""],
-                "di": ["西"],
+                "jac": ["时〔日寸〕"],
+                "rlvh": ["和〔禾口〕"],
+                "hcy": ["地〔土也〕"],
+                "epn": ["们〔亻门〕"],
+                "rjfa": ["得〔彳日一寸〕"],
+                "alvn": ["可〔丁口〕"],
+                "akf": ["下〔下〕"],
+                "bacu": ["对〔又寸〕"],
+                "wgf": ["生〔生〕"],
+                "cyf": ["也〔也〕"],
             },
             {
-                "fi": ["一"],
+                "vkf": ["子〔子〕"],
+                "olmd": ["就〔亠口小尤〕"],
+                "apoc": ["过〔寸辶〕"],
+                "vwrr": ["能〔厶月匕匕〕"],
+                "ecy": ["他〔亻也〕"],
+                "tsvv": ["会〔人二厶〕"],
+                "rrkk": ["多〔夕夕〕"],
+                "xeod": ["发〔乚夂丶〕"],
+                "oulq": ["说〔讠丷口儿〕"],
+                "srf": ["而〔而〕"],
             },
             {
-                "gg": ["戈"],
-                "gd": ["大"],
-            },
-            {
-                "hv": ["土", "耂"],
-                "hk": ["至"],
-            },
-            {
-                "jv": ["日"],
-            },
-            {
-                "ks": ["上", "丄"],
-            },
-            {
-                "lv": ["口"],
-            },
-            {
-                "ma": ["小", "⺌", ""],
-                "md": ["刂"],
-                "mu": ["目"],
-            },
-            {
-                "nh": ["龰"],
-                "ns": ["尚", "", "", "丨", "〢", "〣"],
-            },
-            {
-                "qr": ["儿", ""],
-                "qh": ["殳"],
-            },
-            {
-                "wv": ["月"],
-            },
-            {
-                "eb": ["白"],
-                "ev": ["亻"],
+                "faui": ["于〔一〕"],
+                "tkf": ["自〔自〕"],
+                "pcf": ["之〔之〕"],
+                "tnf": ["用〔用〕"],
+                "qav": ["年〔〕"],
+                "rahc": ["行〔彳亍〕"],
+                "ods": ["家〔宀豕〕"],
+                "ogf": ["方〔方〕"],
+                "eflv": ["后〔一口〕"],
+                "eqmo": ["作〔亻〕"],
             },
             {
             },
             {
-                "te": ["人"],
-                "tk": ["自"],
-                "tu": ["手","龵"],
             },
             {
-                "yv": ["冖", "𠂊"],
             },
             {
-                "uh": ["灬","丷","丬","䒑","リ"],
-                "ug": ["羊"],
             },
             {
-                "iv": ["氵", "⺍"],
             },
             {
-                "od": ["丶","乀"],
-                "oa": ["讠"],
-                "ov": ["宀"],
             },
             {
-                "pw": ["文"],
-                "po": ["辶"],
-                "pm": ["米"],
             },
             {
-                "xa": ["屮", "凵", "丩"],
             },
             {
-                "cy": ["也", "乜"],
-                "cf": ["阝"],
-                "cv": ["女"],
             },
             {
-                "vl": ["了"],
-                "vk": ["子"],
-                "vv": ["厶"],
             },
             {
-                "bd": ["刀"],
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
+            },
+            {
             },
         ]
 
@@ -136,7 +138,7 @@
             wrong_words = []
 
             // display_help()
-            choose_root(6)
+            choose_root(1)
         }
 
         function display_release_note() {
@@ -201,8 +203,8 @@
         function choose_root(val) {
             clear_tabs_background(val)
             enable_user_input(true)
-            raw_area.style.fontSize = "100px"
-            raw_area.style.fontHeight = "100px"
+            raw_area.style.fontSize = "80px"
+            raw_area.style.fontHeight = "80px"
             user_input.removeAttribute("disabled")
             user_input.focus()
             total_index = 0
@@ -213,19 +215,19 @@
             var all_words
             switch (val) {
                 case 1:
-                    all_words = get_root_words('a', 'f')
+                    all_words = get_root_words('a', 'e')
                     break
                 case 2:
-                    all_words = get_root_words('g', 'k')
+                    all_words = get_root_words('f', 'j')
                     break
                 case 3:
-                    all_words = get_root_words('l', 'q')
+                    all_words = get_root_words('k', 'o')
                     break
                 case 4:
-                    all_words = get_root_words('r', 'u')
+                    all_words = get_root_words('p', 't')
                     break
                 case 5:
-                    all_words = get_root_words('v', 'y')
+                    all_words = get_root_words('u', 'y')
                     break
                 case 6:
                     all_words = get_root_words('a', 'y')
@@ -538,9 +540,10 @@
         }
 
         .textarea {
-            width: 90%;
-            min-height: 300px;
-            padding: 8px;
+            width: 95%;
+            min-height: 150px;
+            padding-left: 25px;
+            padding-top: 25px;
             outline: 0;
             border: none;
             word-wrap: normal;
@@ -597,13 +600,13 @@
         }
 
         #user_input {
-            margin-top: 20px;
+            margin-top: 25px;
             align-self: center;
             height: 150px;
-            width: 200px;
-            margin-left: 30%;
+            width: 360px;
+            margin-left: 10%;
             align-content: center;
-            font-size: 1000%;
+            font-size: 800%;
         }
     </style>
 </head>
@@ -612,19 +615,19 @@
     <aside>
         <div id="aside_title">宇浩</div>
         <div class="tab" id="tab0" onclick="display_help()">快速入门</div>
-        <div class="tab" id="tab1" onclick="choose_root(1)">横区字根</div>
-        <div class="tab" id="tab2" onclick="choose_root(2)">竖区字根</div>
-        <div class="tab" id="tab3" onclick="choose_root(3)">撇区字根</div>
-        <div class="tab" id="tab4" onclick="choose_root(4)">捺区字根</div>
-        <div class="tab" id="tab5" onclick="choose_root(5)">折区字根</div>
-        <div class="tab" id="tab6" onclick="choose_root(6)">全部字根</div>
+        <div class="tab" id="tab1" onclick="choose_root(1)">常用1-50</div>
+        <div class="tab" id="tab2" onclick="choose_root(2)">常用51-100</div>
+        <div class="tab" id="tab3" onclick="choose_root(3)">常用101-150</div>
+        <div class="tab" id="tab4" onclick="choose_root(4)">常用151-200</div>
+        <div class="tab" id="tab5" onclick="choose_root(5)">常用201-250</div>
+        <div class="tab" id="tab6" onclick="choose_root(6)">全部前250</div>
         <div class="tab" id="tab999" onclick="display_release_note()">更新历史</div>
         <div id="author">作者: MoGu</div>
     </aside>
     <div id="maintop">
         <br>
         <label>单次字根数：</label>
-        <input id="one_time_count" class="spinner" type="number" , min="10" , max="500" , value="10">
+        <input id="one_time_count" class="spinner" type="number" , min="10" , max="500" , value="1">
         <label>练习字根数：</label>
         <input id="total_count" class="spinner" type="number" , min="10" , max="500" , value="200">
         </br>

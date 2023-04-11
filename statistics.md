@@ -3,7 +3,7 @@
 
 梦泽闲客 著 | [官方主页](https://zhuyuhao.com/yuhao/learn.md) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
 
-[在线字根练习](https://zhuyuhao.com/yuhao/practice) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice_100) | [最常用50字根练习](https://zhuyuhao.com/yuhao/practice_50)
+[最常用50字根练习](https://zhuyuhao.com/yuhao/practice_50) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice_100) | [在线字根练习](https://zhuyuhao.com/yuhao/practice)
 
 <!-- omit in toc -->
 ## 目录
