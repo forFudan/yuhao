@@ -9184,7 +9184,7 @@ columns:
 觱	dflt
 礑	dnjt
 霙	dskg
-験	dtft
+験	dyte
 栢	fdjv
 栴	fqwo
 鬵	gqgn
@@ -12026,7 +12026,6 @@ columns:
 铔	tauh
 魛	tbdy
 盨	tdmm
-剣	tflm
 鮌	tovo
 谾	ttlf
 豀	ttlg
@@ -12114,6 +12113,7 @@ columns:
 貆	ysjv
 觟	ythh
 觿	ytjl
+剣	ytmd
 忴	ytov
 餸	yugp
 餻	yuhu
@@ -14710,7 +14710,6 @@ columns:
 亼	tfie
 鯟	tfjv
 鯻	tflm
-剱	tflo
 鷍	tfro
 鱆	tijo
 牑	tinc
@@ -14980,6 +14979,7 @@ columns:
 愥	yskg
 懜	ysmr
 饛	ysyd
+剱	ytbo
 飤	ytes
 觘	ytmq
 惗	ytoy
@@ -16311,7 +16311,6 @@ columns:
 姷	cswv
 婨	ctfn
 陯	ctfn
-険	ctft
 姾	ctgv
 隂	ctha
 嬶	ctja
@@ -16354,6 +16353,7 @@ columns:
 嬒	cymj
 陥	cynj
 妼	cyqp
+険	cyte
 隖	cywf
 嬆	cyxu
 駵	dagb
@@ -16794,7 +16794,6 @@ columns:
 佄	esse
 僃	eswt
 仈	etb
-倹	etft
 倽	ethl
 僋	etom
 仱	etov
@@ -16823,6 +16822,7 @@ columns:
 噕	eylv
 偩	eymb
 伔	eyqj
+倹	eyte
 爳	eyvl
 欇	faaa
 桺	fagb
@@ -17130,7 +17130,6 @@ columns:
 櫹	fsxx
 桰	ftal
 椕	ftbf
-検	ftft
 櫓	ftjv
 橮	ftmb
 梒	ftol
@@ -17206,6 +17205,7 @@ columns:
 梚	fylq
 杺	fyn
 榓	fyqm
+検	fyte
 棎	fytf
 椧	fyxj
 棦	fyxv
@@ -18273,7 +18273,6 @@ columns:
 閄	kten
 仧	ktes
 蜦	ktfn
-鹸	ktft
 閝	ktob
 鹷	ktob
 蛿	ktol
@@ -18307,6 +18306,7 @@ columns:
 蛡	kxu
 蜭	kyrj
 蛫	kysv
+鹸	kyte
 䦛	kyxv
 咠	lar
 唞	lasd
@@ -26330,11 +26330,8 @@ columns:
 䲔	tfjj
 㑹	tfkj
 䱨	tfkm
-㪘	tfle
-㰸	tfle
 䲚	tflm
 䲇	tflp
-㑒	tflt
 䱏	tflu
 㓷	tfmd
 䰽	tfmv
@@ -27568,6 +27565,9 @@ columns:
 㙰	ytbh
 䚨	ytbq
 䚞	ytdl
+㑒	ytee
+㪘	yteh
+㰸	ytei
 䚩	ytel
 䚦	ytem
 䚢	ythf
@@ -28759,7 +28759,6 @@ columns:
 𦖭	atfm
 𢰖	atfr
 𦕞	atfs
-𢮦	atft
 𢬃	atfx
 𢷀	atfy
 𢺒	atga
@@ -29066,6 +29065,7 @@ columns:
 𢳼	ayqw
 𢴼	ayre
 𦗯	aysl
+𢮦	ayte
 𢷨	aytt
 𢲡	aytu
 𢶷	aytw
@@ -44203,7 +44203,6 @@ columns:
 𣈥	jtfm
 𣈯	jtfm
 𤲕	jtfn
-𡸴	jtft
 𡺼	jtfv
 𡹥	jthv
 𡷉	jtin
@@ -44597,6 +44596,7 @@ columns:
 𤱯	jysv
 𣈶	jysw
 𡿑	jyta
+𡸴	jyte
 𠟘	jytm
 𡽖	jytw
 𡓚	jyvh
@@ -49223,7 +49223,6 @@ columns:
 𦌸	mtei
 𧆧	mtfq
 𥅎	mtfs
-𥇥	mtft
 𧆩	mtft
 𥉒	mtfv
 𧈎	mtgt
@@ -49647,6 +49646,7 @@ columns:
 𣱍	myta
 𤮝	myta
 𣤧	myte
+𥇥	myte
 𠧶	mytk
 𧮲	mytl
 𧢕	mytm
@@ -61180,7 +61180,6 @@ columns:
 𤖶	tfkt
 𩶁	tfkt
 𩺂	tfkt
-𠝏	tflb
 𨞌	tflc
 𣃃	tfle
 𨱒	tfle
@@ -69871,6 +69870,7 @@ columns:
 𧢴	ytan
 𩜡	ytau
 𧣸	ytbb
+𠝏	ytbd
 𧣻	ytbd
 𢞂	ytbm
 𢠈	ytbm
@@ -83063,7 +83063,6 @@ columns:
 𭱂	iswn
 𭳵	iswn
 𭲝	isxx
-𭲠	itfe
 𭲥	itfj
 𮄶	itfm
 𭰅	itfv
@@ -83146,6 +83145,7 @@ columns:
 𭳶	iynm
 𭰹	iypm
 𭲧	iyrt
+𭲠	iyte
 𭓓	iyvb
 𭓚	iyvb
 𭱯	iywo

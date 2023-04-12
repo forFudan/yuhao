@@ -2583,7 +2583,6 @@
 𫠳	atfn
 𢰖	atfr
 𦕞	atfs
-𢮦	atft
 𢬃	atfx
 𢷀	atfy
 𢺒	atga
@@ -3427,6 +3426,7 @@
 揯	aysw
 𫾅	ayta
 㩂	aytd
+𢮦	ayte
 探	aytf
 𱠄	ayth
 𫾇	aytj
@@ -8622,7 +8622,6 @@
 婨	ctfn
 陯	ctfn
 𢡣	ctfo
-険	ctft
 𨽙	ctft
 𨽭	ctft
 𨻄	ctfv
@@ -9218,6 +9217,7 @@
 姽	cysv
 陒	cysv
 𥍨	cysv
+険	cyte
 𡛪	cyti
 𧥔	cytk
 𫱗	cytu
@@ -13652,7 +13652,6 @@
 𩥽	dtfp
 𫕲	dtfp
 𮟀	dtfp
-験	dtft
 𩤼	dtfu
 𡰆	dtfv
 𥒛	dtfv
@@ -14736,6 +14735,7 @@
 𣧼	dysv
 𧻜	dysv
 𥔂	dysw
+験	dyte
 𩤞	dytf
 𱴑	dytf
 𲊔	dytf
@@ -17550,7 +17550,6 @@
 𠋁	etfn
 倫	etfn
 𱎨	etfo
-倹	etft
 𤾚	etfv
 𪝓	etfw
 𠈟	etfx
@@ -18291,6 +18290,7 @@
 佹	eysv
 𮦸	eysv
 𤔸	eyta
+倹	eyte
 𪝀	eytn
 𣃅	eyto
 𠌧	eytu
@@ -22145,7 +22145,6 @@
 榆	ftfm
 棆	ftfn
 𭩫	ftfo
-検	ftft
 𤇟	ftfu
 𣒡	ftfv
 𣜴	ftfy
@@ -23015,6 +23014,7 @@
 桅	fysv
 㮓	fysw
 槲	fytd
+検	fyte
 棎	fytf
 𰗯	fyth
 桷	fytn
@@ -35873,7 +35873,6 @@
 𣻠	itfd
 漵	itfe
 𤃮	itfe
-𭲠	itfe
 涂	itff
 𪊸	itff
 塗	itfh
@@ -36880,6 +36879,7 @@
 澹	iysu
 𱪂	iysu
 洈	iysv
+𭲠	iyte
 深	iytf
 𬉣	iytf
 𣵫	iytg
@@ -39693,7 +39693,6 @@
 𬀿	jtfn
 崙	jtfn
 𰻏	jtfp
-𡸴	jtft
 𱤢	jtft
 嵲	jtfv
 暞	jtfv
@@ -40629,6 +40628,7 @@
 𤱯	jysv
 𣈶	jysw
 𡿑	jyta
+𡸴	jyte
 𠟘	jytm
 崅	jytn
 𱛮	jytn
@@ -42890,7 +42890,6 @@
 𰭊	ktfm
 蜦	ktfn
 𰿡	ktfn
-鹸	ktft
 㒷	ktft
 𤱫	ktft
 闑	ktfv
@@ -43675,6 +43674,7 @@
 䦲	kysu
 蛫	kysv
 𨴓	kysv
+鹸	kyte
 𫎩	kytf
 𨷌	kytk
 𰲾	kytn
@@ -50589,7 +50589,6 @@
 𮪮	mtfn
 𧆧	mtfq
 𥅎	mtfs
-𥇥	mtft
 𧆩	mtft
 㮂	mtfv
 𥉒	mtfv
@@ -51475,6 +51474,7 @@
 𣱍	myta
 𤮝	myta
 𣤧	myte
+𥇥	myte
 賝	mytf
 𠧶	mytk
 𧮲	mytl
@@ -77774,18 +77774,14 @@
 𰽥	tfkt
 𲇾	tfkt
 𬾽	tfky
-𠝏	tflb
 𨞌	tflc
 𮠃	tflc
 𲆕	tflc
-㪘	tfle
-㰸	tfle
 𣃃	tfle
 𨱒	tfle
 鰏	tflj
 𤗚	tflj
 𬛰	tfll
-剣	tflm
 鯻	tflm
 䲚	tflm
 𠠆	tflm
@@ -77795,11 +77791,9 @@
 𠇭	tfln
 𤗦	tfln
 𩹺	tfln
-剱	tflo
 䲇	tflp
 𬆱	tflq
 𠋒	tfls
-㑒	tflt
 䱏	tflu
 𧯚	tflu
 𠎘	tflv
@@ -98084,6 +98078,7 @@
 ⺳	ytb
 𧣸	ytbb
 㤋	ytbd
+𠝏	ytbd
 𧣻	ytbd
 𬲍	ytbd
 㙰	ytbh
@@ -98093,6 +98088,7 @@
 𲁠	ytbk
 𢞂	ytbm
 𢠈	ytbm
+剱	ytbo
 𧢷	ytbo
 邂	ytbp
 䚨	ytbq
@@ -98122,10 +98118,13 @@
 𧣔	ytdv
 𧤶	ytdy
 𧤷	yted
+㑒	ytee
 𠈏	ytee
 觻	ytef
 𧣜	ytef
+㪘	yteh
 𮗡	yteh
+㰸	ytei
 𮗦	ytei
 𧣊	ytej
 觡	ytel
@@ -98251,6 +98250,7 @@
 悅	ytlq
 䬽	ytlq
 𰭉	ytlq
+剣	ytmd
 㓩	ytmd
 𫦏	ytmd
 𧥊	ytme
