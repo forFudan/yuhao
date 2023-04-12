@@ -227,21 +227,15 @@ O 辛亥圆宝盖，言旁点撇方。  P 文门亦米走之底，病头麻穴�
 
 百度手机输入法挂载码表方法如下：
 
-- 将 [/mabiao](https://github.com/forFudan/yuhao/tree/main/mabiao/baidu/) 文件夹下的**yuhao.txt**下载到设备上。
-- 进入输入法程序，在设置中选择导入自定义码表。
-- 将**yuhao.txt**导入后即可直接使用。
-
-比如，百度输入法 iOS 版：
-
+- 将 [/mabiao](https://github.com/forFudan/yuhao/tree/main/mabiao/baidu/) 文件夹下的**yuhao.txt**下载到设备上
+- 进入百度输入法 iOS 版
 - 点击「我的」
 - 点击右上方设置按钮
 - 点击「输入设置」
 - 点击「五笔输入」
 - 点击「自定义方案」
 - 点击「导入方案」
-- 选择下载的**yuhao.txt**文件，导入后即可使用。
-
-搜狗手机输入法类似。
+- 选择下载的**yuhao.txt**文件，导入后即可使用
 
 ### 3.2. 落格输入法
 

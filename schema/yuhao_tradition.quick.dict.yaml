@@ -729,7 +729,7 @@ columns:
 接過	ai
 提前	aj
 下午	ak
-可是	al
+事情	al
 擺手	am
 擋住	an
 按照	ao
@@ -800,7 +800,7 @@ columns:
 乾淨	dj
 走到	dk
 來去	dl
-真正	dm
+真的	dm
 丰采	dn
 尤其	do
 逐漸	dp
@@ -1299,7 +1299,7 @@ columns:
 接着	ai
 提到	aj
 下來	ak
-事情	al
+事兒	al
 據説	am
 丁	an
 按住	ao
@@ -1355,7 +1355,7 @@ columns:
 乾燥	dj
 走路	dk
 來到	dl
-馬	dm
+直接	dm
 丰姿	dn
 逐步	dp
 其實	dq
@@ -1703,7 +1703,6 @@ columns:
 接受	ai
 提醒	aj
 下去	ak
-事兒	al
 搞定	ao
 指點	ar
 拱手	as
@@ -1729,6 +1728,7 @@ columns:
 也好	cy
 不好	dc
 不要	dd
+馬	dm
 不知道	dq
 不行	dr
 豕	ds
