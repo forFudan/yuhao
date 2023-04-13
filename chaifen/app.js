@@ -10,7 +10,7 @@ d3.csv("宇浩輸入法全漢字拆分表.csv", function (data) {
         d3.select("tbody").html("")
         d3.event.preventDefault();
         var inputValue = d3.select("#user-input").property("value");
-        var inputChars = inputValue.split('');
+        var inputChars = [...inputValue];
         for (var n = 0; n < inputChars.length; n++) {
             var filteredDictionary =
                 dictionary.filter(dictionary => dictionary.char.includes(inputChars[n]));
