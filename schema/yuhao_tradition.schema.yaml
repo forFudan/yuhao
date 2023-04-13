@@ -144,7 +144,7 @@ translator:
   dictionary: yuhao_tradition
   prism: yuhao_tradition
   db_class: tabledb
-  enable_completion: false
+  enable_completion: true
   enable_sentence: false
   enable_user_dict: true
   enable_encoder: true

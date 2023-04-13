@@ -108,7 +108,7 @@ chaifen:
   opencc_config: yuhao_chaifen.json
   option_name: chaifen
   show_in_comment: true
-  tags: [reverse_lookup]
+  tags: [abc, reverse_lookup]
   tips: char
 
 yuhao_postpone_full_code:

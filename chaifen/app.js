@@ -22,7 +22,7 @@ d3.csv("宇浩輸入法全漢字拆分表.csv", function (data) {
                     "<td>" + (output[i]['code']) + "</td>" +
                     "<td>" + (output[i]['quick_simp']) + "</td>" +
                     "<td>" + (output[i]['region']) + "</td>" +
-                    "<td>" + (output[i]['details']) + "</td>" +
+                    // "<td>" + (output[i]['details']) + "</td>" +
                     "<td>" + (output[i]['comments']) + "</td>")
             }
         }
