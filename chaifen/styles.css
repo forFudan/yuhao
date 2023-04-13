@@ -1832,8 +1832,10 @@ pre code {
 }
 
 .table {
-  width: 100%;
+  width: 95%;
   margin-bottom: 1rem;
+  margin-left: auto;
+  margin-right: auto;
   color: #212529;
 }
 
@@ -3912,9 +3914,11 @@ input[type=button].btn-block {
 .input-group {
   position: relative;
   display: flex;
+  margin-left: auto;
+  margin-right: auto;
   flex-wrap: wrap;
   align-items: stretch;
-  width: 100%;
+  width: 95%;
 }
 
 .input-group>.form-control,
@@ -11303,8 +11307,8 @@ body {
 
 .mas h1 {
   font-family: "Verdana";
-  font-size: 4.5rem;
-  line-height: 4.5rem;
+  font-size: 4.0rem;
+  line-height: 4.0rem;
   letter-spacing: 0.1rem;
   padding-top: 20px;
   background: linear-gradient(rgba(15, 7, 7, 1), rgba(19, 7, 7, 1));
