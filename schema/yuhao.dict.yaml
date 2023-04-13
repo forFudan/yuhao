@@ -35,7 +35,7 @@ import_tables:
   - yuhao.quick
   - yuhao.full
   - yuhao.words_l1
-  #  - yuhao.words_tc
+  - yuhao.words_tc
   #  - yuhao.words_l2
   #  - yuhao.words_l3
   - yuhao.symbols
