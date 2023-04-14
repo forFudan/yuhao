@@ -1,17 +1,11 @@
 <!-- omit in toc -->
 # 宇浩输入法·繁简通打·极致低重·全汉字输入
 
-[点击此处快速加入官方QQ群: 735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
+点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
 
-<!-- 或打开 QQ 扫描二维码加入 ![qq](./image/qq.png) -->
-
-[详细教程](./learn.md) | [更新日志](./updates.md) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
-
-[最常用50字根练习](https://zhuyuhao.com/yuhao/practice_50) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice_100)
-
-[最常用汉字练习](https://zhuyuhao.com/yuhao/practice_characters) | [全部字根练习](https://zhuyuhao.com/yuhao/practice)
-
-[宇浩输入法免安装版下载（可放在优盘中）](https://zhuyuhao.com/yuhao/assets/宇浩输入法-小小输入平台.exe)
+[详细教程](./docs/learn.md) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
+[最常用50字根练习](https://zhuyuhao.com/yuhao/practice/practice_50) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice/practice_100)
+[最常用汉字输入练习](https://zhuyuhao.com/yuhao/practice/practice_characters) | [全部字根练习](https://zhuyuhao.com/yuhao/practice/practice)
 
 ```txt
 站在巨人的肩膀上，为创作而设计，对汉字怀有一份脉脉的温情。

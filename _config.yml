@@ -1,18 +1,14 @@
-plugins:
-  - jekyll-remote-theme
-  - jekyll-relative-links
-  - jekyll-seo-tag
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
-# theme: jekyll-theme-cayman
-remote_theme: pages-themes/cayman@v0.2.0
-title: 宇浩输入法·繁簡通打·全汉字覆盖
+title: 宇浩输入法
+description: ·繁简通打·极致低重·全汉字输入
+theme: just-the-docs
+
+url: https://zhuyuhao.com/yuhao/
+
+aux_links:
+  官方QQ群: https://jq.qq.com/?_wv=1027&k=2OYDP4Tk
+
+# External navigation links
+nav_external_links:
+  - title: 在线拆分查询系统
+    url: https://zhuyuhao.com/yuhao/chaifen
+    hide_icon: false # set to true to hide the external link icon - defaults to false

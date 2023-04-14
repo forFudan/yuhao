@@ -1,18 +1,11 @@
-<!-- omit in toc -->
-# 常见汉字输入方案重码数据统计
-
-梦泽闲客 著 | [官方主页](https://zhuyuhao.com/yuhao/learn.md) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
-
-[最常用50字根练习](https://zhuyuhao.com/yuhao/practice_50) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice_100)
-
-[最常用50汉字拆分练习](https://zhuyuhao.com/yuhao/practice_characters) | [全部字根练习](https://zhuyuhao.com/yuhao/practice)
+---
+title: 常见输入法重码对比
+layout: default
+nav_order: 41
+---
 
 <!-- omit in toc -->
-## 目录
-
-- [1. 重码数据](#1-重码数据)
-- [2. 码表来源](#2-码表来源)
-- [3. 125个大陆繁体字形](#3-125个大陆繁体字形)
+# 常见输入法重码数据对比
 
 ## 1. 重码数据
 
