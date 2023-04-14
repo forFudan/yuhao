@@ -19,10 +19,10 @@
   {% endif %}
 
   {% if site.search_enabled != false %}
-  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | absolute_url }}"></script>
-  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.multi.min.js' | absolute_url }}"></script>
-  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.stemmer.support.min.js' | absolute_url }}"></script>
-  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.zh.min.js' | absolute_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.multi.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.stemmer.support.min.js' | relative_url }}"></script>
+  <script type="text/javascript" src="{{ '/assets/js/vendor/lunr.zh.min.js' | relative_url }}"></script>
   {% endif %}
 
   <script src="{{ '/assets/js/just-the-docs.js' | relative_url }}"></script>
