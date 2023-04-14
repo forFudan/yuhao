@@ -2202,7 +2202,6 @@ columns:
 縲	bjb
 緹	bjf
 繩	bjm
-繷	bjn
 緄	bjr
 縪	bjs
 細	bjt
@@ -2213,6 +2212,7 @@ columns:
 絅	bkl
 屬	bkm
 絏	bkq
+繷	bks
 納	bkt
 綱	bku
 遲	bkw
@@ -3014,7 +3014,6 @@ columns:
 偎	ejg
 倡	ejj
 僈	ejm
-儂	ejn
 儑	ejv
 催	ejw
 傝	ejx
@@ -3022,7 +3021,7 @@ columns:
 佒	ekg
 泉	ekh
 侧	ekm
-俚	eks
+儂	eks
 僩	ekw
 觅	ekx
 俋	elc
@@ -3593,7 +3592,6 @@ columns:
 醍	gjf
 轠	gjj
 蠢	gjk
-醴	gjn
 璟	gjo
 琨	gjr
 瑞	gjs
@@ -3870,7 +3868,6 @@ columns:
 場	hjf
 塒	hjh
 塭	hjm
-鬞	hjn
 辊	hjr
 煮	hju
 埸	hjw
@@ -4145,7 +4142,7 @@ columns:
 涅	ijh
 韻	ijl
 漫	ijm
-濃	ijn
+湿	ijn
 章	ijo
 竟	ijq
 混	ijr
@@ -4464,7 +4461,6 @@ columns:
 巃	jiw
 暘	jjf
 疊	jjj
-嶩	jjn
 崑	jjr
 曝	jjs
 暍	jjw
@@ -4473,7 +4469,7 @@ columns:
 岟	jkg
 岬	jkj
 岫	jko
-晪	jks
+嶩	jks
 崗	jku
 岗	jkw
 岘	jkx
@@ -4490,9 +4486,7 @@ columns:
 崱	jmm
 峭	jmw
 勗	jmx
-艶	jnf
 曭	jnn
-農	jns
 显	jnu
 晏	joc
 晥	jof
@@ -4540,6 +4534,7 @@ columns:
 屿	jsf
 岸	jsh
 晅	jsj
+嶆	jsk
 巏	jsl
 剬	jsm
 遄	jsp
@@ -4690,7 +4685,6 @@ columns:
 蠬	kiw
 螺	kjb
 蠝	kjj
-蛐	kjn
 閺	kjp
 沓	kjv
 蠍	kjw
@@ -4699,7 +4693,7 @@ columns:
 蚺	kkh
 閘	kkj
 淼	kkk
-冑	kks
+蛐	kks
 蚋	kkt
 閩	kkv
 罂	kkw
@@ -4768,14 +4762,14 @@ columns:
 野	ksc
 蚪	ksd
 里	kse
-蛎	ksf
+艶	ksf
 蝡	ksg
 蟆	ksj
 蟥	ksk
 蠸	ksl
 冒	ksm
 赈	ksn
-蠣	kss
+農	kss
 典	kst
 閎	ksv
 贿	ksw
@@ -4946,7 +4940,6 @@ columns:
 喂	ljg
 唱	ljj
 嗢	ljm
-噥	ljn
 哕	ljr
 喘	ljs
 喟	ljw
@@ -5871,7 +5864,6 @@ columns:
 裸	pjf
 阊	pjj
 瘟	pjm
-襛	pjn
 间	pjv
 褐	pjw
 褟	pjx
@@ -5960,8 +5952,8 @@ columns:
 袚	psb
 料	psd
 癱	psf
-糟	psj
-癘	psk
+瘼	psj
+糟	psk
 襪	psm
 裖	psn
 弈	pso
@@ -6150,7 +6142,6 @@ columns:
 鳂	qjg
 鲳	qjj
 龜	qjm
-鳢	qjn
 鲲	qjr
 舢	qjs
 鲁	qjv
@@ -6245,7 +6236,6 @@ columns:
 鲅	qsb
 舞	qsd
 鷡	qsf
-艚	qsj
 簧	qsk
 升	qso
 籃	qsq
@@ -6432,7 +6422,6 @@ columns:
 稈	rjh
 猖	rjj
 馒	rjm
-穠	rjn
 馥	rjq
 秽	rjr
 島	rjs
@@ -6781,7 +6770,7 @@ columns:
 斮	sje
 幕	sjg
 蒔	sjh
-遭	sjj
+菖	sjj
 蔓	sjm
 葃	sjq
 鵲	sjr
@@ -6794,6 +6783,7 @@ columns:
 蘭	skf
 英	skg
 冰	skh
+遭	skj
 蠆	skk
 苘	skl
 菽	skm
@@ -7145,7 +7135,6 @@ columns:
 鰣	tjh
 鯧	tjj
 鰻	tjm
-鱧	tjn
 遛	tjp
 锟	tjr
 魯	tjv
@@ -7432,7 +7421,6 @@ columns:
 煜	uji
 讄	ujj
 譝	ujm
-禮	ujn
 焜	ujr
 謖	ujt
 甑	uju
@@ -7445,7 +7433,7 @@ columns:
 炯	ukl
 諔	ukm
 庙	uko
-廛	uks
+禮	uks
 訥	ukt
 譋	ukw
 视	ukx
@@ -7969,7 +7957,6 @@ columns:
 腲	wjg
 銲	wjh
 鏝	wjm
-膿	wjn
 迿	wjp
 錕	wjr
 腨	wjs
@@ -7981,7 +7968,7 @@ columns:
 製	wkm
 鍆	wkn
 鈾	wko
-腆	wks
+膿	wks
 鈉	wkt
 鋼	wku
 郜	wlc
@@ -8491,6 +8478,7 @@ columns:
 惰	ysf
 餪	ysg
 惜	ysj
+慒	ysk
 懽	ysl
 怖	ysm
 弇	yso
