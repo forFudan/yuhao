@@ -8,8 +8,6 @@ nav_order: 1
 # 宇浩输入法·繁简通打·极致低重
 {: .no_toc }
 
-梦泽闲客 敬制
-
 <details open markdown="block">
   <summary>
     目录
