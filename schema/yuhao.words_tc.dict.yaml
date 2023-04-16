@@ -16243,7 +16243,6 @@ columns:
 高錳酸鉀	owgw
 甩賣	wxhm
 雪恥	dxay
-粗線條	pben
 事過境遷	anhd
 探親假	aieb
 賢達	sbhu
@@ -20916,7 +20915,6 @@ columns:
 鷂子	ewvk
 狀語	xsuf
 當票	njdh
-燈綵	ubbe
 墊圈	hunu
 請功	uhfx
 缺斤短兩	weqf
@@ -21339,7 +21337,6 @@ columns:
 橫濱	fsio
 格陵蘭	fcsk
 頂上	adks
-頂牛	adwn
 極少	fvmq
 極性	fvyw
 票數	dhld
@@ -21477,11 +21474,9 @@ columns:
 稅費	rtvt
 退耕還林	vdmf
 庫區	uggl
-離退休	pvef
 增值稅	hert
 臺商	hlou
 多層	rrbu
-幹群	djxq
 沙塵暴	iijs
 上將	ksxw
 製售	wkwl
@@ -21553,8 +21548,6 @@ columns:
 內弟	kruv
 包工頭	wffl
 將門	xwkn
-遊藝	oqsh
-娘兒們	crek
 獨行	rmra
 緊逼	sbfl
 賬面	mhgi
@@ -22969,13 +22962,11 @@ columns:
 中規中矩	lglq
 敗絮	mecl
 髮際	hscw
-積欠	rhei
 託孤	uqvq
 尋歡	xfsl
 鏡臺	wihl
 軍制	ygwk
 榮升	uuqs
-針織品	wbll
 裝假	xheb
 泛稱	iqre
 販私	merv
@@ -25513,6 +25504,7 @@ columns:
 離合悲歡	pyls
 認作	ubeq
 率隊	ovcu
+韓文	djpw
 長效	haot
 製假	wkeb
 轉制	ggwk
@@ -25586,7 +25578,6 @@ columns:
 呈請	lguh
 盡顯	xkjv
 賞玩	nmgf
-結夥	bhjf
 創編	tobi
 破題	dvjf
 臼齒	rjmc
@@ -25596,7 +25587,6 @@ columns:
 鋼針	wkwd
 亞於	fjot
 嘆惜	lsys
-希圖	wsnl
 亞裔	fjor
 擱筆	akqx
 號哭	lsll
@@ -26418,6 +26408,7 @@ columns:
 師從	yfrt
 剪髮	uwhs
 扣繳	albe
+無價	qsed
 吞聲	fghb
 萬頃	skrd
 復返	rqeb
@@ -26769,7 +26760,6 @@ columns:
 聲譽鵲起	hrsd
 違法必究	ciyp
 進境	wphi
-進港	wpis
 進山	wpjs
 進制	wpwk
 擊節	gxqx
@@ -26790,7 +26780,6 @@ columns:
 教過	hvnp
 喪父	dltw
 武職	fgai
-下馬看花	adts
 天龍	fgiw
 天淵	fgit
 表單	hrll
@@ -27185,6 +27174,7 @@ columns:
 誰都	uwhj
 鷹潭	ueid
 訪美	uouh
+兩隻	fmwb
 徵管	rfqo
 中將	lnxw
 無以	qsxo
@@ -27426,9 +27416,7 @@ columns:
 耳飾	aryq
 雞姦	evcc
 勁歌	fval
-門斗	knsd
 燒心	uhyn
-司庫	vfug
 癰疽	pvpm
 圓鋼	nlwk
 雲崖	dsjs
@@ -29262,6 +29250,8 @@ columns:
 該批	uoar
 京東	olfj
 凡爾賽	qfos
+真氣	dmqp
+韓語	djuf
 有變	swub
 幫困	hhnf
 守將	oaxw
@@ -29420,7 +29410,6 @@ columns:
 奪過	gwnp
 石縫	dvbe
 顧盼自雄	imts
-豔女	jdcv
 破廟	dvud
 釐定	heof
 礙手	drtu
@@ -30352,7 +30341,6 @@ columns:
 壽筵	hvqq
 牽念	ovto
 惠臨	gysq
-哭喪棒	ldfg
 離情	pxyh
 牽纏	ovbu
 淫書	iexh
@@ -30365,7 +30353,6 @@ columns:
 續假	bheb
 呈閱	lgkt
 純鋼	bawk
-騎馬找馬	ddad
 駁岸	dwjs
 車閘	gckk
 換購	ayms
@@ -30790,7 +30777,6 @@ columns:
 阿拉木圖	cafn
 隆興	cerk
 聯勤	avgs
-附隨	cecs
 陳穀子爛芝麻	chvp
 預冷	cdst
 參劾	vvox
@@ -30830,7 +30816,6 @@ columns:
 無地	qshc
 走勢圖	dhnl
 雪車	dxgc
-無紙化	qber
 開胸	kfww
 開映	kfjk
 開練	kfbf
@@ -31015,7 +31000,6 @@ columns:
 西歸	diyn
 酷斃	gwum
 查檔	fjfn
-機繡	fvbx
 楊花	fjse
 槍打出頭鳥	faxr
 梅樹	fqfh
@@ -32349,18 +32333,13 @@ columns:
 添滿	ifis
 泥灘	ibis
 題注	jfio
-電測	dkim
 暈紅	jybf
 噴畫	ldxh
 別解	lwyt
 忠心赤膽	lyhw
-唯實	lwob
 圓底	nlut
 圖新	nlif
 略談	jeuu
-圈選	nucc
-央請	kguh
-賜稿	mjro
 贈物	muww
 民婦	cacx
 收賄	xems
@@ -33473,7 +33452,6 @@ columns:
 鋪牀	wfxf
 坐枱	ttfv
 税費	ruvt
-幹羣	djxq
 實説	obuu
 黨羣	nnxq
 説開	uukf
@@ -35273,7 +35251,6 @@ columns:
 月産	wviq
 垜口	hvlv
 兇信	wxeu
-艶女	kscv
 廳内	uakt
 縣内	mmkt
 潑婦駡街	iclr

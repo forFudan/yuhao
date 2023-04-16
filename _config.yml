@@ -12,3 +12,5 @@ nav_external_links:
   - title: 在线拆分查询系统
     url: https://zhuyuhao.com/yuhao/chaifen
     hide_icon: false # set to true to hide the external link icon - defaults to false
+
+markdown: kramdown
