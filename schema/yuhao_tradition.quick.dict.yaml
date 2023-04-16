@@ -72,7 +72,7 @@ columns:
 那麽	b
 好像	c
 不過	d
-爲什麽	e
+的確	e
 一下	f
 大槪	g
 地説	h
@@ -195,7 +195,7 @@ columns:
 甚	dx
 確	dy
 何	ea
-反	eb
+白	eb
 他	ec
 做	ed
 任	ee
@@ -216,7 +216,7 @@ columns:
 低	et
 信	eu
 樂	ev
-件	ew
+爲	ew
 似	ex
 你	ey
 三	fa
@@ -500,7 +500,7 @@ columns:
 順	qd
 笑	qe
 箱	qf
-重	qg
+動	qg
 等	qh
 篇	qi
 几	qj
@@ -815,7 +815,7 @@ columns:
 甚至	dx
 確定	dy
 何况	ea
-反應	eb
+白色	eb
 他們	ec
 估計	ed
 任何	ee
@@ -836,7 +836,7 @@ columns:
 低頭	et
 信息	eu
 仔細	ev
-的確	ew
+爲了	ew
 似乎	ex
 你們	ey
 三個	fa
@@ -1368,10 +1368,10 @@ columns:
 協會	dx
 確實	dy
 何必	ea
-白	eb
+反而	eb
 他的	ec
 值得	ed
-爲什麽	ee
+任務	ee
 使用	ef
 代表	eg
 倒下	eh
@@ -1389,7 +1389,7 @@ columns:
 低聲	et
 信任	eu
 雞翅	ev
-乌	ew
+爲何	ew
 儘量	ex
 你的	ey
 一下子	fa
@@ -1753,6 +1753,7 @@ columns:
 佈置	es
 偷偷	et
 亻	ev
+乌	ew
 ；	ff
 一聲	fi
 兩天	fm
@@ -2489,8 +2490,8 @@ columns:
 姣	cot
 嫡	cou
 娘	cov
+媯	cow
 妫	cox
-媯	coy
 娴	cpf
 迆	cpo
 嫉	cpq
@@ -2960,9 +2961,9 @@ columns:
 佟	ees
 侨	eet
 俘	eev
-傜	eew
+僞	eew
 侹	eex
-僞	eey
+恁	eey
 屔	efb
 伍	efc
 体	eff
@@ -3070,9 +3071,9 @@ columns:
 皎	eot
 傍	eou
 俍	eov
-仪	eow
+偽	eow
 伪	eox
-偽	eoy
+儜	eoy
 偻	epc
 倥	epf
 迫	epo
@@ -3168,13 +3169,12 @@ columns:
 爭	exv
 侵	exy
 受	eyb
-鄬	eyc
 像	eyl
 您	eym
 佖	eyq
 舜	eyr
 儋	eys
-爲	eyw
+傕	eyw
 㑇	eyx
 愛	eyy
 棷	fab
@@ -4216,7 +4216,7 @@ columns:
 滚	iot
 濟	iou
 流	iov
-浶	iow
+溈	iow
 沩	iox
 濘	ioy
 溇	ipc
@@ -4641,8 +4641,9 @@ columns:
 䗛	ken
 蚸	keo
 蜉	kev
+蟡	kew
 蜓	kex
-蟡	key
+閿	key
 閆	kfa
 蜥	kfe
 贱	kfg
@@ -5584,7 +5585,6 @@ columns:
 讹	oer
 谣	oew
 寑	oex
-寪	oey
 𬣙	ofa
 语	ofc
 𬣡	ofg
@@ -5748,6 +5748,7 @@ columns:
 褢	owr
 诛	owt
 谯	owu
+為	oww
 讻	owx
 寤	oxf
 寐	oxh
@@ -5764,7 +5765,6 @@ columns:
 谄	oyr
 诡	oys
 甯	oyt
-為	oyw
 诌	oyx
 窃	pab
 衬	pac
@@ -6105,7 +6105,7 @@ columns:
 笻	qfx
 篿	qga
 矩	qgb
-動	qgf
+重	qgf
 箋	qgg
 䲠	qgj
 笸	qgl
@@ -6854,8 +6854,9 @@ columns:
 菸	sot
 蒂	sou
 蓄	sov
+蒍	sow
 莘	sox
-蒍	soy
+蔤	soy
 痲	spa
 芝	spc
 蘑	spd

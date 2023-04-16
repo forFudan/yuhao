@@ -2547,8 +2547,8 @@ columns:
 姣	cot
 嫡	cou
 娘	cov
+媯	cow
 妫	cox
-媯	coy
 娴	cpf
 違	cpo
 嬷	cpq
@@ -3019,7 +3019,7 @@ columns:
 佟	ees
 侨	eet
 俘	eev
-傜	eew
+僞	eew
 侹	eex
 恁	eey
 屔	efb
@@ -3132,7 +3132,7 @@ columns:
 俍	eov
 仪	eow
 伪	eox
-偽	eoy
+儜	eoy
 偻	epc
 倥	epf
 迫	epo
@@ -3217,7 +3217,7 @@ columns:
 鷂	ewr
 俙	ews
 侏	ewt
-倗	eww
+爲	eww
 鹞	ewy
 健	exa
 颋	exd
@@ -3230,13 +3230,12 @@ columns:
 殷	exv
 侵	exy
 受	eyb
-鄬	eyc
 像	eyl
 您	eym
 佖	eyq
 舜	eyr
 爱	eys
-爲	eyw
+傕	eyw
 㑇	eyx
 愛	eyy
 棷	fab
@@ -4275,7 +4274,7 @@ columns:
 滚	iot
 滴	iou
 浪	iov
-浶	iow
+溈	iow
 沩	iox
 濘	ioy
 溇	ipc
@@ -4707,8 +4706,9 @@ columns:
 䗛	ken
 蚸	keo
 蜉	kev
+蟡	kew
 蜓	kex
-蟡	key
+閿	key
 赙	kfa
 蜥	kfe
 贱	kfg
@@ -5649,7 +5649,6 @@ columns:
 讹	oer
 谣	oew
 寑	oex
-寪	oey
 宇	ofa
 语	ofc
 𬣡	ofg
@@ -5806,6 +5805,7 @@ columns:
 褢	owr
 诛	owt
 谯	owu
+為	oww
 讻	owx
 寤	oxf
 寐	oxh
@@ -5822,7 +5822,6 @@ columns:
 谄	oyr
 诡	oys
 甯	oyt
-為	oyw
 诌	oyx
 窃	pab
 衬	pac
@@ -6909,8 +6908,9 @@ columns:
 萃	sot
 蒂	sou
 蓄	sov
+蒍	sow
 莘	sox
-蒍	soy
+蔤	soy
 痲	spa
 芝	spc
 蘑	spd
