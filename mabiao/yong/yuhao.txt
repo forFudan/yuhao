@@ -9,16 +9,6 @@ auto_clear=4
 simple=3
 assist=z mb/pinyin.txt
 [DATA]
- 粵
- 𢍙
- 𤀀
- 𥜊
- 𥣄
- 𦆒
- 𧒹
- 𧞄
- 𨆗
- 𪦪
 a 把
 a 事情
 a 事物
@@ -3469,7 +3459,6 @@ ahxs 东连牂牁西连蕃
 ahxx 挂出
 ahxx 掛出
 ahxx 擡出
-ahxx 擡出
 ahy 㧎
 ahyd 挂怀
 ahye 寸土必爭
@@ -5298,7 +5287,6 @@ alrj 可得
 alrj 聖旨
 alrl 排名
 alrl 歌名
-alrl 排程
 alrl 排程
 alrm 排外
 alrn 捛
@@ -7716,7 +7704,6 @@ ardo 东征西讨
 ardq 耳聋
 ardr 批覆
 ardr 下德不失德
-ardr 批覆
 ardv 过犹不及
 ardv 攪成
 ardv 严惩不怠
@@ -9584,7 +9571,6 @@ autb 事关全局
 aute 揹人
 aute 恶人
 aute 东北人
-aute 揹人
 autf 扩印
 autf 擴印
 autf 𢹖
@@ -9669,7 +9655,6 @@ auvw 𪼸
 auvy 𢶴
 auw 揃
 auwb 㨵
-auwc 揹包
 auwc 揹包
 auwd 拦腰
 auwd 𢳋
@@ -13877,7 +13862,6 @@ bfrq 𱝡
 bfrr 彘
 bfrs 絢麗多姿
 bfru 登入
-bfru 登入
 bfru 刀枪入库
 bfrv 紅透
 bfrw 紅學
@@ -15669,7 +15653,6 @@ bmif 刷新
 bmif 母親
 bmij 母音
 bmij 眉端
-bmij 母音
 bmis 組
 bmiw 刷洗
 bmj 綽
@@ -16883,6 +16866,7 @@ brqo 𡲟
 brqq 尾盤
 brqq 尾气
 brqr 䋩
+brqs 𦆒
 brr 屁
 brra 履行
 brrc 㞜
@@ -23797,6 +23781,7 @@ crqn 𫲆
 crqr 𨺙
 crqr 婗
 crqs 𨼟
+crqs 𪦪
 crr 妣
 crrd 𰋾
 crre 階
@@ -28753,7 +28738,6 @@ dfdh 直来直去
 dfdh 十惡不赦
 dfdh 硬碟
 dfdh 走来走去
-dfdh 硬碟
 dfdm 䪹
 dfdn 不三不四
 dfdn 咸丰
@@ -32756,6 +32740,7 @@ dlng 成员国
 dlnh 靈堂
 dlnl 來回
 dlnm 𫠾
+dlnn 𡈋
 dlnp 來過
 dlnp 駛過
 dlnr 來此
@@ -32763,7 +32748,6 @@ dlns 馽
 dlns 𫠬
 dlns 𮩸
 dlnv 𩢆
-dlnx 𡈋
 dlod 喪家
 dlod 𬺿
 dloe 來客
@@ -33484,7 +33468,6 @@ dmtc 𪦵
 dmte 真人
 dmte 𧼥
 dmtf 赴會
-dmtf 列印
 dmtf 列印
 dmtf 真钱
 dmth 𭅨
@@ -35511,6 +35494,7 @@ drhd 死城
 drhd 不得到辽西
 drhd 𮗆
 drhf 不待致书求
+drhg 𡯹
 drhi 䅇
 drhi 𫌚
 drhj 死者
@@ -35518,7 +35502,6 @@ drhj 𱴴
 drhm 妻兒老小
 drho 覆辙
 drhq 歪風邪氣
-drhs 𡯹
 drhs 𫀂
 drhu 不得志独行其道
 drhv 死去
@@ -35789,7 +35772,6 @@ drve 死缓
 drvh 死结
 drvj 𰷽
 drvj 𱄭
-drvk 覆函
 drvk 覆函
 drvl 不得了
 drvl 死了
@@ -40552,7 +40534,6 @@ ebdq 白龙
 ebdq 白矾
 ebdr 假死
 ebdr 反覆
-ebdr 反覆
 ebds 借尸还魂
 ebds 白雲
 ebds 反震
@@ -43261,7 +43242,6 @@ efyw 依赖性
 efyx 使命
 eg 代
 eg 代表
-eg 代表
 ega 倚
 egaa 代打
 egac 傳
@@ -44198,7 +44178,6 @@ eife 𫣩
 eiff ⽋
 eifh 偏远
 eifh 億元
-eifh 位元
 eifh 位元
 eifj 喬治亞
 eifj 𠍀
@@ -48823,7 +48802,6 @@ ethh 价款
 ethh 仁人志士
 ethi 俗世
 ethj 使用者
-ethj 使用者
 ethl 倽
 ethm 低到
 ethr 使用者名稱
@@ -49255,7 +49233,6 @@ euef 信条
 euef 信使
 eueg 信贷
 eueg 信貸
-eueg 伙伕
 eueg 伙伕
 eueh 白首偕老
 euei 各单位
@@ -56550,7 +56527,6 @@ fiyy 更觉鹤心通杳冥
 fj 更
 fj 更加
 fj 更为
-fj 粵東
 fja 亞
 fjab 樶
 fjac 𰗨
@@ -57161,8 +57137,8 @@ fjuu 𭻴
 fjuv 𤉲
 fjuv 𤊗
 fjuw 查詢
-fjv 杳
 fjv 東
+fjv 杳
 fjv 𣏬
 fjve 查缴
 fjve 𣖱
@@ -58142,7 +58118,6 @@ fleu 𧫷
 flev 逗樂
 flev 豆乳
 flew 元器件
-flex 核戰爭
 flex 𭄺
 fley 頭像
 fley 慗
@@ -58551,7 +58526,6 @@ flse 融资
 flse 豆花
 flse 杏花
 flse 融資
-flse 樓花
 flse 頭雁
 flse 一唱雄鸡天下白
 flse 枕中云气千峰近
@@ -59599,9 +59573,8 @@ fnhy 橕
 fni 杫
 fnic 无业游民
 fnie 正派
-fnie 顽固派
 fnie 无党派
-fnie 頑固派
+fnie 顽固派
 fnif 于此学飞术
 fnih 正法
 fnih 政法
@@ -59817,12 +59790,14 @@ fnte 㐁
 fntf 正途
 fntf 𢒅
 fntg 𬞿
+fnth 𭀟
 fntm 一览众山小
 fntm 榲
 fntn 政企
 fnto 政令
 fntp 正片
 fntr 𬆹
+fnts 𨱗
 fntt 𠀬
 fntu 正手
 fntu 𣛟
@@ -59865,6 +59840,7 @@ fnut 政論
 fnut 正座
 fnut 𢒞
 fnut 𣚠
+fnut 𨱘
 fnuv 正火
 fnuv 𣙢
 fnuv 𪲗
@@ -60883,8 +60859,8 @@ fpsa 𣜻
 fpsd 𬻢
 fpse 榨菜
 fpse 一穷二白
-fpse 楼花
 fpse 一窮二白
+fpse 楼花
 fpse 无数次
 fpsg 来头
 fpsh 𫮜
@@ -75129,7 +75105,6 @@ gyf 弋
 gyfd 𤧽
 gyfd 𨢊
 gyff ⼷
-gyfg 太師椅
 gyfi 面貌一新
 gyfl 瓊樓
 gyfm 瑡
@@ -84780,7 +84755,6 @@ hydd 𡕎
 hyde 𰧋
 hydf 槖
 hydh 埠
-hydh 埠
 hydh 𡉻
 hydh 𡔸
 hydk 蠧
@@ -92890,7 +92864,6 @@ ioog 温家宝
 ioog 溫家寶
 ioog 温家寶
 ioog 房主
-ioog 温家宝
 ioog 游宦京都二十春
 ioog 𭠈
 iooh 房室
@@ -94493,6 +94466,7 @@ irqr 麑
 irqr 活儿
 irqr 淣
 irqr 𰛯
+irqs 𤀀
 irqs 𤁌
 irqu 酒後失言
 irqv 所剩無幾
@@ -94623,7 +94597,6 @@ iryx 活命
 is 满
 is 满足
 is 满意
-is 粵港
 isa 溽
 isaa 沉郁顿挫
 isab 𣽇
@@ -103831,9 +103804,9 @@ jtis 田漢
 jtiw 田壟
 jtja 𡽶
 jtjf 畏途巉岩不可攀
-jtjm 𡾍
 jtjs 昆仑山
 jtjt 嵧
+jtjt 𡾍
 jtjt 𫶌
 jtjt 𰖝
 jtjv 𣋼
@@ -107270,6 +107243,7 @@ kfnm 開步
 kfnn 同黨
 kfnq 同党
 kfnr 同此
+kfns 𭁟
 kfnt 同龄
 kfnu 闌
 kfnu 同业
@@ -110673,6 +110647,7 @@ krqn 𨷞
 krqr 蜺
 krqr 䦧
 krqs 见微知著
+krqs 𧒹
 krqv 𧏩
 krr 蚍
 krra 內行
@@ -110783,7 +110758,6 @@ kryx 內急
 ks 里
 ks 里面
 ks 典型
-ks 粵曲
 ksa 蝆
 ksac 𧏯
 ksad 冒顶
@@ -113270,7 +113244,6 @@ kxhm 见到
 kxhm 𬠨
 kxhv 见教
 kxi 虬
-kxig 𭁟
 kxio 𠃦
 kxjs 同牀異夢
 kxke 蚂蝗
@@ -119272,7 +119245,6 @@ lsac 嗕
 lsac 𱒰
 lsac 𱓗
 lsah 哄擡
-lsah 哄擡
 lsak 嚥下
 lsal 𠶾
 lsan 𠯸
@@ -121010,7 +120982,6 @@ lxld 𡃉
 lxle 别听
 lxlf 㗎
 lxlk 咖哩
-lxlk 咖哩
 lxll 咖啡
 lxll 吗啡
 lxll 叫骂
@@ -122233,7 +122204,6 @@ mcyr 𥊥
 mcyu 𥃸
 md 置
 md 置换
-md 粵劇
 mda 帱
 mdac 帱
 mdad 置顶
@@ -124453,7 +124423,6 @@ mjsh 𥊅
 mjsh 𮯒
 mjsh 𰥮
 mjsm 盧布
-mjsm 桌布
 mjsm 桌布
 mjso 𡮁
 mjsr 𧶲
@@ -134003,6 +133972,7 @@ nrqn 𰸴
 nrqp 此番
 nrqq 紫气
 nrqr 鬩
+nrqs 𨆗
 nrqv 紫竹
 nrqy 𫚖
 nrr 黟
@@ -135405,8 +135375,8 @@ nvx 黝
 nvxb 𡈫
 nvxb 𡈱
 nvxl 黝
+nvxn 𡆵
 nvxo 足以
-nvxx 𡆵
 nvyc 足色
 nvyc 紫红色
 nw 跑
@@ -141754,7 +141724,6 @@ oovv 诚诚恳恳
 oovv 该书
 oovv 议论纷纭
 oovw 高效能
-oovw 高效能
 oow 议
 oowa 议
 oowa 寂寞身后事
@@ -145106,7 +145075,6 @@ ovfr 读书万卷不读律
 ovfs 字形
 ovfs 字模
 ovfs 棄權
-ovfs 字型
 ovfs 字型
 ovfs 词形
 ovfs 交结五都雄
@@ -150256,10 +150224,9 @@ plyn 问心
 plyn 窝心
 plyn 𥦗
 plys 吝惜
-pm 粗
+pm 米
 pm 补充
 pm 补偿
-pm 米
 pmai 粗拉
 pmai 米拉
 pman 补丁
@@ -152023,6 +151990,7 @@ prqr 䘽
 prqr 𤵯
 prqr 𤷅
 prqs 𧝰
+prqs 𧞄
 prqu 窗簾
 prr 疪
 prre 瘦猴
@@ -160715,7 +160683,6 @@ qqef 翻箱倒柜
 qqef 船体
 qqef 翻箱倒櫃
 qqeg 船伕
-qqeg 船伕
 qqei 年年后浪推前浪
 qqei 艅艎何泛泛
 qqen 气候
@@ -166199,7 +166166,6 @@ rgg 飋
 rgg 𢦖
 rgga 𧗸
 rgga 𮎀
-rggc 獨輪車
 rggd 狂奔
 rggd 𰡍
 rggg 㣤
@@ -166537,7 +166503,6 @@ rhfp 入地无门
 rhfq 待机
 rhfq 街机
 rhfq 名世于今五百年
-rhfs 𠂽
 rhft 舆
 rhft 猿声梦里长
 rhft 𰔶
@@ -166556,6 +166521,7 @@ rhg 秆
 rhg 犴
 rhga 名声大振
 rhga 名聲大振
+rhgf 𠂽
 rhgh 秆
 rhgh 𥝝
 rhgi 街面
@@ -166779,7 +166745,6 @@ rhsc 𮠁
 rhse 和平共处
 rhsg 街头
 rhsg 猪头
-rhsh 待著
 rhsh 待著
 rhsh 𥞆
 rhsi 向青草更青处漫溯
@@ -167823,6 +167788,7 @@ rkft 委曲求全
 rkft 𠔻
 rkft 𢸁
 rkft 𦢰
+rkft 𦦴
 rkft 𦧅
 rkft 𮍮
 rkfu 爨
@@ -168041,7 +168007,6 @@ rkxh 𫀨
 rkxi 𭷺
 rkxl 独力
 rkxm 𬆾
-rkxt 𦦴
 rky 𤟹
 rkyh 𫀽
 rkyj 𥝇
@@ -170288,6 +170253,7 @@ rqfh 禦
 rqfh 種樹
 rqfh 復元
 rqfj 復甦
+rqfj 粵東
 rqfj 名重一时
 rqfj 𥠗
 rqfk 衝刺
@@ -170355,6 +170321,7 @@ rqio 饰演
 rqio 衝浪
 rqir 復活
 rqis 狗血淋头
+rqis 粵港
 rqis 毛血洒平芜
 rqj 饥
 rqj 𤜝
@@ -170402,6 +170369,7 @@ rqkl 𥡺
 rqkn 得复见将军于此
 rqkp 奧迪
 rqkp 㪒
+rqks 粵曲
 rqkv 𩗝
 rqkv 𮃅
 rql 穨
@@ -170422,6 +170390,7 @@ rqlw 御史
 rqly 狂风吹我心
 rqm 饰
 rqma 𡮅
+rqmd 粵劇
 rqme 頹敗
 rqme 頽敗
 rqmf 兒戲
@@ -170500,6 +170469,7 @@ rqpn 𥤑
 rqpo 𫐰
 rqpo 𬨩
 rqpq 微风襟袖知
+rqps 粵
 rqps 衝突
 rqps 種類
 rqps 𢍢
@@ -170557,6 +170527,7 @@ rqsa 种瓜黄台下
 rqsd 秋风萧瑟洪波涌起
 rqse 復原
 rqse 積重難返
+rqse 粵菜
 rqse 種菜
 rqse 種花
 rqse 𮂷
@@ -170617,6 +170588,7 @@ rque 秃鹰
 rque 禿鷹
 rque 秃鷹
 rque 𦧔
+rquf 粵語
 rquf 衝床
 rquh 疑義
 rquh 復讀
@@ -170624,6 +170596,7 @@ rquh 奧義
 rquj 復課
 rqum 饿着
 rquo 𬷊
+rqur 粵北
 rquu 皆知善之为善
 rquw 御前
 rquw 復燃
@@ -171224,6 +171197,7 @@ rrqr 行行重行行
 rrqr 鶃
 rrqs 毕升
 rrqs 猪犹智慧胜愚曹
+rrqs 𥣄
 rrqu 徇私舞弊
 rrqv 多么
 rrr 移
@@ -174362,6 +174336,7 @@ rwwo 𣱓
 rwwq 𭯄
 rwwr 鷽
 rwwr 𪈔
+rwws 𢍙
 rwwt 黌
 rwwt 觷
 rwwt 鱟
@@ -176383,7 +176358,6 @@ sdls 减号
 sdlt 䖅
 sdlv 藉口
 sdlv 苦口
-sdlv 藉口
 sdlv 䓏
 sdlv 𦴖
 sdm 厦
@@ -176443,7 +176417,6 @@ sdnl 虂
 sdno 二十四桥明月夜
 sdno 䒠
 sdnq 二十四
-sdnr 藉此
 sdnr 藉此
 sdns 二十四桥仍在
 sdnv 𲃴
@@ -176787,7 +176760,6 @@ sdyx 葧
 se 二
 se 原则
 se 原因
-se 粵菜
 sea 荷
 seab 花招
 seab 盗取
@@ -182326,7 +182298,6 @@ smfe 布爾
 smfe 脣齒相依
 smfe 二虎相斗，必有一伤
 smff 布林
-smff 布林
 smff 𠘏
 smfg 有眼无珠
 smfg 𦾒
@@ -187854,7 +187825,6 @@ swcu 警隊
 swcu 𦳤
 swcv 有限
 swcw 薰陶
-swcw 薰陶
 swd 萆
 swda 有趣
 swdb 驚起
@@ -188125,7 +188095,6 @@ swiv 黃臉婆
 swiw 有沒
 swiy 警觉
 swiy 有染
-swiy 薰染
 swiy 薰染
 swj 荀
 swja 有时
@@ -201665,7 +201634,6 @@ ueyy 訴冤
 uf 差
 uf 差别
 uf 床上
-uf 粵語
 ufa 訏
 ufa 𤆜
 ufab 盖棺事则已
@@ -206921,7 +206889,6 @@ upqs 兼容幷蓄
 upqw 言之無物
 upqw 兼容幷包
 upqw 羊痫风
-upqw 兼容幷包
 upqx 這筆
 upr 燐
 upra 燐
@@ -207406,7 +207373,6 @@ uqyo 許久
 ur 将
 ur 将来
 ur 背后
-ur 粵北
 ura 謋
 urab 𫦋
 urac 将
@@ -207824,6 +207790,7 @@ urqr 𤊓
 urqr 𫀗
 urqr 𭙢
 urqs 𤏓
+urqs 𥜊
 urqu 營私舞弊
 urqw 北风
 urqw 背风
@@ -212077,7 +212044,6 @@ uxqp 𲁥
 uxqq 废气
 uxqs 兼收幷蓄
 uxqs 翔升
-uxqs 兼收幷蓄
 uxqu 𤐆
 uxqu 𥜉
 uxqw 逆风
@@ -233001,7 +232967,6 @@ xmxl 马架
 xmxq 马群
 xmxw 马驹
 xmya 𤖄
-xmyc 䏋
 xmyh 𤖊
 xn 驷
 xnai 以旧换新
@@ -233054,6 +233019,7 @@ xnsh 马蹄莲
 xnsk 马齿苋
 xnsm 𥅱
 xnsp 𨒢
+xntc 䏋
 xntp 賀歲片
 xnuu 𤎸
 xnvm 马蹄经雨不沾尘
@@ -233798,7 +233764,6 @@ xtfq 验钞机
 xtfq 加人一等
 xtfq 君看一叶舟
 xtfr 𩿌
-xtfs 𨱗
 xtft 发令枪
 xtgd 以卵擊石
 xtgk 办理
@@ -233812,7 +233777,6 @@ xthl 𱅚
 xthm 办到
 xthm 办刊
 xtho 即今耆旧无新语
-xthw 𭀟
 xtih 办法
 xtih 出人意表
 xtij 发人深思
@@ -233992,7 +233956,6 @@ xufr 以誠相待
 xufr 出师无名
 xufr 以火来照所见稀
 xufs 灵巧
-xuft 𨱘
 xufu 灵杰
 xufu 出言无状
 xufu 以火救火
@@ -234402,7 +234365,6 @@ xwco 卫生院
 xwcp 卫生防疫
 xwcs 灵丹妙药
 xwda 以身殉职
-xwda 以身殉職
 xwdb 出乖露丑
 xwdb 𭣟
 xwdc 以售其奸
@@ -236373,7 +236335,6 @@ yejb 怕累
 yejf 怕是
 yejf 合夥
 yejf 飯量
-yejf 合夥
 yejg 𮩔
 yejj 负债累累
 yejj 負債累累
@@ -238681,7 +238642,6 @@ ylrf 象征
 ylrf 免征
 ylrf 象徵
 ylrf 免徵
-ylrf 象徵
 ylrf 恸哭秋原何处村
 ylrf 𣔵
 ylrg 㚟
