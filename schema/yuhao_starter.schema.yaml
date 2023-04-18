@@ -17,7 +17,7 @@ schema:
     - 顯示九個候選項，豎排候選欄。
     - 按"help"或"bang"提示快捷鍵和官方網站。
   dependencies:
-    - pinyin_simp
+    - yuhao_pinyin
 
 switches:
   - name: yuhao_single_char_only_for_full_code
@@ -174,7 +174,7 @@ history:
   initial_quality: 1
 
 reverse_lookup:
-  dictionary: pinyin_simp
+  dictionary: yuhao_pinyin
   prefix: "z"
   tips: 〔全拼反查〕
   closing_tips: 〔反查关闭〕
