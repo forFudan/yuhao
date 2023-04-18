@@ -17,7 +17,9 @@ nav_order: 2
 {:toc}
 </details>
 
-点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
+## QQ 群资源
+
+官方 QQ 群中提供本输入法的全部资源，还有同好一起讨论相关问题。点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
 
 ## 码表直接挂载
 
