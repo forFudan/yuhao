@@ -44,7 +44,7 @@ columns:
 出	x
 心	y
 可以	a
-那個	b
+繼續	b
 好好	c
 不是	d
 什麽	e
@@ -64,12 +64,11 @@ columns:
 有些	s
 今天	t
 這個	u
-幾個	v
+那個	v
 然後	w
 出來	x
 慢慢	y
 可能	a
-那麽	b
 好像	c
 不過	d
 的確	e
@@ -89,7 +88,7 @@ columns:
 有人	s
 今日	t
 這麽	u
-幾天	v
+那麽	v
 然而	w
 出去	x
 情况	y
@@ -137,7 +136,7 @@ columns:
 紋	bp
 紇	bq
 總	br
-那	bs
+展	bs
 通	bt
 又	bu
 發	bv
@@ -500,7 +499,7 @@ columns:
 順	qd
 笑	qe
 箱	qf
-動	qg
+重	qg
 等	qh
 篇	qi
 几	qj
@@ -619,7 +618,7 @@ columns:
 前	uw
 康	ux
 忘	uy
-敢	va
+那	va
 盈	vb
 弛	vc
 頗	vd
@@ -672,23 +671,23 @@ columns:
 建	xa
 骚	xb
 妝	xc
-肅	xd
+骠	xd
 收	xe
-牀	xf
+尋	xf
 戕	xg
 書	xh
 翌	xi
 翼	xj
-盡	xk
+逮	xk
 力	xl
-肃	xm
+马	xm
 驷	xn
 以	xo
 边	xp
 群	xq
 骢	xr
 狀	xs
-戮	xt
+肅	xt
 羽	xu
 即	xv
 將	xw
@@ -760,7 +759,7 @@ columns:
 統計	bo
 紋理	bp
 總之	br
-那裏	bs
+展開	bs
 通過	bt
 又是	bu
 發現	bv
@@ -773,6 +772,7 @@ columns:
 媽媽	cd
 附近	ce
 隔壁	cf
+陝西	cg
 陸地	ch
 韋	ci
 陽光	cj
@@ -1205,7 +1205,7 @@ columns:
 謝謝	uw
 康熙	ux
 忘了	uy
-乃是	va
+那裏	va
 盈利	vb
 孤陋寡聞	vc
 迅速	vd
@@ -1221,7 +1221,7 @@ columns:
 弱小	vs
 費用	vt
 災難	vu
-參加	vv
+幾個	vv
 能够	vw
 孔子	vx
 射擊	wa
@@ -1248,22 +1248,21 @@ columns:
 服務	wx
 脆弱	wy
 建設	xa
-肅靜	xd
+羽絨服	xb
+妝扮	xc
 收拾	xe
-牀上	xf
-爿	xg
+尋找	xf
+戕害	xg
 書房	xh
 翌日	xi
 卩	xj
-盡力	xk
 力量	xl
-马	xm
 廴	xn
 以後	xo
-出類拔萃	xp
+爿	xp
 群體	xq
 狀態	xs
-戮力	xt
+肅靜	xt
 羽毛	xu
 將來	xw
 脅持	xx
@@ -1328,10 +1327,10 @@ columns:
 統一	bo
 紋路	bp
 總是	br
-那樣	bs
+展示	bs
 通知	bt
 屏幕	bu
-尸	bv
+發生	bv
 約會	bw
 糾結	bx
 絶對	by
@@ -1647,14 +1646,14 @@ columns:
 前輩	uw
 康復	ux
 忘記	uy
-敢問	va
+那樣	va
 盈盈	vb
 司馬	vf
 承諾	vk
 幺	vo
 退後	vp
 響起	vq
-參觀	vv
+參加	vv
 能力	vw
 幼稚	vx
 錄像	wb
@@ -1670,12 +1669,13 @@ columns:
 千	wq
 腳步	wt
 凵	xa
+牀上	xf
 書桌	xh
 乚	xi
-盡頭	xk
 以爲	xo
 群衆	xq
 巳	xs
+肅穆	xt
 脅迫	xx
 快速	yb
 色澤	yc
@@ -1721,8 +1721,9 @@ columns:
 眉毛	bm
 那裏	bo
 總歸	br
-那邊	bs
+糸	bs
 那邊	bt
+尸	bv
 好不好	cd
 好的	ce
 阝	cf
@@ -1804,7 +1805,7 @@ columns:
 亡	uw
 乃	va
 孫子	vq
-強大	vv
+厶	vv
 態度	vw
 包裏	wc
 屮	xa
@@ -1818,7 +1819,6 @@ columns:
 耳	ar
 扌	av
 飛	bf
-糸	bs
 雨	dy
 欠	ei
 爪	ek
@@ -1826,7 +1826,6 @@ columns:
 曰	je
 亠	ov
 辰	sn
-厶	vv
 攝	aaa
 摄	aab
 揶	aac
@@ -1845,7 +1844,7 @@ columns:
 握	abh
 招	abl
 搔	abo
-挪	abs
+搌	abs
 抉	abt
 摒	abu
 撥	abv
@@ -2051,7 +2050,6 @@ columns:
 抢	atv
 抑	atx
 拌	aua
-搪	aub
 攍	auc
 搓	auf
 捲	aug
@@ -2069,7 +2067,7 @@ columns:
 揃	auw
 搛	aux
 恶	auy
-撖	ava
+挪	ava
 韧	avb
 韬	ave
 掺	avg
@@ -2288,7 +2286,7 @@ columns:
 縟	bsa
 遐	bsb
 絘	bse
-展	bsg
+緛	bsg
 縸	bsj
 纜	bsq
 紺	bss
@@ -2331,10 +2329,9 @@ columns:
 絺	bws
 綯	bww
 縐	bwx
-繡	bxd
 繣	bxh
 劝	bxl
-繆	bxt
+繡	bxt
 屈	bxx
 綅	bxy
 鸡	bya
@@ -2363,7 +2360,6 @@ columns:
 胬	cbk
 韌	cbo
 妮	cbr
-娜	cbs
 拏	cbt
 弩	cbv
 努	cbx
@@ -2888,7 +2884,6 @@ columns:
 憂	dwy
 赳	dxa
 妻	dxc
-驌	dxd
 霫	dxe
 戡	dxg
 碌	dxk
@@ -3161,8 +3156,8 @@ columns:
 鹞	ewy
 健	exa
 颋	exd
+儘	exf
 癿	exi
-儘	exk
 廷	exn
 伊	exq
 僇	ext
@@ -3431,7 +3426,7 @@ columns:
 巫	ftt
 松	ftv
 柈	fua
-榶	fub
+櫠	fub
 檖	fud
 橧	fuj
 棁	ful
@@ -3439,6 +3434,7 @@ columns:
 栏	fus
 棪	fuu
 梯	fuv
+榶	fux
 橄	fva
 楹	fvb
 勁	fvf
@@ -3466,12 +3462,11 @@ columns:
 劢	fwx
 楗	fxa
 紮	fxb
-橚	fxd
 槢	fxe
 棣	fxk
 枷	fxl
 疌	fxn
-樛	fxt
+橚	fxt
 概	fxv
 櫂	fxw
 柮	fxx
@@ -3720,7 +3715,6 @@ columns:
 夾	gtt
 玱	gtv
 靽	gua
-醣	gub
 郏	guc
 颊	gud
 瑳	guf
@@ -3730,6 +3724,7 @@ columns:
 軿	gus
 琰	guu
 珶	guv
+醣	gux
 夷	gvg
 輜	gvj
 鞎	gvn
@@ -3972,7 +3967,6 @@ columns:
 轮	htr
 赫	htt
 塕	htv
-塘	hub
 垿	huc
 幸	hud
 鬈	hug
@@ -3981,7 +3975,7 @@ columns:
 達	hup
 壙	hus
 鬋	huw
-墉	hux
+塘	hux
 教	hve
 辎	hvj
 盍	hvm
@@ -4344,7 +4338,6 @@ columns:
 淘	iww
 汹	iwx
 津	ixa
-潚	ixd
 泼	ixe
 滍	ixf
 澅	ixh
@@ -4554,7 +4547,6 @@ columns:
 界	jtt
 暡	jtv
 昂	jtx
-嵣	jub
 嵯	juf
 崷	jug
 曦	juh
@@ -4791,7 +4783,6 @@ columns:
 蜵	ktx
 螅	kty
 誾	kua
-螗	kub
 蛳	kuf
 蟻	kuh
 岡	kuj
@@ -4852,7 +4843,6 @@ columns:
 噼	lbl
 呎	lbo
 嘱	lbq
-哪	lbs
 嗵	lbt
 喲	lbw
 啒	lbx
@@ -5055,7 +5045,7 @@ columns:
 啖	luu
 嗞	luv
 嗍	lux
-噉	lva
+哪	lva
 叼	lvf
 咍	lvl
 唉	lvq
@@ -5075,11 +5065,9 @@ columns:
 噍	lwu
 啕	lww
 鹃	lwy
-嘯	lxd
 嗤	lxf
 吳	lxg
-嚍	lxk
-嘐	lxt
+嘯	lxt
 翡	lxu
 唧	lxv
 咄	lxx
@@ -5769,6 +5757,7 @@ columns:
 窃	pab
 衬	pac
 疴	pal
+疔	pan
 闭	paq
 闻	par
 痖	pau
@@ -5786,6 +5775,7 @@ columns:
 瘫	pbw
 窟	pbx
 痾	pca
+疤	pcb
 癮	pce
 糅	pcf
 褘	pci
@@ -5799,6 +5789,7 @@ columns:
 癗	pdj
 痞	pdl
 癲	pdm
+疣	pdo
 糯	pds
 痝	pdt
 窦	pdv
@@ -5865,6 +5856,7 @@ columns:
 裸	pjf
 阊	pjj
 瘟	pjm
+疝	pjs
 间	pjv
 褐	pjw
 褟	pjx
@@ -5879,6 +5871,7 @@ columns:
 癇	pkw
 褸	pld
 裎	plg
+靡	pli
 窝	plk
 癌	pll
 劘	plm
@@ -5889,6 +5882,7 @@ columns:
 刘	pmd
 瘧	pmg
 糬	pmh
+粗	pmi
 瘝	pmk
 粘	pml
 癯	pmm
@@ -5898,6 +5892,7 @@ columns:
 襬	pmv
 痟	pmw
 裆	pmx
+瘑	pna
 痼	pnd
 裀	png
 襠	pnj
@@ -5926,6 +5921,8 @@ columns:
 痗	pqb
 袘	pqc
 袟	pqg
+疫	pqh
+疾	pqi
 複	pqj
 痴	pql
 窄	pqm
@@ -5939,7 +5936,9 @@ columns:
 鄰	pra
 竄	prb
 痿	prc
+瘋	prf
 穈	prh
+疕	pri
 穸	prk
 襝	prl
 麾	prm
@@ -5975,6 +5974,7 @@ columns:
 瘤	ptj
 齑	ptl
 剂	ptm
+痈	ptn
 瘡	pto
 糗	pts
 裕	ptt
@@ -5985,6 +5985,7 @@ columns:
 癵	pub
 邃	pud
 瘥	puf
+褲	pug
 糕	puh
 阐	puj
 阅	pul
@@ -5998,8 +5999,10 @@ columns:
 籸	pvd
 穹	pvg
 籽	pvk
+疗	pvl
 裉	pvn
 麼	pvo
+疲	pvp
 痠	pvt
 糝	pvv
 褦	pvw
@@ -6018,6 +6021,7 @@ columns:
 窮	pwv
 糉	pwx
 褶	pxe
+疖	pxj
 离	pxk
 瘸	pxl
 闯	pxm
@@ -6105,7 +6109,7 @@ columns:
 笻	qfx
 篿	qga
 矩	qgb
-重	qgf
+動	qgf
 箋	qgg
 䲠	qgj
 笸	qgl
@@ -6295,12 +6299,12 @@ columns:
 飑	qww
 籙	qwx
 鲟	qxa
-簫	qxd
 鳛	qxe
 氯	qxk
 笳	qxl
 笾	qxp
 笋	qxq
+簫	qxt
 節	qxv
 籊	qxw
 鸼	qya
@@ -6942,7 +6946,6 @@ columns:
 蓊	stv
 藰	stw
 蒠	sty
-蓎	sub
 薠	sud
 蒫	suf
 菤	sug
@@ -7000,7 +7003,6 @@ columns:
 萄	sww
 菔	swx
 荨	sxa
-蕭	sxd
 荍	sxe
 蕁	sxf
 莊	sxh
@@ -7010,7 +7012,7 @@ columns:
 冯	sxm
 苡	sxo
 莙	sxq
-苏	sxt
+蕭	sxt
 厩	sxv
 蔣	sxw
 茁	sxx
@@ -7282,7 +7284,6 @@ columns:
 铢	twt
 爷	twx
 键	txa
-鱐	txd
 䥽	txe
 鱘	txf
 卬	txj
@@ -7308,7 +7309,7 @@ columns:
 炖	uax
 彎	ubb
 羞	ubc
-唐	ubd
+禒	ubd
 證	ubf
 廜	ubh
 記	ubj
@@ -7612,9 +7613,10 @@ columns:
 謅	uwx
 𬊈	uxa
 熠	uxe
-燖	uxf
+燼	uxf
 羌	uxi
-燼	uxk
+禄	uxk
+唐	uxl
 祃	uxm
 兼	uxn
 逆	uxp
@@ -7636,7 +7638,7 @@ columns:
 廨	uyt
 諍	uyx
 纣	vac
-憨	vae
+敢	vae
 绕	vaq
 弭	var
 缙	vau
@@ -8144,7 +8146,6 @@ columns:
 鹏	wwy
 凶	wxa
 鵩	wxb
-鏽	wxd
 鉯	wxo
 兇	wxq
 鬯	wxr
@@ -8178,10 +8179,8 @@ columns:
 驰	xcy
 𬴃	xdd
 骦	xdf
-骠	xdh
 頨	xdm
 骐	xdq
-鷫	xdt
 驸	xea
 習	xeb
 翫	xef
@@ -8193,8 +8192,10 @@ columns:
 𫘬	xev
 卫	xfi
 蚩	xfk
-尋	xfl
+鄩	xfl
 羾	xfo
+盡	xfu
+牀	xfv
 骑	xga
 驮	xgd
 翴	xgp
@@ -8215,9 +8216,8 @@ columns:
 驲	xjv
 𬳶	xkl
 剥	xkm
-逮	xkp
+逯	xkp
 骋	xks
-賮	xku
 哿	xla
 駕	xld
 架	xlf
@@ -8233,7 +8233,6 @@ columns:
 驶	xlw
 驾	xlx
 驵	xmi
-鹔	xmt
 骃	xng
 驻	xog
 骇	xoi
@@ -8256,7 +8255,8 @@ columns:
 骝	xtj
 牄	xto
 验	xts
-鹨	xtt
+戮	xtt
+鷫	xtx
 习	xuf
 牂	xug
 骥	xur
@@ -8280,8 +8280,8 @@ columns:
 䢺	xxc
 祟	xxh
 𫘧	xxk
-骕	xxm
 粜	xxp
+骕	xxt
 勰	xxx
 骎	xxy
 翬	xyg
