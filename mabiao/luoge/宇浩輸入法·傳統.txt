@@ -9660,7 +9660,6 @@
 严加	auxl
 𤮂	auxl
 翘首以盼	auxm
-𪮧	auxn
 𦗄	auxp
 翘首以待	auxr
 势单力薄	auxs
@@ -9676,6 +9675,7 @@
 亊	auxv
 𦗅	auxv
 搠	auxw
+𪮧	auxw
 𢱅	auxx
 恶	auy
 𱉨	auya
@@ -17997,13 +17997,13 @@
 叠床架屋	buxb
 𰫭	buxb
 䌅	buxl
-𦄢	buxn
 縌	buxp
 層狀	buxs
 縑	buxt
 𦁶	buxt
 𦆲	buxt
 𮉈	buxt
+𦄢	buxw
 又出	buxx
 又怕	buye
 𢚪	buyn
@@ -24776,8 +24776,6 @@
 㜍	cuxl
 䧜	cuxl
 𨽔	cuxm
-嫞	cuxn
-䧡	cuxn
 予以	cuxo
 嫌	cuxt
 隒	cuxt
@@ -24786,6 +24784,8 @@
 𭒡	cuxu
 𱀶	cuxu
 𡠎	cuxv
+嫞	cuxw
+䧡	cuxw
 始祖鸟	cuya
 好望角	cuyt
 嫌憎	cuyu
@@ -37859,8 +37859,6 @@
 磄	duxl
 𧱵	duxl
 𩥁	duxl
-𧱿	duxn
-𩥻	duxn
 不以	duxo
 磀	duxp
 不群	duxq
@@ -37872,6 +37870,8 @@
 不灵	duxu
 𰧧	duxu
 𥔶	duxv
+𧱿	duxw
+𩥻	duxw
 𲁌	duxw
 不出	duxx
 欺善怕恶	duya
@@ -49429,7 +49429,6 @@
 𬿛	euxk
 併力	euxl
 傏	euxl
-傭	euxn
 𬾹	euxn
 𨕩	euxp
 傲視群雄	euxs
@@ -49437,6 +49436,7 @@
 傲视群雄	euxs
 傔	euxt
 𫢔	euxv
+傭	euxw
 倦鸟	euya
 倦色	euyc
 儲運	euyg
@@ -63759,7 +63759,6 @@
 槺	fuxk
 梯架	fuxl
 榶	fuxl
-槦	fuxn
 𪲮	fuxo
 一言以蔽之	fuxp
 梯狀	fuxs
@@ -63768,6 +63767,7 @@
 槏	fuxt
 𣘎	fuxv
 万应灵丹	fuxw
+槦	fuxw
 㮶	fuxw
 杰出	fuxx
 一言既出	fuxx
@@ -73863,11 +73863,11 @@
 𠡊	guxl
 𨍴	guxl
 𰅍	guxl
-𤨭	guxn
-𩌨	guxn
 夫君	guxq
 㻩	guxt
 𨢑	guxt
+𤨭	guxw
+𩌨	guxw
 𤨫	guxy
 𫛥	guya
 𦫜	guyc
@@ -83246,7 +83246,6 @@
 𰿔	huxk
 塘	huxl
 增加	huxl
-墉	huxn
 𪪭	huxn
 報以	huxo
 𡏤	huxp
@@ -83254,6 +83253,7 @@
 鬑	huxt
 𡌻	huxt
 𡏊	huxt
+墉	huxw
 報出	huxx
 增色	huyc
 幸運	huyg
@@ -96024,14 +96024,14 @@
 㴊	iuxm
 𣷬	iuxm
 𭾔	iuxm
-滽	iuxn
-𬹁	iuxn
 𣾩	iuxp
 𣽳	iuxq
 溓	iuxt
 𣷄	iuxt
 溬	iuxv
 溯	iuxw
+滽	iuxw
+𬹁	iuxw
 溢出	iuxx
 淡出	iuxx
 𭳏	iuxy
@@ -104032,13 +104032,13 @@
 𭧠	juxk
 嵣	juxl
 𪰼	juxl
-㟾	juxn
 暾将出兮东方	juxo
 𭖾	juxo
 嵰	juxt
 𡽟	juxt
 𡽦	juxt
 岿	juxv
+㟾	juxw
 巕	juy
 巕	juyc
 晨前命对朝霞	juyd
@@ -112366,8 +112366,6 @@ $	kkmy
 䗧	kuxk
 螗	kuxl
 𨶈	kuxl
-䗤	kuxn
-𤰋	kuxn
 𧎉	kuxo
 蟻群	kuxq
 蟻羣	kuxq
@@ -112376,6 +112374,8 @@ $	kkmy
 鹻	kuxt
 𧍁	kuxt
 𧏙	kuxv
+䗤	kuxw
+𤰋	kuxw
 𢝯	kuyn
 𨴮	kuyn
 𨶡	kuyn
@@ -119940,7 +119940,6 @@ $	kkmy
 𫩵	luxi
 𠻞	luxk
 𠹔	luxl
-嘃	luxn
 𠸺	luxp
 𭊹	luxp
 𠾌	luxr
@@ -119949,6 +119948,7 @@ $	kkmy
 𱓒	luxt
 嗴	luxv
 嗍	luxw
+嘃	luxw
 𭉍	luxx
 𭊺	luxx
 𭉙	luye
@@ -134967,10 +134967,10 @@ $	kkmy
 𨄗	nuxk
 𨃠	nuxl
 𨄀	nuxn
-𪒒	nuxn
-𮜑	nuxn
 𨃰	nuxt
 𮛭	nuxt
+𪒒	nuxw
+𮜑	nuxw
 䝉	nuyd
 𫎇	nuyd
 對飲	nuye
@@ -140267,7 +140267,6 @@ $	kkmy
 亮點	olnm
 高频	olnm
 𩫖	olnn
-𩫱	olnn
 高四	olnq
 衷	olnr
 就此	olnr
@@ -140283,6 +140282,7 @@ $	kkmy
 𡧥	olnv
 𩫃	olnv
 𩫨	olnv
+𩫱	olnw
 敦實	olob
 高官	olob
 京官	olob
@@ -140625,7 +140625,6 @@ $	kkmy
 𥂦	olvm
 哀弔	olvn
 𣦤	olvn
-𤰎	olvn
 𨄡	olvn
 孰	olvo
 𠆓	olvo
@@ -140661,6 +140660,7 @@ $	kkmy
 高能	olvw
 就能	olvw
 鐜	olvw
+𤰎	olvw
 𨿡	olvw
 㖖	olvx
 㝄	olvx
@@ -153154,9 +153154,6 @@ $	kkmy
 𮖩	puxl
 𲉅	puxl
 糖	puxl
-𣁠	puxn
-𥧱	puxn
-𫃍	puxn
 𱱱	puxn
 𱹧	puxp
 㾾	puxt
@@ -153164,6 +153161,9 @@ $	kkmy
 𥻧	puxt
 𮖨	puxt
 糖漿	puxw
+𣁠	puxw
+𥧱	puxw
+𫃍	puxw
 魔兽争霸	puyd
 𮇰	puye
 齐烟九点	puym
@@ -162316,7 +162316,6 @@ $	kkmy
 𫂞	quxk
 篖	quxl
 𦪀	quxl
-鳙	quxn
 無言以對	quxn
 𫂈	quxo
 𨘟	quxp
@@ -162329,6 +162328,7 @@ $	kkmy
 𦩵	quxt
 鲜灵	quxu
 𥱑	quxv
+鳙	quxw
 瓜农	quyr
 第	qv
 第一	qv
@@ -172919,9 +172919,6 @@ $	kkmy
 𩘜	ruxl
 𬳍	ruxl
 乘马	ruxm
-㺎	ruxn
-𥡲	ruxn
-𪅟	ruxn
 入驻	ruxo
 乘以	ruxo
 狮驼	ruxo
@@ -172938,6 +172935,9 @@ $	kkmy
 𫗱	ruxt
 獇	ruxv
 𫹝	ruxv
+㺎	ruxw
+𥡲	ruxw
+𪅟	ruxw
 𱮗	ruxw
 愁	ruy
 鹙	ruya
@@ -179468,7 +179468,6 @@ $	kkmy
 压着	shum
 𩕸	shum
 敬老尊贤	shun
-𫨠	shun
 蓻	shuo
 薘	shup
 䕮	shup
@@ -179487,6 +179486,7 @@ $	kkmy
 𠪼	shuv
 𦍚	shuv
 𮒛	shuv
+𫨠	shuw
 蓋	shv
 𡉄	shv
 薵	shva
@@ -186841,7 +186841,6 @@ $	kkmy
 𩪜	suxm
 𱐝	suxm
 蹷	suxn
-𫉘	suxn
 进禄加官	suxo
 𱽱	suxo
 鷢	suxr
@@ -186858,6 +186857,7 @@ $	kkmy
 𦠒	suxw
 𨬐	suxw
 𩀾	suxw
+𫉘	suxw
 𠢤	suxx
 𠢭	suxx
 憠	suxy
@@ -197878,9 +197878,6 @@ $	kkmy
 鱇	tuxk
 𩹶	tuxl
 𰾯	tuxl
-镛	tuxn
-牗	tuxn
-鱅	tuxn
 𩹦	tuxo
 手边	tuxp
 𩺝	tuxp
@@ -197890,7 +197887,10 @@ $	kkmy
 𰾮	tuxt
 𦤥	tuxu
 𫅱	tuxu
+镛	tuxw
 手戳	tuxw
+牗	tuxw
+鱅	tuxw
 𫔈	tuxw
 手快	tuyb
 會計師	tuyf
@@ -210244,8 +210244,6 @@ $	kkmy
 煻	uuxl
 劆	uuxm
 𧫨	uuxm
-𪹨	uuxn
-𮘶	uuxn
 謙	uuxt
 廉	uuxt
 焿	uuxt
@@ -210260,6 +210258,8 @@ $	kkmy
 𭙬	uuxv
 𧪜	uuxw
 𪹛	uuxw
+𪹨	uuxw
+𮘶	uuxw
 説出	uuxx
 談出	uuxx
 營	uuy
@@ -211983,7 +211983,7 @@ $	kkmy
 𪪗	uxvx
 𬓐	uxvy
 𱟅	uxvy
-塑	uxw
+朔	uxw
 𤮇	uxwa
 𥛭	uxwb
 𦃗	uxwb
@@ -212009,7 +212009,6 @@ $	kkmy
 送君千里，终须一别	uxwl
 火力集中	uxwl
 𭄊	uxwm
-庸	uxwn
 計劃生育	uxwo
 塑胶	uxwo
 遡	uxwp
@@ -212024,6 +212023,7 @@ $	kkmy
 𧬿	uxwt
 𱰡	uxwt
 𧫋	uxwu
+庸	uxwv
 朔	uxwv
 朔月	uxwv
 敝帚千金	uxww
@@ -228513,11 +228513,6 @@ $	kkmy
 𤚫	wuxl
 𨤓	wuxm
 𮌣	wuxm
-鏞	wuxn
-𤛑	wuxn
-𦟛	wuxn
-𩀬	wuxn
-𩴔	wuxn
 𦞮	wuxp
 𫏮	wuxp
 𫒼	wuxp
@@ -228531,7 +228526,12 @@ $	kkmy
 脱羽	wuxu
 𤑩	wuxu
 𨪢	wuxv
+鏞	wuxw
 鎙	wuxw
+𤛑	wuxw
+𦟛	wuxw
+𩀬	wuxw
+𩴔	wuxw
 騰出	wuxx
 勝出	wuxx
 腾出	wuxx
@@ -233973,12 +233973,12 @@ $	kkmy
 𦐀	xuwu
 羽翼	xuxj
 灵力	xuxl
-牅	xuxn
 出謀劃策	xuxq
 灵验	xuxt
 盡善盡美	xuxu
 灵灵	xuxu
 羽灵	xuxu
+牅	xuxw
 习惯	xuyb
 灵怪	xuyb
 羽冠	xuyf
@@ -241939,14 +241939,14 @@ $	kkmy
 𢙔	yuxi
 慷	yuxk
 餹	yuxl
-慵	yuxn
 𢡒	yuxn
-𧴄	yuxn
-𩞋	yuxn
 慊	yuxt
 䭑	yuxt
 𫺝	yuxt
 𰒑	yuxu
+慵	yuxw
+𧴄	yuxw
+𩞋	yuxw
 悦色	yuyc
 慷慨	yuye
 慵懶	yuyf

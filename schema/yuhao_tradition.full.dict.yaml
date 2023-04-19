@@ -2511,7 +2511,7 @@ columns:
 陡	cdkf
 渦	ina
 裹	ojfr
-庸	uxwn
+庸	uxwv
 顛	dmtm
 眨	mqpc
 捂	afcl
@@ -3295,7 +3295,7 @@ columns:
 椎	fwi
 溉	ixvq
 胰	wgvg
-傭	euxn
+傭	euxw
 崙	jtfn
 荊	sfsm
 瀕	inmm
@@ -4110,7 +4110,7 @@ columns:
 槳	xwaf
 戎	gsvg
 睨	mrqr
-慵	yuxn
+慵	yuxw
 嗟	lufo
 餞	yggg
 峋	jwjv
@@ -4822,7 +4822,7 @@ columns:
 飴	yvlv
 蕁	sxfa
 詬	uefl
-鏞	wuxn
+鏞	wuxw
 飭	yqxl
 梔	fefc
 鶇	fjro
@@ -5500,7 +5500,7 @@ columns:
 荏	seee
 炷	uogv
 矍	mmwb
-墉	huxn
+墉	huxw
 闇	kijv
 牯	wdgn
 豢	ugds
@@ -7899,7 +7899,7 @@ columns:
 陉	cbfo
 耄	hrrm
 鲧	qqbs
-镛	tuxn
+镛	tuxw
 峄	jbav
 镱	tijy
 鳏	qmkh
@@ -9829,7 +9829,7 @@ columns:
 崈	ohjs
 鑨	wiwm
 峊	yjsd
-鳙	quxn
+鳙	quxw
 攴	kpf
 螬	kskj
 鳢	qksu
@@ -10575,7 +10575,7 @@ columns:
 擵	aptu
 緤	bhfv
 姫	csc
-嫞	cuxn
+嫞	cuxw
 趫	dell
 郈	eflc
 儭	eifm
@@ -11557,7 +11557,7 @@ columns:
 鳽	fsro
 鹀	ftty
 榚	fuhu
-槦	fuxn
+槦	fuxw
 檇	fwkg
 欃	fylo
 鞕	gfjw
@@ -12561,7 +12561,7 @@ columns:
 谾	ttlf
 豀	ttlg
 谺	ttlh
-牗	tuxn
+牗	tuxw
 兿	uayv
 誳	ubxx
 禡	udms
@@ -15195,7 +15195,7 @@ columns:
 粛	xptb
 乆	xtei
 翏	xtti
-牅	xuxn
+牅	xuxw
 螿	xwak
 欪	xxei
 劦	xxxl
@@ -17918,8 +17918,8 @@ columns:
 瀯	iuul
 濨	iuvy
 漮	iuxk
-滽	iuxn
 溬	iuxv
+滽	iuxw
 湽	ivfj
 汓	ivk
 洆	ivkf
@@ -18387,7 +18387,7 @@ columns:
 哾	lulq
 嚝	lust
 唴	luxi
-嘃	luxn
+嘃	luxw
 呞	lvfl
 吇	lvk
 瓹	lwaw
@@ -19889,7 +19889,7 @@ columns:
 䦅	tuul
 鮷	tuvq
 鰦	tuvv
-鱅	tuxn
+鱅	tuxw
 枀	tvfv
 鯵	tvgt
 乮	tvia
@@ -21720,7 +21720,7 @@ columns:
 㛨	cuxi
 㜍	cuxl
 䧜	cuxl
-䧡	cuxn
+䧡	cuxw
 㜟	cvae
 䧩	cvae
 㚨	cvdh
@@ -23878,7 +23878,7 @@ columns:
 㬕	juug
 㬯	juug
 㽧	juvv
-㟾	juxn
+㟾	juxw
 㞧	jvas
 㟥	jvgt
 㫗	jvk
@@ -24075,7 +24075,7 @@ columns:
 䗊	kuuv
 䗹	kuvy
 䗧	kuxk
-䗤	kuxn
+䗤	kuxw
 㐕	kvio
 㕀	kvio
 䦘	kvnn
@@ -25841,9 +25841,9 @@ columns:
 㣢	ruvq
 䨂	ruwi
 䅯	ruxl
-㺎	ruxn
 㹹	ruxt
 㺌	ruxt
+㺎	ruxw
 㺖	rvae
 䄧	rvah
 㲌	rvam
@@ -30147,9 +30147,9 @@ columns:
 𦂒	buwm
 𡱞	buxa
 𥿬	buxa
-𦄢	buxn
 𦁶	buxt
 𦆲	buxt
+𦄢	buxw
 𢚪	buyn
 𦀨	bvac
 𥾋	bvas
@@ -33831,11 +33831,11 @@ columns:
 𥕎	duxk
 𧱵	duxl
 𩥁	duxl
-𧱿	duxn
-𩥻	duxn
 𥓷	duxt
 𩄡	duxt
 𥔶	duxv
+𧱿	duxw
+𩥻	duxw
 𡢁	dvac
 𥖖	dvac
 𥕵	dvae
@@ -39106,9 +39106,9 @@ columns:
 𨎍	guxk
 𠡊	guxl
 𨍴	guxl
-𤨭	guxn
-𩌨	guxn
 𨢑	guxt
+𤨭	guxw
+𩌨	guxw
 𤨫	guxy
 𦫜	guyc
 𦎃	guyo
@@ -45801,10 +45801,10 @@ columns:
 𨶔	kuxb
 𧌞	kuxj
 𨶈	kuxl
-𤰋	kuxn
 𧎉	kuxo
 𧍁	kuxt
 𧏙	kuxv
+𤰋	kuxw
 𢝯	kuyn
 𨴮	kuyn
 𨶡	kuyn
@@ -50748,8 +50748,8 @@ columns:
 𨄗	nuxk
 𨃠	nuxl
 𨄀	nuxn
-𪒒	nuxn
 𨃰	nuxt
+𪒒	nuxw
 𤯼	nuyw
 𨁌	nvac
 𨅺	nvae
@@ -51380,12 +51380,12 @@ columns:
 𩫧	olnj
 𩫭	olnj
 𩫖	olnn
-𩫱	olnn
 𪈃	olnr
 𩫠	olnt
 𡧥	olnv
 𩫃	olnv
 𩫨	olnv
+𩫱	olnw
 𡰗	olod
 𡰜	olod
 𨐼	olol
@@ -51416,7 +51416,6 @@ columns:
 𥂣	olvm
 𥂦	olvm
 𣦤	olvn
-𤰎	olvn
 𨄡	olvn
 𠆓	olvo
 𠆔	olvq
@@ -51430,6 +51429,7 @@ columns:
 𡦦	olvu
 𤍨	olvu
 𧰄	olvu
+𤰎	olvw
 𨿡	olvw
 𢚟	olvy
 𩞤	olvy
@@ -53508,10 +53508,10 @@ columns:
 𥼊	puwd
 𨸁	puwn
 𥤩	puwx
-𣁠	puxn
-𥧱	puxn
 𥺧	puxt
 𥻧	puxt
+𣁠	puxw
+𥧱	puxw
 𥨭	puyy
 𤶸	pvac
 𤺍	pvae
@@ -57644,10 +57644,10 @@ columns:
 𪁸	ruxi
 𤠯	ruxl
 𩘜	ruxl
-𥡲	ruxn
-𪅟	ruxn
 𪄧	ruxp
 𣮣	ruxt
+𥡲	ruxw
+𪅟	ruxw
 𦎚	ruyt
 𧤙	ruyt
 𤜠	rva
@@ -67560,14 +67560,14 @@ columns:
 𦢅	wuxk
 𤚫	wuxl
 𨤓	wuxm
-𤛑	wuxn
-𦟛	wuxn
-𩀬	wuxn
-𩴔	wuxn
 𦞮	wuxp
 𨮛	wuxt
 𤑩	wuxu
 𨪢	wuxv
+𤛑	wuxw
+𦟛	wuxw
+𩀬	wuxw
+𩴔	wuxw
 𤎡	wuyr
 𠣽	wvae
 𨬒	wvae
@@ -70133,8 +70133,8 @@ columns:
 𢟴	yuwi
 𢙔	yuxi
 𢡒	yuxn
-𧴄	yuxn
-𩞋	yuxn
+𧴄	yuxw
+𩞋	yuxw
 𢚚	yuyn
 𢖱	yvan
 𩠒	yvdm
@@ -70480,7 +70480,7 @@ columns:
 𪼼	autk
 𫆌	autm
 𪼸	auvw
-𪮧	auxn
+𪮧	auxw
 𫖖	avbu
 𫆆	avqi
 𫖒	avrd
@@ -72901,7 +72901,7 @@ columns:
 𫃑	puux
 𫃕	puvy
 𫌗	puwa
-𫃍	puxn
+𫃍	puxw
 𫌄	pvgf
 𪽯	pvnm
 𪽵	pvqu
@@ -73533,7 +73533,7 @@ columns:
 𫈋	surr
 𪠆	suso
 𫊂	suua
-𫉘	suxn
+𫉘	suxw
 𪜞	svgr
 𫉳	svlc
 𪵣	svqq
@@ -73964,8 +73964,8 @@ columns:
 𪸱	uuho
 𪹝	uuhu
 𪥢	uuug
-𪹨	uuxn
 𪹛	uuxw
+𪹨	uuxw
 𪹽	uuyl
 𫑔	uuyp
 𪸨	uvfv
@@ -76773,7 +76773,7 @@ columns:
 𬇣	iumv
 𬇿	iuvm
 𬉑	iuwq
-𬹁	iuxn
+𬹁	iuxw
 𬈱	ivdk
 𬇗	ivg
 𬸺	ivil
@@ -78943,8 +78943,8 @@ columns:
 𫥙	shla
 𬟠	shsj
 𬟂	shso
-𫨠	shun
 𬋖	shuu
+𫨠	shuw
 𬞥	sieg
 𫥝	sifm
 𬟣	sifm
@@ -84646,8 +84646,8 @@ columns:
 𮛇	nuw
 𭮿	nuwq
 𭬢	nuxf
-𮜑	nuxn
 𮛭	nuxt
+𮜑	nuxw
 𭜝	nuyn
 𭭭	nvfb
 𭉢	nvfl
@@ -86980,9 +86980,9 @@ columns:
 𭶩	uuuu
 𭴆	uuvw
 𭶿	uuwh
-𮘶	uuxn
 𮘹	uuxt
 𭙬	uuxv
+𮘶	uuxw
 𭭱	uuyn
 𮭖	uuyr
 𮗵	uuyt

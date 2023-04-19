@@ -3,14 +3,15 @@
 
 schema:
   schema_id: yuhao_pinyin
-  name: 宇浩·反查·朙月·袖珍
+  name: 宇浩·拼音·繁簡通
   version: 20230418
   author:
     - 佛振 <chen.sst@gmail.com>
     - 佚名
   description: |
-    基於朙月拼音和袖珍簡化拼音製作
-    用於宇浩輸入法的反查
+    基於朙月拼音和袖珍簡化拼音詞庫製作
+    用於宇浩輸入法的拼音反查
+    兼容大陸簡體、大陸古籍繁體、臺灣繁體、香港繁體
     繁簡漢字相同權重
 
 switches:
