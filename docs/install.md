@@ -59,7 +59,7 @@ nav_order: 2
 
 小小输入法码表是[/mabiao](https://github.com/forFudan/yuhao/tree/main/mabiao/yong/) 文件夹下的**yuhao.txt**。
 
-## RIME 平台安装（小狼毫、鼠须管、同文、iRime）
+## RIME 平台安装（小狼毫、鼠须管、同文、iRime、仓输入法）
 
 下面介绍的是挂载于[RIME平台（小狼毫、鼠须管、同文、iRime）](https://rime.im/)的方案。我对它进行了深度定制，具有以下特点：
 
@@ -72,9 +72,8 @@ nav_order: 2
 
 方案文件介绍：
 
-- yuhao.schema.yaml 给熟手的方案，默认关闭拆分提示、常用字优先、关闭预测、横排显示5个候选项。
-- yuhao_starter.schema.yaml 给新手使用的方案，屏蔽生僻字、开启预测、竖排显示9个候选项。
-- yuhao_tradition.schema.yaml 传统汉字方案，默认关闭拆分提示、常用字优先、关闭预测、横排显示5个候选项。
+- yuhao.schema.yaml 给熟手的方案，默认关闭拆分提示、常用字优先。
+- yuhao_tradition.schema.yaml 传统汉字方案，默认关闭拆分提示、常用字优先。
 - yuhao.dict.yaml 主码表，包含宇浩一级简体词库。
 - yuhao_tradition.dict.yaml 传统汉字字典文件。
 - yuhao.words_l1.dict.yaml 宇浩一级简体词库：约50000个词语，频率较高。
@@ -82,13 +81,11 @@ nav_order: 2
 - yuhao.words_l3.dict.yaml 宇浩三级简体词库：约20000个词语，多为成语和古诗词，除非有特殊需求，否则不建议开启。
 - yuhao.words_tc.dict.yaml 宇浩繁体词库：约30000个核心词语，包括台湾、香港、大陆古籍繁体三种字形。
 - yuhao.symbols.dict.yaml 特殊符号码表。
-- rime.lua 脚本设定
-- lua/yuhao/... 各种脚本
-- opencc/... 拆分表
-<!-- - pinyin_simp.schema.yaml 袖珍简化字拼音配置文件
-- pinyin_simp.dict.yaml 袖珍简化字拼音字典文件
-- luna_pinyin.schema.yaml 朙月拼音配置文件
-- luna_pinyin.dict.yaml 朙月拼音字典文件 -->
+- yuhao_pinyin.schema.yaml 拼音配置文件，用于反查。
+- yuhao_pinyin.dict.yaml 拼音字典文件。
+- rime.lua 脚本设定。
+- lua/yuhao/... 各种脚本。
+- opencc/... 拆分表。
 
 ## RIME 平台特色功能介绍
 

@@ -1,5 +1,4 @@
 patch:
   schema_list:
     - schema: yuhao
-    - schema: yuhao_starter
     - schema: yuhao_tradition

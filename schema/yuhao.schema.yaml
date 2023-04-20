@@ -3,18 +3,19 @@
 
 schema:
   schema_id: yuhao
-  name: 宇浩·繁简通用
-  version: 20230408
+  name: 宇浩·银汉·繁简通
+  version: 20230418
   author:
     - 發明人 朱宇浩 <https://zhuyuhao.com/yuhao/>
     - Rime方案 forFudan
     - 官方QQ群 735728797
   description: |
+    此为宇浩输入法繁简通打方案，以简体字频为主设置简码。
+    古今汉字灿若星斗，故而起名为「银汉」。
     默認設定：
     - 常用字前置，不屏蔽生僻字。
-    - 關閉輸入預測。
+    - 開啓輸入預測。
     - 不顯示拆分提示，通過 / 鍵 或 Control+Shift+C 開啓。
-    - 顯示五個候選項，橫排候選欄。
     - Z 鍵反查拼音
     - 按"help"或"bang"提示快捷鍵和官方網站。
   dependencies:
@@ -58,9 +59,6 @@ switches:
   - name: full_shape
     states: ["半角", "全角"]
     reset: 0
-
-menu:
-  page_size: 5
 
 engine:
   processors:
@@ -237,6 +235,8 @@ key_binder:
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
     - { when: has_menu, accept: Tab, send: 4 } # 製表符四选
+    - { when: has_menu, accept: minus, send: Page_Up }    #減號上翻頁
+    - { when: has_menu, accept: equal, send: Page_Down }    #等號下翻頁
 
 recognizer:
   import_preset: default
@@ -246,6 +246,9 @@ recognizer:
     zaoci: "^[a-y]*`[a-y`]*$"
 
 style:
-  horizontal: true
+  horizontal: false
   inline_preedit: true
   preedit_type: preview
+
+# menu:
+#   page_size: 5
