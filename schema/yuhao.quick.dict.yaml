@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本：20230401
+# 版本：20230418
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -377,7 +377,7 @@ columns:
 呀	lh
 非	li
 喝	lj
-虽	lk
+员	lk
 品	ll
 吵	lm
 嘴	ln
@@ -592,7 +592,7 @@ columns:
 父	tw
 迎	tx
 息	ty
-言	ua
+半	ua
 羞	ub
 序	uc
 烦	ud
@@ -662,7 +662,7 @@ columns:
 脂	wr
 希	ws
 脸	wt
-脱	wu
+焦	wu
 月	wv
 物	ww
 服	wx
@@ -1195,7 +1195,7 @@ columns:
 父亲	tw
 迎接	tx
 息怒	ty
-言语	ua
+判断	ua
 羞愧	ub
 序列	uc
 烦恼	ud
@@ -1728,6 +1728,7 @@ columns:
 钥匙	tw
 键盘	tx
 魚	ty
+言语	ua
 普通话	ub
 妄想	uc
 床上	uf
@@ -1873,6 +1874,7 @@ columns:
 冫	se
 辰	sn
 卯	ta
+言	ua
 羊	ug
 亡	uw
 乃	va
@@ -1880,6 +1882,7 @@ columns:
 艮	vn
 幺	vo
 厶	vv
+鬼	wu
 爿	xp
 羽	xu
 烏	yw
@@ -3368,7 +3371,7 @@ columns:
 画	fjx
 惡	fjy
 贡	fkb
-桐	fkf
+棘	fkf
 柍	fkg
 汞	fkh
 樱	fkk
@@ -4771,7 +4774,7 @@ columns:
 罂	kkw
 螻	kld
 蜗	klk
-闆	kll
+闡	kll
 迥	klp
 贶	klq
 問	klv
@@ -5023,7 +5026,6 @@ columns:
 吶	lkr
 哩	lks
 呐	lkt
-蜚	lkv
 雖	lkw
 勋	lkx
 唈	llc
@@ -5713,7 +5715,7 @@ columns:
 谑	omg
 褱	omk
 宵	omw
-禀	onl
+氈	onl
 谠	onq
 访	oog
 堃	ooh
@@ -6871,7 +6873,7 @@ columns:
 菋	slh
 菲	sli
 莴	slk
-颧	sll
+歡	sll
 况	slq
 𦭜	slt
 蓶	slw
@@ -7255,7 +7257,7 @@ columns:
 𬭎	tos
 铰	tot
 镑	tou
-念	tov
+贪	tov
 镲	tow
 镂	tpc
 镧	tpf
@@ -7366,9 +7368,9 @@ columns:
 訶	ual
 判	uam
 烧	uaq
-半	uav
+炼	uav
 炖	uax
-變	ubb
+彎	ubb
 禒	ubd
 燈	ubf
 廜	ubh
@@ -7466,7 +7468,7 @@ columns:
 羲	uhr
 羡	uhs
 祾	uht
-羹	uhu
+羔	uhu
 請	uhw
 恙	uhy
 識	uij
@@ -8155,9 +8157,9 @@ columns:
 鈆	wtv
 忽	wty
 腑	wue
-腾	wug
-焦	wuh
-鋭	wul
+朕	wug
+犧	wuh
+脱	wul
 劁	wum
 鐠	wun
 乖	wur
@@ -8626,4 +8628,4 @@ columns:
 备	ejt
 東	fjv
 音	ijv
-员	lkb
+端	ijs

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·傳承
-# 版本：202304048
+# 版本：20230418
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -229,7 +229,7 @@ columns:
 一起	fi
 東	fj
 求	fk
-頭	fl
+束	fl
 兩	fm
 正	fn
 工	fo
@@ -280,7 +280,7 @@ columns:
 都	hj
 至	hk
 喜	hl
-到	hm
+責	hm
 址	hn
 壞	ho
 连	hp
@@ -593,7 +593,7 @@ columns:
 父	tw
 迎	tx
 魚	ty
-言	ua
+半	ua
 變	ub
 序	uc
 煙	ud
@@ -663,7 +663,7 @@ columns:
 臉	wr
 希	ws
 朱	wt
-鬼	wu
+焦	wu
 月	wv
 雙	ww
 服	wx
@@ -678,7 +678,7 @@ columns:
 書	xh
 翌	xi
 翼	xj
-逮	xk
+录	xk
 力	xl
 马	xm
 驷	xn
@@ -720,7 +720,7 @@ columns:
 恰	yy
 打開	aa
 取消	ab
-聯繫	ac
+把握	ac
 技巧	ad
 摇頭	ae
 捂住	af
@@ -739,7 +739,7 @@ columns:
 抖動	as
 聊天	at
 拼音	au
-扔掉	av
+聯繫	av
 推開	aw
 頓時	ax
 擔心	ay
@@ -896,7 +896,7 @@ columns:
 都是	hj
 至於	hk
 喜歡	hl
-到底	hm
+責備	hm
 壞事	ho
 表情	hr
 考慮	hs
@@ -1180,7 +1180,7 @@ columns:
 爸爸	tw
 迎接	tx
 魚肉	ty
-討論	ua
+判斷	ua
 變成	ub
 序號	uc
 計劃	ud
@@ -1246,6 +1246,7 @@ columns:
 臉上	wr
 希望	ws
 忽然	wt
+焦慮	wu
 月亮	wv
 雙手	ww
 服務	wx
@@ -1294,7 +1295,7 @@ columns:
 恰當	yy
 接下來	aa
 取出	ab
-聯絡	ac
+把關	ac
 打電話	ad
 抓住	ae
 聽説	ag
@@ -1427,6 +1428,7 @@ columns:
 地方	hc
 幫助	hh
 垃圾	hi
+責怪	hm
 末	ho
 表示	hr
 熱情	ht
@@ -1627,7 +1629,7 @@ columns:
 爺爺	tw
 迎客	tx
 魚丸	ty
-半年	ua
+言語	ua
 變化	ub
 慈祥	uc
 計量	ud
@@ -1675,6 +1677,7 @@ columns:
 牛奶	wn
 千	wq
 腳步	wt
+焦急	wu
 凵	xa
 牀上	xf
 書桌	xh
@@ -1794,6 +1797,7 @@ columns:
 有趣	sw
 卯	ta
 片	tp
+言	ua
 這樣	uf
 羊	ug
 這些	un
@@ -1809,6 +1813,7 @@ columns:
 厶	vv
 態度	vw
 包裏	wc
+鬼	wu
 屮	xa
 □	xq
 師叔	yf
@@ -2042,7 +2047,7 @@ columns:
 摿	ati
 擼	atj
 挩	atl
-搶	ato
+拎	ato
 擒	atp
 抡	atr
 捡	ats
@@ -2746,7 +2751,7 @@ columns:
 鴷	dmr
 顛	dmt
 烈	dmu
-趙	dmw
+霄	dmw
 䴕	dmy
 騧	dna
 露	dne
@@ -3300,10 +3305,10 @@ columns:
 榻	fjx
 惡	fjy
 贡	fkb
-麗	fkf
+棘	fkf
 柍	fkg
 汞	fkh
-丽	fkk
+樱	fkk
 櫚	fkl
 刺	fkm
 枣	fks
@@ -3323,7 +3328,7 @@ columns:
 柷	flq
 枵	fls
 枳	flt
-豆	flu
+頭	flu
 吏	flw
 柺	flx
 賴	fly
@@ -3523,7 +3528,7 @@ columns:
 軟	gei
 匠	gej
 瑔	gek
-轎	gel
+酪	gel
 釂	gem
 蹔	gen
 璬	geo
@@ -3895,7 +3900,7 @@ columns:
 吉	hlv
 劼	hlx
 臺	hly
-責	hmb
+轳	hmb
 刊	hmd
 鬟	hmf
 垙	hmh
@@ -3968,7 +3973,7 @@ columns:
 轹	htm
 埝	hto
 轮	htr
-赫	htt
+赤	htt
 塕	htv
 垿	huc
 幸	hud
@@ -4177,7 +4182,7 @@ columns:
 浈	imk
 沾	iml
 測	imm
-沙	imq
+挲	imq
 瀣	imr
 湨	ims
 滮	imt
@@ -4319,7 +4324,7 @@ columns:
 汲	ivo
 涘	ivq
 溺	ivs
-沸	ivt
+竣	ivt
 滲	ivv
 潍	ivw
 麝	iwa
@@ -4489,7 +4494,7 @@ columns:
 晥	jof
 崇	joh
 峐	joi
-影	jol
+景	jol
 崺	joq
 畹	jor
 暄	jos
@@ -4684,7 +4689,7 @@ columns:
 蠝	kjj
 閺	kjp
 沓	kjv
-蠍	kjw
+蜴	kjw
 闒	kjx
 婴	kkc
 蚺	kkh
@@ -4696,7 +4701,7 @@ columns:
 罂	kkw
 螻	kld
 蝇	klk
-闆	kll
+闡	kll
 迥	klp
 贶	klq
 呇	klv
@@ -5690,7 +5695,7 @@ columns:
 寫	orw
 谘	ose
 实	osg
-宣	osj
+寞	osj
 宽	osk
 寬	osm
 谋	oss
@@ -6094,7 +6099,7 @@ columns:
 矫	qet
 艀	qev
 鳐	qew
-箏	qex
+艇	qex
 竽	qfa
 筇	qfc
 笨	qff
@@ -6744,7 +6749,7 @@ columns:
 莲	shp
 蓍	shr
 蕻	shs
-藝	sht
+凌	sht
 苹	shu
 蓋	shv
 菁	shw
@@ -6777,7 +6782,7 @@ columns:
 蔂	sjb
 蘴	sjd
 斮	sje
-幕	sjg
+莫	sjg
 蒔	sjh
 菖	sjj
 蔓	sjm
@@ -6810,7 +6815,7 @@ columns:
 菋	slh
 菲	sli
 莴	slk
-觀	sll
+歡	sll
 冲	sln
 况	slq
 𦭜	slt
@@ -7307,7 +7312,7 @@ columns:
 訶	ual
 判	uam
 烧	uaq
-半	uav
+炼	uav
 炖	uax
 彎	ubb
 羞	ubc
@@ -7410,7 +7415,7 @@ columns:
 祾	uht
 評	uhu
 請	uhw
-訝	uhy
+誌	uhy
 应	uif
 熾	uij
 焙	uil
@@ -8101,8 +8106,8 @@ columns:
 鈆	wtv
 忽	wty
 腑	wue
-勝	wug
-焦	wuh
+朕	wug
+犧	wuh
 脱	wul
 劁	wum
 鐠	wun
@@ -8145,7 +8150,7 @@ columns:
 胸	www
 匈	wwx
 鹏	wwy
-凶	wxa
+鍵	wxa
 鵩	wxb
 鉯	wxo
 兇	wxq
@@ -8217,7 +8222,7 @@ columns:
 驲	xjv
 𬳶	xkl
 剥	xkm
-逯	xkp
+逮	xkp
 骋	xks
 哿	xla
 駕	xld
@@ -8570,3 +8575,4 @@ columns:
 㤘	yyx
 惢	yyy
 音	ijv
+端	ijs
