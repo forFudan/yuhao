@@ -188,13 +188,13 @@ columns:
 死	dr
 需	ds
 零	dt
-不會	du
+碰	du
 成	dv
 期	dw
 甚	dx
 確	dy
 何	ea
-白	eb
+反	eb
 他	ec
 做	ed
 任	ee
@@ -398,7 +398,7 @@ columns:
 齒	mc
 置	md
 處	me
-還要	mf
+戲	mf
 骨	mg
 賭	mh
 且	mi
@@ -815,7 +815,7 @@ columns:
 甚至	dx
 確定	dy
 何况	ea
-白色	eb
+反應	eb
 他們	ec
 估計	ed
 任何	ee
@@ -1003,7 +1003,7 @@ columns:
 齒輪	mc
 置換	md
 處理	me
-還好	mf
+還要	mf
 瞭解	mg
 虎	mh
 桌面	mj
@@ -1371,7 +1371,7 @@ columns:
 協會	dx
 確實	dy
 何必	ea
-反而	eb
+反對	eb
 他的	ec
 值得	ed
 任務	ee
@@ -1485,14 +1485,10 @@ columns:
 禺	ky
 哪兒	lb
 喫飯	ld
-韭菜	lf
-呈現	lg
 嘻嘻	lh
 非要	li
 喝茶	lj
-遺憾	lk
 嚴重	ll
-吵鬧	lm
 嘴巴	ln
 嘀咕	lo
 呼吸	lq
@@ -1502,7 +1498,7 @@ columns:
 小心	ma
 齒音	mc
 刂	md
-還給	mf
+還好	mf
 ：「	mm
 目光	mu
 巾	mv
@@ -1739,6 +1735,7 @@ columns:
 石	dv
 不然	dw
 確認	dy
+白	eb
 爲什麽	ee
 倒地	eh
 位於	ei
@@ -2777,7 +2774,7 @@ columns:
 辜	dox
 硿	dpf
 粟	dpm
-迺	dpo
+还	dpo
 磷	dpr
 霁	dpt
 雯	dpw
@@ -2855,7 +2852,7 @@ columns:
 丧	dug
 靄	duj
 駾	dul
-碰	dun
+啬	dun
 驥	dur
 礦	dus
 磁	duv
@@ -5137,7 +5134,7 @@ columns:
 賦	mfg
 骾	mfj
 賕	mfk
-戲	mfl
+幅	mfl
 罡	mfn
 睐	mfp
 睫	mfx

@@ -20,6 +20,8 @@ columns:
 ...
 
 淡定	iuof
+卽使	eref
+卽便	eref
 字集	ovwf
 自己	tkbj
 怎麽	qmpq
@@ -1368,7 +1370,6 @@ columns:
 期間	dwkj
 大會	gdtf
 總理	brgk
-卽使	eref
 文明	pwjw
 手段	tuef
 特殊	whdw
@@ -7054,7 +7055,6 @@ columns:
 風貌	rfye
 烏魯木齊	ytfo
 油田	ikjt
-卽便	eref
 養成	ugdv
 業主	nuog
 報酬	hugi
@@ -20418,7 +20418,6 @@ columns:
 伏案	esoc
 害臊	odwl
 軍令	ygto
-冷不防	sdco
 味精	lhph
 訓話	uqur
 會商	tfou
@@ -28821,6 +28820,7 @@ columns:
 牀邊	xftp
 夜大	oegd
 褒義	oeuh
+一口	filv
 信訪	euuo
 開發區	kbgl
 速遞	flem
@@ -28861,6 +28861,7 @@ columns:
 老齡	hrmt
 質檢	eefr
 引向	vnrn
+無人	qste
 奬項	xwfd
 評奬	uhxw
 歌舞團	aqng
@@ -29184,7 +29185,6 @@ columns:
 絶倫	byet
 退走	vpdk
 當庭	njue
-忙不迭	ydqg
 山樑	jsfi
 無業	qsnu
 竹筒	qvqk
@@ -30997,6 +30997,7 @@ columns:
 吱聲	ldhb
 長龍	haiw
 猶疑	rurq
+翩翩	inin
 絨線	bgbe
 過世	nphi
 特設	whuq
@@ -31151,6 +31152,7 @@ columns:
 龍燈	iwub
 跑動	nwqg
 青蒿	hwso
+伏法	esih
 高臺	olhl
 軍禮	yguk
 飛昇	bfjq
@@ -32612,6 +32614,13 @@ columns:
 朗朗上口	ookl
 廣角	usyt
 方根	ogfv
+天上人間	fktk
+一線生機	fbwf
+漂漂亮亮	iioo
+補碼	pfdd
+餡餅	yyyu
+多糖	rrpu
+論語	utuf
 里昂	ksjt
 里根	ksfv
 准入	swru
@@ -42946,7 +42955,6 @@ columns:
 一位	fiei
 下期	akdw
 下腹	akwq
-不防	duco
 還須	mftd
 不清不楚	didf
 武當山	fnjs
@@ -48215,7 +48223,6 @@ columns:
 眉尖	bmmg
 悼文	ympw
 恍悟	ymyf
-書影	xhjo
 書家	xhod
 怕得	yerj
 性器	ywll
@@ -48497,6 +48504,7 @@ columns:
 方臉	ogwr
 文號	pwls
 京廣線	oube
+廬江	umif
 人民代表大會	tcet
 異於	jsot
 下腰	akwd
@@ -49182,8 +49190,13 @@ columns:
 玄秘	ovry
 言及	uavo
 北站	urim
+狗糧	rwpj
+狗血	rwqm
+掛載	ahdg
+氣場	qphj
 務要	cedc
 通水	btkh
+合議	yeuu
 同前	kfuw
 戲樓	mffl
 軍地	yghc
@@ -49780,6 +49793,8 @@ columns:
 方有	ogsw
 微信	rfeu
 三遍	fain
+小編	mabi
+學霸	rwdg
 干犯	hgrv
 亟須	vltd
 休漁	efit
@@ -50714,7 +50729,6 @@ columns:
 何需	eads
 何患	eall
 作派	eqie
-分有	tbsw
 依隨	eocs
 儲錢	euwg
 費油	vtik
@@ -50867,7 +50881,6 @@ columns:
 賞景	nmjo
 小富卽安	moeo
 活膩	irwg
-少奶	mqcv
 潤物	ikww
 浴具	itmt
 流泉	ioek
@@ -50886,7 +50899,6 @@ columns:
 轄地	gohc
 罰息	muty
 同形	kffs
-内環線	kgbe
 嶄露	jgdn
 山尖	jsmg
 見工	mxfo
@@ -51058,6 +51070,16 @@ columns:
 郎當	oxnj
 康橋	uxfe
 微博	rfdf
+防具	comt
+大招	gdab
+殘影	dgjo
+日式	jvgf
+留白	tjeb
+披薩	avsc
+反賊	ebmg
+桃之夭夭	fpee
+舌吻	relw
+鼻毛	tjrm
 警風	swrf
 飛駛	bfdl
 博引	dfvn
@@ -52240,6 +52262,7 @@ columns:
 強嚥	vvls
 哀弔	olvn
 話匣	urgk
+潛山	igjs
 設障	uqci
 習染	xeiy
 取人之長	atph
@@ -52371,6 +52394,8 @@ columns:
 投屏	aqbu
 槓精	ffph
 古籍印刷通用字規範字形表	dqth
+即使	xvef
+即便	xvef
 怎麼	qmpv
 那麼	vapv
 因為	ngow
@@ -52441,7 +52466,6 @@ columns:
 絕不	bbdu
 說明	utjw
 心裡	ynpk
-即使	xvef
 哪裡	lvpk
 產業	psnu
 吃飯	lqye
@@ -52724,7 +52748,6 @@ columns:
 增產	hups
 時節	jhqx
 說不定	udof
-即便	xvef
 要麼	dcpv
 尖銳	mgwt
 杜絕	fhbb
