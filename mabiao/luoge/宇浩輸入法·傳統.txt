@@ -508,7 +508,6 @@
 取	ab
 取消	ab
 取出	ab
-取得	ab
 择	aba
 扭打	abaa
 撥打	abaa
@@ -1264,7 +1263,6 @@
 頂	ad
 技巧	ad
 打電話	ad
-可不可以	ad
 势不可挡	adaa
 𢭏	adac
 拒不接受	adae
@@ -2705,7 +2703,6 @@
 聽	ag
 聽到	ag
 聽説	ag
-找到	ag
 捧	aga
 聽打	agaa
 聽取	agab
@@ -3076,6 +3073,7 @@
 聽命	agyx
 擡	ah
 擡頭	ah
+擡起	ah
 亍	ah
 持	aha
 掁	aha
@@ -5899,6 +5897,7 @@
 挑战性	amyw
 擋	an
 擋住	an
+攔住	an
 丁	an
 𢰸	ana
 撲打	anaa
@@ -13416,7 +13415,6 @@
 經	bf
 經過	bf
 經常	bf
-經歷	bf
 飛	bf
 縛	bfa
 忍无可忍	bfab
@@ -39559,7 +39557,6 @@
 確	dy
 確定	dy
 確實	dy
-確認	dy
 雨	dy
 鸪	dya
 Ä	dya
@@ -55096,6 +55093,7 @@
 天命	fgyx
 天煞	fgyx
 元	fh
+；	fh
 棖	fha
 ㄚ	fha
 杜撰	fhac
@@ -67723,6 +67721,7 @@
 夫何忧何惧	geyy
 輕	gf
 輕輕	gf
+輕鬆	gf
 匚	gf
 玗	gfa
 輕打	gfaa
@@ -68274,6 +68273,7 @@
 玩命	gfyx
 轉	gg
 轉身	gg
+轉移	gg
 戈	gg
 琦	gga
 熙熙攘攘	ggaa
@@ -80299,6 +80299,7 @@
 平常心是道	hnyu
 壞	ho
 壞事	ho
+壞人	ho
 末	ho
 垨	hoac
 壞事	hoal
@@ -83824,6 +83825,7 @@
 壽命	hvyx
 塊	hw
 均匀	hw
+均值	hw
 兀	hw
 均摊	hwab
 塮	hwac
@@ -91003,6 +91005,7 @@
 油性	ikyw
 部	il
 部分	il
+部隊	il
 鹿	il
 瓿	ila
 競技	ilad
@@ -96041,6 +96044,7 @@
 淡食	iuys
 慶	iv
 波動	iv
+波紋	iv
 氵	iv
 澉	iva
 𣱽	iva
@@ -108070,6 +108074,8 @@
 水流心不竞	kiyi
 𨷉	kiyj
 間	kj
+間隔	kj
+間歇	kj
 甲	kj
 䴝	kjab
 間接	kjai
@@ -112379,6 +112385,7 @@ $	kkmy
 剛性	kuyw
 關	kv
 關係	kv
+關聯	kv
 虫	kv
 闞	kva
 𧈣	kva
@@ -123339,6 +123346,8 @@ $	kkmy
 尖角	mgyt
 𮉽	mgyw
 賭	mh
+賭博	mh
+賭氣	mh
 虎	mh
 帳	mha
 賬	mhab
@@ -123852,6 +123861,7 @@ $	kkmy
 䍓	mhyw
 𧠖	mhyx
 且	mi
+且看	mi
 点酒下盐豉	miaf
 且聽	miag
 睡觉东窗日已红	miav
@@ -125450,6 +125460,8 @@ $	kkmy
 𮚮	mmyw
 睡眼惺忪	mmyy
 虚	mn
+虚假	mn
+虚構	mn
 皿	mn
 𪙃	mnac
 𠧺	mnae
@@ -125754,6 +125766,8 @@ $	kkmy
 虚飾	mnyq
 𠧸	mnyq
 瞎	mo
+瞎説	mo
+瞎子	mo
 卜	mo
 貯	moa
 𥊁	moab
@@ -126082,6 +126096,7 @@ $	kkmy
 體育館	moyo
 瞎忙	moyu
 眯	mp
+眯眼	mp
 髍	mpa
 髍	mpag
 当门抵户	mpai
@@ -127827,6 +127842,7 @@ $	kkmy
 𥉮	muxw
 眼	mv
 眼睛	mv
+眼光	mv
 巾	mv
 瞰	mva
 瞰	mvae
@@ -128159,6 +128175,7 @@ $	kkmy
 眼饞	mvyy
 瞧	mw
 瞧瞧	mw
+瞧見	mw
 罒	mw
 𬙥	mwac
 虧折	mwae
@@ -128782,6 +128799,7 @@ $	kkmy
 虛飾	mxyq
 見解	mxyt
 睿	my
+睿智	my
 鹘	mya
 虚负东阳酒担来	myaf
 鹘	myag
@@ -129413,6 +129431,7 @@ $	kkmy
 紧忙	nbyu
 紧急	nbyx
 圍	nc
+圍繞	nc
 圍捕	ncaf
 圍攏	ncai
 囻	ncai
@@ -129531,6 +129550,8 @@ $	kkmy
 圍墾	ncyv
 国际性	ncyw
 鬥	nd
+鬥爭	nd
+鬥士	nd
 踌	nda
 坚不可摧	ndaa
 踌	ndac
@@ -149784,7 +149805,7 @@ $	kkmy
 㿕	pkyr
 𥧆	pkyx
 吝	pl
-高中生	pl
+吝嗇	pl
 窜扰	plad
 文史哲	plae
 𮖹	plag
@@ -155399,6 +155420,7 @@ $	kkmy
 順	qd
 順利	qd
 順序	qd
+知不知道	qd
 筹	qda
 筹	qdac
 𩾂	qdac
@@ -163247,6 +163269,7 @@ $	kkmy
 節餘	qxyt
 答	qy
 答案	qy
+答應	qy
 鱼	qy
 鸼	qya
 無懈可擊	qyag
@@ -168260,6 +168283,7 @@ $	kkmy
 和悦	rlyu
 外	rm
 外面	rm
+外國	rm
 毛	rm
 外切	rmab
 𡭫	rmac
@@ -182889,6 +182913,8 @@ $	kkmy
 甘棠忆召公	snyt
 专业性	snyw
 丈	so
+丈夫	so
+丈量	so
 艹	so
 苧	soa
 萃取	soab
@@ -219989,10 +220015,9 @@ $	kkmy
 𦙷	wbyj
 丹尼尔	wbym
 𮢁	wbyn
-包	wc
+包	wc
 包括	wc
 包裹	wc
-包裏	wc
 錒	wca
 鈱	wcai
 鍲	wcaj
@@ -220108,6 +220133,7 @@ $	kkmy
 肥田	wcjt
 鐊	wcjt
 𪽕	wcjx
+鐍	wck
 包	wck
 𦘺	wck
 包	wck
@@ -225825,6 +225851,7 @@ $	kkmy
 進食	wpys
 先	wq
 先生	wq
+先前	wq
 千	wq
 鋨	wqa
 选择	wqab
@@ -229051,6 +229078,7 @@ $	kkmy
 千纸鹤	wvyw
 雙	ww
 雙手	ww
+？	ww
 爻	wwa
 匁	wwa
 爻	wwaa

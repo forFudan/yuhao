@@ -519,7 +519,6 @@ aayy 𢮴
 ab 取
 ab 取消
 ab 取出
-ab 取得
 aba 择
 abaa 扭打
 abaa 撥打
@@ -1275,7 +1274,6 @@ acyw 指导性
 ad 頂
 ad 技巧
 ad 打電話
-ad 可不可以
 adaa 势不可挡
 adac 𢭏
 adae 拒不接受
@@ -2716,7 +2714,6 @@ afyx 搏命
 ag 聽
 ag 聽到
 ag 聽説
-ag 找到
 aga 捧
 agaa 聽打
 agab 聽取
@@ -3087,6 +3084,7 @@ agys 扶危
 agyx 聽命
 ah 擡
 ah 擡頭
+ah 擡起
 ah 亍
 aha 持
 aha 掁
@@ -5910,6 +5908,7 @@ amys 抄写
 amyw 挑战性
 an 擋
 an 擋住
+an 攔住
 an 丁
 ana 𢰸
 anaa 撲打
@@ -13427,7 +13426,6 @@ beyx 緩急
 bf 經
 bf 經過
 bf 經常
-bf 經歷
 bf 飛
 bfa 縛
 bfab 忍无可忍
@@ -39570,7 +39568,6 @@ dxyy 雪冤
 dy 確
 dy 確定
 dy 確實
-dy 確認
 dy 雨
 dya 鸪
 dya Ä
@@ -55107,6 +55104,7 @@ fgyw 天性
 fgyx 天命
 fgyx 天煞
 fh 元
+fh ；
 fha 棖
 fha ㄚ
 fhac 杜撰
@@ -67734,6 +67732,7 @@ geyx 革命
 geyy 夫何忧何惧
 gf 輕
 gf 輕輕
+gf 輕鬆
 gf 匚
 gfa 玗
 gfaa 輕打
@@ -68285,6 +68284,7 @@ gfyx 奇形怪狀
 gfyx 玩命
 gg 轉
 gg 轉身
+gg 轉移
 gg 戈
 gga 琦
 ggaa 熙熙攘攘
@@ -80310,6 +80310,7 @@ hnxr 長此以往
 hnyu 平常心是道
 ho 壞
 ho 壞事
+ho 壞人
 ho 末
 hoac 垨
 hoal 壞事
@@ -83835,6 +83836,7 @@ hvyw 𭷤
 hvyx 壽命
 hw 塊
 hw 均匀
+hw 均值
 hw 兀
 hwab 均摊
 hwac 塮
@@ -91014,6 +91016,7 @@ ikyv 洩恨
 ikyw 油性
 il 部
 il 部分
+il 部隊
 il 鹿
 ila 瓿
 ilad 競技
@@ -96052,6 +96055,7 @@ iuyn 𰛹
 iuys 淡食
 iv 慶
 iv 波動
+iv 波紋
 iv 氵
 iva 澉
 iva 𣱽
@@ -108081,6 +108085,8 @@ kiyi 同流合汙
 kiyi 水流心不竞
 kiyj 𨷉
 kj 間
+kj 間隔
+kj 間歇
 kj 甲
 kjab 䴝
 kjai 間接
@@ -112390,6 +112396,7 @@ kuyn 𨶡
 kuyw 剛性
 kv 關
 kv 關係
+kv 關聯
 kv 虫
 kva 闞
 kva 𧈣
@@ -123350,6 +123357,8 @@ mgyt 瞭解
 mgyt 尖角
 mgyw 𮉽
 mh 賭
+mh 賭博
+mh 賭氣
 mh 虎
 mha 帳
 mhab 賬
@@ -123863,6 +123872,7 @@ mhyw 战士军前半死生
 mhyw 䍓
 mhyx 𧠖
 mi 且
+mi 且看
 miaf 点酒下盐豉
 miag 且聽
 miav 睡觉东窗日已红
@@ -125461,6 +125471,8 @@ mmyw 戲劇性
 mmyw 𮚮
 mmyy 睡眼惺忪
 mn 虚
+mn 虚假
+mn 虚構
 mn 皿
 mnac 𪙃
 mnae 𠧺
@@ -125765,6 +125777,8 @@ mnyo 虚惊
 mnyq 虚飾
 mnyq 𠧸
 mo 瞎
+mo 瞎説
+mo 瞎子
 mo 卜
 moa 貯
 moab 𥊁
@@ -126093,6 +126107,7 @@ moym 𥋱
 moyo 體育館
 moyu 瞎忙
 mp 眯
+mp 眯眼
 mpa 髍
 mpag 髍
 mpai 当门抵户
@@ -127838,6 +127853,7 @@ muxu 𰷖
 muxw 𥉮
 mv 眼
 mv 眼睛
+mv 眼光
 mv 巾
 mva 瞰
 mvae 瞰
@@ -128170,6 +128186,7 @@ mvyt 眼角
 mvyy 眼饞
 mw 瞧
 mw 瞧瞧
+mw 瞧見
 mw 罒
 mwac 𬙥
 mwae 虧折
@@ -128793,6 +128810,7 @@ mxyn 当心
 mxyq 虛飾
 mxyt 見解
 my 睿
+my 睿智
 mya 鹘
 myaf 虚负东阳酒担来
 myag 鹘
@@ -129424,6 +129442,7 @@ nbyp 紧追
 nbyu 紧忙
 nbyx 紧急
 nc 圍
+nc 圍繞
 ncaf 圍捕
 ncai 圍攏
 ncai 囻
@@ -129542,6 +129561,8 @@ ncyr 𨄽
 ncyv 圍墾
 ncyw 国际性
 nd 鬥
+nd 鬥爭
+nd 鬥士
 nda 踌
 ndaa 坚不可摧
 ndac 踌
@@ -149795,7 +149816,7 @@ pkyo 蛮久
 pkyr 㿕
 pkyx 𥧆
 pl 吝
-pl 高中生
+pl 吝嗇
 plad 窜扰
 plae 文史哲
 plag 𮖹
@@ -155410,6 +155431,7 @@ qcyy 𲍆
 qd 順
 qd 順利
 qd 順序
+qd 知不知道
 qda 筹
 qdac 筹
 qdac 𩾂
@@ -163258,6 +163280,7 @@ qxyt 筆觸
 qxyt 節餘
 qy 答
 qy 答案
+qy 答應
 qy 鱼
 qya 鸼
 qyag 無懈可擊
@@ -168271,6 +168294,7 @@ rlyt 名角
 rlyu 和悦
 rm 外
 rm 外面
+rm 外國
 rm 毛
 rmab 外切
 rmac 𡭫
@@ -182900,6 +182924,8 @@ snyq 𮏗
 snyt 甘棠忆召公
 snyw 专业性
 so 丈
+so 丈夫
+so 丈量
 so 艹
 soa 苧
 soab 萃取
@@ -220000,10 +220026,9 @@ wbyd 缺憾
 wbyj 𦙷
 wbym 丹尼尔
 wbyn 𮢁
-wc 包
+wc 包
 wc 包括
 wc 包裹
-wc 包裏
 wca 錒
 wcai 鈱
 wcaj 鍲
@@ -220119,6 +220144,7 @@ wcjm 𪓠
 wcjt 肥田
 wcjt 鐊
 wcjx 𪽕
+wck 鐍
 wck 包
 wck 𦘺
 wck 包
@@ -225836,6 +225862,7 @@ wpyp 鬼迷心窍
 wpys 進食
 wq 先
 wq 先生
+wq 先前
 wq 千
 wqa 鋨
 wqab 选择
@@ -229062,6 +229089,7 @@ wvyu 月餅
 wvyw 千纸鹤
 ww 雙
 ww 雙手
+ww ？
 wwa 爻
 wwa 匁
 wwaa 爻
