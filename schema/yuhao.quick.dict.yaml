@@ -569,7 +569,7 @@ columns:
 带	sy
 昏	ta
 八	tb
-人民币	tc
+钕	tc
 须	td
 人	te
 钱	tf
@@ -643,7 +643,7 @@ columns:
 绿	vx
 绝	vy
 射	wa
-胫	wb
+缺	wb
 肥	wc
 腰	wd
 身	we
@@ -755,6 +755,7 @@ columns:
 观察	bk
 避免	bl
 母亲	bm
+展览会	bn
 尽量	bo
 屡次	bp
 属于	bq
@@ -879,6 +880,7 @@ columns:
 现在	gk
 或者	gl
 划分	gm
+大团圆	gn
 太阳	go
 达到	gp
 医生	gq
@@ -888,6 +890,7 @@ columns:
 夫人	gu
 王朝	gv
 区别	gw
+擊打	gx
 牵连	gy
 寺院	ha
 声音	hb
@@ -902,8 +905,10 @@ columns:
 至于	hk
 喜欢	hl
 到了	hm
+到此为止	hn
 较为	ho
 连续	hp
+轶事	hq
 表现	hr
 转化	hs
 输出	ht
@@ -948,13 +953,16 @@ columns:
 暗示	ji
 晶莹	jj
 岗位	jk
+影响力	jl
 晃动	jm
 显然	jn
 影响	jo
+崆峒	jp
 昨天	jq
 岁月	jr
 山区	js
 田地	jt
+旷工	ju
 日子	jv
 明天	jw
 男女	jx
@@ -965,6 +973,7 @@ columns:
 电子	kd
 申请	ke
 同时	kf
+贼人	kg
 水平	kh
 赔偿	ki
 螺旋	kj
@@ -998,16 +1007,19 @@ columns:
 吵架	lm
 嘴里	ln
 咳嗽	lo
+斐然	lp
 吃饭	lq
 响起	lr
 号码	ls
 只有	lt
+兄弟姐妹	lu
 吸收	lv
 史学	lw
 叫做	lx
 哈哈	ly
 小事	ma
 瞪大	mb
+小姑娘	mc
 置换	md
 睡觉	me
 幅度	mf
@@ -1017,6 +1029,7 @@ columns:
 桌面	mj
 帽子	mk
 战争	ml
+帖子	mm
 虚伪	mn
 罚款	mo
 虔诚	mp
@@ -1031,6 +1044,7 @@ columns:
 睁开	my
 团结	na
 坚持	nb
+囡囡	nc
 固定	nd
 黑色	ne
 困难	nf
@@ -1041,7 +1055,9 @@ columns:
 赏识	nk
 圆圈	nl
 常常	nm
+趾甲	nn
 踪影	no
+過去	np
 四周	nq
 此外	nr
 尚且	ns
@@ -1049,6 +1065,7 @@ columns:
 业务	nu
 足以	nv
 肯定	nw
+躍居	nx
 跪下	ny
 讨论	oa
 记者	ob
@@ -1058,6 +1075,7 @@ columns:
 语言	of
 方法	og
 诗歌	oh
+谚语	oi
 课程	oj
 永远	ok
 就是	ol
@@ -1101,6 +1119,7 @@ columns:
 究竟	py
 年代	qa
 每个	qb
+川菜	qc
 顺利	qd
 符合	qe
 策略	qf
@@ -1121,6 +1140,7 @@ columns:
 瓜果	qu
 第一	qv
 风格	qw
+笃信	qx
 答应	qy
 行为	ra
 径直	rb
@@ -1173,6 +1193,7 @@ columns:
 带来	sy
 昏迷	ta
 分析	tb
+人民币	tc
 针对	td
 人们	te
 途径	tf
@@ -1246,15 +1267,18 @@ columns:
 纠正	vx
 绝对	vy
 射击	wa
+缺少	wb
 肥皂	wc
 卑鄙	wd
 身体	we
 集中	wf
 生活	wg
 特别	wh
+臆想	wi
 金子	wj
 制造	wk
 告诉	wl
+罅隙	wm
 牛奶	wn
 丹麦	wo
 脑袋	wp
@@ -1270,6 +1294,7 @@ columns:
 寻找	xa
 骚动	xb
 驰骋	xc
+办不到	xd
 发生	xe
 卫生	xf
 骑车	xg
@@ -1279,6 +1304,7 @@ columns:
 录取	xk
 力量	xl
 马上	xm
+以此类推	xn
 以后	xo
 边缘	xp
 群体	xq
@@ -1289,6 +1315,7 @@ columns:
 即使	xv
 驳斥	xw
 出发	xx
+加拿大	xy
 鸟类	ya
 快乐	yb
 色彩	yc
@@ -1302,6 +1329,7 @@ columns:
 负责	yk
 象征	yl
 悄悄	ym
+心事	yn
 惊人	yo
 追求	yp
 必须	yq
@@ -1772,6 +1800,7 @@ columns:
 约定	vw
 纠结	vx
 给予	vy
+缺失	wb
 肥胖	wc
 卑微	wd
 身份	we
@@ -7911,7 +7940,7 @@ columns:
 錣	wbb
 鈕	wbc
 鋸	wbd
-錄	wbf
+胫	wbf
 腛	wbh
 脲	wbk
 鉊	wbl
@@ -7919,7 +7948,7 @@ columns:
 釵	wbo
 鈮	wbr
 犌	wbs
-缺	wbt
+鈌	wbt
 隻	wbu
 錒	wca
 鈀	wcb
