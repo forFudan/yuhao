@@ -54,5 +54,5 @@ encoder:
       formula: "AaBaCaCb"
     - length_in_range: [4, 20]
       formula: "AaBaCaZa"
----
+...
 

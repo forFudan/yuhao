@@ -9,7 +9,6 @@ auto_clear=4
 simple=3
 assist=z mb/pinyin.txt
 [DATA]
- 𠚒
 a 把
 a 事情
 a 事物
@@ -10022,9 +10021,10 @@ avrh 抬秤
 avri 才疏學淺
 avrk 拶
 avrl 扬名
+avrl 掺和
 avrl 扬程
 avrl 聯名
-avrl 掺和
+avrl 摻和
 avrl 违和
 avrq 挨饿
 avrr 挪移
@@ -10805,6 +10805,7 @@ axir 耴
 axir 𦔮
 axiv 可以濯我缨
 axiv 可以濯吾缨
+axix 摺扇
 axiy 热力学
 axiy 顿觉
 axiy 扎染
@@ -11757,9 +11758,9 @@ ayyy 热忱
 b 对
 b 对于
 b 对错
-ba 对
-ba 对于
-ba 对错
+ba 怼
+ba 对方
+ba 对手
 baaa 对打
 baaa 䌰
 baad 对撼
@@ -11995,7 +11996,6 @@ baxm 𮉗
 baxp 对边
 baxt 𢲝
 baxv 𥾝
-bay 怼
 baya 𱉟
 bayc 純色
 bayh 純情
@@ -19130,6 +19130,7 @@ caet 阿拉伯人
 caet 阿伦
 caet 𢰞
 caeu 阿信
+caev 民樂
 caev 陈俊
 caey 愍
 cafa 阿三
@@ -59521,6 +59522,7 @@ fnne 正路
 fnne 欓
 fnnf 工业园
 fnng 工业国
+fnnh 正堂
 fnnj 正當
 fnnm 正常
 fnnm 正點
@@ -59751,6 +59753,7 @@ fnxb 𣒉
 fnxf 𣗫
 fnxi 𭭘
 fnxn 𢌛
+fnxx 𠚒
 fnyc 正色
 fnyk 正负
 fnyl 三跪九叩
@@ -132962,6 +132965,7 @@ npdw 過期
 npee 𨇶
 npeh 𭤆
 npej 𲄉
+npes 過冬
 npet 過低
 npfc 业精于勤荒于嬉
 npfe 過橋
@@ -188744,7 +188748,6 @@ sxio 节流
 sxip 荔湾
 sxiq 苏州
 sxiq 萧飒
-sxir 蕭颯
 sxir 苏澳
 sxiu 恭贺新禧
 sxiu 著書立說
@@ -241165,6 +241168,7 @@ ytdl 䚞
 ytdm 𩓅
 ytdp 角逐
 ytdq 𧤳
+ytds 餘震
 ytdt 解铃还须系铃人
 ytdt 恨铁不成钢
 ytdu 触碰
