@@ -4627,9 +4627,9 @@ anu	撲
 anua	𢷮
 anub	𢸻
 anub	𢹸
-anuh	擈
 anuh	𭠙
 anut	擋道
+anut	擈
 anuv	撲火
 anuw	丁烯
 anv	捉
@@ -12306,10 +12306,10 @@ bnub	𦇱
 bnud	圅
 bnue	𣣻
 bnug	𦄾
-bnuh	䌜
 bnuj	𬘑
 bnum	𩔞
 bnur	結黨營私
+bnut	䌜
 bnut	𦅧
 bnv	𧿃
 bnvg	𫸭
@@ -17908,8 +17908,8 @@ cnt	媼
 cnud	𡣘
 cnug	䧤
 cnug	𡡐
-cnuh	䧨
 cnun	𫱱
+cnut	䧨
 cnv	娖
 cnvb	姻缘
 cnwm	𡠔
@@ -21239,9 +21239,9 @@ dcmx	帮助
 dcnb	要紧
 dcne	要路
 dcnf	帮困
-dcnh	𰴍
 dcnl	要回
 dcnm	要點
+dcnt	𰴍
 dco	雺
 dcob	要官
 dcob	要诀
@@ -26433,13 +26433,13 @@ dnua	䨴
 dnud	𩆬
 dnue	𥗢
 dnuh	丰美
-dnuh	礏
-dnuh	驜
-dnuh	𣩫
 dnuh	𩣌
 dnuh	𬒆
 dnur	露背
 dnut	露底
+dnut	礏
+dnut	驜
+dnut	𣩫
 dnuu	露營
 dnuu	麥當勞
 dnuv	𰧚
@@ -35541,12 +35541,12 @@ enuf	修煉
 enug	修養
 enug	修养
 enug	𤾣
-enuh	㒒
-enuh	𤾧
 enus	修護
 enus	𱏠
 enut	候診
 enut	修道
+enut	㒒
+enut	𤾧
 enuw	修剪
 env	促
 envb	𤽱
@@ -37278,7 +37278,6 @@ esuh	仗義
 esuh	仁義
 esuh	借讀
 esuh	冬装
-esuh	𰤝
 esuh	𱫃
 esui	供应
 esuj	備課
@@ -37293,6 +37292,7 @@ esus	𡐱
 esut	佈道
 esut	借道
 esut	传道
+esut	𰤝
 esuv	仁慈
 esuv	供詞
 esuv	借火
@@ -45334,7 +45334,6 @@ fnuf	𣞰
 fnug	𣝢
 fnuh	柬
 fnuh	正義
-fnuh	檏
 fnuh	𱣇
 fnuh	𱪲
 fnuk	正视
@@ -45351,6 +45350,7 @@ fnur	鶫
 fnut	正道
 fnut	相對論
 fnut	政論
+fnut	檏
 fnut	𢒞
 fnut	𣚠
 fnut	𨱘
@@ -53754,8 +53754,8 @@ gnua	轛
 gnug	醭
 gnug	轐
 gnug	䪁
-gnuh	𤩶
-gnuh	𮡅
+gnut	𤩶
+gnut	𮡅
 gnv	珿
 gnvi	𩈤
 gnvi	𫏔
@@ -55673,7 +55673,6 @@ gttg	𩈧
 gttg	𰢁
 gtth	𡑁
 gtth	𡘫
-gtth	𫰃
 gtth	𭑝
 gtth	𱖪
 gtti	軫
@@ -55705,6 +55704,7 @@ gttr	𪅣
 gttt	𠁊
 gttt	𡙁
 gttt	𤨜
+gttt	𫰃
 gttv	𭆜
 gttw	𮢝
 gttx	𨍖
@@ -61143,9 +61143,9 @@ hnu	墣
 hnub	𡓙
 hnug	𩯏
 hnug	𫐗
-hnuh	𡑿
-hnuh	𱵬
 hnuq	𱗭
+hnut	𡑿
+hnut	𱵬
 hnux	老當益壯
 hnv	𭎣
 hnwb	鬛
@@ -68713,7 +68713,6 @@ ijne	意图
 ijnf	沉思默想
 ijng	𩑀
 ijnh	𣷐
-ijnh	𩑃
 ijnk	𰝤
 ijnl	意圖
 ijnl	湯圓
@@ -68722,6 +68721,7 @@ ijnm	漫步
 ijnm	音頻
 ijnm	音频
 ijnp	混跡
+ijnt	𩑃
 ijnu	𬰺
 ijo	章
 ijob	音译
@@ -69022,13 +69022,13 @@ ijxf	温牀
 ijxh	漫畫
 ijxh	韻書
 ijxh	温書
-ijxh	𩑄
 ijxl	竭力
 ijxl	𩐩
 ijxl	𪟠
 ijxl	𪶀
 ijxp	𤄗
 ijxq	温驯
+ijxt	𩑄
 ijxu	温习
 ijxu	𫁩
 ijxu	𫅬
@@ -70401,9 +70401,7 @@ inuf	溫差
 inuf	溫床
 inug	𣾴
 inug	𪋡
-inuh	澲
 inuh	𢨼
-inuh	𪋫
 inuj	𭱎
 inuj	𭱩
 inuk	𭱪
@@ -70412,6 +70410,8 @@ inun	𫞜
 inur	𭲞
 inus	溫度
 inus	𤀾
+inut	澲
+inut	𪋫
 inut	𭱽
 inuv	𬈨
 inuw	㶋
@@ -70769,7 +70769,6 @@ ion	澶
 ionf	濟困
 ionf	游园
 ionh	𪷤
-ionh	𭳪
 ioni	𱦬
 ionl	滚圓
 ionl	流回
@@ -70780,6 +70779,7 @@ ionm	𭳧
 ionp	浪跡
 ionq	游览
 ionr	澟
+iont	𭳪
 ionu	𣿱
 ioo	滓
 ioob	游记
@@ -77720,13 +77720,13 @@ jnud	𣋡
 jnue	𪴯
 jnug	𣊪
 jnug	𭗘
-jnuh	嶪
-jnuh	嶫
-jnuh	曗
 jnuh	𰎑
 jnuk	𲊿
 jnum	顕
 jnup	𲅧
+jnut	嶪
+jnut	嶫
+jnut	曗
 jnut	𭨏
 jnvs	𡷿
 jnvt	𤲊
@@ -90156,12 +90156,12 @@ lnub	𡅇
 lnud	忠誠
 lnuh	中美
 lnuh	忠義
-lnuh	㗼
 lnuh	𤆪
 lnuh	𫩤
 lnur	中國話
 lnur	中奖
 lnur	中将
+lnut	㗼
 lnuu	咽炎
 lnuv	中火
 lnux	中庸
@@ -92425,7 +92425,6 @@ lxf	嗤
 lxfa	噚
 lxfd	别无
 lxfe	叫板
-lxfh	𡁖
 lxfi	另一
 lxfi	𬺾
 lxfl	叩頭
@@ -92436,6 +92435,7 @@ lxfp	别来
 lxfs	别开
 lxfs	叩开
 lxft	呉
+lxft	𡁖
 lxfu	别樣
 lxfu	别样
 lxfv	叫勁
@@ -96592,10 +96592,6 @@ mnug	贌
 mnug	戯
 mnug	瞨
 mnug	𩪛
-mnuh	㡤
-mnuh	𥋙
-mnuh	𧸢
-mnuh	𩪤
 mnuh	𰏭
 mnuk	觑
 mnuq	虚設
@@ -96604,7 +96600,11 @@ mnur	𧸕
 mnur	𪆛
 mnus	虚度
 mnut	虡
+mnut	㡤
+mnut	𥋙
 mnut	𧸅
+mnut	𧸢
+mnut	𩪤
 mnut	𭛚
 mnuu	虚榮
 mnuv	虚詞
@@ -102231,9 +102231,9 @@ nnua	𨆷
 nnua	𪒶
 nnua	𪓁
 nnug	𪒢
-nnuh	𪒲
-nnuh	𮜙
 nnuj	黨課
+nnut	𪒲
+nnut	𮜙
 nnv	踀
 nnvi	𭭤
 nnvs	䟫
@@ -103944,7 +103944,6 @@ nuuf	黼
 nuuf	𬧘
 nuug	菐
 nuug	𫼆
-nuuh	𪴨
 nuui	旧瓶装新酒
 nuuj	𬁝
 nuul	𡁨
@@ -103982,6 +103981,7 @@ nuus	𭸪
 nuut	黹
 nuut	跆拳道
 nuut	𩼸
+nuut	𪴨
 nuut	⿋
 nuut	黹
 nuuu	𤎀
@@ -104162,6 +104162,7 @@ nvuw	跟前
 nvv	黲
 nvva	𤭳
 nvve	𨇰
+nvvf	躖
 nvvk	𨀊
 nvvk	𮜓
 nvvl	党组织
@@ -104173,7 +104174,6 @@ nvvs	䠁
 nvvt	黲
 nvvt	𨂳
 nvvt	𮜒
-nvvv	躖
 nvvw	囜
 nvvx	䠪
 nvwh	跛脚
@@ -115818,12 +115818,12 @@ pnud	𧞑
 pnue	门庭
 pnug	襆
 pnug	𥼜
-pnuh	𮖷
 pnuk	门神
 pnum	门店
 pnur	门将
 pnut	门道
 pnut	𧝉
+pnut	𮖷
 pnuv	窩火
 pnuw	门前
 pnva	𨄬
@@ -122784,10 +122784,10 @@ qnua	延烧
 qnua	𥵢
 qnug	𥐁
 qnuh	延燒
-qnuh	𥴼
 qnuh	𫁺
 qnul	延誤
 qnuq	𠒇
+qnut	𥴼
 qnuv	𥱽
 qnux	凡庸
 qnv	𥭽
@@ -126210,9 +126210,9 @@ rbmw	𪖏
 rbmw	𬓹
 rbng	𢕠
 rbng	𪖈
-rbnh	𪖊
 rbnr	独辟蹊径
 rbnr	𪕑
+rbnt	𪖊
 rbnv	𪕝
 rbo	颾
 rboc	𲎠
@@ -130449,11 +130449,11 @@ rnuf	外國語
 rnuf	穢語
 rnug	穙
 rnug	獛
-rnuh	𥣈
 rnun	𫹤
 rnup	𥽿
 rnur	向背
 rnus	德黑兰
+rnut	𥣈
 rnuu	𱮧
 rnuw	向前
 rnuw	㣸
@@ -136772,7 +136772,6 @@ seng	原因
 seng	𦿍
 senh	花園
 senh	菜園
-senh	𧀸
 senj	互爲因果
 senk	𦰞
 senl	原圖
@@ -136781,6 +136780,7 @@ senn	𫈾
 senq	莅临
 sens	𰁖
 sent	蓚
+sent	𧀸
 senu	花叢
 senu	花圈
 senv	𰸏
@@ -143915,7 +143915,6 @@ suha	𫴰
 suhc	荒地
 suhc	葁
 suhc	𤇸
-suhe	𭪙
 suhg	㕒
 suhg	䓺
 suhg	䕏
@@ -144079,6 +144078,7 @@ susu	冷言冷語
 susu	𮑶
 susw	有言在先
 sut	菧
+sutb	𭪙
 sute	監護人
 sute	𧅄
 sutf	茶話會
@@ -150034,11 +150034,11 @@ tnud	用計
 tnuf	用語
 tnug	𠔯
 tnug	𤗵
-tnuh	㸣
-tnuh	𩼋
 tnuh	𬬼
 tnup	𮟞
 tnus	用度
+tnut	㸣
+tnut	𩼋
 tnuw	企望
 tnuw	𤕨
 tnv	𰾃
@@ -156240,7 +156240,6 @@ uhed	評價
 uhed	評估
 uhef	請便
 uheg	装袋
-uheh	𦍎
 uheh	𤋖
 uheh	𧩼
 uheh	𫷫
@@ -158868,10 +158867,8 @@ unuf	㠮
 unug	𡚈
 unug	𭶅
 unuh	並請
-unuh	㸁
 unuh	𢈀
 unuh	𢉍
-unuh	𧬬
 unuh	並
 unul	𠁝
 unum	𧡟
@@ -158888,7 +158885,9 @@ unus	烟煤
 unus	𠁔
 unus	𫡀
 unut	禍首
+unut	㸁
 unut	𠁟
+unut	𧬬
 unuv	烟火
 unuv	北回归线
 unuv	𣌞
@@ -161045,6 +161044,7 @@ utbd	𤆶
 utbe	導線
 utbe	底線
 utbf	首飛
+utbg	𦍎
 utbh	首屆
 utbh	𩠭
 utbj	底細
@@ -173626,12 +173626,12 @@ wnud	𬂔
 wnug	鏷
 wnug	㹒
 wnug	𦢂
-wnuh	𦡧
-wnuh	𨭥
 wnuh	𮌌
 wnum	鍋爐
 wnur	牛背
+wnut	𦡧
 wnut	𨬚
+wnut	𨭥
 wnuv	𲇞
 wnuw	𨰛
 wnv	𮌘
@@ -180110,7 +180110,6 @@ xnsg	以點帶面
 xnsh	马蹄莲
 xnsm	𥅱
 xnsp	𨒢
-xntc	䏋
 xntp	賀歲片
 xnuu	𤎸
 xnvu	䎌
@@ -180734,6 +180733,7 @@ xtxt	𣑼
 xtxw	𦘤
 xtxx	䎘
 xtxy	𪬵
+xtyc	䏋
 xu	羽
 xuap	𪺞
 xubg	羽絨
@@ -185021,9 +185021,9 @@ ynud	心烦
 ynud	𭞾
 ynug	𧴌
 ynug	𭞴
-ynuh	𢢜
 ynuk	心神
 ynut	心底
+ynut	𢢜
 ynvb	心经
 ynvh	心绪
 ynvj	歸巢
@@ -187152,7 +187152,6 @@ yugv	𩜇
 yugx	𢛗
 yuhb	𱞦
 yuhc	𩝅
-yuhe	𩜣
 yuhg	𢣂
 yuhg	𢤻
 yuhg	𩝏
@@ -187230,6 +187229,7 @@ yust	𲋝
 yusu	䭖
 yusu	𢠫
 yut	馗
+yutb	𩜣
 yutg	心慈手軟
 yuth	心慈手软
 yutl	危言耸听
