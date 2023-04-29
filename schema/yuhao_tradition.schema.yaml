@@ -145,7 +145,7 @@ translator:
 
 zaoci:
   __include: translator
-  initial_quality: 10000
+  initial_quality: 10
   enable_sentence: true
   enable_user_dict: true
   prefix: "`"
