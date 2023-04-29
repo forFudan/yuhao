@@ -19,6 +19,7 @@ schema:
     - 按"help"或"bang"提示快捷鍵和官方網站。
   dependencies:
     - yuhao_pinyin
+    - yuhao_chaifen
 
 switches:
   - options:
@@ -36,11 +37,18 @@ switches:
   - name: yuhao_postpone_full_code
     reset: 1
     states: [原始排序, 全碼後置]
-  - name: chaifen
     # Control+Shift+H
-    states: ["无拆分", "有拆分"]
-    reset: 0
+  # - name: chaifen
+  #   states: ["无拆分", "有拆分"]
+  #   reset: 0
     # Control+Shift+C
+  - options:
+      - yuhao_chaifen.off
+      - yuhao_chaifen.lv1
+      - yuhao_chaifen.lv2
+      - yuhao_chaifen.lv3
+    states: [〇注解, 一重注解, 二重注解, 三重注解]
+    reset: 2
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0
@@ -63,6 +71,7 @@ engine:
   processors:
     - ascii_composer
     - recognizer
+    - lua_processor@yuhao_chaifen_processor
     - key_binder
     - speller
     - punctuator
@@ -72,7 +81,7 @@ engine:
   segmentors:
     - ascii_segmentor
     - matcher
-    - "affix_segmentor@zaoci" # 用户造詞
+    - affix_segmentor@zaoci # 用户造詞
     - abc_segmentor
     - punct_segmentor
     - fallback_segmentor
@@ -91,14 +100,9 @@ engine:
     - lua_filter@yuhao_postpone_full_code
     - simplifier@traditionalize
     - simplifier@simplify
-    - simplifier@chaifen
+    - lua_filter@yuhao_chaifen
+    # - simplifier@chaifen
     - uniquifier
-
-yuhao_char_first:
-  tags: [abc]
-
-yuhao_char_only:
-  tags: [abc]
 
 traditionalize:
   tags: [abc, reverse_lookup]
@@ -118,12 +122,12 @@ simplify:
     - xform/^/〔/
     - xform/$/〕/
 
-chaifen:
-  opencc_config: yuhao_chaifen.json
-  option_name: chaifen
-  show_in_comment: true
-  tags: [abc, reverse_lookup]
-  tips: char
+# chaifen:
+#   opencc_config: yuhao_chaifen.json
+#   option_name: chaifen
+#   show_in_comment: true
+#   tags: [abc, reverse_lookup]
+#   tips: char
 
 yuhao_postpone_full_code:
   tags: [abc]
@@ -132,6 +136,12 @@ yuhao_postpone_full_code:
 
 schema_name:
   code: yuhao
+  spelling: yuhao_chaifen
+
+yuhao_chaifen:
+  lua:
+    switch_key: "Control+c"
+    cycle_key: "Shift+Control+C"
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -159,16 +169,14 @@ translator:
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长
   preedit_format: []
-    # - 'xform/^([a-y]*)$/$1\t〔\U$1\E〕/'
-    # - "xlit|ABCDEFGHIJKLMNOPQRSTUVWXY|耳子女石爪木夫土鹿田水口目足户米竹禾犬人火皮金羽心|"
   comment_format:
     - 'xform/^~/ /'
   disable_user_dict_for_patterns:
     - "^z.*$"
 
 zaoci:
-  __include: /translator
-  initial_quality: 10
+  __include: translator
+  initial_quality: 0
   enable_sentence: true
   enable_user_dict: true
   prefix: '`'
@@ -223,8 +231,8 @@ key_binder:
         accept: "Control+Shift+D",
         toggle: yuhao_single_char_only_for_full_code,
       } # 全码出单
-    - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
-    - { when: has_menu, accept: "/", toggle: chaifen } # 拆分
+    # - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
+    - { when: has_menu, accept: "/", toggle: yuhao_chaifen.off } # 拆分
     # - { when: always, accept: "Control+Shift+G", toggle: guji } # 反查
     - {
         when: always,

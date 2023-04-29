@@ -18,6 +18,7 @@ schema:
     <https://www.zhihu.com/question/494817799/answer/2647217480>
   dependencies:
     - yuhao_pinyin
+    - yuhao_chaifen
 
 switches:
   - options:
@@ -35,14 +36,21 @@ switches:
   - name: yuhao_postpone_full_code
     reset: 1
     states: [原始排序, 全碼後置]
-  - name: chaifen
     # Control+Shift+H
+  - name: chaifen
     states: ["无拆分", "有拆分"]
     reset: 0
     # Control+Shift+C
+  - options:
+      - yuhao_chaifen.off
+      - yuhao_chaifen.lv1
+      - yuhao_chaifen.lv2
+      - yuhao_chaifen.lv3
+    states: [〇注解, 一重注解, 二重注解, 三重注解]
+    reset: 2
   - name: simplification
-    reset: 0
     states: [繁保持, 繁转简]
+    reset: 0
     # Control+Shift+J
   - name: ascii_punct
     states: [。，, ．，]
@@ -58,6 +66,7 @@ engine:
   processors:
     - ascii_composer
     - recognizer
+    - lua_processor@yuhao_chaifen_processor
     - key_binder
     - speller
     - punctuator
@@ -85,7 +94,8 @@ engine:
     - lua_filter@yuhao_char_only
     - lua_filter@yuhao_postpone_full_code
     - simplifier@simplify
-    - simplifier@chaifen
+    - lua_filter@yuhao_chaifen
+    # - simplifier@chaifen
     - uniquifier
 
 simplify:
@@ -97,12 +107,12 @@ simplify:
     - xform/^/〔/
     - xform/$/〕/
 
-chaifen:
-  opencc_config: yuhao_chaifen.json
-  option_name: chaifen
-  show_in_comment: true
-  tags: [abc, reverse_lookup]
-  tips: char
+# chaifen:
+#   opencc_config: yuhao_chaifen.json
+#   option_name: chaifen
+#   show_in_comment: true
+#   tags: [abc, reverse_lookup]
+#   tips: char
 
 yuhao_postpone_full_code:
   tags: [abc]
@@ -111,6 +121,12 @@ yuhao_postpone_full_code:
 
 schema_name:
   code: yuhao_tradition
+  spelling: yuhao_chaifen
+
+yuhao_chaifen:
+  lua:
+    switch_key: "Control+c"
+    cycle_key: "Shift+Control+C"
 
 speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba
@@ -145,7 +161,7 @@ translator:
 
 zaoci:
   __include: translator
-  initial_quality: 10
+  initial_quality: 0
   enable_sentence: true
   enable_user_dict: true
   prefix: "`"
@@ -200,8 +216,8 @@ key_binder:
         accept: "Control+Shift+D",
         toggle: yuhao_single_char_only_for_full_code,
       } # 全码出单
-    - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
-    - { when: has_menu, accept: "/", toggle: chaifen } # 拆分
+    # - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
+    - { when: has_menu, accept: "/", toggle: yuhao_chaifen.off } # 拆分
     - {
         when: always,
         accept: "Control+Shift+H",
