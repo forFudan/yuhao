@@ -174,8 +174,8 @@ local processor = rime.make_option_cycler(options,
 local function xform(s)
   -- input format: "[spelling,code_code...,pinyin_pinyin...]"
   -- output format: "〔 spelling · code code ... · pinyin pinyin ... 〕"
-  return s == '' and s or s:gsub('%[', '〔 ')
-      :gsub('%]', ' 〕')
+  return s == '' and s or s:gsub('%[', '〔')
+      :gsub('%]', '〕')
       :gsub('{', '<')
       :gsub('}', '>')
       :gsub('_', ' ')
@@ -238,14 +238,14 @@ local function get_tricomment(cand, env)
     if not spelling then return end
     spelling = spelling:gsub('{(.-)}', '<%1>')
     if env.engine.context:get_option('yuhao_chaifen.lv1') then
-      return ('〔 %s 〕'):format(spelling)
+      return ('〔%s〕'):format(spelling)
     end
     local code = env.code_rvdb:lookup(text)
     if code ~= '' then -- 按长度排列多个编码。
       local codes = {}
       for m in code:gmatch('%S+') do codes[#codes + 1] = m end
       table.sort(codes, function(i, j) return i:len() < j:len() end)
-      return ('〔 %s · %s 〕'):format(spelling, table.concat(codes, ' '))
+      return ('〔%s · %s〕'):format(spelling, table.concat(codes, ' '))
     else -- 以括号类型区分非本词典之固有词
       return ('〈 %s 〉'):format(spelling)
       -- Todo: 如果要为此类词组添加编码注释，其中的单字存在一字多码的情况，需先
