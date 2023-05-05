@@ -74,12 +74,15 @@ nav_order: 2
 
 - yuhao.schema.yaml 给熟手的方案，默认关闭拆分提示、常用字优先。
 - yuhao_tradition.schema.yaml 传统汉字方案，默认关闭拆分提示、常用字优先。
-- yuhao.dict.yaml 主码表，包含宇浩一级简体词库。
-- yuhao_tradition.dict.yaml 传统汉字字典文件。
-- yuhao.words_l1.dict.yaml 宇浩一级简体词库：约50000个词语，频率较高。
-- yuhao.words_l2.dict.yaml 宇浩二级简体词库：约25000个词语，频率较低。
-- yuhao.words_l3.dict.yaml 宇浩三级简体词库：约20000个词语，多为成语和古诗词，除非有特殊需求，否则不建议开启。
-- yuhao.words_tc.dict.yaml 宇浩繁体词库：约30000个核心词语，包括台湾、香港、大陆古籍繁体三种字形。
+- yuhao.dict.yaml 简化字优先主码表。
+- yuhao_tradition.dict.yaml 传统汉字优先主码表。
+- yuhao.quick.dict.yaml 简化字简码码表。
+- yuhao_tradition.quick.dict.yaml 传统汉字简码码表。
+- yuhao.full.dict.yaml 单字全码码表。
+- yuhao.words 宇浩核心简体词库。约50000个词语，频率较高。
+- yuhao.words_extended 宇浩增广简体词库。约45000个词语，频率较低，多为成语和古诗词，除非有特殊需求，否则不建议开启。
+- yuhao_tradition.words 宇浩核心繁体词库，包括台湾、香港、大陆古籍繁体三种字形。约50000个词语，频率较高。
+- yuhao_tradition.words_extended 宇浩增广繁体词库。约45000个词语，频率较低，多为成语和古诗词，除非有特殊需求，否则不建议开启。
 - yuhao.symbols.dict.yaml 特殊符号码表。
 - yuhao_pinyin.schema.yaml 拼音配置文件，用于反查。
 - yuhao_pinyin.dict.yaml 拼音字典文件。

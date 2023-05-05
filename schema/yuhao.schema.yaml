@@ -48,7 +48,7 @@ switches:
       - yuhao_chaifen.lv2
       - yuhao_chaifen.lv3
     states: [〇注解, 一重注解, 二重注解, 三重注解]
-    reset: 2
+    reset: 3
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0

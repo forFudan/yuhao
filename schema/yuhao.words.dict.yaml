@@ -1,17 +1,17 @@
 # encoding: utf-8
 #
-# 宇浩·繁简通
-# 版本：20230418
+# 宇浩·开来学
+# 版本: 20230505
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
 # 官方QQ群 735728797
 
-# 宇浩简化字二级词库
+# 宇浩简化字核心词库
 
 ---
-name: "yuhao.words_l1"
-version: "20230401"
+name: "yuhao.words"
+version: "20230505"
 sort: original
 columns:
   - text

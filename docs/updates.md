@@ -1,8 +1,8 @@
----
+<!-- ---
 title: 更新日志
 layout: default
 nav_order: 98
----
+--- -->
 
 <!-- omit in toc -->
 # 宇浩输入法更新日志
@@ -11,13 +11,18 @@ nav_order: 98
 
 [拆分校正历史请点击此处。](./corrections)
 
+## 2023年5月5日
+
+词库码表结构优化，现将词库分为核心和增广词库，各自分为繁简。核心词库对应了宇浩一级词库，增广词库对应了宇浩二级词库。名称如下：
+
+- yuhao.words
+- yuhao.words_extended
+- yuhao_tradition.words
+- yuhao_tradition.words_extended
+
 ## 2023年5月4日
 
-增加 CJK 扩展 I 区的 603 个汉字。字形来源：https://www.unicode.org/L2/L2023/23114-unc-extension-i.pdf
-
-将「𮓡」头认定为「虍」的异体。一共影响全字集20个字：𭄏𭅍𭇢𭞐𭞥𭟾𭸣𭸮𭾐𮉗𮎗𮓘𮓙𮓜𮓠𮓡𮓥𮙟𮬗𱮫
-
-修正部分简码错误。
+增加 CJK 扩展 I 区的 603 个汉字。字形来源：[https://www.unicode.org/L2/L2023/23114-unc-extension-i.pdf](https://www.unicode.org/L2/L2023/23114-unc-extension-i.pdf)
 
 同步更新拆分表和在线查询系统。
 

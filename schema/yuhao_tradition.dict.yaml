@@ -1,43 +1,43 @@
 # encoding: utf-8
 #
-# 宇浩·傳承
-# 版本：20230418
-
+# 宇浩·繼往聖
+# 版本: 20230505
+#
 # 發明人 朱宇浩
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
 # 官方QQ群 735728797
-
+#
 # 介紹
 # 這是筆者用來寫小説的自用方案。
 # 單字排序，以繁體字頻爲主，簡體字頻爲輔。
 # 字形選取依照大陸唯一繁體字字形標準《古籍印刷通用字規範字形表》。
 # <https://www.zhihu.com/question/494817799/answer/2647217480>
-
 #
 # 碼表排列:
-# - 一二三级简码
-# - 单字全码
-# - 台湾、香港、大陆古籍繁体字形兼容补充
-# - 易错拆分容错码
-# - 大陆古籍繁体字词库
-# - 特殊符号
-
-# 可选导入:
-# - 宇浩简化字一级词库
-# - 宇浩简化字二级词库（次常用词语）
-# - 宇浩简化字三级词库（成语、诗词）
+# - 一二三級簡碼
+# - 單字全碼
+# - 臺灣、香港、大陸古籍繁體字形兼容補充
+# - 易錯拆分容錯碼
+# - 傳統字核心詞庫
+# - 简化字核心词库
+# - 特殊符號
+# - 用户自定義詞庫
+#
+# 可選導入:
+# - 傳統字增廣詞庫
+# - 简化字增广词库（次常用词语、成语、诗词）
 ---
 name: "yuhao_tradition"
-version: "20230408"
+version: "20230505"
 sort: original
 import_tables:
   # 去除下方的 # 符号以导入词库
   - yuhao_tradition.quick
   - yuhao_tradition.full
   - yuhao_tradition.words
-  - yuhao.words_l1
-  #  - yuhao.words_l2
-  #  - yuhao.words_l3
+  - yuhao.words
+  #  - yuhao_tradition.words_extended
+  #  - yuhao.words_extended
   - yuhao.symbols
   - yuhao.extended
 columns:

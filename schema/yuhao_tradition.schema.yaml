@@ -47,7 +47,7 @@ switches:
       - yuhao_chaifen.lv2
       - yuhao_chaifen.lv3
     states: [〇注解, 一重注解, 二重注解, 三重注解]
-    reset: 2
+    reset: 3
   - name: simplification
     states: [繁保持, 繁转简]
     reset: 0
