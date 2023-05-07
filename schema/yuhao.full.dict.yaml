@@ -98,7 +98,7 @@ columns:
 很	rvnc
 点	mluh
 前	uwmd
-发	xeod
+发	xbod
 经	vbfo
 情	yhwv
 把	acb
@@ -1485,7 +1485,7 @@ columns:
 嘻	lhll
 尾	brm
 帐	mth
-废	uxeo
+废	uxbo
 延	qnxn
 敲	olkk
 烂	uuse
@@ -1743,7 +1743,7 @@ columns:
 铃	ttob
 蛮	pkvi
 蒂	soum
-拨	axeo
+拨	axbo
 涛	idac
 予	cuf
 勾	wvv
@@ -2322,7 +2322,7 @@ columns:
 遵	ugap
 塑	uxwh
 桶	fbtn
-泼	ixeo
+泼	ixbo
 滩	ibwi
 琼	golm
 昊	jfgd
@@ -12377,6 +12377,7 @@ columns:
 鰬	tmpw
 鱨	tnrj
 鮂	tnte
+鰼	txeb
 誋	ubyn
 諰	ujyn
 誻	ukjv
@@ -13084,7 +13085,6 @@ columns:
 釡	twjb
 鮈	twlv
 鰎	txax
-鰼	txeb
 鮯	tyey
 鮸	tylq
 奱	ubbg
@@ -15416,7 +15416,7 @@ columns:
 輜	gvjt
 酳	gvwv
 隿	gwiy
-酦	gxeo
+酦	gxbo
 珕	gxxx
 琿	gygc
 墕	hfnu
@@ -15613,6 +15613,7 @@ columns:
 痸	pwkm
 袀	pwse
 袾	pwtb
+袯	pxbo
 籜	qamd
 鳚	qbha
 箹	qbwo
@@ -15720,7 +15721,7 @@ columns:
 鱹	tslw
 牉	tuav
 毤	tvqr
-䥽	txeo
+䥽	txbo
 鱘	txfa
 讘	uaaa
 廜	ubhj
@@ -18902,7 +18903,6 @@ columns:
 裪	pwwo
 痭	pwwv
 糭	pwxe
-袯	pxeo
 襑	pxfa
 窹	pxfl
 粶	pxkh
@@ -34722,8 +34722,8 @@ columns:
 𠈶	ejvo
 𠎺	ejwu
 𢞫	ejwy
+𠈷	ejxa
 𤽲	ejxl
-𠈷	ejxn
 𠑔	ejxp
 𤾒	ejyq
 𤾌	ekbl
@@ -60768,7 +60768,6 @@ columns:
 𠨳	sxod
 𦵼	sxqc
 𨖗	sxqp
-𦭺	sxqq
 𠩑	sxqr
 𦱭	sxrs
 𦲚	sxsq
@@ -60796,6 +60795,7 @@ columns:
 𦫷	sxxi
 𠠿	sxxl
 𦮁	sxxs
+𦭺	sxxx
 𦮙	sxxx
 𦴬	sxxx
 𦴾	sxxx
@@ -64470,6 +64470,7 @@ columns:
 𢉎	uxdb
 𢻐	uxdb
 𤌂	uxdb
+𩑿	uxdm
 𩒋	uxdm
 𩒕	uxdm
 𥜨	uxdu
@@ -64518,7 +64519,6 @@ columns:
 𦍑	uxod
 𤉙	uxql
 𧨡	uxql
-𩑿	uxqm
 𢋖	uxqo
 𤐆	uxqu
 𥜉	uxqu
@@ -68496,6 +68496,7 @@ columns:
 𩨃	xxax
 𡴝	xxbd
 𢑮	xxbf
+𩧯	xxbo
 𨛃	xxcf
 𢑽	xxdd
 𢑬	xxdl
@@ -68503,7 +68504,6 @@ columns:
 𠺤	xxel
 𧂥	xxem
 𪛐	xxen
-𩧯	xxeo
 𦯦	xxeq
 𦺂	xxeu
 𦬟	xxfa
@@ -72596,7 +72596,7 @@ columns:
 𫜚	nwty
 𫏓	nwur
 𫆙	nwvs
-𫏆	nxeo
+𫏆	nxbo
 𫏡	nyld
 𪬋	nyna
 𪧊	oalv
@@ -76537,9 +76537,9 @@ columns:
 𬓄	hwwn
 𫭯	hxac
 𫮑	hxax
+𫭨	hxbo
 𫷕	hxbu
 𬨃	hxbu
-𫭨	hxeo
 𫭘	hxj
 𫸑	hxnh
 𬙹	hxqu
@@ -78267,8 +78267,8 @@ columns:
 𬐵	pwrm
 𬖕	pwto
 𬔅	pxax
+𬏦	pxbo
 𫥥	pxbs
-𬏦	pxeo
 𬖲	pxfk
 𫥩	pxfl
 𬓟	pxkr
@@ -78558,7 +78558,7 @@ columns:
 𬕔	qwwv
 𬲀	qwwy
 𬶚	qwxb
-𬔹	qxeo
+𬔹	qxbo
 𬜑	qxlo
 𬷼	qyar
 𬶲	qyld
@@ -79167,7 +79167,7 @@ columns:
 𫥂	swve
 𬞵	swvn
 𬜠	swvo
-𬜧	sxeo
+𬜧	sxbo
 𬝋	sxkv
 𫥳	sxmd
 𫥃	sxqp
@@ -82124,7 +82124,7 @@ columns:
 𭜹	fwty
 𭫽	fwwf
 𭬘	fwwu
-𭩰	fxeo
+𭩰	fxbo
 𮥴	fxkh
 𮓾	fxkv
 𭤧	fxli
@@ -84113,7 +84113,7 @@ columns:
 𭈘	lwwt
 𭈒	lwwv
 𭋑	lwxx
-𭇜	lxeo
+𭇜	lxbo
 𬺾	lxfi
 𭈨	lxrr
 𭀾	lxru
@@ -91162,7 +91162,7 @@ columns:
 𱈅	qwxe
 𰪐	qwxl
 𱃚	qwxx
-𱇣	qxeo
+𱇣	qxbo
 𱇍	qxiy
 𱇿	qxtt
 𰻣	qxxc
@@ -91968,7 +91968,7 @@ columns:
 𰾞	twxe
 𰓪	txav
 𰔑	txax
-𰠝	txeo
+𰠝	txbo
 𰆏	txjk
 𰽖	txl
 𱆲	txuv
@@ -92603,8 +92603,8 @@ columns:
 𰸻	wwvg
 𰮢	wwxt
 𰐤	wwxv
+𰼦	wxbo
 𰅱	wxdh
-𰼦	wxeo
 𰠷	wxkh
 𰮎	wxkt
 𰆎	wxod
@@ -92722,9 +92722,9 @@ columns:
 𱅡	xwum
 𱊱	xwya
 𰭼	xxav
+𰭡	xxbo
 𱂢	xxdk
 𱅩	xxeb
-𰭡	xxeo
 𰆋	xxjj
 𱄿	xxmm
 𰥜	xxmu
@@ -95160,7 +95160,7 @@ columns:
 𱺹	mwmd
 𱳀	mwwo
 𲍸	mwya
-𲌍	mxeo
+𲌍	mxbo
 𲂚	mxfl
 𲌏	mxkh
 𱿎	mxlh
@@ -100376,3 +100376,7 @@ columns:
 キ	avj
 リ	uhf
 Γ	xif
+发	xeod
+废	uxeo
+拨	axeo
+泼	ixeo

@@ -668,10 +668,10 @@ columns:
 服	wx
 脆	wy
 寻	xa
-骚	xb
+发	xb
 驰	xc
 骠	xd
-发	xe
+收	xe
 卫	xf
 骑	xg
 奘	xh
@@ -1291,10 +1291,10 @@ columns:
 服务	wx
 脆弱	wy
 寻找	xa
-骚动	xb
+发生	xb
 驰骋	xc
 办不到	xd
-发生	xe
+收拾	xe
 卫生	xf
 骑车	xg
 以至于	xh
@@ -1818,7 +1818,7 @@ columns:
 凶狠	wx
 牛角尖	wy
 建议	xa
-骚扰	xb
+发现	xb
 收到	xe
 驱逐	xg
 骗子	xi
@@ -2188,7 +2188,7 @@ columns:
 报	axb
 邨	axc
 顿	axd
-拨	axe
+摺	axe
 撏	axf
 拟	axo
 迍	axp
@@ -3848,7 +3848,7 @@ columns:
 酗	gwx
 鸥	gwy
 鞬	gxa
-酦	gxe
+酦	gxb
 軋	gxi
 醁	gxk
 夯	gxl
@@ -4438,7 +4438,7 @@ columns:
 淘	iww
 汹	iwx
 浔	ixa
-泼	ixe
+泼	ixb
 滍	ixf
 澅	ixh
 瀷	ixj
@@ -6114,6 +6114,7 @@ columns:
 魔	pwu
 窮	pwv
 糉	pwx
+袯	pxb
 断	pxe
 疖	pxj
 離	pxk
@@ -7375,7 +7376,8 @@ columns:
 铢	twt
 爷	twx
 键	txa
-䥽	txe
+䥽	txb
+鰼	txe
 鱘	txf
 卬	txj
 镠	txt
@@ -7698,7 +7700,8 @@ columns:
 謠	uww
 謅	uwx
 𬊈	uxa
-废	uxe
+废	uxb
+熠	uxe
 燼	uxf
 羌	uxi
 康	uxk
@@ -8260,6 +8263,7 @@ columns:
 建	xax
 驿	xba
 骙	xbf
+骚	xbo
 𫘝	xbt
 驭	xbu
 骣	xbv
@@ -8271,7 +8275,6 @@ columns:
 驸	xea
 習	xeb
 翫	xef
-收	xeh
 斨	xej
 骆	xel
 骅	xer

@@ -3782,7 +3782,7 @@ columns:
 酗	gwx
 鸥	gwy
 鞬	gxa
-酦	gxe
+酦	gxb
 軋	gxi
 醁	gxk
 勒	gxl
@@ -4370,7 +4370,7 @@ columns:
 淘	iww
 汹	iwx
 津	ixa
-泼	ixe
+泼	ixb
 滍	ixf
 澅	ixh
 瀷	ixj
@@ -6053,6 +6053,7 @@ columns:
 魔	pwu
 窮	pwv
 糉	pwx
+袯	pxb
 褶	pxe
 疖	pxj
 离	pxk
@@ -7315,7 +7316,8 @@ columns:
 铢	twt
 爷	twx
 键	txa
-䥽	txe
+䥽	txb
+鰼	txe
 鱘	txf
 卬	txj
 镠	txt
@@ -7643,6 +7645,7 @@ columns:
 謠	uww
 謅	uwx
 𬊈	uxa
+废	uxb
 熠	uxe
 燼	uxf
 羌	uxi
@@ -8204,6 +8207,7 @@ columns:
 彟	xas
 驿	xba
 骙	xbf
+发	xbo
 𫘝	xbt
 驭	xbu
 骣	xbv
@@ -8217,7 +8221,6 @@ columns:
 翫	xef
 斨	xej
 骆	xel
-发	xeo
 骅	xer
 骄	xet
 𫘬	xev
