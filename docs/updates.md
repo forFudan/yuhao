@@ -1,8 +1,8 @@
-<!-- ---
+---
 title: 更新日志
 layout: default
-nav_order: 98
---- -->
+nav_order: 95
+---
 
 <!-- omit in toc -->
 # 宇浩输入法更新日志

@@ -1,7 +1,7 @@
 ---
 title: 拆分校正历史
 layout: default
-nav_order: 99
+nav_order: 94
 ---
 
 <!-- omit in toc -->
