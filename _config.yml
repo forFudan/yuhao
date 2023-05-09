@@ -19,14 +19,13 @@ nav_external_links:
     url: https://apps.apple.com/us/app/%E4%BB%93%E8%BE%93%E5%85%A5%E6%B3%95/id6446617683
     hide_icon: false # set to true to hide the external link icon - defaults to false
 
-# markdown: kramdown
+markdown: kramdown
 
-kramdown:
-  syntax_highlighter_opts:
-    block:
-      line_numbers: false
+# kramdown:
+#   syntax_highlighter_opts:
+#     block:
+#       line_numbers: false
 
-callouts_level: quiet # or loud
 callouts:
   highlight:
     color: yellow
