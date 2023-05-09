@@ -36,7 +36,9 @@ import_tables:
   - yuhao.words
   - yuhao_tradition.words
   #  - yuhao.words_extended
+  #  - yuhao.words_literature
   #  - yuhao_tradition.words_extended
+  #  - yuhao_tradition.words_literature
   - yuhao.symbols
   - yuhao.extended
 columns:

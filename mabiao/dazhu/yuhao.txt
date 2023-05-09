@@ -1929,7 +1929,6 @@ afkm	𪮁
 afks	𭡌
 afkt	抦
 afkt	𪭵
-afkv	𢮨
 afky	聽天由命
 afl	搹
 afle	摗
@@ -2096,6 +2095,7 @@ agby	拒絶
 agby	𢥍
 agc	捙
 agc	𢮛
+agc	𢮨
 agd	聽
 agd	𢪂
 agdb	撩起
@@ -10581,7 +10581,6 @@ bfkt	𡱆
 bfkt	𢒚
 bfku	𦅎
 bfkv	𤿴
-bfkv	𦁆
 bfkv	𦇼
 bfl	凳
 bfla	㽅
@@ -10855,6 +10854,7 @@ bgby	𢥩
 bgc	𰍹
 bgco	戏院
 bgcs	𦀺
+bgcs	𦁆
 bgda	尾大不掉
 bgdd	𫥰
 bgdh	戏票
@@ -13318,7 +13318,8 @@ bruv	縱火
 bruv	䋺
 bruv	𰞫
 brux	尼康
-brv	綉
+brv	屘
+brva	綉
 brve	𡲲
 brvi	𥿎
 brvj	𠝽
@@ -16612,7 +16613,6 @@ cfkt	陃
 cfkt	𡛦
 cfkt	𥍲
 cfku	𨻯
-cfkv	𡞍
 cfkx	陋
 cfl	嫩
 cfla	𡢓
@@ -16782,6 +16782,7 @@ cgbu	𨸽
 cgbv	陣發
 cgc	陣
 cgc	𡝀
+cgc	𡞍
 cgca	阳奉阴违
 cgcc	陽奉陰違
 cgcd	姨媽
@@ -24050,8 +24051,8 @@ dhsi	飘落
 dhsi	硅藻
 dhsi	飄蕩
 dhsi	飄落
-dhsk	十萬
 dhsk	不遠萬里
+dhsk	十萬
 dhsk	𫎲
 dhso	𥔫
 dhsr	欺世盗名
@@ -32528,8 +32529,8 @@ edod	𠆱
 edod	𪝬
 edoe	做客
 edof	例证
-edof	做完
 edof	化零为整
+edof	做完
 edof	化零為整
 edog	做主
 edog	𰂣
@@ -41596,7 +41597,6 @@ ffkl	枯枝败叶
 ffkm	𣜇
 ffko	梂
 ffkp	㪔
-ffkp	𣚢
 ffks	梦里
 ffkt	𰮫
 ffkv	相形见绌
@@ -42298,6 +42298,7 @@ fgpo	一面之词
 fgpo	一面之交
 fgpo	槤
 fgpo	迗
+fgpo	𣚢
 fgpu	一面之詞
 fgpv	一面之缘
 fgpw	天文
@@ -44290,16 +44291,11 @@ fkuw	救亡
 fkv	𣑺
 fkv	𧉓
 fkve	蠒
-fkve	𭤈
 fkvf	枣红
-fkvf	𣓧
 fkvh	𡿰
 fkvh	𡿴
 fkvk	枣子
 fkvk	棗子
-fkvl	𠵤
-fkvm	𧈌
-fkvn	𤴛
 fkvo	𧈫
 fkvo	𧈬
 fkvp	裘皮
@@ -44308,7 +44304,6 @@ fkvr	刺绣
 fkvu	两弹
 fkvu	救災
 fkvv	丙级
-fkvv	叀
 fkvx	𣠸
 fkw	㭎
 fkwf	刺杀
@@ -50005,6 +50000,7 @@ gaee	專任
 gaef	奇兵
 gaeg	奇侠
 gaeg	奇俠
+gaeh	𭤈
 gaei	夺位
 gaej	䩢
 gaej	𪻢
@@ -50583,6 +50579,7 @@ gcf	車
 gcfc	𨛩
 gcfd	靶標
 gcff	車本
+gcff	叀
 gcff	⾞
 gcff	車
 gcfh	靶标
@@ -50624,6 +50621,7 @@ gcim	車站
 gcio	車流
 gcio	車房
 gcir	輕如鴻毛
+gcj	叀
 gcj	⾞
 gcj	車
 gcjo	車影
@@ -52113,6 +52111,7 @@ gfv	輕
 gfv	𬍓
 gfva	𨏄
 gfvb	輕盈
+gfvc	𣓧
 gfvd	㚓
 gfve	𢼪
 gfvf	琴棋书画
@@ -53897,6 +53896,7 @@ gluq	或許
 glut	匪首
 glv	叵
 glvc	軎
+glvc	𠵤
 glvd	夻
 glvg	戓
 glvp	𰅬
@@ -54257,6 +54257,7 @@ gngi	面對面
 gngi	珠圓玉潤
 gngo	醞釀
 gngy	𤨒
+gnhc	𤴛
 gnhd	𡗱
 gnhv	鞺
 gnhv	𤨠
@@ -55180,6 +55181,7 @@ gqlt	𬀥
 gqlv	㔯
 gqlv	𣄮
 gqm	酢
+gqmh	𧈌
 gqmn	𫋫
 gqmn	𬐶
 gqmo	䩆
@@ -67549,7 +67551,6 @@ ifks	添上
 ifks	新曲
 ifkt	𢨿
 ifkt	𬇞
-ifkv	𣶣
 ifkv	𱩲
 ifkx	浅见
 ifkx	𲁗
@@ -67966,6 +67967,7 @@ igbu	𥩰
 igbu	𪊤
 igbu	𪭘
 igc	𣵐
+igc	𣶣
 igcf	淺陋
 igcl	𪋀
 igcu	游擊隊
@@ -84082,10 +84084,10 @@ kldk	𧔅
 kldq	問其
 kldu	閉口不言
 klen	問候
+klf	蜈
 klf	鹵
 klf	⿄
 klff	⿄
-klfg	蜈
 klfh	蜗杆
 klfi	𪉙
 klfk	肉中刺
@@ -88930,6 +88932,7 @@ lfld	𡁑
 lfle	嗽
 lfle	𠻳
 lfle	𢿙
+lflf	槑
 lflj	𠸢
 lflk	𪢐
 lflm	𡃤
@@ -90193,7 +90196,6 @@ llfe	𠹣
 llfe	𣀌
 llff	嚴禁
 llff	單槓
-llff	槑
 llff	𱕶
 llfg	器械
 llfg	𠱐
@@ -117059,7 +117061,7 @@ pnft	门栓
 pnfv	裍
 pnfv	𭼐
 pnfv	𲎔
-png	裀
+png	糰
 pnga	糰
 pngd	裀
 pngd	𤶑
@@ -121684,7 +121686,6 @@ qfkt	剁肉
 qfkt	氞
 qfkt	䇤
 qfkt	𫚎
-qfkv	𥮔
 qfkx	短见
 qfl	簌
 qfla	𥐆
@@ -121978,6 +121979,7 @@ qgbm	𭑐
 qgbr	𩰤
 qgbu	𥬙
 qgbw	失約
+qgc	𥮔
 qgc	𫁿
 qgcb	動怒
 qgcg	矩陣
@@ -180284,6 +180286,7 @@ wyot	𮍀
 wyou	𱫚
 wyox	㔟
 wyp	鎚
+wypo	鎚
 wypo	膇
 wyq	鉍
 wyqh	𫒢
@@ -180537,7 +180540,6 @@ xbav	发扬
 xbax	发报
 xbay	发挥
 xbay	发热
-xbbf	𡲡
 xbbf	𤖒
 xbbh	𫵰
 xbbm	𢂟
@@ -180548,6 +180550,7 @@ xbbu	𤕱
 xbbu	𰠏
 xbbu	𮸳
 xbbw	发难
+xbbx	𡲡
 xbcb	发怒
 xbch	发际
 xbda	𠚨
@@ -181145,7 +181148,6 @@ xfks	卫冕
 xfks	牀上
 xfks	𤠷
 xfkt	𦝍
-xfkv	𦑐
 xfkv	蚩
 xfkx	𦘝
 xfl	尋
@@ -181278,6 +181280,7 @@ xgbk	以太網
 xgbu	𱅃
 xgck	𢀺
 xgct	驱除
+xgcu	𦑐
 xgcu	𫅨
 xgd	驮
 xgd	㚑

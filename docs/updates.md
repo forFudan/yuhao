@@ -11,6 +11,17 @@ nav_order: 95
 
 [拆分校正历史请点击此处。](./corrections)
 
+## 2023年5月9日
+
+词库码表结构优化，分为核心词库、增广词库、成语诗词词库三部分，各自分繁简。核心词库对应了宇浩一级词库，增广词库对应了宇浩二级词库中的非成语诗词。名称如下：
+
+- yuhao.words
+- yuhao.words_extended
+- yuhao.words_literature
+- yuhao_tradition.words
+- yuhao_tradition.words_extended
+- yuhao_tradition.words_literature
+
 ## 2023年5月5日
 
 词库码表结构优化，现将词库分为核心和增广词库，各自分为繁简。核心词库对应了宇浩一级词库，增广词库对应了宇浩二级词库。名称如下：

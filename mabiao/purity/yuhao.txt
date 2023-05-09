@@ -721,7 +721,6 @@
 𭡌	afks
 抦	afkt
 𪭵	afkt
-𢮨	afkv
 摗	afle
 𢳮	afle
 𢳯	afle
@@ -822,6 +821,7 @@
 𢥍	agby
 捙	agc
 𢮛	agc
+𢮨	agc
 𢪂	agd
 𱡄	agdj
 𢶄	agdm
@@ -4147,7 +4147,6 @@
 𢒚	bfkt
 𦅎	bfku
 𤿴	bfkv
-𦁆	bfkv
 𦇼	bfkv
 㽅	bfla
 𧯫	bfla
@@ -4270,6 +4269,7 @@
 𢥩	bgby
 𰍹	bgc
 𦀺	bgcs
+𦁆	bgcs
 𫥰	bgdd
 𰫵	bgdj
 𰤌	bgdu
@@ -7071,7 +7071,6 @@
 𡛦	cfkt
 𥍲	cfkt
 𨻯	cfku
-𡞍	cfkv
 陋	cfkx
 陋	cfkx
 𡢓	cfla
@@ -7166,6 +7165,7 @@
 姖	cgbu
 𨸽	cgbu
 𡝀	cgc
+𡞍	cgc
 陣	cgcf
 𡝈	cgcv
 𡚻	cgd
@@ -19490,7 +19490,6 @@
 𣜇	ffkm
 梂	ffko
 㪔	ffkp
-𣚢	ffkp
 柄	ffkt
 𰮫	ffkt
 𱿨	ffkv
@@ -19796,6 +19795,7 @@
 𮤮	fgpn
 槤	fgpo
 迗	fgpo
+𣚢	fgpo
 𫯸	fgpy
 橬	fgqj
 𣠟	fgqn
@@ -20583,17 +20583,11 @@
 𣑺	fkv
 𧉓	fkv
 蠒	fkve
-𭤈	fkve
-𣓧	fkvf
 𡿰	fkvh
 𡿴	fkvh
-𠵤	fkvl
-𧈌	fkvm
-𤴛	fkvn
 𧈫	fkvo
 𧈬	fkvo
 𭽻	fkvp
-叀	fkvv
 𣠸	fkvx
 㭎	fkwa
 橌	fkwv
@@ -23287,6 +23281,7 @@
 𬪅	gacf
 𩈃	gaci
 酎	gaco
+𭤈	gaeh
 䩢	gaej
 𪻢	gaej
 𫯣	gafa
@@ -23589,6 +23584,7 @@
 𨏱	gcey
 車	gcf
 𨛩	gcfc
+叀	gcff
 ⾞	gcff
 車	gcff
 𨜧	gcfi
@@ -23604,6 +23600,7 @@
 瑋	gci
 𩋾	gcie
 𠥎	gcif
+叀	gcj
 ⾞	gcj
 車	gcj
 璚	gckl
@@ -24303,6 +24300,7 @@
 𱄌	gfut
 𬍓	gfv
 𨏄	gfva
+𣓧	gfvc
 㚓	gfvd
 𢼪	gfve
 輕	gfvf
@@ -25353,6 +25351,7 @@
 䤏	gltu
 𠤾	gltv
 軎	glvc
+𠵤	glvc
 夻	glvd
 叵	glvf
 戓	glvg
@@ -25576,6 +25575,7 @@
 𫑵	gngd
 𪼓	gngf
 𤨒	gngy
+𤴛	gnhc
 𡗱	gnhd
 鞺	gnhv
 𤨠	gnhv
@@ -26154,6 +26154,7 @@
 𬀥	gqlt
 㔯	gqlv
 𣄮	gqlv
+𧈌	gqmh
 𫋫	gqmn
 𬐶	gqmn
 酢	gqmo
@@ -33288,7 +33289,6 @@
 𥪆	ifko
 𢨿	ifkt
 𬇞	ifkt
-𣶣	ifkv
 𱩲	ifkv
 𲁗	ifkx
 㴻	ifla
@@ -33465,6 +33465,7 @@
 𪊤	igbu
 𪭘	igbu
 𣵐	igc
+𣶣	igc
 𪋀	igcl
 𡝝	igcv
 𣳐	igcv
@@ -45063,6 +45064,7 @@
 嗽	lfle
 𠻳	lfle
 𢿙	lfle
+槑	lflf
 𠸢	lflj
 𪢐	lflk
 喇	lflm
@@ -45844,7 +45846,6 @@
 𨜝	llfc
 𠹣	llfe
 𣀌	llfe
-槑	llff
 𱕶	llff
 𠱐	llfg
 𠸈	llfh
@@ -62827,7 +62828,6 @@
 氞	qfkt
 䇤	qfkt
 𫚎	qfkt
-𥮔	qfkv
 𥐆	qfla
 簌	qfle
 𫂙	qfle
@@ -63002,6 +63002,7 @@
 𩰤	qgbr
 矩	qgbu
 𥬙	qgbu
+𥮔	qgc
 𫁿	qgc
 𰩬	qgd
 䉐	qgdg
@@ -95051,7 +95052,6 @@
 建	xaxn
 𫴭	xayn
 驿	xbav
-𡲡	xbbf
 𤖒	xbbf
 𫵰	xbbh
 𢂟	xbbm
@@ -95060,6 +95060,7 @@
 𤕱	xbbu
 𰠏	xbbu
 𮸳	xbbu
+𡲡	xbbx
 𠚨	xbda
 𲌉	xbdg
 骙	xbfg
@@ -95275,7 +95276,6 @@
 𤠷	xfks
 𦝍	xfkt
 蚩	xfkv
-𦑐	xfkv
 蚩	xfkv
 𦘝	xfkx
 尋	xfla
@@ -95360,6 +95360,7 @@
 骑	xgal
 𱅃	xgbu
 𢀺	xgck
+𦑐	xgcu
 𫅨	xgcu
 㚑	xgd
 𡗖	xgda

@@ -795,7 +795,6 @@ afko	捄
 afks	𭡌
 afkt	抦
 afkt	𪭵
-afkv	𢮨
 afl	搹
 afle	摗
 afle	𢳮
@@ -903,6 +902,7 @@ agbu	拒
 agby	𢥍
 agc	捙
 agc	𢮛
+agc	𢮨
 agd	聽
 agd	𢪂
 agdj	𱡄
@@ -4523,7 +4523,6 @@ bfkt	𡱆
 bfkt	𢒚
 bfku	𦅎
 bfkv	𤿴
-bfkv	𦁆
 bfkv	𦇼
 bfl	凳
 bfla	㽅
@@ -4658,6 +4657,7 @@ bgbu	𮝲
 bgby	𢥩
 bgc	𰍹
 bgcs	𦀺
+bgcs	𦁆
 bgdd	𫥰
 bgdj	𰫵
 bgdu	𰤌
@@ -5996,7 +5996,7 @@ bruo	𦂵
 brus	𰫗
 bruv	䋺
 bruv	𰞫
-brv	綉
+brv	屘
 brva	綉
 brve	𡲲
 brvi	𥿎
@@ -7700,7 +7700,6 @@ cfkt	陃
 cfkt	𡛦
 cfkt	𥍲
 cfku	𨻯
-cfkv	𡞍
 cfkx	陋
 cfkx	陋
 cfl	嫩
@@ -7804,6 +7803,7 @@ cgbu	姖
 cgbu	𨸽
 cgc	陣
 cgc	𡝀
+cgc	𡞍
 cgcf	陣
 cgcv	𡝈
 cgd	𡚻
@@ -21026,7 +21026,6 @@ ffkk	𰘥
 ffkm	𣜇
 ffko	梂
 ffkp	㪔
-ffkp	𣚢
 ffkt	𰮫
 ffkt	柄
 ffkv	𱿨
@@ -21353,6 +21352,7 @@ fgp	槤
 fgpn	𮤮
 fgpo	槤
 fgpo	迗
+fgpo	𣚢
 fgpy	𫯸
 fgqj	橬
 fgqn	𣠟
@@ -22195,17 +22195,11 @@ fkuu	棢
 fkv	𣑺
 fkv	𧉓
 fkve	蠒
-fkve	𭤈
-fkvf	𣓧
 fkvh	𡿰
 fkvh	𡿴
-fkvl	𠵤
-fkvm	𧈌
-fkvn	𤴛
 fkvo	𧈫
 fkvo	𧈬
 fkvp	𭽻
-fkvv	叀
 fkvx	𣠸
 fkw	㭎
 fkwa	㭎
@@ -25091,6 +25085,7 @@ gacf	瑘
 gacf	𬪅
 gaci	𩈃
 gaco	酎
+gaeh	𭤈
 gaej	䩢
 gaej	𪻢
 gafa	𫯣
@@ -25413,6 +25408,7 @@ gcef	𨎸
 gcey	𨏱
 gcf	車
 gcfc	𨛩
+gcff	叀
 gcff	⾞
 gcff	車
 gcfi	𨜧
@@ -25428,6 +25424,7 @@ gchs	𰹢
 gci	瑋
 gcie	𩋾
 gcif	𠥎
+gcj	叀
 gcj	⾞
 gcj	車
 gck	璚
@@ -26171,6 +26168,7 @@ gfut	𱄌
 gfv	輕
 gfv	𬍓
 gfva	𨏄
+gfvc	𣓧
 gfvd	㚓
 gfve	𢼪
 gfvf	𨠸
@@ -27299,6 +27297,7 @@ gltu	䤏
 gltv	𠤾
 glv	叵
 glvc	軎
+glvc	𠵤
 glvd	夻
 glvf	叵
 glvg	戓
@@ -27538,6 +27537,7 @@ gngd	𨋳
 gngd	𫑵
 gngf	𪼓
 gngy	𤨒
+gnhc	𤴛
 gnhd	𡗱
 gnhv	鞺
 gnhv	𤨠
@@ -28152,6 +28152,7 @@ gqlt	𬀥
 gqlv	㔯
 gqlv	𣄮
 gqm	酢
+gqmh	𧈌
 gqmn	𫋫
 gqmn	𬐶
 gqmo	䩆
@@ -35736,7 +35737,6 @@ ifko	浗
 ifko	𥪆
 ifkt	𢨿
 ifkt	𬇞
-ifkv	𣶣
 ifkv	𱩲
 ifkx	𲁗
 ifl	漱
@@ -35925,6 +35925,7 @@ igbu	𥩰
 igbu	𪊤
 igbu	𪭘
 igc	𣵐
+igc	𣶣
 igcl	𪋀
 igcv	𡝝
 igcv	𣳐
@@ -45504,6 +45505,7 @@ kldc	螻
 klde	𮕍
 kldh	𪉞
 kldk	𧔅
+klf	蜈
 klf	鹵
 klf	⿄
 klff	⿄
@@ -48389,6 +48391,7 @@ lfld	𡁑
 lfle	嗽
 lfle	𠻳
 lfle	𢿙
+lflf	槑
 lflj	𠸢
 lflk	𪢐
 lflm	𡃤
@@ -49240,7 +49243,6 @@ llfc	𨜝
 llfc	鄂
 llfe	𠹣
 llfe	𣀌
-llff	槑
 llff	𱕶
 llfg	𠱐
 llfh	𠸈
@@ -64460,7 +64462,7 @@ pnfv	裍
 pnfv	𭼐
 pnfv	𲎔
 pnfv	阃
-png	裀
+png	糰
 pnga	糰
 pngd	裀
 pngd	𤶑
@@ -67463,7 +67465,6 @@ qfkr	𥰑
 qfkt	氞
 qfkt	䇤
 qfkt	𫚎
-qfkv	𥮔
 qfl	簌
 qfla	𥐆
 qfle	𫂙
@@ -67651,6 +67652,7 @@ qgbm	𭑐
 qgbr	𩰤
 qgbu	𥬙
 qgbu	矩
+qgc	𥮔
 qgc	𫁿
 qgd	𰩬
 qgdg	䉐
@@ -101764,8 +101766,8 @@ wyot	𮍀
 wyou	𱫚
 wyox	㔟
 wyp	鎚
-wypo	膇
 wypo	鎚
+wypo	膇
 wyq	鉍
 wyqh	𫒢
 wyqj	䤟
@@ -101908,7 +101910,6 @@ xayn	𫴭
 xb	发
 xba	驿
 xbav	驿
-xbbf	𡲡
 xbbf	𤖒
 xbbh	𫵰
 xbbm	𢂟
@@ -101917,6 +101918,7 @@ xbbn	𰎈
 xbbu	𤕱
 xbbu	𰠏
 xbbu	𮸳
+xbbx	𡲡
 xbda	𠚨
 xbdg	𲌉
 xbf	骙
@@ -102154,7 +102156,6 @@ xfko	𤕾
 xfkp	𨖀
 xfks	𤠷
 xfkt	𦝍
-xfkv	𦑐
 xfkv	蚩
 xfkv	蚩
 xfkx	𦘝
@@ -102245,6 +102246,7 @@ xg	骑
 xgal	骑
 xgbu	𱅃
 xgck	𢀺
+xgcu	𦑐
 xgcu	𫅨
 xgd	驮
 xgd	㚑
