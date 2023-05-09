@@ -1,11 +1,11 @@
 ---
-title: 拆分校正历史
+title: 单字拆分校正历史
 layout: default
-nav_order: 94
+parent: 输入法更新日志
 ---
 
 <!-- omit in toc -->
-# 宇浩输入法拆分校正历史
+# 输入法单字拆分校正历史
 
 ## 2023年5月9日
 

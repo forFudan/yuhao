@@ -1,14 +1,14 @@
 ---
-title: 更新日志
+title: 输入法更新日志
 layout: default
 nav_order: 95
+has_children: true
 ---
 
 <!-- omit in toc -->
 # 宇浩输入法更新日志
 
-梦泽闲客 著
-
+{: .highlight }
 [拆分校正历史请点击此处。](./corrections)
 
 ## 2023年5月9日
