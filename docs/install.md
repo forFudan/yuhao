@@ -72,12 +72,14 @@ nav_order: 2
 
 方案文件介绍：
 
-- yuhao.schema.yaml 给熟手的方案，默认关闭拆分提示、常用字优先。
-- yuhao_tradition.schema.yaml 传统汉字方案，默认关闭拆分提示、常用字优先。
+- yuhao.schema.yaml 简化汉字优先方案。
+- yuhao_tradition.schema.yaml 传统汉字大陆字形优先方案。
+- yuhao_tradition.schema.yaml 传统汉字台湾字形优先方案。
 - yuhao.dict.yaml 简化字优先主码表。
 - yuhao_tradition.dict.yaml 传统汉字优先主码表。
 - yuhao.quick.dict.yaml 简化字简码码表。
 - yuhao_tradition.quick.dict.yaml 传统汉字简码码表。
+- yuhao_tradition_tw.quick.dict.yaml 传统汉字台湾字形简码码表。
 - yuhao.full.dict.yaml 单字全码码表。
 - yuhao.words 宇浩核心简体词库。约50000个词语，频率较高。
 - yuhao.words_extended 宇浩增广简体词库。约30000个词语，频率较低，除非有特殊需求，否则不建议开启。
