@@ -30,14 +30,14 @@ callouts:
   highlight:
     color: yellow
   important:
-    title: Important
+    title: 重要
     color: blue
   example:
-    title: Example
+    title: 举例
     color: green
   note:
-    title: Note
+    title: 备注
     color: purple
   warning:
-    title: Warning
+    title: 提醒
     color: red
