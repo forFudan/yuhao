@@ -74,7 +74,7 @@ nav_order: 2
 
 - yuhao.schema.yaml 简化汉字优先方案。
 - yuhao_tradition.schema.yaml 传统汉字大陆字形优先方案。
-- yuhao_tradition.schema.yaml 传统汉字台湾字形优先方案。
+- yuhao_tradition_tw.schema.yaml 传统汉字台湾字形优先方案。
 - yuhao.dict.yaml 简化字优先主码表。
 - yuhao_tradition.dict.yaml 传统汉字优先主码表。
 - yuhao.quick.dict.yaml 简化字简码码表。
