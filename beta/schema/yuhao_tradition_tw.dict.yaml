@@ -1,0 +1,60 @@
+# encoding: utf-8
+#
+# 宇浩·書同文
+# 版本: 20230512
+#
+# 發明人 朱宇浩
+# Rime方案 forFudan <https://zhuyuhao.com/yuhao>
+# 官方QQ群 735728797
+#
+# 介紹：
+# - 這是爲港臺用户定製的方案。
+# - 單字排序，繁體字字頻爲主，以簡化字字頻爲輔。
+# - 設置大陸古籍繁體、臺灣繁體、香港繁體字形詞庫。
+#
+# 碼表排列:
+# - 一二三級簡碼
+# - 單字全碼
+# - 臺灣、香港、大陸古籍繁體字形兼容補充
+# - 易錯拆分容錯碼
+# - 傳統字核心詞庫
+# - 简化字核心词库
+# - 特殊符號
+# - 用户自定義詞庫
+#
+# 可選導入:
+# - 傳統字增廣詞庫（次常用詞語、成語、詩詞）
+# - 简化字增广词库（次常用词语、成语、诗词）
+
+---
+name: "yuhao_tradition_tw"
+version: "20230512"
+sort: original
+import_tables:
+  # 去除下方的 # 符号以导入词库
+  - yuhao_tradition_tw.quick
+  - yuhao_tradition.full
+  - yuhao_tradition.words
+  - yuhao.words
+  - yuhao_tradition.words_extended
+  #  - yuhao_tradition.words_literature
+  #  - yuhao.words_extended
+  #  - yuhao.words_literature
+  - yuhao.symbols
+  - yuhao.extended
+columns:
+  - text
+  - code
+encoder:
+  exclude_patterns:
+    - "^[a-z]$" # 一简
+    - "[^a-z]"
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 20]
+      formula: "AaBaCaZa"
+...
+
