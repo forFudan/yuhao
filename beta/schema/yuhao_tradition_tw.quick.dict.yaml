@@ -402,7 +402,7 @@ columns:
 骨	mg
 賭	mh
 且	mi
-桌	mj
+巾	mj
 體	mk
 罪	ml
 則	mm
@@ -1005,7 +1005,6 @@ columns:
 瞭解	mg
 賭博	mh
 且看	mi
-桌面	mj
 體系	mk
 ：	mm
 瞎說	mo
@@ -3066,14 +3065,13 @@ columns:
 歋	eme
 儇	emf
 虒	emh
-倬	emj
+帛	emj
 侦	emk
 佔	eml
 偵	emm
 仆	emo
 遞	emp
 俱	emt
-帛	emv
 俏	emw
 覓	emx
 䴘	emy
@@ -3424,7 +3422,6 @@ columns:
 椤	fmr
 椇	fmt
 相	fmu
-巿	fmv
 梢	fmw
 档	fmx
 想	fmy
@@ -3755,12 +3752,11 @@ columns:
 環	gmf
 琥	gmh
 珇	gmi
-轤	gmj
+匝	gmj
 琐	gmk
 玷	gml
 瑣	gmm
 璨	gmr
-匝	gmv
 鞘	gmw
 規	gmx
 璿	gmy
@@ -5270,7 +5266,7 @@ columns:
 噮	lmf
 唬	lmh
 咀	lmi
-嚧	lmj
+吊	lmj
 唢	lmk
 呫	lml
 嚶	lmm
@@ -5278,7 +5274,6 @@ columns:
 卟	lmo
 吵	lmq
 啰	lmr
-吊	lmv
 哨	lmw
 勛	lmx
 噦	lnd
@@ -5500,7 +5495,7 @@ columns:
 賠	mil
 齴	miq
 矓	miw
-髁	mjf
+桌	mjf
 睅	mjh
 盧	mjm
 卓	mjo
@@ -5643,6 +5638,7 @@ columns:
 齦	mvn
 帔	mvp
 睃	mvt
+县	mvv
 罷	mvw
 眑	mvx
 悬	mvy
@@ -5776,11 +5772,10 @@ columns:
 頻	nmd
 圜	nmf
 跙	nmi
-踔	nmj
+常	nmj
 跕	nml
 躩	nmm
 圐	nmo
-常	nmv
 躅	nmw
 蹚	nnh
 趾	nni
@@ -6251,6 +6246,7 @@ columns:
 刘	pmd
 糬	pmh
 粗	pmi
+帘	pmj
 瘝	pmk
 粘	pml
 补	pmo
@@ -6544,7 +6540,7 @@ columns:
 篾	qmd
 纂	qmg
 睾	qmh
-艫	qmj
+币	qmj
 鳏	qmk
 鲇	qml
 篎	qmm
@@ -6554,7 +6550,7 @@ columns:
 箩	qmr
 衊	qms
 衅	qmu
-币	qmv
+矲	qmv
 艄	qmw
 卹	qmx
 怎	qmy
@@ -6845,12 +6841,12 @@ columns:
 猾	rmg
 猇	rmh
 租	rmi
+帠	rmj
 毡	rml
 盉	rmn
 秒	rmq
 猡	rmr
 颶	rmt
-帠	rmv
 獨	rmw
 猧	rna
 叟	rnb
@@ -7220,7 +7216,7 @@ columns:
 蓇	smg
 薯	smh
 苴	smi
-蘆	smj
+布	smj
 苫	sml
 萜	smm
 卧	smo
@@ -7228,7 +7224,7 @@ columns:
 萝	smr
 蘮	sms
 苜	smu
-布	smv
+藣	smv
 萷	smw
 莧	smx
 甍	smy
@@ -7917,7 +7913,6 @@ columns:
 燦	umr
 幣	umt
 盲	umu
-帅	umv
 燭	umw
 視	umx
 禍	una
@@ -8911,7 +8906,7 @@ columns:
 玺	ymg
 恍	ymh
 怚	ymi
-悼	ymj
+帥	ymj
 蠫	ymk
 怗	yml
 懼	ymm
@@ -8919,7 +8914,6 @@ columns:
 愣	ymo
 迩	ymp
 惧	ymt
-帥	ymv
 悄	ymw
 鼏	ymx
 悭	ynb
