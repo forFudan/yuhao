@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://zhuyuhao.com/yuhao/
 
 aux_links:
-  官方QQ群: https://jq.qq.com/?_wv=1027&k=2OYDP4Tk
+  点击加入官方QQ群: https://jq.qq.com/?_wv=1027&k=2OYDP4Tk
 
 # External navigation links
 nav_external_links:
@@ -33,7 +33,7 @@ callouts:
     title: 重要
     color: blue
   example:
-    title: 举例
+    # title: 举例
     color: green
   note:
     title: 备注
