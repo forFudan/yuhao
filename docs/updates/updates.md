@@ -1,7 +1,7 @@
 ---
-title: 输入法更新日志
+title: 方案更新日志
 layout: default
-nav_order: 95
+nav_order: 81
 has_children: true
 ---
 

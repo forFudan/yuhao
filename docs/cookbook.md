@@ -1,5 +1,5 @@
 ---
-title: 十分钟快速入门指南
+title: 快速入门指南
 layout: default
 nav_order: 11
 ---

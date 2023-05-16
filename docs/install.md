@@ -1,5 +1,5 @@
 ---
-title: 各平台下载和安装
+title: 方案下载安装
 layout: default
 nav_order: 2
 ---

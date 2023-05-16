@@ -1,7 +1,7 @@
 ---
 title: 单字拆分校正历史
 layout: default
-parent: 输入法更新日志
+parent: 方案更新日志
 ---
 
 <!-- omit in toc -->

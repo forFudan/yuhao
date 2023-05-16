@@ -1,5 +1,5 @@
 ---
-title: 字根和常用字练习
+title: 字根在线练习
 layout: default
 nav_order: 21
 ---
