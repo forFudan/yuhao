@@ -1,5 +1,5 @@
 ---
-title: 发烧友测试区
+title: 发烧测试
 layout: default
 nav_order: 82
 ---

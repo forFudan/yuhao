@@ -1,5 +1,5 @@
 ---
-title: 方案更新日志
+title: 更新日志
 layout: default
 nav_order: 81
 has_children: true

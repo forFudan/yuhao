@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 相关研究文章
+title: 研究文章
 nav_order: 51
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
 title: 宇浩輸入法設計哲學
 layout: default
-parent: 相关研究文章
+parent: 研究文章
 ---
 
 <!-- omit in toc -->

@@ -1,7 +1,7 @@
 ---
 title: 常见输入法重码对比
 layout: default
-parent: 相关研究文章
+parent: 研究文章
 ---
 
 <!-- omit in toc -->

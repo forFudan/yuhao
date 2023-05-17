@@ -1,5 +1,5 @@
 ---
-title: 字根在线练习
+title: 在线练习
 layout: default
 nav_order: 21
 ---

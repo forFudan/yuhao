@@ -1,7 +1,7 @@
 ---
 title: 關於《古籍印刷通規》
 layout: default
-parent: 相关研究文章
+parent: 研究文章
 ---
 
 <!-- omit in toc -->
