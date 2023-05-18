@@ -34,6 +34,7 @@ import_tables:
   # 去除下方的 # 符号以导入词库
   - yuhao_tradition_tw.quick
   - yuhao_tradition.full
+  - yuhao.private
   - yuhao_tradition.words
   - yuhao.words
   - yuhao_tradition.words_extended

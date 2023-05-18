@@ -33,6 +33,7 @@ import_tables:
   # 去除下方的 # 符号以导入词库
   - yuhao.quick
   - yuhao.full
+  - yuhao.private
   - yuhao.words
   - yuhao_tradition.words
   - yuhao.words_extended

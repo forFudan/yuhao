@@ -33,17 +33,13 @@ switches:
     reset: 1
     states: [原始排序, 全碼後置]
     # Control+Shift+H
-  - name: chaifen
-    states: ["无拆分", "有拆分"]
-    reset: 0
-    # Control+Shift+C
   - options:
       - yuhao_chaifen.off
       - yuhao_chaifen.lv1
       - yuhao_chaifen.lv2
       - yuhao_chaifen.lv3
     states: [〇注解, 一重注解, 二重注解, 三重注解]
-    reset: 3
+    reset: 1
   - name: simplification
     states: [繁保持, 繁转简]
     reset: 0
