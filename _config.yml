@@ -12,6 +12,9 @@ nav_external_links:
   - title: 在线拆分查询
     url: https://zhuyuhao.com/yuhao/chaifen
     hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: 拆分查询·测试版
+    url: https://zhuyuhao.com/yuhao/beta/chaifen
+    hide_icon: false # set to true to hide the external link icon - defaults to false
   # - title: 玫枫跟打器
   #   url: https://kylebing.cn/tools/typepad/
   #   hide_icon: false # set to true to hide the external link icon - defaults to false
