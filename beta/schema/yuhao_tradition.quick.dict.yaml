@@ -1449,6 +1449,7 @@ columns:
 揣	ajs
 揭	ajw
 搨	ajx
+揌	ajy
 擱	ake
 攔	akf
 撋	akg
@@ -2454,7 +2455,6 @@ columns:
 卖	dvs
 駿	dvt
 磯	dvv
-赵	dwa
 歿	dwb
 雹	dwc
 碑	dwd
@@ -3598,7 +3598,7 @@ columns:
 臻	hgr
 墐	hgs
 镽	hgu
-𫭟	hgw
+塽	hgw
 封	hha
 毂	hhc
 祙	hhe
@@ -3925,6 +3925,7 @@ columns:
 洟	igv
 沤	igw
 泧	igx
+潓	igy
 渐	ihe
 渫	ihf
 汗	ihg
@@ -4709,11 +4710,10 @@ columns:
 畅	kvt
 蛑	kvw
 蚴	kvx
-冈	kwa
 蜱	kwd
 蜩	kwh
 蜼	kwi
-蚼	kwl
+冈	kwl
 刚	kwm
 蛛	kwt
 螝	kwu
@@ -5542,6 +5542,7 @@ columns:
 案	ocf
 谲	ock
 袤	ocr
+乀	odd
 𫍯	odf
 诂	odg
 宕	odh
@@ -5731,12 +5732,12 @@ columns:
 率	ovs
 育	ovw
 牽	ovy
-义	owa
+谢	owa
 袌	owc
 调	owh
 谁	owi
 询	owj
-诰	owl
+义	owl
 牢	own
 宪	owq
 褢	owr
@@ -6302,14 +6303,13 @@ columns:
 氟	qvt
 么	qvv
 胤	qvw
-风	qwa
 鲍	qwc
 箄	qwd
 笙	qwg
 鲷	qwh
 雉	qwi
 筍	qwj
-笱	qwl
+风	qwl
 飓	qwm
 瓝	qwo
 筅	qwq
@@ -6779,7 +6779,7 @@ columns:
 莰	she
 葉	shf
 著	shj
-荎	shk
+厔	shk
 薹	shl
 藚	shm
 茉	sho
@@ -7025,7 +7025,6 @@ columns:
 茲	svv
 魂	svw
 动	svx
-艾	swa
 劐	swb
 郁	swc
 萆	swd
@@ -7036,7 +7035,7 @@ columns:
 准	swi
 荀	swj
 芊	swk
-驚	swl
+艾	swl
 薰	swn
 芍	swo
 菊	swp
@@ -7124,7 +7123,7 @@ columns:
 須	tdm
 魷	tdo
 鱁	tdp
-𫓹	tdq
+鯕	tdq
 钚	tdu
 牍	tdv
 鱈	tdx
@@ -7660,6 +7659,7 @@ columns:
 譜	uun
 炎	uuo
 烂	uus
+謚	uut
 焍	uuv
 譾	uuw
 謙	uux
@@ -7930,6 +7930,7 @@ columns:
 缒	vyp
 𬘘	vyq
 绉	vyx
+鑷	waa
 肘	wac
 鈣	waf
 鈳	wal
@@ -8079,7 +8080,6 @@ columns:
 脭	wlg
 腓	wli
 脶	wlk
-靠	wll
 肿	wln
 造	wlp
 够	wlr
@@ -8172,6 +8172,7 @@ columns:
 犐	wrs
 腴	wrt
 鍬	wru
+銹	wrv
 膍	wrw
 鎒	wsa
 鏗	wsb
@@ -8240,7 +8241,6 @@ columns:
 腦	wvr
 肠	wvt
 勾	wvv
-爻	wwa
 胞	wwc
 脾	wwd
 册	wwf
