@@ -8,8 +8,8 @@
 点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
 
 [官方网站](https://zhuyuhao.com/yuhao/) | [详细教程](https://zhuyuhao.com/yuhao/docs/learn) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
-[最常用50字根练习](https://zhuyuhao.com/yuhao/practice/practice_50) | [最常用100字根练习](https://zhuyuhao.com/yuhao/practice/practice_100)
-[最常用汉字输入练习](https://zhuyuhao.com/yuhao/practice/practice_characters) | [全部字根练习](https://zhuyuhao.com/yuhao/practice/practice)
+[最常用100字根练习](https://zhuyuhao.com/yuhao/practice/practice_100) | [全部字根练习](https://zhuyuhao.com/yuhao/practice/practice)
+[最常用汉字输入练习](https://zhuyuhao.com/yuhao/practice/practice_characters)
 
 「宇浩输入法」是一款字形输入法，由朱宇浩博士发明，具有以下特点：
 
@@ -21,7 +21,7 @@
 - 拆字规则优先级明确，兼顾「逻辑性」和「直观性」。保证一字一拆、无歧义。
 - 只使用25键，不使用Z键，手感好。中排、上排按键频率都超过40%。最高频的汉字一级简码位于最容易按的键上：`E的`、`F一`、`V了`、`I没`。
 - 设置简体、繁体两套词库。繁体字形涵盖大陆古籍、台湾、香港、OpenCC四套字形标准。繁体输入体验也极为优秀。
-- 线性的学习体验，[教程详尽。](https://zhuyuhao.com/yuhao/docs/learn)在简快码的加持下，只用记住50个字根，就能基本输入最常用的500个汉字，其他字根可以边打边学。
+- 线性的学习体验，[教程详尽。](https://zhuyuhao.com/yuhao/docs/learn)在简快码的加持下，只用记住100个字根，就能基本输入最常用的500个汉字，其他字根可以边打边学。
 
 [RIME 三大方案](https://github.com/forFudan/yuhao/releases)：
 
