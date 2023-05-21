@@ -604,7 +604,7 @@ columns:
 誤	ul
 店	um
 並	un
-火	uo
+讓	uo
 這	up
 許	uq
 話	ur
@@ -1181,7 +1181,7 @@ columns:
 曾經	uj
 誤會	ul
 並且	un
-火車	uo
+讓我	uo
 這裡	up
 許多	uq
 話説	ur
@@ -1191,7 +1191,7 @@ columns:
 詞語	uv
 謝謝	uw
 康熙	ux
-忘了	uy
+忘記	uy
 那裡	va
 盈利	vb
 迅速	vd
@@ -1624,8 +1624,9 @@ columns:
 报	axb
 邨	axc
 頓	axd
-屯	axe
+摺	axe
 撏	axf
+屯	axg
 扎	axi
 扐	axk
 拟	axo
@@ -2467,8 +2468,8 @@ columns:
 胡	dwy
 騝	dxa
 妻	dxc
-赳	dxe
-戡	dxg
+霫	dxe
+赳	dxg
 甚	dxi
 码	dxm
 斟	dxs
@@ -3170,7 +3171,8 @@ columns:
 万	fwy
 楗	fxa
 紮	fxb
-朻	fxe
+槢	fxe
+朻	fxg
 札	fxi
 棣	fxk
 枷	fxl
@@ -4709,8 +4711,8 @@ columns:
 网	kww
 蝬	kwx
 胄	kwy
-凼	kxe
 蟳	kxf
+凼	kxg
 虬	kxi
 蚂	kxm
 蟉	kxt
@@ -7532,7 +7534,7 @@ columns:
 訪	uog
 該	uoi
 詠	uok
-讓	uol
+諒	uol
 誼	uom
 羶	uon
 詫	uoq
@@ -7882,7 +7884,7 @@ columns:
 𫄨	vws
 绷	vww
 弢	vxb
-纠	vxe
+纠	vxg
 幼	vxk
 鴢	vxr
 缪	vxt
@@ -8225,7 +8227,7 @@ columns:
 朋	wwy
 鍵	wxa
 鵩	wxb
-凶	wxe
+凶	wxg
 甩	wxi
 肋	wxk
 鉯	wxo
@@ -8266,7 +8268,6 @@ columns:
 頨	xdm
 驸	xea
 習	xeb
-屮	xee
 翫	xef
 斨	xej
 骆	xel
@@ -8281,6 +8282,7 @@ columns:
 牀	xfv
 骑	xga
 驮	xgd
+屮	xgg
 翴	xgp
 翜	xgt
 驱	xgw
@@ -8363,7 +8365,7 @@ columns:
 驳	xww
 翪	xwx
 䢺	xxc
-艸	xxe
+艸	xxg
 祟	xxh
 𫘧	xxk
 粜	xxp
