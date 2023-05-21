@@ -180,6 +180,10 @@ local function xform(s)
       :gsub('}', '>')
       :gsub('_', ' ')
       :gsub(',', ' · ')
+      :gsub(' ·  ·  · ', ' · ')
+      :gsub(' ·  · ', ' · ')
+      :gsub('〔〕', '')
+      :gsub('〔 · ', "〔")
 end
 
 
