@@ -203,11 +203,14 @@ local function parse_spll(str)
   return radicals
 end
 
-
 local function parse_raw_tricomment(str)
   return str:gsub(',.*', ''):gsub('^%[', '')
 end
 
+-- YZ new
+local function parse_raw_code_comment(str)
+  return str:gsub('%[.-,(.-),.*%]', '[%1]'):gsub(',.*', ''):gsub('^%[', '')
+end
 
 local function spell_phrase(s, spll_rvdb)
   local chars = utf8chars(s)
@@ -226,7 +229,25 @@ local function spell_phrase(s, spll_rvdb)
   return table.concat(radicals)
 end
 
+-- YZ new
+local function code_phrase(s, spll_rvdb)
+  local chars = utf8chars(s)
+  local rule = spelling_rules[#chars]
+  if not rule then return end
+  local radicals = {}
+  for i, coord in ipairs(rule) do
+    local char_idx = coord[1] > 0 and coord[1] or #chars + 1 + coord[1]
+    local raw = spll_rvdb:lookup(chars[char_idx])
+    -- 若任一取码单字没有注解数据，则不对词组作注。
+    if raw == '' then return end
+    local char_radicals = parse_spll(parse_raw_code_comment(raw))
+    local code_idx = coord[2] > 0 and coord[2] or #char_radicals + 1 + coord[2]
+    radicals[i] = char_radicals[code_idx] or '◇'
+  end
+  return table.concat(radicals)
+end
 
+-- YZ modified
 local function get_tricomment(cand, env)
   local text = cand.text
   if utf8.len(text) == 1 then
@@ -244,7 +265,8 @@ local function get_tricomment(cand, env)
     if env.engine.context:get_option('yuhao_chaifen.lv1') then
       return ('〔%s〕'):format(spelling)
     end
-    local code = env.code_rvdb:lookup(text)
+    -- local code = env.code_rvdb:lookup(text)
+    local code = code_phrase(text, env.spll_rvdb)
     if code ~= '' then -- 按长度排列多个编码。
       local codes = {}
       for m in code:gmatch('%S+') do codes[#codes + 1] = m end
@@ -253,8 +275,7 @@ local function get_tricomment(cand, env)
     else -- 以括号类型区分非本词典之固有词
       return ('〈 %s 〉'):format(spelling)
       -- Todo: 如果要为此类词组添加编码注释，其中的单字存在一字多码的情况，需先
-      -- 通过比较来确定全码，再提取词组编码。注意特殊单字：八个八卦名，要排除其
-      -- 特殊符号编码 'dl?g'.
+      -- 通过比较来确定全码，再提取词组编码。
     end
   end
 end

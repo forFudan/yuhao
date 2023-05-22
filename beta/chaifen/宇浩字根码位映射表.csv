@@ -15,11 +15,9 @@ repr,font,zhu_code
 亍,亍,Ah
 來,來,Dl
 兀,兀,Hw
-兀,兀,Hw
 其,其,Dj
 匚,匚,Gf
 {畏下},,Gf
-匸,匸,Gf
 十,十,Di
 厂,厂,Sh
 古,古,Dg
@@ -40,11 +38,9 @@ repr,font,zhu_code
 戈,戈,Gg
 戊,戊,Dw
 扌,扌,Ao
-キ,ヰ,Ao
-キ,,Ao
 ヰ,ヰ,Ao
+キ,,Ao
 木,木,Fv
-朩,朩,Fv
 未,未,He
 末,末,Ho
 歹,歹,Dd
@@ -57,7 +53,6 @@ repr,font,zhu_code
 石,石,Dh
 丆,丆,Dh
 示,示,Hs
-礻,礻,Hs
 而,而,Sr
 耳,耳,Ar
 臣,臣,Sc
@@ -70,7 +65,6 @@ repr,font,zhu_code
 卄,卄,Sj
 卝,卝,Sj
 西,西,Dx
-覀,覀,Dx
 襾,襾,Dx
 豕,豕,Ds
 走,走,Dk
@@ -91,9 +85,6 @@ repr,font,zhu_code
 {左上},,So
 {于下},,Au
 丶,丶,Od
-⼂,⼂,Od
-㇏,㇏,Od
-㇝,㇝,Od
 乀,乀,Od
 丷,丷,Ue
 丬,丬,Ue
@@ -188,7 +179,6 @@ repr,font,zhu_code
 片,片,Tp
 牛,牛,Wn
 ⺧,⺧,Wn
-牜,牜,Wn
 犭,犭,Rq
 瓜,瓜,Qu
 生,生,Wg
@@ -202,7 +192,6 @@ repr,font,zhu_code
 缶,缶,Wo
 自,自,Tk
 臼,臼,Rj
-⾅,⾅,Rj
 舌,舌,Re
 舟,舟,Qo
 豸,豸,Yk
@@ -248,7 +237,6 @@ repr,font,zhu_code
 尚,尚,Ns
 〢,〢,Ns
 丨,丨,Ns
-{四竖},,Ns
 〣,〣,Ns
 龸,龸,Ns
 山,山,Js
@@ -281,7 +269,6 @@ repr,font,zhu_code
 門,門,Kn
 非,非,Li
 骨,骨,Mg
-⾻,⾻,Mg
 鬥,鬥,Nd
 鹵,鹵,Kl
 黑,黑,Ne

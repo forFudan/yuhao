@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230505
+# 版本: 20230522
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -1020,7 +1020,6 @@ columns:
 置换	md
 睡觉	me
 目前	mf
-虐待	mg
 光线	mh
 小学生	mi
 桌子	mj
@@ -1077,7 +1076,7 @@ columns:
 就是	ol
 市场	om
 颤抖	on
-房子	oo
+议论	oo
 谜语	op
 许多	oq
 它们	or
@@ -1600,7 +1599,6 @@ columns:
 诗词	oh
 就要	ol
 市长	om
-议论	oo
 设备	oq
 话语	or
 实际	os
@@ -4415,7 +4413,7 @@ columns:
 渚	ihj
 渍	ihk
 洁	ihl
-漬	ihm
+瀆	ihm
 沫	iho
 涟	ihp
 沶	ihs

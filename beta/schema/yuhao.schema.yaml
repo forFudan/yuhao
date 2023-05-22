@@ -4,7 +4,7 @@
 schema:
   schema_id: yuhao
   name: 宇浩·繁简通·大陆简体优先
-  version: 20230418
+  version: 20230522
   author:
     - 發明人 朱宇浩
     - Rime方案 <https://zhuyuhao.com/yuhao/>
@@ -31,11 +31,11 @@ switches:
     # Control+Shift+O: 只出常用字
     # Control+Shift+I: 常用字前置
   - name: yuhao_single_char_only_for_full_code
-    states: ["字詞同出", "全碼出單"]
+    states: ["字詞同出", "全码出单"]
     reset: 0
     # Control+Shift+D
   - name: yuhao_postpone_full_code
-    reset: 1
+    reset: 0
     states: [原始排序, 全碼後置]
     # Control+Shift+H
   - options:
@@ -43,15 +43,15 @@ switches:
       - yuhao_chaifen.lv1
       - yuhao_chaifen.lv2
       - yuhao_chaifen.lv3
-    states: [〇注解, 一重注解, 二重注解, 三重注解]
-    reset: 1
+    states: [〇註解, 一重註解, 二重註解, 三重註解]
+    reset: 0
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0
     # Control+Shift+F
   - name: simplification
     reset: 0
-    states: [繁保持, 繁转简]
+    states: [繁保持, 繁轉簡]
     # Control+Shift+J
   - name: embeded_cands
     reset: 0
@@ -101,7 +101,6 @@ engine:
     - simplifier@simplify
     - lua_filter@yuhao_chaifen
     - lua_filter@yuhao_embeded_cands
-    # - simplifier@chaifen
     - uniquifier
 
 traditionalize:
@@ -122,17 +121,10 @@ simplify:
     - xform/^/〔/
     - xform/$/〕/
 
-# chaifen:
-#   opencc_config: yuhao_chaifen.json
-#   option_name: chaifen
-#   show_in_comment: true
-#   tags: [abc, reverse_lookup]
-#   tips: char
-
 yuhao_postpone_full_code:
   tags: [abc]
   lua:
-    max_index: 5 # 最大后置位置，默认为 4
+    max_index: 3 # 最大後置位置，默認爲 3
 
 schema_name:
   code: yuhao

@@ -11,13 +11,24 @@ nav_order: 1
 <!-- omit in toc -->
 # 發燒區更新日誌
 
+## 2023年5月22日
+
+四重註解中，詞語編碼用大小寫來區分大小碼。
+
+加入「功能開關一鍵配置」文件：
+
+- yuhao.custom.yaml
+- yuhao_tradition.custom.yaml
+- yuhao_tradition_tw.custom.yaml
+
+删除「四豎」字根，因爲只在全字集中被使用了一次。
+
 ## 2023年5月21日
 
 RIME 增加拼音註解。現總共爲四重註解。
 
 小碼改變：
 
-- 其 Dq -> Dj 聲母，減少小拇指負擔
 - 凵 Xa -> Xe -> Xg 韻母「丱」，防止大跨行
 
 ## 2023年5月20日

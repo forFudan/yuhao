@@ -6954,7 +6954,7 @@ ateo	𰗐
 ateq	挫傷
 ateq	挫伤
 ateu	𧫬
-atf	掄
+atf	揄
 atfb	聆
 atfb	拎
 atfb	聆
@@ -6980,12 +6980,12 @@ atfl	抵賴
 atfl	聊賴
 atfl	抵赖
 atfl	聊赖
-atfm	揄
 atfm	𰔣
 atfm	扮相
 atfm	𤭷
 atfm	𦖭
 atfm	揄
+atfn	掄
 atfn	䎾
 atfn	𫠳
 atfo	拱手相让
@@ -12851,14 +12851,14 @@ boeo	𦁹
 boet	𦄲
 boev	絃樂
 boey	忍受
-bof	綻
+bof	繽
 bofa	𬗒
 bofg	对话框
 bofh	綄
 bofi	統一
 bofi	丒
 bofl	𮈷
-bofm	繽
+bofn	綻
 bofo	綜述
 bofp	𱱃
 bofq	对讲机
@@ -18923,8 +18923,7 @@ coks	院里
 cokt	院内
 cokv	防水
 cokv	𡛻
-col	孃
-cola	婷
+col	婷
 cola	𨺱
 cola	𬑯
 cold	䧫
@@ -18937,6 +18936,7 @@ colm	婛
 colm	𭒑
 coln	院中
 colo	𪦝
+colr	孃
 colr	𡟓
 colr	𨽢
 colr	𫱜
@@ -58841,7 +58841,7 @@ gwty	𤧚
 gwty	𨍉
 gwty	𨡮
 gwty	𩋚
-gwu	醜
+gwu	瑰
 gwua	鞫
 gwua	輷
 gwuc	𨍹
@@ -58852,7 +58852,7 @@ gwui	現身説法
 gwui	現身說法
 gwum	連鎖店
 gwum	酷斃
-gwun	瑰
+gwuo	醜
 gwuo	醮
 gwuo	䩌
 gwuo	𩉈
@@ -68992,13 +68992,12 @@ ibsu	泥灰
 ibsv	法屬蓋亞那
 ibsv	涌动
 ibsy	澄净
-ibt	湧
+ibt	梁
 ibtc	𬪔
 ibtd	𬔚
 ibtd	𱥻
 ibte	泥人
 ibte	汉人
-ibtf	梁
 ibtf	梁
 ibtn	涌
 ibtn	𮄯
@@ -69008,6 +69007,7 @@ ibtp	𣻢
 ibtr	泥鰍
 ibtr	𥞹
 ibtr	𪁠
+ibtx	湧
 ibtx	竭尽全力
 ibty	滅絶人性
 ibty	滅絕人性
@@ -77599,6 +77599,7 @@ ivqm	𪋈
 ivqr	沇
 ivqr	𭰈
 ivqu	𱩁
+ivrf	𱨥
 ivrg	𣷒
 ivrk	𣴖
 ivrr	溺毙
@@ -77633,7 +77634,6 @@ ivte	浚
 ivte	𪊴
 ivtf	治愈
 ivtf	𬂱
-ivtf	𱨥
 ivtg	𣷒
 ivtg	𱠤
 ivth	涨
@@ -85985,6 +85985,7 @@ kfeu	同伙
 kfev	同樂
 kfew	同爲
 kff	冂
+kffa	𠕲
 kffd	開標
 kffe	虹橋
 kffe	虹桥
@@ -85994,7 +85995,6 @@ kffg	网开一面
 kffh	𪊅
 kffi	同一
 kffl	開頭
-kffn	𠕲
 kffo	開工
 kffq	同机
 kffs	同構
@@ -92453,18 +92453,18 @@ lfkt	唡
 lfkt	𠰳
 lfkv	𠳃
 lfky	听天由命
-lfl	嗽
+lfl	喇
 lfla	𡀞
 lflb	𠽑
 lflc	𡝤
 lflc	𭋶
 lfld	𡁑
+lfle	嗽
 lfle	𠻳
 lfle	𢿙
 lflf	槑
 lflj	𠸢
 lflk	𪢐
-lflm	喇
 lflm	𡃤
 lflm	喇
 lfln	嗝
@@ -94934,7 +94934,7 @@ lokj	噓寒問暖
 lokm	𰈎
 lokv	𭇛
 loky	𠿄
-lol	哼
+lol	嚷
 lola	𠷥
 lolb	咏叹
 lolc	㗥
@@ -94963,11 +94963,11 @@ lolo	嚷嚷
 lolo	喧嚷
 lolo	喀嚓
 lolq	喨
-lolr	嚷
 lolr	𠹒
 lolr	㗒
 lols	嘀嗒
 lolu	𪢟
+lolv	哼
 lolv	啍
 lolx	嚎叫
 lolx	啼叫
@@ -96210,7 +96210,7 @@ ltni	㖉
 ltnj	只當
 ltns	𠮶
 ltnv	𠰩
-lto	唸
+lto	吟
 ltob	呤
 ltob	吟诵
 ltod	咱家
@@ -96228,10 +96228,10 @@ ltoq	只许
 ltor	𠹸
 ltos	𠹞
 ltou	只说
-ltov	吟
 ltov	只字
 ltow	只為
 ltox	只为
+ltoy	唸
 ltp	噙
 ltpd	𨒅
 ltpf	非分之想
@@ -102072,9 +102072,9 @@ mqou	虛無主義
 mqou	少说
 mqov	𱜥
 mqow	省察
-mqp	眨
+mqp	貶
 mqpc	少数
-mqpe	貶
+mqpe	眨
 mqpe	眾矢之的
 mqpe	𥁔
 mqpe	𰏖
@@ -102403,6 +102403,7 @@ mrtm	𩪹
 mrtn	瞛
 mrtn	𦌇
 mrts	餐会
+mrtu	𥋮
 mrty	幒
 mrty	𣩕
 mru	瞅
@@ -102988,7 +102989,6 @@ mttm	𧇖
 mtts	髒兮兮
 mtts	𧈃
 mttu	𦌽
-mtua	𥋮
 mtub	𧵃
 mtuf	彪炳
 mtum	眼看着
@@ -116774,7 +116774,7 @@ ounw	𪗇
 ouny	𠆋
 ouny	𠆗
 ouny	𩝦
-ouo	辨
+ouo	辯
 ouoa	商讨
 ouod	商家
 ouod	敵害
@@ -116811,7 +116811,7 @@ ouou	谈谈
 ouou	商谈
 ouou	说说
 ouou	详谈
-ouox	辯
+ouox	辨
 ouoy	详密
 oupb	灾变
 oupc	商数
@@ -139294,6 +139294,7 @@ rthp	𨗭
 rthp	𨗭
 rthp	𨖽
 rths	𫗠
+rths	𫞴
 rtht	黏土
 rtif	颩
 rtig	徐汇
@@ -139867,7 +139868,7 @@ ruqq	乘船
 ruqr	𰨧
 ruqu	徒勞無益
 ruqw	秋风
-rur	剩
+rur	乘
 rurc	𨝄
 rure	惩前毖后
 rure	剩饭
@@ -139876,11 +139877,11 @@ rurf	入微
 rurg	𬼒
 rurh	乘積
 rurh	入微
-ruri	乘
 rurj	𬳠
 rurk	乘興
 rurk	𢾽
 rurl	乘积
+rurm	剩
 rurm	得道多助
 rurm	税利
 ruro	入狱
@@ -143533,10 +143534,10 @@ selv	咨
 selv	茖
 selv	𠗂
 selw	𧃄
-sem	原
+sem	資
+sema	原
 sema	資財
 sema	𠘣
-semb	資
 semb	𮚚
 semc	𨝂
 semc	𫑫
@@ -153909,8 +153910,7 @@ tblv	鮉
 tblv	𠯨
 tblw	分別
 tblx	分别
-tbm	盆
-tbmb	貧
+tbm	貧
 tbmb	分貝
 tbmd	𠚼
 tbmd	𠜋
@@ -153923,6 +153923,7 @@ tbmh	分賬
 tbmj	𬭁
 tbmk	分體
 tbmm	𫎤
+tbmn	盆
 tbmn	𬥯
 tbmq	分省
 tbmr	分餐
@@ -156054,7 +156055,6 @@ thrp	舒适
 thry	䱪
 thry	𰾍
 ths	佘
-thsi	𫞴
 thsj	𮷰
 thsk	铐
 thsk	鮳
@@ -162550,7 +162550,7 @@ ueqr	𧧲
 ueqs	𤊚
 ueqv	府第
 ueqy	應答
-uer	廏
+uer	訛
 uerb	前仆後繼
 uerd	烨
 uerd	𱽣
@@ -162558,7 +162558,6 @@ uere	訴稱
 uerf	應徵
 uerf	言近旨远
 uerh	言近旨遠
-ueri	訛
 ueri	變化多端
 ueri	炛
 ueri	𤆷
@@ -162568,6 +162567,7 @@ uerj	熖
 uerj	謟
 uerk	腐蚀
 uerl	應和
+uerq	廏
 uerq	廐
 uerr	㢋
 uerr	𢋥
@@ -166431,7 +166431,7 @@ uokl	訪問
 uoks	火上
 uokv	𪸠
 uokw	火网
-uol	燉
+uol	諒
 uola	諪
 uola	㷚
 uolc	廓
@@ -166441,6 +166441,7 @@ uolc	廓
 uold	譹
 uold	𤐶
 uold	𧫾
+uole	燉
 uole	譈
 uolf	燺
 uolf	𪴍
@@ -166453,7 +166454,6 @@ uoll	熇
 uoll	火器
 uoll	謞
 uoll	熍
-uolm	諒
 uolm	𢈴
 uolm	𬊣
 uolm	諒
@@ -169629,7 +169629,7 @@ uuwu	𧬫
 uuwu	𩴨
 uuwx	説服
 uuwx	譾
-uux	謙
+uux	廉
 uuxa	營建
 uuxb	𤎬
 uuxe	營收
@@ -169648,7 +169648,7 @@ uuxl	詳加
 uuxl	煻
 uuxm	劆
 uuxm	𧫨
-uuxt	廉
+uuxt	謙
 uuxt	焿
 uuxt	熑
 uuxt	𢌍
@@ -181886,10 +181886,10 @@ wqfw	𨫝
 wqfw	𮉸
 wqfx	𦈤
 wqfx	𨨶
-wqg	鍾
+wqg	腫
 wqgb	选配
 wqgd	腫大
-wqgf	腫
+wqgf	鍾
 wqgf	鉛球
 wqgf	𤚏
 wqgf	𦉂

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230505
+# 版本: 20230522
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -934,7 +934,7 @@ columns:
 暖和	je
 果然	jf
 畏懼	jg
-顯示器	jh
+時間	jh
 暗中	ji
 明明	jj
 時間	jk
@@ -1173,7 +1173,7 @@ columns:
 爸爸	tw
 迎接	tx
 魚肉	ty
-判斷	ua
+半年	ua
 變成	ub
 序號	uc
 計劃	ud
@@ -1566,7 +1566,7 @@ columns:
 扮	atb
 扒	atd
 揿	ate
-掄	atf
+揄	atf
 拴	atg
 捨	ath
 摿	ati
@@ -1794,7 +1794,7 @@ columns:
 綰	bob
 尺	bod
 縮	boe
-綻	bof
+繽	bof
 紡	bog
 綜	boh
 絯	boi
@@ -2057,7 +2057,7 @@ columns:
 妨	cog
 陔	coi
 婶	cok
-孃	col
+婷	col
 嬗	con
 嬸	coq
 陀	cor
@@ -3484,7 +3484,7 @@ columns:
 鞠	gwp
 瓚	gwq
 匢	gwt
-醜	gwu
+瑰	gwu
 爽	gww
 酗	gwx
 玥	gwy
@@ -3829,7 +3829,7 @@ columns:
 澀	ibo
 泥	ibr
 澱	ibs
-湧	ibt
+梁	ibt
 汉	ibu
 潑	ibv
 滩	ibw
@@ -4810,7 +4810,7 @@ columns:
 韭	lfi
 啞	lfj
 唝	lfk
-嗽	lfl
+喇	lfl
 嗊	lfm
 嘕	lfn
 哺	lfu
@@ -4933,7 +4933,7 @@ columns:
 啶	lof
 咳	loi
 咏	lok
-哼	lol
+嚷	lol
 吭	loq
 裴	lor
 喧	los
@@ -4990,7 +4990,7 @@ columns:
 啥	lth
 嚕	ltj
 咱	ltk
-唸	lto
+吟	lto
 噙	ltp
 嗅	lts
 唑	ltt
@@ -5215,7 +5215,7 @@ columns:
 齲	mqk
 省	mqm
 帆	mqn
-眨	mqp
+貶	mqp
 眺	mqs
 罛	mqu
 齕	mqv
@@ -5710,7 +5710,7 @@ columns:
 商	ouk
 说	oul
 齊	oun
-辨	ouo
+辯	ouo
 谥	out
 谈	ouu
 谫	ouw
@@ -6585,7 +6585,7 @@ columns:
 氆	run
 秋	ruo
 逖	rup
-剩	rur
+乘	rur
 獄	rus
 揫	rut
 稊	ruv
@@ -6716,7 +6716,7 @@ columns:
 芹	sej
 资	sek
 葆	sel
-原	sem
+資	sem
 莜	sen
 芺	seo
 粢	sep
@@ -7096,7 +7096,7 @@ columns:
 岔	tbj
 贫	tbk
 𬬿	tbl
-盆	tbm
+貧	tbm
 钗	tbo
 铌	tbr
 弅	tbs
@@ -7440,7 +7440,7 @@ columns:
 烙	uel
 爝	uem
 訴	ueo
-廏	uer
+訛	uer
 諈	ues
 爍	uev
 鷹	uew
@@ -7560,7 +7560,7 @@ columns:
 訪	uog
 該	uoi
 詠	uok
-燉	uol
+諒	uol
 誼	uom
 羶	uon
 詫	uoq
@@ -7657,7 +7657,7 @@ columns:
 謚	uut
 焍	uuv
 譾	uuw
-謙	uux
+廉	uux
 營	uuy
 譀	uva
 訊	uvd
@@ -8142,7 +8142,7 @@ columns:
 鋂	wqb
 釧	wqc
 躲	wqf
-鍾	wqg
+腫	wqg
 股	wqh
 肌	wqj
 鉛	wql

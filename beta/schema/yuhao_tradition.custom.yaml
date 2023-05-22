@@ -1,0 +1,16 @@
+# 功能開關一鍵配置
+
+patch:
+  schema/name: 宇浩·繁簡通·大陸繁體優先  # 方案名
+  speller/auto_select: true  # 四碼唯一自動上屏
+  translator/enable_completion: true  # 輸入預測（逐碼提示）
+  fixed/enable_completion: true  # 輸入預測（逐碼提示）
+  # menu/page_size: 5  # 每頁候選數量
+  style/horizontal: false  # 橫排候選欄
+  style/inline_preedit: true  # 候選欄内置於輸入界面
+  style/preedit_type: preview  # 候選顯示字母(composition)还是候選(preview)
+  # 以下開關，0爲第一個，1爲第二個，2爲第三個
+  switches/@0/reset: 1 # [只出常用字, 常用字前置, 全字集原排序]
+  switches/@1/reset: 0 # [字詞同出, 全碼出單]
+  switches/@2/reset: 0 # [原始排序, 全碼後置]
+  switches/@3/reset: 0 # [〇註解, 一重註解, 二重註解, 三重註解]
