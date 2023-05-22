@@ -53,6 +53,9 @@ switches:
     reset: 0
     states: [繁保持, 繁转简]
     # Control+Shift+J
+  - name: embeded_cands
+    reset: 0
+    states: [普通, 嵌入候选]
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
@@ -97,6 +100,7 @@ engine:
     - simplifier@traditionalize
     - simplifier@simplify
     - lua_filter@yuhao_chaifen
+    - lua_filter@yuhao_embeded_cands
     # - simplifier@chaifen
     - uniquifier
 
@@ -219,6 +223,7 @@ key_binder:
     - { when: always, accept: "Control+period", toggle: ascii_punct }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
+    - { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
     - { when: always, accept: "Control+Shift+O", toggle: yuhao_char_only } # 常用詞過濾
     - { when: always, accept: "Control+Shift+I", toggle: yuhao_char_first } # 常用詞前置
     - { when: has_menu, accept: "0", toggle: yuhao_char_only } # 常用詞過濾
