@@ -2,14 +2,14 @@
 # 宇浩输入法官方网站仓库
 
 ```txt
-实用、直观、科学、理性
+宇浩輸入法·傳統漢字简化汉字通打混輸·兼容大陸台灣字形標準·全漢字覆蓋·八萬詞庫·科學高效
 ```
 
-点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
+[简体版官方网站](https://zhuyuhao.com/yuhao/) | [正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim/)
+[详细教程](https://zhuyuhao.com/yuhao/docs/learn) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
+[最常用100字根练习](https://zhuyuhao.com/yuhao/practice/practice_100) | [全部字根练习](https://zhuyuhao.com/yuhao/practice/practice) | [最常用汉字输入练习](https://zhuyuhao.com/yuhao/practice/practice_characters)
 
-[官方网站](https://zhuyuhao.com/yuhao/) | [详细教程](https://zhuyuhao.com/yuhao/docs/learn) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
-[最常用100字根练习](https://zhuyuhao.com/yuhao/practice/practice_100) | [全部字根练习](https://zhuyuhao.com/yuhao/practice/practice)
-[最常用汉字输入练习](https://zhuyuhao.com/yuhao/practice/practice_characters)
+点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
 
 「宇浩输入法」是一款字形输入法，由朱宇浩博士发明，具有以下特点：
 

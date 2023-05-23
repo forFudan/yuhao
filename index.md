@@ -18,7 +18,7 @@ nav_order: 1
 </details>
 
 {: .highlight }
->点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)　　
+>点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)  
 >[正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim)  
 >[稳定版v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3) ·
 >[内测版v2.0.0-alpha.1下载（四重注解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.1)  
