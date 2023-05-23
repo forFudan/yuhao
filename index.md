@@ -21,7 +21,8 @@ nav_order: 1
 >点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)  
 >手机用户可点击页面右上方的「三横」按钮查看**导航栏**  
 >[稳定版v1.4.3下载](https://github.com/forFudan/yuhao/releases) ·
->[测试版下载（四重注解）](https://github.com/forFudan/yuhao/tree/main/beta/schema)  
+>[测试版v2.0.0-alpha.1下载（四重注解）](https://github.com/forFudan/yuhao/tree/main/beta/schema) ·
+>[傳統字官方網站](https://zhuyuhao/yuhaoim)  
 >[快速指南](./docs/cookbook/cookbook) ·
 >[详细教程](./docs/learn) ·
 >[在线练习](./docs/practice) ·
