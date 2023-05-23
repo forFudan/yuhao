@@ -5,8 +5,8 @@
 宇浩輸入法·傳統漢字简化汉字通打混輸·兼容大陸台灣字形標準·全漢字覆蓋·八萬詞庫·科學高效
 ```
 
-[简体版官方网站](https://zhuyuhao.com/yuhao/) | [正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim/)
-[详细教程](https://zhuyuhao.com/yuhao/docs/learn) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)
+[简体版官方网站](https://zhuyuhao.com/yuhao/) | [正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim/)  
+[详细教程](https://zhuyuhao.com/yuhao/docs/learn) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)  
 [最常用100字根练习](https://zhuyuhao.com/yuhao/practice/practice_100) | [全部字根练习](https://zhuyuhao.com/yuhao/practice/practice) | [最常用汉字输入练习](https://zhuyuhao.com/yuhao/practice/practice_characters)
 
 点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
