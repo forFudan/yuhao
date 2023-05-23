@@ -11,10 +11,8 @@ assist=z mb/pinyin.txt
 [DATA]
 a 把
 a 事情
-a 事物
 aa 打
 aa 打开
-aa 打击
 aaa 攝
 aaaa 攝
 aaaa 抑扬顿挫
@@ -625,7 +623,6 @@ aayy 拉拉杂杂
 aayy 𢮴
 ab 切
 ab 取得
-ab 据说
 aba 择
 abaa 扭打
 abaa 撥打
@@ -1304,7 +1301,6 @@ abyv 𬻒
 abyv 𰁓
 ac 寸
 ac 把握
-ac 抒情
 aca 抿
 acab 把握
 acac 揉揉
@@ -1477,7 +1473,6 @@ acys 抒写
 acyw 指导性
 ad 顶
 ad 顶级
-ad 技术
 adaa 势不可挡
 adaa 敢不敢
 adac 𢭏
@@ -2813,7 +2808,6 @@ aeyx 聽命
 aeyx 掙命
 af 扛
 af 捕捉
-af 抚摸
 afa 搏
 afab 摇頭擺尾
 afab 搖頭擺尾
@@ -3182,7 +3176,6 @@ afyw 技术性
 afyx 搏命
 ag 找
 ag 找到
-ag 拒绝
 aga 捧
 agaa 聽打
 agab 聽取
@@ -3606,7 +3599,6 @@ agyu 把盞悽然北望
 agyx 聽命
 ah 持
 ah 持续
-ah 持久
 ahaa 拷打
 ahab 拮据
 ahab 撷取
@@ -4071,7 +4063,6 @@ ahyx 抹煞
 ahyy 寸土必争
 ai 拉
 ai 接受
-ai 接着
 aiab 接招
 aiad 拉拢
 aiad 搅扰
@@ -4697,7 +4688,6 @@ aiyw 势所必然
 aiyx 𢭐
 aj 提
 aj 提高
-aj 提出
 aja 撮
 ajab 撮
 ajab 提取
@@ -5064,7 +5054,6 @@ ajyk 担负
 ajym 投畀豺虎
 ak 下
 ak 下来
-ak 下去
 akaa 抽打
 akaa 打蛇打七寸
 akab 抽取
@@ -5608,7 +5597,6 @@ akyw 可上九天揽月
 akyw 可上九天攬月
 al 可
 al 可以
-al 可能
 ala 哥
 alaa 排打
 alaa 𤭻
@@ -6336,7 +6324,6 @@ alyw 挑戰性
 alyx 𭄧
 am 东
 am 东西
-am 东方
 amaa 扑打
 amab 攫取
 amab 摆摊
@@ -6811,7 +6798,6 @@ amyw 挑战性
 amyw 據瞭解
 an 丁
 an 捉住
-an 捉摸
 anaa 撲打
 anae 擋拆
 anah 撑持
@@ -7116,7 +7102,6 @@ anyw 职业性
 anyw 職業性
 ao 按
 ao 按照
-ao 撤销
 aoa 拧
 aoaa 摔打
 aoaa 执敲扑而鞭笞天下
@@ -7796,7 +7781,6 @@ aoyx 抗争
 aoyx 抗命
 ap 过
 ap 过去
-ap 过来
 apab 挖掘
 apab 撺掇
 apab 挖取
@@ -8159,7 +8143,6 @@ apyt 挖角
 apyx 过急
 aq 才
 aq 才能
-aq 投资
 aqa 托
 aqaa 挑拣
 aqaa 才敢
@@ -8773,7 +8756,6 @@ aqyu 聆我慷慨言
 aqyw 严重性
 ar 指
 ar 指出
-ar 指导
 arad 攪擾
 arad 可與事君也與哉
 arae 耳聽
@@ -9357,7 +9339,6 @@ aryw 耳性
 aryw 技術性
 as 摸
 as 措施
-as 描写
 asaa 恶有恶报
 asaa 捱打
 asab 摇头摆尾
@@ -9996,7 +9977,6 @@ asyw 搗藥兔長生
 asyx 捞
 at 拥
 at 抑制
-at 拥有
 ata 抵
 atae 挫折
 atae 聆聽
@@ -10513,7 +10493,6 @@ atyv 扣人心弦
 atyx 捨命
 au 联
 au 严重
-au 扩大
 aua 拌
 auaa 严打
 auab 扩招
@@ -11181,7 +11160,6 @@ auyx 恶煞
 auyx 𭞔
 av 扬
 av 违反
-av 抬起
 ava 扔
 avaa 挨打
 avaa 憨態可掬
@@ -11678,7 +11656,6 @@ avyw 可能性
 avyw 韧性
 aw 抱
 aw 推动
-aw 推广
 awab 推搡
 awab 攒聚
 awab 七月七日长生殿
@@ -12225,7 +12202,6 @@ awyw 抱愧
 awyw 瓦解
 ax 击
 ax 报告
-ax 报道
 axa 挦
 axaa 击打
 axaa 拨打
@@ -12760,7 +12736,6 @@ axys 逝將歸去誅蓬蒿
 axyv 屯墾
 ay 势
 ay 势力
-ay 执行
 ayab 换取
 ayab 热切
 ayab 拾掇
@@ -13490,10 +13465,8 @@ ayyx 挣命
 ayyy 热忱
 b 对
 b 对于
-b 对错
 ba 怼
 ba 对方
-ba 对手
 baaa 对打
 baaa 䌰
 baad 对撼
@@ -13766,7 +13739,6 @@ bayq 𠜭
 bayt 对角
 bb 双
 bb 双方
-bb 双手
 bbaa 双打
 bbaa 紛紛揚揚
 bbaa 紛紛擾擾
@@ -14430,7 +14402,6 @@ bbyy 纏綿悱惻
 bbyy 艰难愧深情
 bc 丑
 bc 丑陋
-bc 丑恶
 bca 屙
 bcag 丑拒
 bcai 䋋
@@ -14545,7 +14516,6 @@ bcyw 局限性
 bcyw 丑角
 bd 刀
 bd 居住
-bd 对不起
 bdab 終期拋印綬
 bdac 刀把
 bdac 𦀳
@@ -15037,7 +15007,6 @@ bdyx 𦂿
 bdzk （
 be 改
 be 改变
-be 改良
 bea 絳
 beab 欢聚
 beac 紨
@@ -16250,7 +16219,6 @@ bfyw 紅角
 bfyy 縮頭烏龜
 bg 戏
 bg 戏曲
-bg 戏剧
 bga 綺
 bgac 縳
 bgal 綺
@@ -16429,7 +16397,6 @@ bgyo 緬懷
 bgys 𥾐
 bh 屋
 bh 屋里
-bh 屋子
 bha 慰
 bhaa 圣地亚哥
 bhab 續娶
@@ -16871,7 +16838,6 @@ bhyw 屋角
 bhyw 尸解
 bi 已
 bi 已经
-bi 已知
 biaa 發聾振聵
 biac 編撰
 bial 編排
@@ -17093,7 +17059,6 @@ biyo 已久
 biyr 𮉇
 bj 己
 bj 己见
-bj 己任
 bjab 繓
 bjae 細聽
 bjag 細聽
@@ -17368,7 +17333,6 @@ bjym 尼日尔
 bjyq 𱺂
 bk 观
 bk 观察
-bk 观点
 bkaf 網捕
 bkaj 又见东风浩荡时
 bkak 屬下
@@ -17763,7 +17727,6 @@ bkyw 尿性
 bkyx 尿急
 bl 避
 bl 避免
-bl 譬如
 bla 緝
 blaf 緝捕
 blag 𮉋
@@ -18123,7 +18086,6 @@ blyq 壁飾
 blyt 緝拿
 bm 母
 bm 母亲
-bm 眉目
 bmai 刷拉
 bmal 組歌
 bmam 刷掉
@@ -18416,7 +18378,6 @@ bmym 𫵇
 bmyt 𥌏
 bmyw 母性
 bn 綑
-bn 展览会
 bna 緺
 bnaf 对此可以酣高楼
 bnai 紅掌撥清波
@@ -18542,7 +18503,6 @@ bnyq 終當歸空無
 bnyw 經常性
 bo 尽
 bo 尽量
-bo 迟早
 boa 紵
 boaa 統攝
 boaa 𫵟
@@ -19020,7 +18980,6 @@ boym 𫻉
 boyw 登高必自卑
 bp 屡
 bp 屡次
-bp 屡屡
 bpac 𬗔
 bpao 𦀮
 bpas 对症下药
@@ -19166,7 +19125,6 @@ bpyq 紋飾
 bpyw 母瘦雏渐肥
 bq 属
 bq 属于
-bq 属性
 bqab 忍無可忍
 bqad 飛動摧霹靂
 bqae 通风报信
@@ -19351,7 +19309,6 @@ bqyn 欢笑情如旧
 bqyw 属性
 br 尼
 br 尾巴
-br 履行
 brac 改名换姓
 brac 改名換姓
 brac 總把
@@ -19859,7 +19816,6 @@ bryr 𭕳
 bryv 𡳀
 bs 展
 bs 展示
-bs 层次
 bsa 縟
 bsab 剝繭抽絲
 bsac 縟
@@ -20271,7 +20227,6 @@ bsyq 忍辱负重
 bsyq 忍辱負重
 bt 通
 bt 通过
-bt 勇敢
 bta 紙
 btaa 勇敢
 btad 紛擾
@@ -20741,7 +20696,6 @@ btyw 通解
 btyw 綱領性
 bu 又
 bu 又是
-bu 屏幕
 bua 絆
 buac 又把
 buai 𪨌
@@ -21227,7 +21181,6 @@ buyw 變性
 buyw 彎角
 bv 局
 bv 局面
-bv 艰难
 bvab 發掘
 bvac 𦀨
 bvae 發誓
@@ -21617,7 +21570,6 @@ bvys 發慌
 bvyx 鸡皮鹤发
 bw 难
 bw 难道
-bw 难以
 bwaa 难打
 bwag 难找
 bwah 維持
@@ -21902,7 +21854,6 @@ bwyt 难解
 bwyu 𪠥
 bx 劝
 bx 劝说
-bx 屈服
 bxac 𱹳
 bxan 难以挽回
 bxao 䋖
@@ -22099,7 +22050,6 @@ bxyr 飛將軍自重霄入
 bxyt 劝解
 by 鸡
 by 鸡蛋
-by 嫉妒
 bya 鸤
 byab 絶招
 byac 𭔲
@@ -22388,7 +22338,6 @@ c 好的
 c 好像
 ca 民
 ca 导致
-ca 陆续
 caaa 𡤙
 caaa 𨽦
 caae 㜟
@@ -22879,7 +22828,6 @@ cayw 選擇性
 cayx 民命
 cb 努
 cb 努力
-cb 巴西
 cbal 妮可
 cbam 巴东
 cbaq 奴才
@@ -23179,7 +23127,6 @@ cbyw 奴性
 cbyw 韌性
 cc 她
 cc 她们
-cc 她的
 cca 婀
 ccab 選取
 ccai 姄
@@ -23426,7 +23373,6 @@ ccyt 娉娉袅袅十三余
 ccyy 𰀸
 cd 姑
 cd 姑娘
-cd 预约
 cdac 陦
 cdac 𫝩
 cdaj 怒不可遏
@@ -23828,7 +23774,6 @@ cdyw 𪦭
 cdyx 陡急
 ce 附
 ce 附近
-ce 降低
 cea 降
 ceaa 嬌憨
 ceac 附
@@ -24423,7 +24368,6 @@ ceyw 娛樂性
 ceyw 階段性
 cf 隔
 cf 隔离
-cf 柔软
 cfab 𠀧
 cfac 䪙
 cfac 𮥕
@@ -24834,7 +24778,6 @@ cfyu 𥎢
 cfyw 柔性
 cg 姨
 cg 姨妈
-cg 陕西
 cga 婍
 cgac 嫥
 cgac 䧠
@@ -25080,7 +25023,6 @@ cgyi 𮱈
 cgyn 㚤
 ch 妹
 ch 妹妹
-ch 阵地
 cha 韔
 chac 𮥂
 chai 韔
@@ -25374,7 +25316,6 @@ chyu 嬄
 chyy 𡤵
 ci 陪
 ci 陪伴
-ci 障碍
 ciaa 奸淫掳掠
 ciaa 姦淫擄掠
 ciai 陪护
@@ -25553,7 +25494,6 @@ ciyp 違法必究
 ciyv 妒恨
 cj 阳
 cj 阳光
-cj 阳性
 cjab 𡡔
 cjab 𨼥
 cjan 𪥭
@@ -26059,7 +25999,6 @@ ckyo 如上九天遊
 ckyr 𡣽
 cl 如
 cl 如果
-cl 如何
 clak 如下
 clar 絮聒
 clar 𱙝
@@ -26339,7 +26278,6 @@ clyi 𨼚
 clyn 如歸
 cm 姐
 cm 姐姐
-cm 阻止
 cmaa 阻挠
 cmab 妙招
 cmac 𮥎
@@ -26788,7 +26726,6 @@ cnyw 女性
 cnyw 女角
 co 防
 co 防止
-co 矛盾
 coab 嫁娶
 coac 𫰦
 coag 婉拒
@@ -27287,7 +27224,6 @@ coyt 女主角
 coyw 女主角
 cp 嫉
 cp 嫉妒
-cp 好容易
 cpan 嫲
 cpao 違抗
 cpar 𨻕
@@ -27623,7 +27559,6 @@ cqxq 姊
 cqxr 𡜞
 cr 陛
 cr 陛下
-cr 媲美
 crah 𱀧
 crah 𮱁
 crak 陛下
@@ -27881,7 +27816,6 @@ cryw 怒從心上起惡向膽邊生
 cryx 險急
 cs 随
 cs 随时
-cs 随便
 csaa 巴布亚新几内亚
 csac 媷
 csae 随拍
@@ -28390,7 +28324,6 @@ csyw 随性
 csyw 隨性
 ct 除
 ct 除非
-ct 阶段
 cta 婚
 ctab 婚娶
 ctab 陰招
@@ -28847,7 +28780,6 @@ ctyx 除皱
 ctyx 险急
 cu 予
 cu 予以
-cu 嫌弃
 cuaf 𬯂
 cual 隊歌
 cuan 娮
@@ -29573,7 +29505,6 @@ cvyv 好慘
 cvyw 𤛉
 cw 阴
 cw 阴谋
-cw 阴性
 cwab 阴招
 cwae 隨身聽
 cwag 隨身聽
@@ -29854,7 +29785,6 @@ cwyu 嬌生慣養
 cwyw 阴性
 cx 妈
 cx 妈妈
-cx 妇女
 cxae 𬯟
 cxam 防卫过当
 cxao 𲉏
@@ -29985,7 +29915,6 @@ cxym 𨺜
 cxym 婦
 cy 也
 cy 也是
-cy 也许
 cyaa 也敢
 cyad 巴尔扎克
 cyae 也挺
@@ -30285,7 +30214,6 @@ d 不是
 d 不知道
 da 趣
 da 趣味
-da 寿命
 daaa 不可抗拒
 daaa 不可捉摸
 daaa 䝕
@@ -30744,7 +30672,6 @@ dayx 其势必不敢留君
 dayy 不过尔尔
 db 起
 db 起来
-db 超过
 dbab 支取
 dbab 支招
 dbab 契据
@@ -31397,7 +31324,6 @@ dbys 䬸
 dbyt 觢
 dc 要
 dc 要求
-dc 帮助
 dcac 要把
 dcac 𱴀
 dcad 帮顶
@@ -32599,7 +32525,6 @@ ddyv 𰦼
 ddyw 碱性
 de 斯
 de 故事
-de 欺骗
 dea 麪
 deac 駙
 deac 其他可能也
@@ -33451,7 +33376,6 @@ deyv 甚爱必大费
 deyv 甚愛必大費
 df 感
 df 感到
-df 感觉
 dfa 博
 dfab 博取
 dfac 博
@@ -34298,7 +34222,6 @@ dfyx 感慨
 dfyy 雲橫九派浮黃鶴
 dg 古
 dg 古代
-dg 越来越
 dga 騎
 dgab 截取
 dgab 裁切
@@ -35045,7 +34968,6 @@ dgys 𬲏
 dgyt 殘餘
 dh 石
 dh 基本
-dh 基础
 dha 甄
 dhaa 磕打
 dhab 票据
@@ -36307,7 +36229,6 @@ diyv 𬰆
 diyw 靈活性
 dj 其
 dj 其他
-dj 其实
 dja 韩
 djab 𣩡
 djab 𥕸
@@ -37185,7 +37106,6 @@ djyx 乾急
 djyx 𮋖
 dk 走
 dk 走到
-dk 走进
 dkad 献技
 dkad 页顶
 dkaf 百里挑一
@@ -37693,7 +37613,7 @@ dkrh 南街
 dkrj 不见得
 dkrj 不由得
 dkrn 走向
-dkrn 雲開衡岳積陰止
+dkrn 雲開衡嶽積陰止
 dkro 献辞
 dkro 電稿
 dkrp 南粤
@@ -37944,7 +37864,6 @@ dkyu 不见兔子不撒鹰
 dkyw 電解
 dl 否
 dl 否定
-dl 否则
 dla 霵
 dlae 來抓
 dlag 來找
@@ -38425,7 +38344,6 @@ dlyx 不遺餘力
 dlyx 喪命
 dm 真
 dm 真正
-dm 真实
 dmab 真切
 dmab 直撥
 dmac 直抒
@@ -39298,7 +39216,6 @@ dmyw 裂解
 dmyw 不瞭解
 dn 露
 dn 丰富
-dn 尴尬
 dna 騧
 dnaa 不肯过江东
 dnab 不足取
@@ -39673,7 +39590,6 @@ dnyw 露餡
 dnyy 露餡
 do 尤
 do 尤其
-do 碎片
 doaf 百裏挑一
 doai 不识抬举
 doai 尤拉
@@ -40331,7 +40247,6 @@ doyw 真实性
 doyw 真實性
 dp 还
 dp 还是
-dp 还有
 dpac 支离东北风尘际
 dpac 𧻐
 dpaf 百裡挑一
@@ -41367,7 +41282,6 @@ dqyu 不知心恨誰
 dqyu 𠓏
 dr 死
 dr 死亡
-dr 不得不
 dra 磔
 drae 𣩁
 draf 磔
@@ -41954,7 +41868,6 @@ dryx 死命
 dryx 覆命
 ds 需
 ds 需要
-ds 需求
 dsab 博茨瓦納
 dsac 𧽘
 dsad 震撼
@@ -42816,7 +42729,6 @@ dsyx 𠣉
 dsyx 𮀤
 dt 零
 dt 零件
-dt 零下
 dta 砥
 dtac 不念携手好
 dtac 不念攜手好
@@ -43801,7 +43713,6 @@ dtyw 麥角
 dtyy 𩅔
 du 碰
 du 不会
-du 不错
 dua 霅
 duaa 不敢
 duad 𣨌
@@ -44811,7 +44722,6 @@ duyx 不急
 duyy 不懈
 dv 成
 dv 成为
-dv 成功
 dvac 𡢁
 dvac 𥖖
 dvac 𪿣
@@ -45481,7 +45391,6 @@ dvyx 卖命
 dvyx 成命
 dw 期
 dw 期间
-dw 期望
 dwad 碑拓
 dwae 贾生才调更无伦
 dwae 賈生才調更無倫
@@ -46747,7 +46656,6 @@ dxyw 雪豹
 dxyy 雪冤
 dy 雨
 dy 确定
-dy 确实
 dya 鸪
 dya Ä
 dya ä
@@ -47256,7 +47164,6 @@ e 什么
 e 的确
 ea 何
 ea 何况
-ea 何必
 eaaa 㒤
 eaab 𪝫
 eaae 㒈
@@ -47567,7 +47474,6 @@ eayw 皂角
 eayw 何解
 eb 反
 eb 反应
-eb 反对
 ebaa 亂打
 ebab 反切
 ebac 𫢘
@@ -48358,7 +48264,6 @@ ebyx 反刍
 ebyy 白鸽
 ec 他
 ec 他们
-ec 他的
 ecah 𬿭
 ecai 𪜳
 ecaj 𠊽
@@ -48591,7 +48496,6 @@ ecyt 𲁝
 ecyw 侷限性
 ed 做
 ed 做事
-ed 例如
 eda 俦
 edaa 垂死挣扎
 edaa 垂死掙扎
@@ -49256,7 +49160,6 @@ edyw 优越性
 edyw 優越性
 ee 任
 ee 任何
-ee 任务
 eeaa 偷偷摸摸
 eeab 凭据
 eeab 任取
@@ -49866,7 +49769,6 @@ eeyw 化爲烏有一先生
 eeyx 任命
 ef 条
 ef 条件
-ef 使用
 efa 仨
 efab 采取
 efab 采掘
@@ -51415,7 +51317,6 @@ egyi 𢘋
 egyx 反革命
 eh 倒
 eh 倒是
-eh 倒退
 eha 侍
 ehac 侍
 ehac 倒把
@@ -51883,7 +51784,6 @@ ehyw 代表性
 ehyw 佳餚
 ei 位
 ei 位置
-ei 位于
 eiae 偏聽
 eiaf 偷梁换柱
 eiag 偏聽
@@ -52224,7 +52124,6 @@ eiyv 𬾣
 eiyw 偏角
 ej 但
 ej 但是
-ej 但愿
 ejab 备取
 ejae 仙逝
 ejaf 保时捷
@@ -52650,7 +52549,6 @@ ejyw 仙鶴
 ejyx 催命
 ek 伸
 ek 伸出
-ek 偶然
 ekab 觅取
 ekae 𠑨
 ekak 泉下
@@ -52951,7 +52849,6 @@ ekys 觅食
 ekyy 伸冤
 el 保
 el 保护
-el 保证
 elah 保持
 elai 保护
 elar 偮
@@ -53370,7 +53267,6 @@ elym 保尔
 elyx 保命
 em 处
 em 处理
-em 处于
 emab 覓取
 emac 𡬳
 emac 𱬾
@@ -53811,7 +53707,6 @@ emyr 何處合成愁
 emys 覓食
 en 促
 en 促进
-en 促使
 enab 𠮋
 enac 個把
 enae 𠈥
@@ -54276,7 +54171,6 @@ enyx 候命
 enyx 償命
 eo 住
 eo 仿佛
-eo 依靠
 eoa 佇
 eoab 依据
 eoac 㑏
@@ -54878,7 +54772,6 @@ eoyw 化為烏有一先生
 eoyy 𠍌
 ep 近
 ep 近代
-ep 近似
 epab 迫切
 epab 𤾝
 epae 𠍨
@@ -55097,7 +54990,6 @@ epyh 近情
 epyi 𫢨
 eq 作
 eq 作用
-eq 作为
 eqa 俄
 eqae 伤逝
 eqae 傷逝
@@ -55543,7 +55435,6 @@ eqyq 𠉘
 eqyv 健儿快马紫游缰
 er 化
 er 化学
-er 货币
 era 傑
 erab 货摊
 erac 𡬠
@@ -56216,7 +56107,6 @@ eryw 化解
 eryw 傾角
 es 传
 es 传统
-es 传播
 esa 傉
 esaa 采菊东篱下
 esab 借据
@@ -57092,7 +56982,6 @@ esyx 𠨝
 esyx 𫢬
 et 价
 et 价格
-et 价值
 eta 低
 etaa 𫢵
 etab 偷取
@@ -57755,7 +57644,6 @@ etyw 仰角
 etyw 爲人性僻耽佳句
 eu 信
 eu 信息
-eu 信仰
 eua 伴
 euaa 乔装打扮
 euac 傠
@@ -58260,7 +58148,6 @@ euyw 俯角
 euyy 信鸽
 ev 仍
 ev 仍然
-ev 仔细
 eva 㑚
 evac 㑚
 evac 𪜺
@@ -58803,7 +58690,6 @@ evyy 近鄉情怯
 evyy 近鄉情更怯
 ew 件
 ew 遥远
-ew 遥感
 ewai 乌拉
 ewai 傲然挺立
 ewai 傲然攜妓出風塵
@@ -59201,7 +59087,6 @@ ewyn 𬋱
 ewyw 偶然性
 ex 似
 ex 似乎
-ex 健康
 exa 健
 exaa 喬裝打扮
 exab 殷切
@@ -59545,7 +59430,6 @@ exys 你裝飾了別人的夢
 exyu 𠊸
 ey 你
 ey 你们
-ey 你的
 eyaa 你敢
 eyad 白兔捣药成
 eyad 白兔搗藥成
@@ -60116,7 +60000,6 @@ f 一个
 f 一定
 fa 三
 fa 三个
-fa 于是
 faa 三
 faaa 欇
 faaa 𭩳
@@ -60742,7 +60625,6 @@ fayw 三角
 fayy 天下歸心
 fb 权
 fb 权利
-fb 权力
 fba 树
 fbab 一刀切
 fbac 树
@@ -61102,7 +60984,6 @@ fbyj 𣐊
 fbyy 天網恢恢
 fc 五
 fc 五十
-fc 五月
 fcai 五七
 fcai 𣐡
 fcak 𫡲
@@ -61431,7 +61312,6 @@ fcyi 𭜷
 fcyv 杝
 fd 无
 fd 无法
-fd 无奈
 fda 梼
 fdac 梼
 fdad 機不可失失不再來
@@ -62287,7 +62167,6 @@ fdyw 正確性
 fdyy 天不怕地不怕
 fe 攻
 fe 攻击
-fe 格外
 fea 柎
 feaa 攻打
 feaa 无处可安排
@@ -62959,7 +62838,6 @@ feyr 棉农
 feyw 𣞌
 ff 本
 ff 本身
-ff 本来
 ffa 榑
 ffaa 一无可取
 ffab 三天打魚兩天曬網
@@ -63449,6 +63327,7 @@ ffjm 更想幽期處
 ffjp 更无山与齐
 ffjr 棟
 ffjr 本日
+ffjr 林嶽
 ffjr 𣈅
 ffjs 𡹚
 ffjt 榃
@@ -64073,7 +63952,6 @@ ffyy 形形色色
 ffyy 开开心心
 fg 天
 fg 天气
-fg 天天
 fga 椅
 fgaa 武打
 fgaa 棒打
@@ -64860,7 +64738,6 @@ fgyx 天命
 fgyx 天煞
 fh 元
 fh 标准
-fh 标志
 fha 棖
 fha ㄚ
 fhac 杜撰
@@ -65605,7 +65482,6 @@ fhzh ㄓ
 fhzi ㄗ
 fi 樟
 fi 一下
-fi 一起
 fiaa 无所事事
 fiaa 一打
 fiab 一切
@@ -66387,7 +66263,6 @@ fiyw 政治性
 fiyy 更觉鹤心通杳冥
 fj 更
 fj 更加
-fj 更为
 fja 亞
 fjab 三日打魚兩日曬網
 fjab 樶
@@ -67272,7 +67147,6 @@ fjyw 惡性
 fjyx 惡煞
 fk 两
 fk 两个
-fk 两边
 fkab 一网打尽
 fkab 求取
 fkab 天上取樣人間織
@@ -68109,7 +67983,6 @@ fkyx 救急
 fkyy 天网恢恢
 fl 束
 fl 整个
-fl 整体
 fla 楫
 flac 頭寸
 flad 頭頂
@@ -69017,7 +68890,6 @@ flyy 𢤿
 flyy 𪬯
 fm 想
 fm 相同
-fm 相互
 fmaa 𡭚
 fmab 相聚
 fmab 相切
@@ -69752,7 +69624,6 @@ fmyw 兩性
 fmyx 核战争
 fn 正
 fn 正确
-fn 正在
 fnab 正切
 fnab 正取
 fnad 无路可走
@@ -70359,7 +70230,6 @@ fnyv 𰁔
 fnyw 正解
 fo 工
 fo 工作
-fo 工人
 foa 柠
 foab 榨取
 foab 𰘢
@@ -71222,7 +71092,6 @@ foyu 柿餅
 foyu 工於心計
 fp 来
 fp 来到
-fp 来源
 fpaa 开门七件事
 fpab 榨取
 fpab 東窗事發
@@ -71577,7 +71446,6 @@ fpyw 相容性
 fpyy 形容憔悴
 fq 机
 fq 机会
-fq 机器
 fqaa 一無可取
 fqac 𬃢
 fqac 𭔫
@@ -72206,7 +72074,6 @@ fqyw 機動性
 fqyx 𫻐
 fr 楷
 fr 楷体
-fr 楷书
 fra 桁
 frac 𣑣
 fraf 榤
@@ -72651,7 +72518,6 @@ fryu 一往情深深幾許
 fryy 更覺鶴心通杳冥
 fs 开
 fs 开始
-fs 形式
 fsaa 开打
 fsab 开掘
 fsab 横切
@@ -74020,7 +73886,6 @@ fsyw 一斗合自然
 fsyx 𣓿
 ft 松
 ft 检查
-ft 检验
 fta 柢
 ftac 枪把
 ftac 槍把
@@ -74694,7 +74559,6 @@ ftyv 𩵴
 ftyy 松懈
 fu 样
 fu 样子
-fu 样品
 fua 柈
 fuaa 梳妆打扮
 fuab 无言可对
@@ -75215,7 +75079,6 @@ fuys 兩廂情願
 fuyw 相关性
 fv 根
 fv 根据
-fv 根本
 fva 橄
 fvab 根据
 fvac 梛
@@ -76052,7 +75915,6 @@ fvyw 梭子蟹
 fvyx 柳丝袅娜春无力
 fw 万
 fw 构成
-fw 构造
 fwa 榭
 fwab 两肋插刀
 fwab 兩肋插刀
@@ -76129,6 +75991,7 @@ fwec 攀爬
 fwed 吾生后汝期
 fwef 椎体
 fwef 五千仞岳上摩天
+fwef 五千仞嶽上摩天
 fweg 万代
 fweh 万佳
 fweh 𭫺
@@ -76631,7 +76494,6 @@ fwyt 于身色有用
 fwyv 枂
 fx 功
 fx 功能
-fx 功夫
 fxa 楗
 fxaa 梳妝打扮
 fxac 桪
@@ -76941,7 +76803,6 @@ fxye 概貌
 fxyh 禁卫军
 fy 枕
 fy 枕头
-fy 橡胶
 fya 𬷕
 fyaa 无懈可击
 fyac 三军可夺帅也
@@ -77240,10 +77101,8 @@ fyyi 枕心
 fyyy 𣛚
 g 大
 g 大家
-g 大量
 ga 奇
 ga 奇怪
-ga 夺取
 gaaa 𨏴
 gaaa 𰢚
 gaab 夺取
@@ -77661,7 +77520,6 @@ gayx 奉命
 gayx 夺命
 gb 巨
 gb 巨大
-gb 配合
 gbac 𡬡
 gbac 𩋰
 gbah 面紅耳赤
@@ -78284,7 +78142,6 @@ gcyn 𮳺
 gcyo 酏
 gd 环
 gd 环境
-gd 环节
 gdaa 大打
 gdab 大招
 gdab 环切
@@ -79258,7 +79115,6 @@ gdyx 奔命
 gdyy 夫不恬不愉
 ge 革
 ge 革命
-ge 革新
 gea 酹
 geaa 鞭打
 geab 奇货可居
@@ -79778,7 +79634,6 @@ geyx 革命
 geyy 夫何忧何惧
 gf 玩
 gf 玩笑
-gf 玩具
 gfa 玗
 gfaa 輕打
 gfab 輕取
@@ -81402,7 +81257,6 @@ ghyu 𮧑
 ghyw 區域性
 gi 面
 gi 面前
-gi 面对
 giab 匯聚
 giae 面授
 giah 大江东去
@@ -81756,7 +81610,6 @@ giyf 大法師
 giys 面食
 gj 春
 gj 春天
-gj 春节
 gjab 𤩛
 gjab 𨣅
 gjaj 春山携妓采茶时
@@ -82197,7 +82050,6 @@ gjyu 春餅
 gjyx 奋争
 gk 现
 gk 现在
-gk 理论
 gkab 再聚
 gkae 再掀
 gkae 再聽
@@ -82647,7 +82499,6 @@ gkyw 理性
 gkyw 理解
 gl 或
 gl 或者
-gl 或许
 gla 輯
 glaa 毆打
 glac 尀
@@ -82982,7 +82833,6 @@ glyh 匪军
 glym 达喀尔
 gm 划
 gm 划分
-gm 划清
 gmab 環切
 gmad 夵
 gmai 現職
@@ -83389,7 +83239,6 @@ gmym 𤪻
 gmys 大小写
 gn 王
 gn 王朝
-gn 王者
 gnac 𨍋
 gnac 𭹝
 gnam 王东
@@ -83651,7 +83500,6 @@ gnyh 王军
 gnyw 專業性
 go 太
 go 太阳
-go 态度
 goab 𤥥
 goac 酧
 goac 𩊦
@@ -84358,7 +84206,6 @@ goyt 𱰂
 goyu 秦烹惟羊羹
 gp 达
 gp 达到
-gp 达成
 gpab 連招
 gpae 連拍
 gpai 連接
@@ -84623,7 +84470,6 @@ gpyu 連忙
 gpyy 斑鸠
 gq 医
 gq 医生
-gq 医院
 gqaa 𫏹
 gqag 珴
 gqai 医护
@@ -85433,7 +85279,6 @@ gryw 规律性
 gryw 規律性
 gs 弄
 gs 弄清
-gs 勤奋
 gsab 大有可观
 gsab 𨎮
 gsac 𲆵
@@ -86074,7 +85919,6 @@ gsyx 𫞧
 gsyx 𰼋
 gt 珍
 gt 珍惜
-gt 珍贵
 gta 軝
 gtac 𫑼
 gtaf 奃
@@ -86553,7 +86397,6 @@ gtyw 夾餡
 gtyy 夾餡
 gu 夫
 gu 夫人
-gu 夫妻
 gua 靽
 guac 大底聖賢發憤之所為作也
 guac 大底聖賢發憤之所爲作也
@@ -88108,7 +87951,6 @@ gxyb 𭹔
 gxyg 大將軍
 gy 牵
 gy 牵连
-gy 牵涉
 gya 鸢
 gyah 牵挂
 gyal 輓歌
@@ -88420,7 +88262,6 @@ h 地上
 h 地方
 ha 寺
 ha 寺院
-ha 寺庙
 haa 長
 haaa 髟
 haaa 镸
@@ -88736,7 +88577,6 @@ hayo 長久
 hays 長歌懷采薇
 hb 声
 hb 声音
-hb 教育
 hbaa 毒打
 hbaa 轻打
 hbab 轻取
@@ -89375,7 +89215,6 @@ hbyw 连贯性
 hbyx 𦅫
 hc 车
 hc 地区
-hc 地位
 hcab 地摊
 hcac 车把
 hcac 𭔭
@@ -89819,7 +89658,6 @@ hcyw 地角
 hcyx 地煞
 hd 城
 hd 城市
-hd 坏处
 hda 祷
 hdaa 勢不可擋
 hdac 祷
@@ -90352,7 +90190,6 @@ hdyw 填飽
 hdyx 𡍧
 he 未
 he 未来
-he 暂时
 hea 埒
 heac 埒
 heac 祔
@@ -91547,7 +91384,6 @@ hfyw 鬆解
 hfyy 鬆懈
 hg 干
 hg 干活
-hg 干扰
 hga 塼
 hgac 塼
 hgac 𥛥
@@ -91895,7 +91731,6 @@ hgyw 干性
 hgyx 干急
 hh 社
 hh 社会
-hh 封闭
 hha 封
 hhaa 𨲍
 hhaa 𩭨
@@ -92585,7 +92420,6 @@ hhyx 福至心灵
 hhyy 𤘆
 hi 世
 hi 世界
-hi 垃圾
 hiah 连翩击鞠壤
 hial 世事
 hial 長江七號
@@ -92877,7 +92711,6 @@ hiyv 𰉽
 hiyw 勢所必然
 hj 都
 hj 都是
-hj 都有
 hja 埘
 hjab 𩯉
 hjab 𬓙
@@ -93312,7 +93145,6 @@ hjyu 𥜏
 hjyy 神思恍惚
 hk 至
 hk 至于
-hk 责任
 hkaa 责打
 hkae 神採
 hkai 神職
@@ -93848,7 +93680,6 @@ hkyw 神性
 hkyy 士见危致命
 hl 喜
 hl 喜欢
-hl 喜爱
 hla 辑
 hlaa 𩰆
 hlae 遠逝
@@ -94528,7 +94359,6 @@ hlyw 鼓角
 hlyx 𡕉
 hm 到
 hm 到了
-hm 到底
 hmaa 責打
 hmad 到顶
 hmad 到頂
@@ -94995,7 +94825,6 @@ hmyw 視角
 hmyx 賣命
 hmyy 士見危致命
 hn 址
-hn 到此为止
 hna 禍
 hnaa 𩮑
 hnae 却因歌舞破除休
@@ -95164,7 +94993,6 @@ hnxr 長此以往
 hnyu 平常心是道
 ho 较
 ho 较为
-ho 末期
 hoaa 執敲撲而鞭笞天下
 hoac 垨
 hoal 壞事
@@ -95719,7 +95547,6 @@ hoyt 至於負者歌於途
 hoyw 鬢角
 hp 连
 hp 连续
-hp 连接
 hpab 连招
 hpad 坟顶
 hpae 连拍
@@ -96383,7 +96210,6 @@ hqyw 示範性
 hqyy 熱忱
 hr 老
 hr 表现
-hr 表示
 hraa 老挝
 hraa 老鼠过街人人喊打
 hraf 𡏝
@@ -96988,7 +96814,6 @@ hrys 𥘖
 hryw 劫後餘生
 hs 转
 hs 转化
-hs 考虑
 hsab 考取
 hsab 考据
 hsab 𨐉
@@ -97652,7 +97477,6 @@ hsyw 转性
 hsyx 𫭼
 ht 土
 ht 输出
-ht 输入
 hta 祗
 htab 熱切
 htaf 坻
@@ -98423,7 +98247,6 @@ htyy 赤忱
 htyy 熱忱
 hu 平
 hu 增加
-hu 增长
 huab 平摊
 huab 增撥
 huad 平顶
@@ -99211,7 +99034,6 @@ huyl 幸免
 huyo 報館
 hv 去
 hv 却是
-hv 教育
 hva 礽
 hvaa 䯮
 hvac 𡌈
@@ -99792,7 +99614,6 @@ hvyw 𭷤
 hvyx 壽命
 hw 雅
 hw 均匀
-hw 静止
 hwab 均摊
 hwac 塮
 hwac 埓
@@ -100732,7 +100553,6 @@ hxym 𥙧
 hxym 𮫌
 hy 志
 hy 轨迹
-hy 轨道
 hya 鸦
 hyac 𮷋
 hyad 祕技
@@ -101194,7 +101014,6 @@ i 没有
 i 没人
 ia 河
 ia 河流
-ia 河水
 iaa 灄
 iaaa 灄
 iaaa 𭰌
@@ -101469,7 +101288,6 @@ iayt 河蟹
 iayw 河蟹
 ib 汉
 ib 汉语
-ib 汉字
 iba 泽
 ibac 㳔
 ibad 淚飛頓作傾盆雨
@@ -101927,7 +101745,6 @@ ibyo 泥丸
 ibyx 竭尽心力
 ic 池
 ic 池塘
-ic 池水
 ica 泯
 icai 泯
 icai 䇇
@@ -102168,7 +101985,6 @@ icyi 𫺋
 icyy 𰝋
 id 湖
 id 漂亮
-id 潮湿
 ida 涛
 idaa 𱩅
 idab 学不可以已
@@ -102813,7 +102629,6 @@ idyx 𭱢
 idyx 𱧉
 ie 所
 ie 所以
-ie 所有
 iea 洚
 ieaa 激打
 ieab 盜取
@@ -103247,7 +103062,6 @@ iend 𤃙
 iene 浟
 iene 新华路
 iene 海岳尚可倾
-iene 海岳尚可傾
 iene 𭲦
 ienf 滌
 ienf 所困
@@ -103595,7 +103409,6 @@ ieyu 潘岳悼亡猶費詞
 ieyw 𬈼
 if 新
 if 新闻
-if 举行
 ifa 溥
 ifaa 渣打
 ifaa 沉鬱頓挫
@@ -104615,7 +104428,6 @@ ifyt 𱨎
 ifyt 𱨨
 ig 酒
 ig 汇报
-ig 渠道
 iga 漙
 igaa 酒酣耳热
 igab 汇聚
@@ -105930,7 +105742,6 @@ ihyx 𭱅
 ihyy 𤅮
 ii 立
 ii 立即
-ii 立刻
 iiaa 沸沸扬扬
 iiaa 沸沸揚揚
 iiae 立誓
@@ -106662,7 +106473,6 @@ iiyx 童颜鹤发
 iiyx 立命
 ij 意
 ij 意义
-ij 意见
 ija 淠
 ijaa 竟敢
 ijaa 混打
@@ -107195,6 +107005,7 @@ ijn 湿
 ijnd 𣴪
 ijnd 𥪎
 ijne 意图
+ijne 海嶽尚可傾
 ijnf 沉思默想
 ijng 𩑀
 ijnk 𰝤
@@ -107671,7 +107482,6 @@ ijyy 激昂慷慨
 ijyy 𱊰
 ik 油
 ik 测量
-ik 测验
 ikaa 新聞聯播
 ikad 涧水东流复向西
 ikag 滿門抄斬
@@ -108746,7 +108556,6 @@ ilyw 𤀙
 ilyx 竞争
 im 站
 im 消息
-im 消失
 imac 𭱭
 imad 盜賊可以死
 imae 消逝
@@ -109379,7 +109188,6 @@ imyw 消解
 imyw 沙角
 in 遍
 in 遍布
-in 涉及
 ina 涠
 inac 渦
 inaf 滥捕
@@ -109754,7 +109562,6 @@ inyw 溫飽
 inyy 酒足飯飽
 io 流
 io 注意
-io 注重
 ioa 泞
 ioaa 滚打
 ioaa 滾打
@@ -110756,7 +110563,6 @@ ioyw 流觴
 ioyx 濟急
 ip 济
 ip 浏览
-ip 溶解
 ipaa 没精打採
 ipaa 新闻联播
 ipac 𣻕
@@ -111022,7 +110828,6 @@ ipyw 麟角
 ipyx 济急
 iq 产
 iq 产生
-iq 产品
 iqa 涐
 iqaa 立等可取
 iqad 没顶
@@ -111814,7 +111619,6 @@ iqyw 海角
 iqyx 没命
 ir 活
 ir 活动
-ir 活泼
 iraf 清風播人天
 iraf 滐
 irah 洐
@@ -112235,7 +112039,6 @@ iryw 流行性
 iryx 活命
 is 满
 is 满足
-is 满意
 isa 溽
 isaa 沉郁顿挫
 isab 𣽇
@@ -113169,7 +112972,6 @@ isyy 𬉡
 isyy 𰒒
 it 溜
 it 溜走
-it 沦为
 ita 汦
 itac 𤀯
 itae 𣶌
@@ -113623,7 +113425,6 @@ ityn 𪛎
 ityw 沁人心脾
 iu 淡
 iu 淡淡
-iu 滋味
 iua 泮
 iuab 𱩛
 iuac 𣵧
@@ -114160,7 +113961,6 @@ iuyl 流氓兔
 iuys 淡食
 iv 治
 iv 治疗
-iv 渗透
 iva 澉
 ivab 汲取
 ivac 𣱽
@@ -114659,7 +114459,6 @@ ivys 𩜥
 ivyv 章子怡
 iw 洗
 iw 沟通
-iw 淘汰
 iwa 麝
 iwaa 沒敢
 iwab 襲取
@@ -115445,7 +115244,6 @@ iwyv 龍生九子
 iwyx 沒命
 ix 津
 ix 浸泡
-ix 浸润
 ixa 浔
 ixac 浔
 ixad 所以敢先汝而死
@@ -115683,7 +115481,6 @@ ixyu 𱧪
 ixyx 竭盡心力
 iy 学
 iy 学习
-iy 学生
 iyab 深切
 iyac 𭱔
 iyae 𱉓
@@ -116254,7 +116051,6 @@ j 是的
 j 是否
 ja 时
 ja 时候
-ja 时间
 jaaa 𣌍
 jaaa 𭗵
 jaae 𣊟
@@ -116545,7 +116341,6 @@ jayu 𭧈
 jayv 山东快书
 jb 照
 jb 照片
-jb 照顾
 jba 峄
 jbac 𫵹
 jbac 𬀮
@@ -116873,7 +116668,6 @@ jbyi 𣇡
 jbyj 𡶋
 jbyu 凯悦
 jc 岷
-jc 男女老少
 jcai 岷
 jcai 男女授受不亲
 jcai 男女授受不親
@@ -117395,7 +117189,6 @@ jdyv 㟑
 jdyv 㫲
 je 暖
 je 暖和
-je 略有
 jeac 㽟
 jeac 𱛭
 jead 峰顶
@@ -117734,7 +117527,6 @@ jeye 曖
 jeyi 暖心
 jf 量
 jf 果然
-jf 题材
 jfa 旴
 jfaa 果敢
 jfaa 豈敢
@@ -118408,7 +118200,6 @@ jfyw 題解
 jfyx 山東快書
 jg 畏
 jg 畏惧
-jg 旺盛
 jga 崎
 jgac 暷
 jgac 𪩍
@@ -118644,7 +118435,6 @@ jgym 畏懼
 jgyr 𩉉
 jh 晴
 jh 晴朗
-jh 崭新
 jha 峙
 jhac 時
 jhac 畤
@@ -119020,7 +118810,6 @@ jhyu 山寺歸來聞好語
 jhyu 曀
 ji 暗
 ji 暗示
-ji 暗暗
 jiad 早潮才落晚潮來
 jiaf 早潮才落晚潮来
 jiak 暗下
@@ -119284,7 +119073,6 @@ jiye 㬁
 jiym 暗盒
 jj 晶
 jj 晶莹
-jj 晶体
 jjab 𣋁
 jjac 早晚下三巴
 jjac 𱛬
@@ -119785,7 +119573,6 @@ jjys 𰎽
 jjys 𰖦
 jk 映
 jk 岗位
-jk 映出
 jkac 是则可忧也
 jkae 𣌙
 jkah 時聞折竹聲
@@ -119989,7 +119776,6 @@ jkyt 𤲳
 jkyw 時間性
 jkyw 岬角
 jl 巖
-jl 影响力
 jlad 暗中摸索
 jlag 嶯
 jlal 𭖫
@@ -120119,7 +119905,6 @@ jlyi 巖心
 jlyi 𣊾
 jm 晃
 jm 晃动
-jm 峭壁
 jma あ
 jma ア
 jma ぁ
@@ -120525,7 +120310,6 @@ jmzu ズ
 jmzy ゛
 jn 显
 jn 显然
-jn 显著
 jnam 显摆
 jnas 𡹬
 jnas 𡺩
@@ -121298,7 +121082,6 @@ jpyt 顆粒歸倉
 jpyw 时间性
 jq 昨
 jq 昨天
-jq 昨晚
 jqa 峨
 jqac 𡬩
 jqae 暗箱操作
@@ -121558,7 +121341,6 @@ jqyj 晦冥
 jqys 𱛴
 jr 日
 jr 日子
-jr 日后
 jra 嵥
 jrac 𭥸
 jraf 嵥
@@ -121710,6 +121492,7 @@ jrhw 日均
 jrhw 男兒到死心如鐵
 jrhw 嶶
 jrhy 日志
+jric 嶽池
 jrif 日新
 jrig 日漸
 jrig 晓行湘水春
@@ -122024,7 +121807,6 @@ jrys 晌飯
 jryt 𰢼
 js 山
 js 山区
-js 暴力
 jsaa 暴打
 jsab 𭗕
 jsad 山顶
@@ -123803,7 +123585,6 @@ jvyw 顯性
 jvyx 峻急
 jw 明
 jw 明天
-jw 明白
 jwad 歇顶
 jwad 歇頂
 jwae 盟誓
@@ -124497,7 +124278,6 @@ jwyw 崩解
 jwyx 𰖳
 jx 男
 jx 男女
-jx 男性
 jxaa 是以聖人處無為之事
 jxaa 是以聖人處無爲之事
 jxag 是以聖人終不為大
@@ -125120,10 +124900,8 @@ jyyr 豈餘心之可懲
 jyys 晚飯
 k 上
 k 上面
-k 上升
 ka 财
 ka 财产
-ka 财富
 kaaa 𧕩
 kaaa 𨵰
 kaab 𮤜
@@ -125695,7 +125473,6 @@ kcyk 虫豸
 kcyn 𬮆
 kd 电
 kd 电子
-kd 电脑
 kdab 𫋦
 kdah 电挂
 kdah 则胡可得而累邪
@@ -126421,7 +126198,6 @@ keyx 蝦兵蟹將
 keyy 申冤
 kf 同
 kf 同时
-kf 同样
 kfa 赙
 kfaa 開打
 kfab 開掘
@@ -127557,7 +127333,6 @@ khyn 閕
 khyu 𨶮
 ki 赔
 ki 赔偿
-ki 赔付
 kiai 上漏下湿
 kiai 上漏下濕
 kiai 上漏下溼
@@ -129051,7 +128826,6 @@ klyi 問心
 klyi 𨴽
 km 则
 km 叔叔
-km 卡号
 kmab 贴切
 kmac 𡬧
 kmac 𫧵
@@ -129588,7 +129362,6 @@ knys 肉跳心驚
 knyy 肉跳心惊
 ko 由
 ko 由于
-ko 由此
 koaa 由打
 koab 𪉼
 koaf 蟾宫折桂
@@ -129919,7 +129692,6 @@ koyu 聞官軍收河南河北
 koyw 螃蟹
 kp 遇
 kp 遇到
-kp 遇见
 kpab 曲裡拐彎
 kpac 䗫
 kpal 遇事
@@ -130064,7 +129836,6 @@ kpyp 财迷心窍
 kpyu 聞之色變
 kq 贬
 kq 贬义
-kq 贬值
 kqa 蛾
 kqag 蛾
 kqah 则凡可以得生者
@@ -130641,7 +130412,6 @@ kryw 內愧
 kryx 內急
 ks 里
 ks 里面
-ks 典型
 ksa 蝆
 ksaa 𭕁
 ksab 最
@@ -131726,7 +131496,6 @@ ksyy 则有心旷神怡
 ksyy 𰳥
 kt 内
 kt 内容
-kt 内部
 kta 蚳
 ktab 内切
 ktab 内聚
@@ -132355,7 +132124,6 @@ ktyx 𮊜
 ktyy 肉餡
 ku 赚
 ku 赚钱
-ku 赠送
 kua 誾
 kuab 赚取
 kuad 𫌷
@@ -132736,7 +132504,6 @@ kuyi 𨶡
 kuyw 剛性
 kv 水
 kv 水平
-kv 水分
 kva 闞
 kvab 關切
 kvab 畅聚
@@ -133211,7 +132978,6 @@ kvyw 水性
 kvyw 水解
 kw 刚
 kw 刚才
-kw 刚刚
 kwac 𬮏
 kwaf 网捕
 kwai 閒職
@@ -133615,7 +133381,6 @@ kwyw 刚性
 kwyw 𮊔
 kx 见
 kx 见到
-kx 见面
 kxac 𫊻
 kxad 见顶
 kxao 𧉳
@@ -133771,7 +133536,6 @@ kxym 𧌈
 kxyt 见解
 ky 愚
 ky 愚昧
-ky 愚蠢
 kya 鸭
 kyab 𱉐
 kyag 上情下达
@@ -134010,7 +133774,6 @@ l 中间
 l 中国
 la 呵
 la 叮嘱
-la 吓人
 laa 囁
 laaa 囁
 laaa 𡆄
@@ -134664,7 +134427,6 @@ lcyv 吔
 lcyv 𱑿
 ld 喊
 ld 喊道
-ld 叶子
 ldaa 喊打
 ldac 𠷻
 ldac 𱒦
@@ -135328,7 +135090,6 @@ ldyx 𠷺
 ldyy 喊冤
 le 听
 le 听到
-le 听说
 lea 咐
 leaa 吹打
 leaa 听打
@@ -135796,7 +135557,6 @@ leyx 听命
 leyx 吹皱
 lf 呆
 lf 呆板
-lf 韭菜
 lfa 吁
 lfac 㗘
 lfac 𠴘
@@ -136437,7 +136197,6 @@ lgyi 𠽡
 lgyv 𠯅
 lh 呀
 lh 味道
-lh 味儿
 lhac 𠱾
 lhah 呈祥势可嘉
 lham 咬牙切齒
@@ -136748,7 +136507,6 @@ lhyv 呀
 lhyw 戰士軍前半死生
 li 非
 li 非常
-li 非但
 liaf 中流击楫
 lian 𱒓
 libf 非經
@@ -136996,8 +136754,7 @@ liyw 吸湿性
 liyw 吸濕性
 liyw 吸溼性
 lj 喝
-lj 喝酒
-lj 唱歌
+lj 〔
 lja 嘬
 ljab 嘬
 ljac 𫪅
@@ -137248,7 +137005,6 @@ ljys 喂食
 ljys 喂貓
 lk 员
 lk 虽然
-lk 虽说
 lkae 㘚
 lkai 吴刚捧出桂花酒
 lkai 吳剛捧出桂花酒
@@ -137625,7 +137381,6 @@ lkyv 遗恨
 lkyv 遺恨
 ll 品
 ll 品种
-ll 品味
 llaa 單打
 llaa 嚴打
 llaa 吹吹打打
@@ -138469,7 +138224,6 @@ llyw 獸性
 llyy 嘈嘈杂杂
 lm 吵
 lm 吵架
-lm 吵闹
 lmaa 吊打
 lmac 𪡮
 lmad 吊顶
@@ -140517,7 +140271,6 @@ lryy 鳴冤
 lryy 𪢖
 ls 号
 ls 号码
-ls 器材
 lsa 嗕
 lsac 嗕
 lsac 𱒰
@@ -141060,7 +140813,6 @@ lsyw 號角
 lsyx 唠
 lt 只
 lt 只有
-lt 只是
 ltac 只把
 ltaf 呧
 ltai 𭇇
@@ -141641,7 +141393,6 @@ luyo 𡆙
 luyr 𭌂
 lv 口
 lv 哪里
-lv 哪儿
 lva 哪
 lvaa 哪敢
 lvab 吸取
@@ -144709,7 +144460,6 @@ meyl 敗象
 meyw 目的性
 mf 目
 mf 目前
-mf 目光
 mfa 盱
 mfac 髆
 mfac 賻
@@ -145540,7 +145290,6 @@ mgyw 邏輯性
 mgyw 𮉽
 mh 署
 mh 光线
-mh 光芒
 mha 帳
 mhaa 虎视耽耽
 mhaa 虎視耽耽
@@ -149541,7 +149290,6 @@ mryo 餐館
 mrys 𩛈
 ms 瞒
 ms 瞒着
-ms 瞄準
 msaa 小苏打
 msaa 小蘇打
 msac 眾芳搖落獨暄妍
@@ -149954,7 +149702,6 @@ msyo 𧈋
 msyy 則有心曠神怡
 mt 具
 mt 具体
-mt 帐号
 mta 骶
 mtaf 骶
 mtaf 眡
@@ -151049,7 +150796,6 @@ mvyw 眼角
 mvyy 眼饞
 mw 瞧
 mw 瞧瞧
-mw 削减
 mwac 𬙥
 mwae 虧折
 mwai 削職
@@ -151789,7 +151535,6 @@ mxyt 見解
 mxyw 見解
 my 睁
 my 睁开
-my 睁大
 mya 鹘
 myaf 虚负东阳酒担来
 myag 鹘
@@ -154570,7 +154315,6 @@ nhys 牚
 nhyv 𬦤
 ni 止
 ni 止步
-ni 止损
 niaf 過河拆橋
 niaf 點酒下鹽豉
 nias 临渴掘井
@@ -155685,7 +155429,6 @@ nlyw 圖解
 nlyw 圓角
 nm 常
 nm 常常
-nm 频率
 nma 步
 nmaa 围点打援
 nmab 點撥
@@ -156790,7 +156533,6 @@ npyo 過久
 npyx 過急
 nq 四
 nq 四周
-nq 监督
 nqab 當年拼卻醉顏紅
 nqaf 紫气东来
 nqag 𨁟
@@ -157344,7 +157086,6 @@ nqyw 党性
 nqyw 四角
 nr 些
 nr 此外
-nr 此时
 nraf 𨃥
 nrah 䟰
 nral 此事
@@ -158091,7 +157832,6 @@ nsyv 𪓈
 nsyv 𰸹
 nt 掌
 nt 掌握
-nt 掌声
 ntab 掌握
 ntaf 䟡
 ntai 䟗
@@ -158451,7 +158191,6 @@ ntyi 𨃡
 ntyw 𭍯
 nu 业
 nu 业务
-nu 业余
 nua 圁
 nuaa 對打
 nuad 對撼
@@ -159176,7 +158915,6 @@ nvxo 足以
 nvyc 足色
 nw 跑
 nw 肯定
-nw 跑到
 nwam 跑掉
 nwba 此生已觉都无事
 nwba 此生已覺都無事
@@ -160002,7 +159740,6 @@ oays 守恒
 oays 守恆
 ob 记
 ob 记者
-ob 记忆
 oba 译
 obab 记取
 obab 實招
@@ -160364,7 +160101,6 @@ obyw 记性
 obyw 客观性
 oc 安
 oc 安排
-oc 安全
 ocaf 安抚
 ocaf 安捷
 ocag 雍也可使南面
@@ -160480,6 +160216,7 @@ ociv 安慶
 ocjb 安凯
 ocjf 安凱
 ocjm 安曼
+ocjr 安嶽
 ocjw 安歇
 ocjw 𡪙
 ock 谲
@@ -161286,7 +161023,6 @@ odyw 突破性
 odyy 家鸽
 oe 夜
 oe 夜晚
-oe 夜里
 oeac 𡧛
 oeai 𡨗
 oeaj 褒揚
@@ -161890,7 +161626,6 @@ oeyx 宿命
 oeyy 诉冤
 of 定
 of 语言
-of 完全
 ofa 宇
 ofaa 交頭接耳
 ofab 证据
@@ -162569,7 +162304,6 @@ ofyw 定性
 ofyw 完整性
 og 方
 og 方法
-og 方向
 oga 寄
 ogaa 主打
 ogaa 试打
@@ -163126,7 +162860,6 @@ ogyw 计划性
 ogyw 𡫷
 oh 诗
 oh 诗歌
-oh 诗词
 ohab 割切
 ohac 诗
 ohad 宏都拉斯
@@ -164389,7 +164122,6 @@ okys 计上心头
 okyu 诺贝尔奖
 ol 就
 ol 就是
-ol 就要
 olaa 敲打
 olaa 误打
 olab 高招
@@ -165646,7 +165378,6 @@ olyy 亴
 olyy 𭝵
 om 刻
 om 市场
-om 市长
 omag 宵眠抱玉鞍
 omam 氈幄擲盧忘夜睡
 omb 賌
@@ -166772,7 +166503,6 @@ opyo 说文解字
 opyr 𬤛
 oq 许
 oq 许多
-oq 设备
 oqa 宅
 oqab 窃
 oqab 诈取
@@ -168023,7 +167753,6 @@ oqyx 𫁕
 oqyy 𥩇
 or 话
 or 它们
-or 话语
 orad 高科技
 oraf 诱捕
 oraf 高舉振六翮
@@ -168482,7 +168211,6 @@ oryw 方向性
 oryw 安全性
 os 实
 os 实现
-os 实际
 osaa 交头接耳
 osab 谋取
 osab 实据
@@ -169270,7 +168998,6 @@ osyx 𬣿
 osyy 宠辱忧欢不到情
 ot 六
 ot 认为
-ot 认识
 ota 诋
 otaa 𱚘
 otab 论据
@@ -170018,7 +169745,6 @@ otyx 效命
 otyx 𠢖
 ou 说
 ou 说明
-ou 商品
 ouaa 𲂍
 ouab 齊聚
 ouac 𡨎
@@ -170779,7 +170505,6 @@ ouyy 𢝃
 ouyy 𱊕
 ov 字
 ov 充分
-ov 充满
 ovab 字据
 ovae 𡪯
 ovae 𰶆
@@ -171421,7 +171146,6 @@ ovyw 𪺮
 ovyx 育雏
 ow 谁
 ow 调整
-ow 调查
 owa 谢
 owaa 调摄
 owab 调取
@@ -172258,7 +171982,6 @@ oxys 郎貓
 oxyt 语出惊人
 oy 密
 oy 密切
-oy 密度
 oyab 密切
 oyad 密技
 oyag 𲍮
@@ -172647,7 +172370,6 @@ p 这个
 p 这样
 pa 麻
 pa 麻烦
-pa 衬托
 paa 麻
 paaa 襵
 paaa 𬗂
@@ -172909,7 +172631,6 @@ payo 𬏧
 payv 𫴬
 pb 变
 pb 变化
-pb 变成
 pbaa 痛打
 pbab 痛切
 pbac 𰳸
@@ -173882,7 +173603,6 @@ pdyv 𧚆
 pdyw 突破性
 pe 之
 pe 之后
-pe 之间
 pea 袶
 peac 袝
 peac 㾈
@@ -174307,7 +174027,6 @@ peyt 疼怜
 peyx 之争
 pf 空
 pf 空气
-pf 空间
 pfa 闫
 pfab 这一切
 pfac 糐
@@ -174946,7 +174665,6 @@ pfyt 補角
 pfyw 補角
 pg 类
 pg 类型
-pg 类似
 pgab 类聚
 pgac 䊜
 pgac 𤹵
@@ -175156,7 +174874,6 @@ pgym 𧸠
 pgyy 䘝
 ph 精
 ph 精神
-ph 精妙
 pha 痔
 phaa 精神抖擞
 phaa 精神抖擻
@@ -175584,7 +175301,6 @@ phyy 精神恍惚
 phyy 𧘪
 pi 亦
 pi 亦可
-pi 亦即
 pial 摩洛哥
 pial 亦可
 pian 摩肩接踵
@@ -175786,7 +175502,6 @@ piyh 文章憎命達
 piyx 𭼎
 pj 间
 pj 间接
-pj 间隔
 pja 痹
 pjab 襊
 pjac 𬖞
@@ -176318,7 +176033,6 @@ pkyr 㿕
 pkyx 𥧆
 pl 问
 pl 问题
-pl 问道
 plad 窜扰
 plae 文史哲
 plag 𮖹
@@ -176568,7 +176282,6 @@ plyi 𥦗
 plys 吝惜
 pm 米
 pm 补充
-pm 补偿
 pmai 粗拉
 pmai 米拉
 pman 补丁
@@ -177027,7 +176740,6 @@ pmyt 补角
 pmyw 粘性
 pn 门
 pn 门口
-pn 门外
 pna 窩
 pnaa 𪎩
 pnab 瘑
@@ -177282,7 +176994,6 @@ pnyi 窩心
 pnyl 文過飾非
 po 闹
 po 粮食
-po 粽子
 poab 𧜮
 poal 闹事
 poan 䘢
@@ -177897,7 +177608,6 @@ ppyp 闻之色变
 ppyy 痛痛快快
 pq 疯
 pq 疾病
-pq 疯狂
 pqab 竊取
 pqag 竊聽
 pqag 𧚄
@@ -178204,7 +177914,6 @@ pqyi 𢞱
 pqyw 𮹂
 pr 窗
 pr 窗外
-pr 窗户
 pra 粼
 praa 甐
 prac 鄰
@@ -178600,7 +178309,6 @@ pryi 痛彻心扉
 pryi 痛徹心扉
 ps 突
 ps 突然
-ps 突出
 psa 褥
 psab 類聚
 psac 褥
@@ -179137,7 +178845,6 @@ psyx 痨
 psyx 𰪿
 pt 容
 pt 容易
-pt 容量
 pta 阍
 ptab 齐聚
 ptaf 袛
@@ -179605,7 +179312,6 @@ ptyt 亦余心之所善兮
 ptyw 𩵳
 pu 糖
 pu 阅读
-pu 阐述
 pua 袢
 puaa 䜆
 puab 𤶘
@@ -179972,7 +179678,6 @@ puyu 糕餅
 puyy 𥨭
 pv 被
 pv 被动
-pv 疲劳
 pva 阚
 pvaa 被打
 pvab 疓
@@ -180294,7 +179999,6 @@ pvyi 窓
 pvyt 弯角
 pw 文
 pw 文化
-pw 文学
 pwac 𤶡
 pwac 𧛼
 pwae 文採
@@ -180741,7 +180445,6 @@ pwyw 魔性
 pwyw 𦙟
 px 离
 px 离开
-px 离去
 pxae 断折
 pxaf 𱸸
 pxai 離職
@@ -181161,7 +180864,6 @@ pxyw 離解
 pxyx 褶皱
 py 究
 py 究竟
-py 恋爱
 pya 鸾
 pya à
 pya á
@@ -181446,7 +181148,6 @@ q 我们
 q 我的
 qa 年
 qa 年代
-qa 年龄
 qaaa 𥷨
 qaaa 𥸓
 qaae 𥴋
@@ -181891,7 +181592,6 @@ qayo 𱷷
 qays 笙歌歸院落
 qb 每
 qb 每个
-qb 系统
 qbac 䈙
 qbaf 敏捷
 qbal 系扣
@@ -182425,7 +182125,6 @@ qcyt 儿女情长
 qcyy 𲍆
 qd 顺
 qd 顺利
-qd 顺序
 qda 筹
 qdac 筹
 qdac 𩾂
@@ -182916,7 +182615,6 @@ qdyw 重要性
 qdyw 敏感性
 qe 笑
 qe 符合
-qe 符号
 qea 符
 qeac 鲋
 qeac 符
@@ -183336,7 +183034,6 @@ qeyt 節餘
 qeyx 笑煞
 qf 短
 qf 策略
-qf 箱子
 qfa 竽
 qfaa 短打
 qfaf 矫枉过正
@@ -183966,7 +183663,6 @@ qfyf 鳳冠
 qfyx 短命
 qg 重
 qg 重要
-qg 重大
 qga 篿
 qgaa 重打
 qgaa 我醉拍手狂歌
@@ -184608,7 +184304,6 @@ qgys 重写
 qgyv 失忆
 qh 等
 qh 等等
-qh 等待
 qhaa 𱸯
 qhac 等
 qhaf 𮆩
@@ -184940,7 +184635,6 @@ qhyw 等角
 qhyy 𬶅
 qi 篇
 qi 篇章
-qi 篇幅
 qiaa 無所事事
 qiac 無意插柳柳成陰
 qiaj 𥶅
@@ -185283,7 +184977,6 @@ qiyk 儿童急走追黄蝶
 qiyn 𬕺
 qj 几
 qj 几个
-qj 几人
 qja 鲥
 qjab 几招
 qjab 𥳣
@@ -186042,7 +185735,6 @@ qkyr 𥶿
 qkyy 𱈂
 ql 知
 ql 知道
-ql 智慧
 qlab 智取
 qlaf 矢口抵赖
 qlaf 矢口抵賴
@@ -186328,7 +186020,6 @@ qlyi 𫇟
 qlyw 知性
 qm 盘
 qm 怎么
-qm 怎样
 qma 衈
 qmaa 怎敢
 qmaa 無處可安排
@@ -186914,7 +186605,6 @@ qmyw 血性
 qmyx 算命
 qn 凡
 qn 凡是
-qn 延长
 qnad 無路可走
 qnak 延擱
 qnak 䈑
@@ -187225,7 +186915,6 @@ qnyu 𥸣
 qnyw 延性
 qo 管
 qo 管理
-qo 管辖
 qoac 𬕀
 qoae 航拍
 qoai 管护
@@ -187641,7 +187330,6 @@ qoyt 𥳥
 qoyw 知识性
 qp 简
 qp 简单
-qp 简直
 qpaa 笑容可掬
 qpac 失之东隅
 qpae 翻拍
@@ -188188,7 +187876,6 @@ qpyw 氣性
 qpyx 氣急
 qq 气
 qq 气候
-qq 气质
 qqad 我年过半百
 qqaf 簇簇歌台舞榭
 qqaf 簇簇歌臺舞榭
@@ -188696,7 +188383,6 @@ qqyw 气性
 qqyx 气急
 qr 儿
 qr 儿子
-qr 笔画
 qrae 笔挺
 qrah 筕
 qrah 𦨵
@@ -189048,7 +188734,6 @@ qrym 𥵍
 qryt 笔触
 qs 逃
 qs 逃跑
-qs 升起
 qsac 衆芳搖落獨暄妍
 qsad 舞技
 qsae 無援
@@ -189780,7 +189465,6 @@ qsyx 𬶗
 qsyx 𱸇
 qt 签
 qt 签字
-qt 签名
 qtaf 𦨢
 qtah 𩶷
 qtai 𥫽
@@ -190103,7 +189787,6 @@ qtyp 𨙢
 qtys 𫙭
 qu 瓜
 qu 瓜果
-qu 瓜子
 qua 乎
 quac 乏善可陈
 quac 乏善可陳
@@ -190466,7 +190149,6 @@ quyr 瓜农
 quyw 知識性
 qv 么
 qv 第一
-qv 第二
 qva 氖
 qvac 𥭵
 qvae 乞援
@@ -190738,7 +190420,6 @@ qvyw 𤙋
 qvyy 等终军之弱冠
 qw 风
 qw 风格
-qw 风俗
 qwac 鲲鹏击浪从兹始
 qwac 𥱈
 qwac 𪿎
@@ -191741,7 +191422,6 @@ r 得到
 r 得意
 ra 行
 ra 行为
-ra 行动
 raaa 𣰼
 raaa 𤣒
 raaa 𱃒
@@ -192704,7 +192384,6 @@ rcyv 夕阳忧子孙
 rcyx 衡陽歸雁幾封書
 rd 德
 rd 德国
-rd 犹如
 rdaa 多不过六七
 rdab 學不可以已
 rdac 𩗡
@@ -193275,7 +192954,6 @@ rdyw 德性
 rdyy 風雨悽悽
 re 饭
 re 敌人
-re 循环
 reab 斂聚
 reac 𤝔
 reac 𤞙
@@ -193789,7 +193467,6 @@ reyw 𫓓
 reyx 猴急
 rf 微
 rf 微笑
-rf 毁坏
 rfa 猼
 rfaa 多一事不如少一事
 rfac 馎
@@ -194601,7 +194278,6 @@ rfyx 風急
 rfyy 狗頭軍師
 rg 狂
 rg 狭窄
-rg 狭义
 rga 猗
 rgab 𠓴
 rgac 𥡵
@@ -195066,7 +194742,6 @@ rgyw 全角
 rgyw 全球性
 rh 待
 rh 街道
-rh 街上
 rha 衎
 rhab 積聚
 rhac 待
@@ -196018,7 +195693,6 @@ riyy 和颜悦色
 riyy 和顔悦色
 rj 香
 rj 香味
-rj 香烟
 rjab 穝
 rjab 𦦣
 rjah 𧗣
@@ -196657,7 +196331,6 @@ rjys 多易必多難
 rjyw 𱮚
 rk 独
 rk 独立
-rk 独特
 rkaa 𰔥
 rkah 𧊔
 rkaj 𥟗
@@ -197040,7 +196713,6 @@ rkys 狸貓
 rkyt 独角
 rl 和
 rl 程度
-rl 种类
 rlab 积聚
 rlaf 名捕
 rlak 名下
@@ -197529,7 +197201,6 @@ rlyw 和解
 rlyw 名角
 rm 外
 rm 外面
-rm 利用
 rmab 外切
 rmac 𡭫
 rmac 𢔶
@@ -198385,7 +198056,6 @@ rmyw 外角
 rmyw 獨角
 rn 向
 rn 向前
-rn 向上
 rna 猧
 rnac 𡬯
 rnac 𰐵
@@ -198655,7 +198325,6 @@ rnyj 𫶋
 rnyw 全國性
 ro 往
 ro 往往
-ro 往来
 roa 狞
 roac 狩
 roag 入室操戈
@@ -199237,7 +198906,6 @@ royw 稳定性
 royw 穩定性
 rp 适
 rp 适应
-rp 适合
 rpac 𪎓
 rpad 奥拓
 rpah 𥢂
@@ -199458,7 +199126,6 @@ rpyy 和顏悦色
 rpyy 和顏悅色
 rq 疑
 rq 疑惑
-rq 秩序
 rqa 饿
 rqaa 秋风过耳
 rqad 秃顶
@@ -200127,7 +199794,6 @@ rqyw 季節性
 rqyw 全無心肝
 rr 多
 rr 多少
-rr 比较
 rraa 稀稀拉拉
 rraa 𭐹
 rrac 𭔯
@@ -201071,7 +200737,6 @@ rryx 毙命
 rryx 𦐳
 rs 科
 rs 科学
-rs 科技
 rsab 猎取
 rsab 獲取
 rsac 䅶
@@ -201764,7 +201429,6 @@ rsyx 𲋦
 rsyy 𢢐
 rt 徐
 rt 徐州
-rt 衔接
 rta 衔
 rtaf 彽
 rtaf 秪
@@ -203028,7 +202692,6 @@ ruyw 适应性
 ruyx 𭅿
 rv 很
 rv 很多
-rv 很快
 rva 秀
 rvaa 猛打
 rvab 獵取
@@ -203883,7 +203546,6 @@ rvyw 獵豹
 rvyx 狠命
 rw 狗
 rw 饱和
-rw 黎明
 rwa 銜
 rwac 𤠭
 rwac 𩘧
@@ -204513,7 +204175,6 @@ rwyv 𦦩
 rwyy 銜冤
 rx 乱
 rx 律师
-rx 秉持
 rxa 律
 rxaa 乱打
 rxah 秉持
@@ -204788,7 +204449,6 @@ rxys 秀出九芙蓉
 rxyw 秉性
 ry 称
 ry 称为
-ry 称呼
 rya 鸹
 ryad 秘技
 ryad 秀色掩今古
@@ -205164,7 +204824,6 @@ s 有的
 s 有些
 sa 耐
 sa 耐心
-sa 冻结
 saaa 耐打
 saab 𭆐
 saae 耐聽
@@ -205544,7 +205203,6 @@ sayw 𦾣
 sayx 𦰖
 sb 友
 sb 互相
-sb 互助
 sbaa 𦽬
 sbab 緊握
 sbab 反切
@@ -206621,7 +206279,6 @@ scyx 𦯏
 scyy 𦻕
 sd 苦
 sd 斗争
-sd 减少
 sdaa 厮打
 sdaa 堅不可摧
 sdab 凄切
@@ -207433,7 +207090,6 @@ sdyx 苦命
 sdyx 葧
 se 二
 se 原则
-se 原因
 sea 荷
 seab 花招
 seab 盗取
@@ -208622,7 +208278,6 @@ seyw 压倒性
 seyw 壓倒性
 sf 与
 sf 左右
-sf 左手
 sfa 芋
 sfaa 有一搭没一搭
 sfaa 難打
@@ -209720,7 +209375,6 @@ sfyw 左角
 sfyy 云横九派浮黄鹤
 sg 头
 sg 头上
-sg 头发
 sga 蓴
 sgab 凑聚
 sgab 𧁍
@@ -210969,7 +210623,6 @@ shyw 菱角
 shyx 著急
 si 落
 si 范围
-si 落后
 sia 菏
 siab 萍聚
 siad 落拓
@@ -211770,7 +211423,6 @@ siyu 黃州快哉亭記
 siyv 𰱚
 sj 莫
 sj 莫非
-sj 遭到
 sja 莳
 sjab 蕞
 sjac 莳
@@ -212547,7 +212199,6 @@ sjyw 臨時性
 sjyx 落日心猶壯
 sk 黄
 sk 英雄
-sk 英国
 skac 英寸
 skac 𡬭
 skad 盗贼可以死
@@ -213387,7 +213038,6 @@ skyw 原则性
 skyw 有贼心没贼胆
 sl 冲
 sl 冲突
-sl 况且
 sla 葺
 slab 歡聚
 slad 冲顶
@@ -213908,8 +213558,7 @@ slyw 勸解
 slyw 右角
 slyw 𫉩
 sm 布
-sm 布置
-sm 布局
+sm 《
 smac 𭆎
 smaj 䒕
 smak 布下
@@ -214413,7 +214062,6 @@ smyw 𱿋
 smyx 𦒃
 sn 存
 sn 存在
-sn 在于
 sna 萵
 snab 在握
 snab 存取
@@ -214902,7 +214550,6 @@ snyt 甘棠憶召公
 snyw 专业性
 so 丈
 so 丈夫
-so 凉快
 soa 苧
 soab 萃取
 soab 𦸤
@@ -215487,7 +215134,6 @@ soyw 决定性
 soyw 有效性
 sp 蓉
 sp 蘑菇
-sp 芝麻
 spac 萨摩耶
 spac 薩摩耶
 spag 𤮡
@@ -216249,7 +215895,6 @@ sqys 歡笑情如舊
 sqyw 二重性
 sr 而
 sr 而且
-sr 而是
 sra 荇
 srab 获取
 srab 凝聚
@@ -216957,7 +216602,6 @@ sryw 藝術性
 sryy 苟全性命
 ss 若
 ss 某些
-ss 厌恶
 ssa 蓐
 ssab 耍花招
 ssac 蓐
@@ -218211,7 +217855,6 @@ ssyy 萱草解忘忧
 ssyy 艱難愧深情
 st 进
 st 进行
-st 共享
 sta 芪
 staa 蘇打
 stab 进取
@@ -219211,7 +218854,6 @@ styw 共性
 styy 苟全性命
 su 灰
 su 灰色
-su 荒谬
 suaa 有席捲天下
 suac 䛗
 suad 灰顶
@@ -219773,7 +219415,6 @@ suyv 𠩄
 suyw 英語角
 sv 动
 sv 运动
-sv 决定
 sva 艿
 svac 荮
 svac 𦰡
@@ -220508,7 +220149,6 @@ svyw 药性
 svyw 云豹
 sw 有
 sw 准备
-sw 警告
 swaa 散打
 swab 散摊
 swac 㓔
@@ -221635,7 +221275,6 @@ swyw 有愧
 swyy 𧂿
 sx 历
 sx 历史
-sx 专门
 sxa 荨
 sxaa 苏打
 sxac 荨
@@ -222112,7 +221751,6 @@ sxyo 𧃎
 sxys 节食
 sy 带
 sy 带来
-sy 劳动
 sya 茑
 syac 𪧹
 syad 劳技
@@ -222758,7 +222396,6 @@ t 个人
 t 个个
 ta 昏
 ta 昏迷
-ta 昏暗
 taaa 𩽪
 taae 䲎
 taae 𰾳
@@ -223088,7 +222725,6 @@ tays 长歌怀采薇
 tayt 钝角
 tb 分
 tb 分析
-tb 分子
 tba 铎
 tbaa 分拣
 tbab 分摊
@@ -223743,7 +223379,6 @@ tcyp 𤖪
 tcyy 𩵔
 td 八
 td 针对
-td 看不见
 tda 铸
 tdac 铸
 tdac 乐其可知也
@@ -224247,7 +223882,6 @@ tdyw 八角
 tdyy 𬵗
 te 人
 te 人们
-te 版本
 tea 锊
 teaa 锤打
 teaa 锻打
@@ -224738,7 +224372,6 @@ teyx 人命
 teyx 钦命
 tf 钱
 tf 途径
-tf 叙述
 tfa 镈
 tfab 余切
 tfab 會聚
@@ -226178,7 +225811,6 @@ tgyt 全角
 tgyw 全球性
 th 长
 th 长期
-th 舒服
 thac 𩶬
 thad 手到擒來
 thae 长逝
@@ -226646,7 +226278,6 @@ thyx 舍命
 thyy 𩶀
 ti 镜
 ti 镜头
-ti 镜子
 tiah 魚龍聽梵聲
 tiah 𮷸
 tial 长江七号
@@ -226868,7 +226499,6 @@ tiyw 自觉性
 tiyy 余音袅袅
 tj 留
 tj 留下
-tj 留意
 tja 鼻
 tjaa 齀
 tjaa 𪖭
@@ -227350,7 +226980,6 @@ tjyi 𪮏
 tjyn 留歸
 tk 自
 tk 自己
-tk 自然
 tkaa 自打
 tkab 自取
 tkad 掰開揉碎
@@ -228112,7 +227741,6 @@ tlyi 𩻺
 tlyu 钟馗
 tm 看
 tm 看见
-tm 销售
 tma 乐
 tmab 看摊
 tmae 尒
@@ -228577,7 +228205,6 @@ tmyj 𭾭
 tmys 看懂
 tn 用
 tn 用于
-tn 乞求
 tnac 个把
 tnae 卻因歌舞破除休
 tnal 用事
@@ -228940,7 +228567,6 @@ tnyw 全國性
 tnyx 用命
 to 今
 to 今天
-to 领导
 toaa 欲為聖明除弊事
 toab 领取
 toab 領取
@@ -229764,7 +229390,6 @@ toyw 邊角
 toyy 含冤
 tp 片
 tp 片面
-tp 片段
 tpae 坐断东南战未休
 tpao 余亦东蒙客
 tpay 䲈
@@ -230052,7 +229677,6 @@ tpyi 𮷿
 tpyt 邊角
 tq 铁
 tq 铁路
-tq 铁定
 tqa 锇
 tqaa 铁打
 tqab 迎风招展
@@ -230426,7 +230050,6 @@ tqyu 自我心存道
 tqyw 全無心肝
 tr 铭
 tr 铭记
-tr 铭刻
 trab 迎風招展
 trae 乐饮过三爵
 traf 𫙮
@@ -230789,7 +230412,6 @@ tryx 人稀鸟兽骇
 tryy 分秒必争
 ts 会
 ts 会议
-ts 错误
 tsab 会聚
 tsab 敛聚
 tsac 会把
@@ -231399,7 +231021,6 @@ tsyt 错解
 tsyx 铹
 tt 从
 tt 从而
-tt 从来
 tta 耸
 ttaf 𩶅
 ttai 铆接
@@ -232126,7 +231747,6 @@ ttyy 䲆
 ttyy 𩺰
 tu 手
 tu 手段
-tu 手里
 tua 牉
 tuae 手摇
 tuae 手抓
@@ -232619,7 +232239,6 @@ tuyt 手拿
 tuyt 锐角
 tv 公
 tv 创造
-tv 创作
 tva 瓮
 tvab 公摊
 tvac 𭡇
@@ -233157,7 +232776,6 @@ tvym 𩸹
 tvyo 公館
 tw 父
 tw 父亲
-tw 钥匙
 twa 爺
 twab 𤕖
 twac 爺
@@ -233677,7 +233295,6 @@ twyw 創造性
 twyy 𩵺
 tx 迎
 tx 迎接
-tx 键盘
 txa 键
 txab 迎娶
 txag 人盡可夫
@@ -234168,7 +233785,6 @@ u 着
 u 应该
 ua 半
 ua 判断
-ua 言语
 uaa 言
 uaaa 討打
 uaaa 讘
@@ -234699,7 +234315,6 @@ uayw 庖丁解牛
 uayw 半角
 ub 羞
 ub 羞愧
-ub 普通话
 ubab 記取
 ubah 記掛
 ubak 記下
@@ -235299,7 +234914,6 @@ ubyw 變性
 ubyx 認命
 uc 序
 uc 序列
-uc 妄想
 uca 氓
 ucai 氓
 ucai 䛉
@@ -236520,7 +236134,6 @@ ueyx 應急
 ueyy 訴冤
 uf 差
 uf 差别
-uf 床上
 ufa 訏
 ufab 盖棺事则已
 ufab 這一切
@@ -237084,7 +236697,6 @@ ufyn 𬋆
 ufyv 𰏎
 ug 关
 ug 关系
-ug 关于
 uga 尊
 ugaa 拳打
 ugaa 試打
@@ -237919,7 +237531,6 @@ ugyx 遵命
 ugyx 送命
 uh 美
 uh 美丽
-uh 美好
 uha 詩
 uhaa 䛫
 uhaa 𧫄
@@ -239354,7 +238965,6 @@ uiyw 普遍性
 uiyx 应急
 uj 单
 uj 单位
-uj 曾经
 ujaa 单打
 ujab 单据
 ujab 熶
@@ -240205,7 +239815,6 @@ ukyr 爓
 ukyu 庽
 ul 总
 ul 总是
-ul 总体
 ulaa 誤打
 ulab 兑取
 ulab 贏取
@@ -241065,7 +240674,6 @@ umyx 斃命
 umyy 忘战必危
 un 普
 un 普遍
-un 普通
 unaa 諣
 unac 並把
 unae 丫挺
@@ -242033,7 +241641,6 @@ uoyw 火性
 uoyx 火急
 up 這
 up 熔点
-up 熔化
 upaa 𧫼
 upab 這招
 upae 望门投止思张俭
@@ -242344,7 +241951,6 @@ upyw 熔解
 upyw 兼容性
 uq 炸
 uq 炸弹
-uq 炸药
 uqa 託
 uqab 詐取
 uqaf 前船抢水已得标
@@ -242780,7 +242386,6 @@ uqyo 𰞳
 uqyw 煽動性
 ur 将
 ur 将来
-ur 背后
 ura 謋
 uraa 北風捲地白草折
 urab 𫦋
@@ -243521,7 +243126,6 @@ uryv 𥀅
 uryw 背角
 us 并
 us 并且
-us 并不
 usa 瓶
 usab 謀取
 usab 𤏱
@@ -244521,7 +244125,6 @@ usyx 𱫊
 usyy 望云惭高鸟
 ut 道
 ut 道德
-ut 首先
 uta 底
 utac 䣌
 utac 𬼰
@@ -245360,7 +244963,6 @@ utyu 𢊧
 utyw 𩼊
 uu 广
 uu 广大
-uu 善良
 uuaa 遮遮掩掩
 uuaa 半半拉拉
 uuaa 誩
@@ -246740,7 +246342,6 @@ uvyw 詞性
 uvyw 总结性
 uw 前
 uw 前面
-uw 前提
 uwa 謝
 uwaa 誰敢
 uwaa 調攝
@@ -248057,7 +247658,6 @@ uxyw 塑性
 uxyw 計劃性
 uy 忘
 uy 忘记
-uy 忘掉
 uyab 归心折大刀
 uyag 𱉯
 uyah 言師採藥去
@@ -248362,7 +247962,6 @@ v 经济
 v 经过
 va 那
 va 那么
-va 那些
 vaa 乃
 vaaa 敢打
 vaaa 𱲉
@@ -248698,7 +248297,6 @@ vaym 乃尔
 vayq 缓歌慢舞凝丝竹
 vb 经
 vb 经济
-vb 经验
 vba 绎
 vbab 缘聚
 vbai 幼發拉底河
@@ -248971,7 +248569,6 @@ vcwi 𬯮
 vcyg 弛
 vd 续
 vd 迅速
-vd 了不起
 vdab 续娶
 vdae 疏雨过中条
 vdaf 迅捷
@@ -249017,7 +248614,6 @@ vddy 红艳艳
 vdeb 续假
 vdec 及其使人也
 vdef 张震岳
-vdef 張震岳
 vdeh 颇佳
 vdeh 终古垂杨有暮鸦
 vdeh 頗佳
@@ -249091,6 +248687,7 @@ vdjf 𰘱
 vdjj 𢐤
 vdjk 𰌪
 vdjq 司馬昭之心路人皆知
+vdjr 張震嶽
 vdjr 㢶
 vdjr 𬁣
 vdjs 终南山
@@ -249288,7 +248885,6 @@ vdyx 迅急
 vdyx 𭚺
 ve 终
 ve 终于
-ve 缓慢
 vea 绛
 veab 能近取譬
 veac 弣
@@ -249565,7 +249161,6 @@ veyx 缓急
 veyx 𠢛
 vf 红
 vf 红色
-vf 线路
 vfa 缚
 vfac 缚
 vfai 司職
@@ -250049,7 +249644,6 @@ vfyw 线性
 vfyw 结构性
 vg 参
 vg 参加
-vg 参考
 vga 绮
 vgaa 憨态可掬
 vgac 𡦕
@@ -250267,7 +249861,6 @@ vgyo 𢏉
 vgyw 𰬮
 vh 结
 vh 结果
-vh 结束
 vha 張
 vhag 張
 vhah 張掛
@@ -250552,7 +250145,6 @@ vhyg 引壺觴以自酌
 vhyi 𬘨
 vi 乙
 vi 编辑
-vi 编制
 viac 编撰
 viak 绿浪东西南北水
 vial 编排
@@ -250760,7 +250352,6 @@ viyj 台湾岛
 viys 编写
 vj 细
 vj 细节
-vj 细小
 vjab 𦈛
 vjaq 细挑
 vjb 缧
@@ -251025,7 +250616,6 @@ vjyw 及时性
 vjyw 及時性
 vk 子
 vk 子女
-vk 承认
 vkae 函授
 vkai 承接
 vkaj 承担
@@ -251368,7 +250958,6 @@ vkyh 承情
 vkyt 纳罕
 vl 强
 vl 强调
-vl 台子
 vla 缉
 vlab 强取
 vlab 强扭
@@ -251823,7 +251412,6 @@ vlyt 缉拿
 vlyw 彈性
 vm 组
 vm 组织
-vm 组成
 vma 孙
 vmaa 尕
 vmaa 𡭘
@@ -252018,7 +251606,6 @@ vmys 子虛烏有
 vmyu 孙悦
 vn 引
 vn 引起
-vn 疏远
 vnag 蛋挞
 vnah 蛋撻
 vnai 红掌拨清波
@@ -252637,7 +252224,6 @@ voyj 𱺫
 voys 缩写
 vp 皮
 vp 退出
-vp 继续
 vpaf 巡抚
 vpaf 巡捕
 vpaf 子產聽鄭國之政
@@ -252994,7 +252580,6 @@ vpyg 退運
 vpyr 𬙁
 vq 乡
 vq 乡村
-vq 允许
 vqac 鄊
 vqai 𰌝
 vqak 乡下
@@ -253390,7 +252975,6 @@ vqyu 孫悦
 vqyw 能動性
 vr 绣
 vr 绣花
-vr 经得起
 vra 绗
 vrac 𡬸
 vrah 绗
@@ -253534,7 +253118,6 @@ vryo 退衙歸逼夜
 vrys 亟待解决
 vs 飞
 vs 飞机
-vs 买卖
 vsa 缛
 vsac 缛
 vsad 飞动摧霹雳
@@ -253914,7 +253497,6 @@ vsyy 飞鸽
 vsyy 頗有餘衣食
 vt 张
 vt 费用
-vt 纵使
 vta 纸
 vtad 纷扰
 vtaf 弤
@@ -254297,7 +253879,6 @@ vtyw 纲领性
 vtyx 纷争
 vu 弹
 vu 弹性
-vu 缠绕
 vua 绊
 vuac 𧥥
 vuai 𧥝
@@ -254522,7 +254103,6 @@ vuys 蛋炒飯
 vuyw 弹性
 vv 书
 vv 书籍
-vv 丝滑
 vvaa 纷纷扬扬
 vvaa 憨態可掬
 vvaa 纷纷扰扰
@@ -255354,7 +254934,6 @@ vvyw 组织性
 vvyy 缠绵悱恻
 vw 能
 vw 能够
-vw 约定
 vwab 牟取
 vwah 维持
 vwai 维护
@@ -255658,7 +255237,6 @@ vwyw 强制性
 vwyw 強制性
 vx 绿
 vx 纠正
-vx 纠结
 vxab 彈盡援絕
 vxaf 敢以耳目烦神工
 vxaf 敢以耳目煩神工
@@ -255923,7 +255501,6 @@ vxyp 𫷤
 vxyx 幼雏
 vy 绝
 vy 绝对
-vy 给予
 vyab 恳切
 vyab 绝招
 vyad 绝技
@@ -256364,7 +255941,6 @@ wayw 鈍角
 wayw 选择性
 wb 缺
 wb 缺少
-wb 缺失
 wbab 錄取
 wbac 𲇈
 wbah 臉紅耳赤
@@ -257020,7 +256596,6 @@ wcyy 肔
 wcyy 𦘮
 wd 腰
 wd 卑鄙
-wd 卑微
 wdaa 鐵打
 wdac 鋳
 wdac 𮜶
@@ -257697,7 +257272,6 @@ wdyw 𮣞
 wdyy 𣍾
 we 身
 we 身体
-we 身份
 wea 胕
 weaa 錘打
 weaa 鍛打
@@ -258899,7 +258473,6 @@ wfyt 生于忧患死于安乐
 wfyw 金三角
 wg 生
 wg 生活
-wg 生命
 wga 犄
 wgac 鏄
 wgac 膞
@@ -259434,7 +259007,6 @@ wgyw 生角
 wgyx 生命
 wh 特
 wh 特别
-wh 特点
 wha 脹
 whab 特招
 whab 特取
@@ -260352,7 +259924,6 @@ wiyr 肠深解不得
 wiyr 腸深解不得
 wj 金
 wj 金子
-wj 胆量
 wjab 𲇤
 wjac 𬌠
 wjaj 𦜠
@@ -261450,7 +261021,6 @@ wkyr 𦢨
 wkyy 腢
 wl 告
 wl 告诉
-wl 造成
 wlad 靠拢
 wlaf 告捷
 wlag 𦠾
@@ -262333,7 +261903,6 @@ wmyq 釣罷歸來不繫船
 wmyy 胆战心惊
 wn 牛
 wn 牛奶
-wn 躺下
 wna 鍋
 wnaj 鍋
 wnak 躺下
@@ -262651,7 +262220,6 @@ wnyw 針對性
 wnyw 牛角
 wo 丹
 wo 丹麦
-wo 缶
 woac 𫒙
 woaf 脉搏
 woai 鉸接
@@ -263233,7 +262801,6 @@ woyy 身家性命
 woyy 胆颤心惊
 wp 脑
 wp 脑袋
-wp 脑子
 wpab 進取
 wpaj 𨬈
 wpao 忽闻歌古调
@@ -263555,7 +263122,6 @@ wpyp 鬼迷心竅
 wpys 進食
 wq 先
 wq 先生
-wq 选择
 wqa 鋨
 wqab 选择
 wqab 选取
@@ -265295,7 +264861,6 @@ wsyx 𬧤
 wsyy 𦢬
 wt 脸
 wt 忽然
-wt 忽略
 wta 胝
 wtaa 炙手可热
 wtaa 𦗦
@@ -265964,7 +265529,6 @@ wtyw 銳角
 wtyy 䐳
 wu 焦
 wu 焦虑
-wu 焦急
 wua 訇
 wuab 勝招
 wuaf 𬫩
@@ -267150,7 +266714,6 @@ wvym 𨨮
 wvyw 千纸鹤
 ww 物
 ww 物体
-ww 删除
 wwaa 雙打
 wwab 胜招
 wwac 𤚑
@@ -268065,7 +267628,6 @@ wwyy 朋
 wwyy 匆匆忙忙
 wx 服
 wx 服务
-wx 凶狠
 wxa 犍
 wxac 𫞅
 wxah 胁持
@@ -268912,7 +268474,6 @@ x 出来
 x 出现
 xa 寻
 xa 寻找
-xa 建议
 xaag 寻找
 xaal 寻事
 xab 骤
@@ -269120,7 +268681,6 @@ xayi 𫴭
 xayj 骁悍
 xb 发
 xb 发生
-xb 发现
 xba 驿
 xbab 发掘
 xbad 骚扰
@@ -269615,7 +269175,6 @@ xdyv 𱅓
 xdyx 𢙻
 xe 收
 xe 收拾
-xe 收到
 xea 驸
 xeab 收取
 xeab 收据
@@ -270249,7 +269808,6 @@ xfyi 𢗍
 xfyx 𢙻
 xg 骑
 xg 骑车
-xg 驱逐
 xgah 以大事小者
 xgal 骑
 xgar 君王掩面救不得
@@ -270836,7 +270394,6 @@ xhyu 𮸿
 xhyw 牆角
 xi 骗
 xi 骗人
-xi 骗子
 xiab 骗取
 xiak 寻章摘句老雕虫
 xiak 尋章摘句老鵰蟲
@@ -270966,7 +270523,6 @@ xiyq 袈裟憶上泛湖船
 xiyw 灵活性
 xj 翼
 xj 翼展
-xj 骡子
 xjaw 寻幽探胜
 xjaw 尋幽探勝
 xjb 骡
@@ -271583,7 +271139,6 @@ xlyi 㤎
 xlyx 加急
 xm 马
 xm 马上
-xm 肃静
 xmae 马哲
 xmah 以小事大者
 xmal 马可
@@ -271822,7 +271377,6 @@ xnwf 𢑯
 xnyq 𠙐
 xo 以
 xo 以后
-xo 以为
 xoak 以下
 xoal 𰠖
 xoam 以东
@@ -272047,7 +271601,6 @@ xoyl 以免
 xoyw 建设性
 xp 边
 xp 边缘
-xp 边上
 xpas 出类拔萃
 xpas 出類拔萃
 xpau 出门搔白首
@@ -272505,7 +272058,6 @@ xrww 𰅗
 xrxx 𤖉
 xs 羿
 xs 收藏夹
-xs 发动机
 xsai 以舊換新
 xsaj 將有事於西疇
 xsav 剥茧抽丝
@@ -272661,7 +272213,6 @@ xsyj 马英九
 xsys 加菲貓
 xt 办
 xt 办法
-xt 验证
 xtad 以卵击石
 xtad 以卵投石
 xtaf 𦐠
@@ -272919,7 +272470,6 @@ xtyc 䏋
 xtyi 𮸽
 xu 习
 xu 习惯
-xu 灵感
 xuao 𮶂
 xuap 𪺞
 xubg 羽絨
@@ -273101,7 +272651,6 @@ xuyw 灵性
 xuyw 建設性
 xv 即
 xv 即使
-xv 既然
 xvac 即把
 xvac 君子可逝也
 xvac 𡬠
@@ -273420,7 +272969,6 @@ xvyy 马绍尔群岛
 xvyy 君子食無求飽
 xw 驳
 xw 驳斥
-xw 戳穿
 xwa 奬
 xwab 𫦔
 xwac 將
@@ -273655,7 +273203,6 @@ xwyx 𡰧
 xwyx 𡰴
 xx 出去
 xx 出发
-xx 出口
 xxab 出招
 xxab 出摊
 xxah 脅持
@@ -274355,7 +273902,6 @@ xyyw 习惯性
 xyyw 習慣性
 y 心
 y 心情
-y 心理
 ya 鸟
 ya 鸟类
 yaa 鸟
@@ -274511,7 +274057,6 @@ yayh 冠亚军
 yayt 杂七杂八
 yb 快
 yb 快乐
-yb 快速
 yba 怿
 ybaa 快打
 ybab 怪招
@@ -274837,7 +274382,6 @@ ybyw 惯性
 ybyw 慣性
 yc 色
 yc 色彩
-yc 色素
 yca 怋
 ycad 情隨事遷
 ycai 色拉
@@ -275047,7 +274591,6 @@ ycym 𬼜
 ycys 𩚉
 yd 怀
 yd 怀疑
-yd 愤怒
 ydab 悽切
 ydac 㤽
 ydad 性騷擾
@@ -275537,7 +275080,6 @@ ydyx 𭜲
 ydyx 𰑰
 ye 合
 ye 合作
-ye 合理
 yeac 㤔
 yeac 𢚃
 yeac 𩚭
@@ -275955,7 +275497,6 @@ yeys 飯食
 yeyv 飲恨
 yf 杂
 yf 杂志
-yf 冠军
 yfac 愽
 yfac 餺
 yfac 𧳵
@@ -276772,7 +276313,6 @@ ygyw 慚愧
 ygyw 合理性
 yh 情
 yh 情况
-yh 惭愧
 yha 恃
 yhab 情切
 yhac 恃
@@ -277534,7 +277074,6 @@ yiyw 合法性
 yiyx 心急
 yj 九
 yj 慢慢
-yj 慢性
 yjab 𢢇
 yjae 九折
 yjae 慢摇
@@ -277961,7 +277500,6 @@ yjzx ䷟
 yjzz ䷲
 yk 负
 yk 负责
-yk 负担
 ykab 情见势屈
 ykaj 负担
 ykal 慢歌
@@ -278237,7 +277775,6 @@ ykyv 慌里慌張
 ykyw 慢性
 yl 象
 yl 象征
-yl 勉强
 ylai 免職
 ylaj 免提
 ylal 免职
@@ -278605,7 +278142,6 @@ ylym 悱惻
 ylyy 恨别鸟惊心
 ym 尔
 ym 悄悄
-ym 恍惚
 ymac 歸帆拂天姥
 ymai 𢖹
 ymal 帥哥
@@ -278915,7 +278451,6 @@ ymyw 恍惚
 ymyy 触目惊心
 ymyy 怵目惊心
 yn 悭
-yn 心事
 ynai 歸攏
 ynai 𢝸
 ynas 𩝄
@@ -279109,7 +278644,6 @@ ynyc 慍色
 ynyi 歸心
 yo 惊
 yo 惊人
-yo 久远
 yoab 𰒉
 yoac 𰑚
 yoad 惊扰
@@ -279540,7 +279074,6 @@ yoyv 懷恨
 yoyy 𢠋
 yp 追
 yp 追求
-yp 恼火
 ypaa 追打
 ypac 𠖌
 ypac 𢙪
@@ -279756,7 +279289,6 @@ ypyv 追忆
 ypyv 恼恨
 yq 必
 yq 必须
-yq 必然
 yqa 餓
 yqab 𪞔
 yqad 心無掛礙
@@ -280098,7 +279630,6 @@ yqyv 悔恨
 yqyx 𱞑
 yr 懊
 yr 懊悔
-yr 懊恼
 yrad 农技
 yraf 𢞼
 yrah 㤚
@@ -280384,7 +279915,6 @@ yryw 象徵性
 yryx 悖入悖出
 ys 食
 ys 食物
-ys 食品
 ysac 𢟹
 ysaf 必有可观者焉
 ysaf 必有可觀者焉
@@ -281074,7 +280604,6 @@ ysyx 𫺘
 ysyy 心有餘悸
 yt 解
 yt 解决
-yt 解释
 yta 惛
 ytab 餘切
 ytaf 怟
@@ -281909,7 +281438,6 @@ ytyw 慌手慌腳
 ytyy 解饞
 yu 忙
 yu 忙碌
-yu 惦记
 yua 訄
 yuai 𢚘
 yuaj 訄
@@ -282178,7 +281706,6 @@ yuyv 憎恨
 yuyx 慷慨
 yv 恨
 yv 惨痛
-yv 惨重
 yvab 懇切
 yvae 㦑
 yvae 䭛
@@ -282464,7 +281991,6 @@ yvyv 𥫮
 yvyx 恨煞
 yw 性
 yw 性格
-yw 性质
 ywad 必杀技
 ywad 必殺技
 ywai 烏拉
@@ -283210,7 +282736,6 @@ ywyx 性急
 ywyy 解饞
 yx 争
 yx 争斗
-yx 命令
 yxa 貄
 yxab 争取
 yxab 急切
@@ -283530,7 +283055,6 @@ yxyw 急性
 yxyx 急煞
 yy 恰
 yy 恰当
-yy 恰好
 yya 鸽
 yyab 歸心折大刀
 yyae 鸽
