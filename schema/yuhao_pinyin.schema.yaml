@@ -72,7 +72,7 @@ translator:
     - xform/([jqxy])v/$1u/
 
 punctuator:
-  import_preset: symbols
+  # import_preset: symbols
 
 key_binder:
   import_preset: default
