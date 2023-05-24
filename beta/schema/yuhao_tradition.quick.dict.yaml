@@ -56,7 +56,7 @@ columns:
 上面	k
 中午	l
 還是	m
-回家	n
+對的	n
 就是	o
 突然	p
 我們	q
@@ -80,8 +80,6 @@ columns:
 上次	k
 中間	l
 還有	m
-回到	n
-就算	o
 我的	q
 覺得	r
 有人	s
@@ -555,7 +553,7 @@ columns:
 存	sn
 丈	so
 蓉	sp
-犬	sq
+帶	sq
 而	sr
 若	ss
 茶	st
@@ -1020,7 +1018,7 @@ columns:
 因爲	ng
 止損	ni
 當時	nj
-回來	nl
+回到	nl
 點頭	nm
 因此	nn
 過來	np
@@ -1144,7 +1142,7 @@ columns:
 《	sm
 存在	sn
 丈夫	so
-監察	sq
+帶着	sq
 而且	sr
 厲害	ss
 有人	st
@@ -1155,7 +1153,6 @@ columns:
 蒙面	sy
 昏暗	ta
 分别	tb
-人群	te
 會議	tf
 全部	tg
 舒服	th
@@ -1845,8 +1842,8 @@ columns:
 繖	bsw
 紙	bta
 紛	btb
-夬	bte
 繪	btf
+夬	btl
 甬	btn
 紟	bto
 纖	btt
@@ -2097,9 +2094,9 @@ columns:
 随	csw
 婚	cta
 妢	ctb
-队	cte
 媮	ctf
 坠	cth
+队	ctl
 㚷	ctm
 陰	cto
 险	cts
@@ -3720,13 +3717,14 @@ columns:
 表	hry
 髮	hsb
 塬	hse
-墆	hsf
+鬌	hsf
 堧	hsg
 堐	hsh
 垣	hsj
 考	hsk
 祐	hsl
 祳	hsn
+墆	hsq
 壢	hsr
 塨	hst
 坛	hsv
@@ -4665,6 +4663,7 @@ columns:
 蠸	ksl
 冒	ksm
 赈	ksn
+螮	ksq
 典	kst
 閎	ksv
 贿	ksw
@@ -4672,10 +4671,10 @@ columns:
 冕	ksy
 蚳	kta
 蚡	ktb
-閃	kte
+蝂	kte
 蜍	ktf
 账	kth
-閱	ktl
+閃	ktl
 蛉	kto
 螑	kts
 肉	ktt
@@ -5469,11 +5468,11 @@ columns:
 尝	nsv
 囿	nsw
 趴	ntd
-囚	nte
 圇	ntf
 跧	ntg
 蹓	ntj
 囧	ntk
+囚	ntl
 跞	ntm
 蹌	nto
 囵	ntr
@@ -5694,10 +5693,9 @@ columns:
 宥	osw
 诋	ota
 六	otd
-认	ote
 谕	otf
 诠	otg
-袞	otl
+认	otl
 谂	oto
 论	otr
 雜	ott
@@ -5966,12 +5964,11 @@ columns:
 阍	pta
 粉	ptb
 齐	ptd
-闪	pte
 癒	ptf
 痊	ptg
 衫	pti
 瘤	ptj
-齑	ptl
+闪	ptl
 剂	ptm
 痈	ptn
 瘡	pto
@@ -6561,12 +6558,11 @@ columns:
 獴	rsy
 舐	rta
 秎	rtb
-臾	rte
 徐	rtf
 猞	rth
 馏	rtj
 黏	rtk
-稅	rtl
+臾	rtl
 囪	rto
 狯	rts
 聳	rtt
@@ -6739,7 +6735,7 @@ columns:
 蔫	sfn
 冮	sfo
 莱	sfp
-帶	sfq
+茿	sfq
 荆	sfs
 菘	sft
 莆	sfu
@@ -6914,6 +6910,7 @@ columns:
 莪	sqa
 莓	sqb
 盬	sqd
+遰	sqf
 董	sqg
 芟	sqh
 鹽	sqk
@@ -6968,12 +6965,12 @@ columns:
 芬	stb
 巷	stc
 共	std
-臥	ste
 薈	stf
 荃	stg
 苌	sth
 耏	sti
 蛬	stk
+臥	stl
 恭	stm
 冷	sto
 进	stp
@@ -7122,6 +7119,7 @@ columns:
 锊	tea
 铂	teb
 锋	ted
+锨	tee
 锻	tef
 锽	teg
 锾	teh
@@ -7210,7 +7208,6 @@ columns:
 鰅	tky
 锃	tlg
 锅	tlk
-铝	tll
 铞	tlm
 兌	tlq
 𫓶	tlw
@@ -7303,7 +7300,6 @@ columns:
 耸	tta
 掰	ttb
 介	ttd
-从	tte
 丛	ttf
 铨	ttg
 坐	tth
@@ -7625,7 +7621,7 @@ columns:
 艵	usy
 底	uta
 羒	utb
-庂	ute
+𫷷	ute
 論	utf
 詮	utg
 熘	utj
