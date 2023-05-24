@@ -30,7 +30,7 @@ nav_order: 2
 码表因其格式，可以通用于多种平台。以下为几种主要格式的介绍：
 
 - 宇码  空格  字符，UTF-8。此为[百度格式](https://github.com/forFudan/yuhao/tree/main/mabiao/baidu/)，适用于百度输入法、搜狗输入法、清歌输入法。加上表头后，也适用于小小输入法、微软输入法、Fcitx输入法。
-- 字符  Tab  宇码，UTF-8。此为[落格格式](https://github.com/forFudan/yuhao/tree/main/mabiao/luoge/)，适用于罗格输入法、小胖输入法。加上表头后，也适用于RIME输入法。
+- 字符  Tab  宇码，UTF-8。此为[多多格式](https://github.com/forFudan/yuhao/tree/main/mabiao/luoge/)，适用于落格输入法、小胖输入法。加上表头后，也适用于RIME输入法。还能用作[木易跟打器](https://typer.owenyang.top)的词提上传。
 - 宇码  Tab  字符，UTF-8。此为[大竹格式](https://github.com/forFudan/yuhao/tree/main/mabiao/dazhu/)，适用于大竹词提生成。
 
 ### 百度/搜狗手机输入法
