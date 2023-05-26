@@ -18,7 +18,7 @@ columns:
   - code
 ...
 
-把	a
+可	a
 給	b
 好	c
 不	d
@@ -33,7 +33,7 @@ columns:
 還	m
 對	n
 就	o
-被	p
+之	p
 我	q
 後	r
 在	s
@@ -58,7 +58,7 @@ columns:
 還是	m
 對的	n
 就是	o
-突然	p
+之後	p
 我們	q
 後來	r
 有些	s
@@ -89,7 +89,7 @@ columns:
 出去	x
 打	aa
 取	ab
-寸	ac
+把	ac
 頂	ad
 摇	ae
 捕	af
@@ -98,7 +98,7 @@ columns:
 拉	ai
 提	aj
 下	ak
-可	al
+事	al
 擺	am
 擋	an
 按	ao
@@ -466,7 +466,7 @@ columns:
 初	pb
 疤	pc
 磨	pd
-之	pe
+疼	pe
 空	pf
 窺	pg
 精	ph
@@ -480,7 +480,7 @@ columns:
 迷	pp
 麽	pq
 窗	pr
-類	ps
+突	ps
 容	pt
 糖	pu
 痕	pv
@@ -553,7 +553,7 @@ columns:
 存	sn
 丈	so
 蓉	sp
-帶	sq
+犬	sq
 而	sr
 若	ss
 茶	st
@@ -675,7 +675,7 @@ columns:
 力	xk
 加	xl
 马	xm
-驷	xn
+廴	xn
 以	xo
 边	xp
 群	xq
@@ -1001,7 +1001,6 @@ columns:
 桌子	mj
 ：	mm
 虚假	mn
-瞎説	mo
 眯眼	mp
 少年	mq
 餐廳	mr
@@ -1024,7 +1023,7 @@ columns:
 四個	nq
 因此	nr
 尚未	ns
-掌握	nt
+過會兒	nt
 對應	nu
 跟着	nv
 肯定	nw
@@ -1056,8 +1055,6 @@ columns:
 寧靜	oy
 麻煩	pa
 痛苦	pb
-糊塗	pd
-之後	pe
 空間	pf
 療傷	pg
 精神	ph
@@ -1070,7 +1067,7 @@ columns:
 迷惑	pp
 複雜	pq
 窗外	pr
-類似	ps
+突然	ps
 容易	pt
 糖果	pu
 痕跡	pv
@@ -1134,14 +1131,13 @@ columns:
 左手	sf
 芙蓉	sg
 華麗	sh
-落下	si
+有没有	si
 莫非	sj
 英語	sk
 右手	sl
 《	sm
 存在	sn
 丈夫	so
-帶着	sq
 而且	sr
 厲害	ss
 有人	st
@@ -1247,7 +1243,6 @@ columns:
 翌日	xi
 力量	xk
 加强	xl
-廴	xn
 以後	xo
 爿	xp
 群體	xq
@@ -1265,7 +1260,6 @@ columns:
 情况	yh
 憧憬	yi
 慢慢	yj
-師叔	yk
 免费	yl
 負責	ym
 懷疑	yo
@@ -1281,10 +1275,10 @@ columns:
 恰當	yy
 接下來	aa
 好不好	cd
-也是	cj
 〻	cw
 不可以	da
 不知道	dc
+，	dd
 、	dh
 ；	ff
 †	jb
@@ -1294,13 +1288,9 @@ columns:
 。	jj
 　	kg
 〕	lj
-過會兒	nt
 ——	pp
-行不行	rd
-有没有	si
 ……	sl
 》	sm
-分鐘	tb
 ！	tt
 這樣	uf
 這是	uj
@@ -1463,7 +1453,7 @@ columns:
 职	alt
 扣	alv
 捐	alw
-事	alx
+拐	alx
 东	ama
 據	amd
 擐	amf
@@ -3717,14 +3707,13 @@ columns:
 表	hry
 髮	hsb
 塬	hse
-鬌	hsf
+墆	hsf
 堧	hsg
 堐	hsh
 垣	hsj
 考	hsk
 祐	hsl
 祳	hsn
-墆	hsq
 壢	hsr
 塨	hst
 坛	hsv
@@ -4103,7 +4092,7 @@ columns:
 灌	isl
 瀎	ism
 麎	isn
-滯	isq
+戾	isq
 瀝	isr
 泔	iss
 港	ist
@@ -4663,7 +4652,6 @@ columns:
 蠸	ksl
 冒	ksm
 赈	ksn
-螮	ksq
 典	kst
 閎	ksv
 贿	ksw
@@ -5800,7 +5788,7 @@ columns:
 褫	pem
 衽	pen
 竅	peo
-疼	pes
+袱	pes
 阌	pey
 闫	pfa
 痦	pfc
@@ -5946,14 +5934,14 @@ columns:
 瘐	prt
 褥	psa
 袚	psb
-料	psd
+類	psd
 痲	pse
 癱	psf
 弈	psj
 糟	psk
 襪	psm
 裖	psn
-突	psq
+襤	psq
 斋	psr
 瘠	pss
 顏	pst
@@ -5999,7 +5987,7 @@ columns:
 疗	pvl
 裉	pvn
 麼	pvo
-疲	pvp
+被	pvp
 痠	pvt
 糝	pvv
 褦	pvw
@@ -6741,6 +6729,7 @@ columns:
 莖	sfv
 厉	sfw
 萐	sfx
+帶	sfy
 蓴	sga
 苣	sgb
 头	sgd
@@ -6909,7 +6898,6 @@ columns:
 莪	sqa
 莓	sqb
 盬	sqd
-遰	sqf
 董	sqg
 芟	sqh
 鹽	sqk
@@ -8342,6 +8330,7 @@ columns:
 驾	xlx
 驵	xmi
 骃	xng
+驷	xnq
 驻	xog
 骇	xoi
 骧	xol

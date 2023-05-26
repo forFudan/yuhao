@@ -18,7 +18,7 @@ columns:
   - code
 ...
 
-把	a
+可	a
 对	b
 好	c
 不	d
@@ -43,7 +43,7 @@ columns:
 然	w
 出	x
 心	y
-事情	a
+可以	a
 对于	b
 好的	c
 不是	d
@@ -68,6 +68,7 @@ columns:
 然后	w
 出来	x
 心情	y
+可能	a
 好像	c
 不知道	d
 的确	e
@@ -89,7 +90,7 @@ columns:
 出现	x
 打	aa
 切	ab
-寸	ac
+把	ac
 顶	ad
 摇	ae
 扛	af
@@ -98,7 +99,7 @@ columns:
 拉	ai
 提	aj
 下	ak
-可	al
+事	al
 东	am
 丁	an
 按	ao
@@ -723,7 +724,7 @@ columns:
 接受	ai
 提高	aj
 下来	ak
-可以	al
+事情	al
 东西	am
 捉住	an
 按照	ao
@@ -1476,7 +1477,7 @@ columns:
 职	alt
 扣	alv
 捐	alw
-事	alx
+拐	alx
 據	amd
 擐	amf
 搰	amg
@@ -3724,14 +3725,13 @@ columns:
 表	hry
 祓	hsb
 塬	hse
-鬌	hsf
+墆	hsf
 堧	hsg
 堐	hsh
 垣	hsj
 考	hsk
 祐	hsl
 祳	hsn
-墆	hsq
 壢	hsr
 塨	hst
 坛	hsv
@@ -4675,7 +4675,6 @@ columns:
 蠸	ksl
 冒	ksm
 赈	ksn
-螮	ksq
 典	kst
 閎	ksv
 贿	ksw
@@ -6744,6 +6743,7 @@ columns:
 莖	sfv
 厉	sfw
 萐	sfx
+帶	sfy
 蓴	sga
 苣	sgb
 耎	sgd
@@ -6911,7 +6911,6 @@ columns:
 莪	sqa
 莓	sqb
 盬	sqd
-帶	sqf
 董	sqg
 芟	sqh
 鹽	sqk
