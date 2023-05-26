@@ -17,14 +17,21 @@ d3.csv("https://zhuyuhao.com/yuhao/beta/chaifen/宇浩輸入法全漢字拆分�
             var output = _.sortBy(filteredDictionary, 'code')
             for (var i = 0; i < filteredDictionary.length; i++) {
                 d3.select("tbody").insert("tr").html(
-                    "<td>" + (output[i]['char']) + "</td>" +
-                    "<td>" + (output[i]['division']) + "</td>" +
-                    "<td>" + (output[i]['code']) + "</td>" +
+                    "<td>" + (output[i]['char']) + "</td>" 
+                    +
+                    "<td>" + (output[i]['division']) + "</td>" 
+                    +
+                    "<td>" + (output[i]['code']) + "</td>" 
+                    +
                     // "<td>" + (output[i]['quick_simp']) + "</td>" +
-                    "<td>" + (output[i]['division_tw']) + "</td>" +
-                    "<td>" + (output[i]['region']) + "</td>" +
-                    // "<td>" + (output[i]['details']) + "</td>" +
-                    "<td>" + (output[i]['comments']) + "</td>")
+                    "<td>" + (output[i]['division_tw']) + "</td>" 
+                    +
+                    "<td>" + (output[i]['region']) + "</td>" 
+                    // +
+                    // "<td>" + (output[i]['details']) + "</td>" 
+                    // +
+                    // "<td>" + (output[i]['comments']) + "</td>"
+                    )
             }
         }
     };

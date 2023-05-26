@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <!-- omit in toc -->
-# 宇浩输入法·繁简通·纯字形·双编码
+# 宇浩·繁简通打·纯形双编
 {: .no_toc }
 
 <details open markdown="block">
@@ -60,6 +60,8 @@ nav_order: 1
 - 简体文本：常用 1500 字全码无重[^frequent_characters]。常用 3000 字，全码 12 组重码，出简后无重码。常用 4500 字，全码 57 组重码，出简后 2 组重码。常用 6000 字，全码 114 组重码，出简后 29 组重码。字频加权后，全码下每万字选重 5 次。
 
 - 繁体文本：常用 1500 字，全码 1 组重码，出简后无重。常用 3000 字，全码 25 组重码，出简后无重码。常用 4500 字，全码 92 组重码，出简后 6 组重码。常用 5700 字，全码 158 组重码，出简后 38 组重码。字频加权后，全码下每万字选重 16 次。
+
+- 繁简混合文本[^mixed_frequency]：前 1500 字，全码 3 组重码，出简后无重。前 3000 字，全码 25 组重码，出简后 3 组重码。前 6000 字，全码 136 组重码，出简后 13 组重码。前 9000 字，全码 376 组重码，出简后 100 组重码。字频加权后，全码下每万字选重 17 次。
 
 要知道，宇浩输入法只使用了25个按键，也就是说四码的编码空间只有其他26键输入法的85.5%。但是宇浩输入法在常用繁简汉字下重码表现却是同类输入法中最好的。
 
@@ -283,3 +285,5 @@ nav_order: 1
 [^guji_standards]: 中华人民共和国国家标准《古籍印刷通用字规范字形表》（GB/Z 40637-2021）：[https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=52E2DE28D439C1937EE09AE4B5AA615B](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=52E2DE28D439C1937EE09AE4B5AA615B)
 
 [^opencc_standards]: 为 OpenCC 繁简转换程序所用字典：[https://github.com/BYVoid/OpenCC/blob/master/data/dictionary/STCharacters.txt](https://github.com/BYVoid/OpenCC/blob/master/data/dictionary/STCharacters.txt)
+
+[^mixed_frequency]: 这里的繁简混合字频来源于简体字频和繁体字频。假设一个人一半时间打简体，一半时间打繁体，那么便适用于此数据。
