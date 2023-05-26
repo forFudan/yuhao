@@ -11,5 +11,8 @@ _site/
 
 /.vscode
 .DS_Store
+
+/mabiao
+/schema
 宇浩输入法打包.py
 *.zip
