@@ -1,7 +1,7 @@
 ---
 title: 发烧区更新日志
 layout: default
-parent: 发烧测试
+parent: 开发测试
 nav_order: 1
 ---
 

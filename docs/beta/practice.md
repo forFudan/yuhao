@@ -1,7 +1,7 @@
 ---
 title: 发烧区在线练习
 layout: default
-parent: 发烧测试
+parent: 开发测试
 nav_order: 3
 ---
 

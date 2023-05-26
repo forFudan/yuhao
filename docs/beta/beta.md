@@ -1,27 +1,25 @@
 ---
-title: 发烧测试
+title: 开发测试
 layout: default
 nav_order: 82
 has_children: true
 ---
 
 {: .warning }
->本區只用於功能測試和意見收集，不是正式版本，也不完全反映未來發展方向。
+>本區只用於功能開發、版本測試和意見收集。
+>最新測試版本爲 [v2.0.0-alpha.1](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.1)
 
 <!-- omit in toc -->
-# 發燒友測試區
+# 開發測試區
 
-每天我們會收到大量的意見的建議。爲了更直觀地反映出這些建議的實際使用情况，我們建立了這個「發燒友測試區」，並且生成「發燒友測試版」方案。這個方案融合並展現了部分建議的實際效果，它也部分反映出宇浩輸入法未來可能的發展方向。
+每天我們會收到大量的意見的建議。爲了更直觀地反映出這些建議的實際使用情况，我們建立了這個「開發測試區」，並且生成「測試版」方案。這個方案融合並展現了部分建議的實際效果，它也部分反映出宇浩輸入法 v2.0.0 的發展方向。
 
-發燒友測試版方案各平臺碼表都儲存在 [/beta 文件夾下](https://github.com/forFudan/yuhao/tree/main/beta/)。
+- 測試版方案各平臺碼表都儲存在 [/beta 文件夾下](https://github.com/forFudan/yuhao/tree/main/beta/)。
+- 測試版方案的[在线拆分查询系统](../../beta/chaifen)提供臺灣字形拆分。
+- 測試版方案的[在線字根練習](../../beta/practice/practice.html)也已上線。
+- 文件夾 [generator](../../beta/generator/) 包含三個用來生成一級、二級、三級簡碼字詞的文件。
 
-發燒友測試版方案的[在线拆分查询系统](../../beta/chaifen)提供臺灣字形拆分。
-
-發燒友測試版方案的[在線字根練習](../../beta/practice/practice.html)也已上線。
-
-文件夾 [generator](../../beta/generator/) 包含三個用來生成一級、二級、三級簡碼字詞的文件。如果發現任何 bug，可以直接提出 issue 或者 PR。
-
-歡迎試用並提出寶貴意見！
+歡迎試用並提出寶貴意見！如果有新功能或者發現問題，可以直接 pull request。
 
 ## 臺灣字形
 
