@@ -1,5 +1,0 @@
-patch:
-  schema_list/+:
-    - schema: yuhao  # 繁简通打，以简化汉字为主设置简码，故名为「开来学」
-    - schema: yuhao_tradition  # 繁簡通打，以傳統漢字爲主設置簡碼，故名爲「繼往聖」
-    - schema: yuhao_tradition_tw  # 繁簡通打，以臺灣傳統漢字爲主設置簡碼，故名爲「書同文」
