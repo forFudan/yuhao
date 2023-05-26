@@ -73,7 +73,7 @@ columns:
 不過	d
 的確	e
 一下	f
-大槪	g
+大概	g
 地說	h
 意思	i
 時間	j
@@ -517,7 +517,7 @@ columns:
 委	rc
 德	rd
 舌	re
-術	rf
+微	rf
 狂	rg
 待	rh
 匕	ri
@@ -1389,7 +1389,6 @@ columns:
 抠	agw
 揲	ahf
 扞	ahg
-掛	ahh
 抴	ahi
 挃	ahk
 擷	ahl
@@ -1564,7 +1563,6 @@ columns:
 揹	aur
 擴	aus
 搤	aut
-撈	auu
 揃	auw
 搛	aux
 恶	auy
@@ -1680,6 +1678,7 @@ columns:
 綬	bey
 縛	bfa
 颈	bfd
+綝	bff
 癸	bfg
 繮	bfj
 剝	bfk
@@ -2136,7 +2135,7 @@ columns:
 契	dbg
 霨	dbh
 起	dbj
-蛪	dbk
+騛	dbk
 霹	dbl
 齧	dbm
 騷	dbo
@@ -2517,7 +2516,6 @@ columns:
 優	edw
 偡	edx
 伯	eeb
-皛	eee
 皞	eeg
 欣	eei
 赁	eek
@@ -2576,7 +2574,6 @@ columns:
 侍	eha
 爰	ehb
 仕	ehf
-佳	ehh
 侄	ehk
 佶	ehl
 債	ehm
@@ -3235,7 +3232,6 @@ columns:
 璦	gey
 玗	gfa
 珸	gfc
-琳	gff
 奏	gfg
 玩	gfh
 韁	gfj
@@ -3809,7 +3805,6 @@ columns:
 滩	ibw
 淈	ibx
 泯	ica
-潠	icc
 滪	icd
 漋	ice
 鄜	icf
@@ -4315,7 +4310,6 @@ columns:
 岨	jmi
 晫	jmj
 嶵	jml
-崱	jmm
 峭	jmw
 勗	jmx
 曭	jnn
@@ -4559,7 +4553,6 @@ columns:
 螻	kld
 蜈	klf
 蝇	klk
-闡	kll
 迥	klp
 贶	klq
 閭	klr
@@ -5278,7 +5271,6 @@ columns:
 瞻	mys
 罹	myw
 睁	myx
-鬫	naa
 蹑	nab
 团	naq
 围	nav
@@ -5466,6 +5458,7 @@ columns:
 踱	nus
 躨	nut
 叢	nuu
+鬫	nva
 跥	nvf
 黪	nvg
 囝	nvk
@@ -5506,7 +5499,6 @@ columns:
 案	ocf
 谲	ock
 袤	ocr
-乀	odd
 𫍯	odf
 诂	odg
 宕	odh
@@ -5612,7 +5604,6 @@ columns:
 该	ooi
 谅	ool
 谊	oom
-辩	ooo
 诧	ooq
 谇	oot
 谛	oou
@@ -5679,7 +5670,7 @@ columns:
 商	ouk
 说	oul
 齊	oun
-辯	ouo
+辨	ouo
 谥	out
 谈	ouu
 谫	ouw
@@ -5734,7 +5725,6 @@ columns:
 痖	pau
 闱	pav
 窀	pax
-裰	pbb
 裾	pbd
 痉	pbf
 癖	pbl
@@ -6090,7 +6080,6 @@ columns:
 鳓	qgx
 鲽	qhf
 竿	qhg
-鲑	qhh
 箸	qhj
 箦	qhk
 鲒	qhl
@@ -6316,7 +6305,6 @@ columns:
 鼩	rbw
 鼲	rby
 衛	rca
-馔	rcc
 猱	rcf
 獝	rck
 覣	rcm
@@ -6360,9 +6348,9 @@ columns:
 毬	rfk
 獺	rfl
 征	rfn
-秫	rfo
+術	rfo
 徕	rfp
-微	rfq
+毁	rfq
 鰴	rft
 徑	rfv
 猗	rga
@@ -6391,6 +6379,7 @@ columns:
 稜	rht
 秤	rhu
 馌	rhv
+微	rhw
 犽	rhy
 衍	ria
 獐	rij
@@ -6428,8 +6417,8 @@ columns:
 程	rle
 徘	rli
 馈	rlk
-稆	rll
 种	rln
+稆	rlr
 积	rlt
 名	rlv
 狷	rlw
@@ -6485,7 +6474,6 @@ columns:
 饰	rqm
 狿	rqn
 奧	rqp
-饩	rqq
 禿	rqr
 狣	rqs
 衡	rqt
@@ -6514,7 +6502,6 @@ columns:
 猫	rsj
 舉	rsk
 獾	rsl
-甜	rss
 衖	rst
 獗	rsu
 獲	rsw
@@ -6773,7 +6760,6 @@ columns:
 斮	sje
 幕	sjg
 蒔	sjh
-菖	sjj
 蔓	sjm
 草	sjo
 葃	sjq
@@ -6788,7 +6774,6 @@ columns:
 英	skg
 苒	skh
 遭	skj
-蠆	skk
 苘	skl
 菽	skm
 繭	skn
@@ -7150,7 +7135,6 @@ columns:
 铠	tjb
 锞	tjf
 鰣	tjh
-鯧	tjj
 鰻	tjm
 遛	tjp
 魯	tjr
@@ -7210,7 +7194,6 @@ columns:
 鯨	tol
 铈	tom
 鱣	ton
-卵	too
 邊	toq
 铱	tor
 𬭎	tos
@@ -7388,7 +7371,6 @@ columns:
 諶	udx
 府	uea
 烽	ued
-丬	uee
 詬	uef
 煌	ueg
 煖	ueh
@@ -7822,7 +7804,6 @@ columns:
 弁	vsj
 彉	vsk
 鴘	vsr
-绀	vss
 纭	vsv
 纸	vta
 纷	vtb
@@ -7852,7 +7833,6 @@ columns:
 级	vvo
 丝	vvs
 绋	vvt
-弘	vvv
 鸶	vvy
 孢	vwc
 绸	vwh
@@ -8262,7 +8242,6 @@ columns:
 牀	xfv
 骑	xga
 驮	xgd
-屮	xgg
 翴	xgp
 翜	xgt
 驱	xgw
@@ -8273,7 +8252,6 @@ columns:
 牆	xht
 翣	xic
 驴	xie
-〇	xii
 骗	xin
 骟	xix
 骡	xjb
@@ -8350,7 +8328,6 @@ columns:
 𫘧	xxk
 粜	xxp
 骕	xxt
-勰	xxx
 骎	xxy
 翬	xyg
 翚	xyh
@@ -8379,7 +8356,6 @@ columns:
 郃	ycf
 憰	yck
 忮	ydb
-顊	ydd
 憾	ydf
 怙	ydg
 慓	ydh
@@ -8489,7 +8465,6 @@ columns:
 悼	ymj
 蠫	ymk
 怗	yml
-懼	ymm
 盒	ymn
 愣	ymo
 迩	ymp
@@ -8640,3 +8615,4 @@ columns:
 懈	yyt
 㤘	yyx
 惢	yyy
+闡	kll

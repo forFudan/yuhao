@@ -23,8 +23,8 @@ local index_indicators = {"¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "
 
 -- 首選/非首選格式定義
 -- seq: 候選序號; code: 編碼; 候選: 候選文本; comment: 候選提示
-local first_format = "候選 [code] comment"
-local next_format = "seq候選comment"
+local first_format = "候選commentseq"
+local next_format = " 候選commentseq"
 local separator = ""
 
 -- 讀取 schema.yaml 開關設置:
