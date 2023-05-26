@@ -23,7 +23,7 @@ local index_indicators = {"¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "
 
 -- 首選/非首選格式定義
 -- seq: 候選序號; code: 編碼; 候選: 候選文本; comment: 候選提示
-local first_format = "候選code  comment"
+local first_format = "候選 [code] comment"
 local next_format = "seq候選comment"
 local separator = ""
 
@@ -105,7 +105,7 @@ function embeded_cands_filter.func(input, env)
     end
 
     local hash = {}
-
+    local rank = 0
     -- 迭代器
     local iter, obj = input:iter()
     -- 迭代由翻譯器輸入的候選列表
@@ -126,8 +126,10 @@ function embeded_cands_filter.func(input, env)
                 first_cand = cand
             end
 
+            rank = rank + 1
+
             -- 修改首選的預编輯文本, 這会作爲内嵌編碼顯示到輸入處
-            preedit = render_cand(index, first_cand.preedit, cand.text, cand.comment)
+            preedit = render_cand(rank, first_cand.preedit, cand.text, cand.comment)
 
             -- 存入候選
             table.insert(page_cands, cand)
@@ -136,6 +138,7 @@ function embeded_cands_filter.func(input, env)
         -- 遍歷完一頁候選後, 刷新預編輯文本
         if index == page_size then
             refresh_preedit()
+            rank = 0
         end
 
         -- 當前候選處理完畢, 查詢下一個
