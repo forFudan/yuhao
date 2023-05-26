@@ -1,3 +1,6 @@
+-- 作者：王牌餅乾
+-- https://github.com/lost-melody/
+
 -- 將要被返回的過濾器對象
 local embeded_cands_filter = {}
 
@@ -20,7 +23,7 @@ local index_indicators = {"¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "
 
 -- 首選/非首選格式定義
 -- seq: 候選序號; code: 編碼; 候選: 候選文本; comment: 候選提示
-local first_format = "[候選code]comment"
+local first_format = "候選code  comment"
 local next_format = "seq候選comment"
 local separator = ""
 
@@ -101,6 +104,8 @@ function embeded_cands_filter.func(input, env)
         page_cands, page_rendered = {}, {}
     end
 
+    local hash = {}
+
     -- 迭代器
     local iter, obj = input:iter()
     -- 迭代由翻譯器輸入的候選列表
@@ -108,21 +113,26 @@ function embeded_cands_filter.func(input, env)
     while next do
         -- 頁索引自增, 滿足 1 <= index <= page_size
         index = index + 1
+
         -- 當前遍歷候選項
         local cand = next
 
-        if index == 1 then
-            -- 把首選捉出來
-            first_cand = cand
+        -- 去除重複項
+        if (not hash[cand.text]) then
+            hash[cand.text] = true
+
+            if index == 1 then
+                -- 把首選捉出來
+                first_cand = cand
+            end
+
+            -- 修改首選的預编輯文本, 這会作爲内嵌編碼顯示到輸入處
+            preedit = render_cand(index, first_cand.preedit, cand.text, cand.comment)
+
+            -- 存入候選
+            table.insert(page_cands, cand)
+            table.insert(page_rendered, preedit)
         end
-
-        -- 修改首選的預编輯文本, 這会作爲内嵌編碼顯示到輸入處
-        preedit = render_cand(index, first_cand.preedit, cand.text, cand.comment)
-
-        -- 存入候選
-        table.insert(page_cands, cand)
-        table.insert(page_rendered, preedit)
-
         -- 遍歷完一頁候選後, 刷新預編輯文本
         if index == page_size then
             refresh_preedit()

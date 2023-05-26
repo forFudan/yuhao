@@ -14,3 +14,4 @@ patch:
   switches/@1/reset: 0 # [字詞同出, 全碼出單]
   switches/@2/reset: 0 # [原始排序, 全碼後置]
   switches/@3/reset: 0 # [〇註解, 一重註解, 二重註解, 三重註解]
+  switches/@4/reset: 0 # [普通候選, 嵌入候選]

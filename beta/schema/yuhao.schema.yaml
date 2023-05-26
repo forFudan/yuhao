@@ -45,6 +45,10 @@ switches:
       - yuhao_chaifen.lv3
     states: [〇註解, 一重註解, 二重註解, 三重註解]
     reset: 0
+  - name: embeded_cands
+    reset: 0
+    states: [普通候選, 嵌入候選]
+    # Control+Shift+E
   - name: traditionalization
     states: [简保持, 简转繁]
     reset: 0
@@ -53,9 +57,6 @@ switches:
     reset: 0
     states: [繁保持, 繁轉簡]
     # Control+Shift+J
-  - name: embeded_cands
-    reset: 0
-    states: [普通, 嵌入候选]
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
