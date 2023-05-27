@@ -8,7 +8,7 @@ patch:
   # menu/page_size: 5  # 每頁候選數量
   style/horizontal: false  # 橫排候選欄
   style/inline_preedit: true  # 候選欄内置於輸入界面
-  style/preedit_type: preview  # 候選顯示字母(composition)还是候選(preview)
+  style/preedit_type: composition  # 候選顯示字母(composition)还是候選(preview)
   # 以下開關，0爲第一個，1爲第二個，2爲第三個
   switches/@0/reset: 1 # [只出常用字, 常用字前置, 全字集原排序]
   switches/@1/reset: 0 # [字詞同出, 全碼出單]
