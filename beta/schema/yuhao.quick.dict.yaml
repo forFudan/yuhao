@@ -595,7 +595,7 @@ columns:
 府	ue
 差	uf
 关	ug
-美	uh
+装	uh
 应	ui
 单	uj
 赢	uk
@@ -642,7 +642,7 @@ columns:
 缺	wb
 包	wc
 腰	wd
-身	we
+胳	we
 集	wf
 生	wg
 特	wh
@@ -650,7 +650,7 @@ columns:
 金	wj
 千	wk
 告	wl
-魈	wm
+身	wm
 牛	wn
 丹	wo
 脑	wp
@@ -1208,7 +1208,6 @@ columns:
 腐朽	ue
 差别	uf
 关系	ug
-美丽	uh
 应该	ui
 单位	uj
 总是	ul
@@ -1254,7 +1253,7 @@ columns:
 缺少	wb
 包子	wc
 卑鄙	wd
-身体	we
+胳膊	we
 集中	wf
 生活	wg
 特别	wh
@@ -1262,7 +1261,7 @@ columns:
 金子	wj
 千里	wk
 告诉	wl
-罅隙	wm
+身体	wm
 牛奶	wn
 丹麦	wo
 脑袋	wp
@@ -1815,7 +1814,6 @@ columns:
 婕	cfx
 陣	cgc
 嫗	cgl
-姬	cgn
 陝	cgr
 陕	cgu
 妪	cgw
@@ -1883,6 +1881,7 @@ columns:
 嬝	cro
 妣	crr
 媲	crw
+姬	csc
 隋	csf
 异	csj
 媾	csk
@@ -2361,9 +2360,10 @@ columns:
 伴	eua
 俯	eue
 佯	eug
-儀	euh
+儲	euh
 僧	euj
 伙	euo
+儀	euq
 併	eus
 傭	eux
 㑚	eva
@@ -2781,7 +2781,6 @@ columns:
 鞘	gmw
 現	gmx
 璐	gne
-颐	gnl
 醞	gnt
 璞	gnu
 琯	gob
@@ -3330,7 +3329,7 @@ columns:
 灣	iub
 瀛	iuc
 洋	iug
-漾	iuh
+漾	iuo
 渡	ius
 溢	iut
 濂	iuu
@@ -3506,8 +3505,8 @@ columns:
 岭	jto
 昂	jtx
 嵯	juf
-曦	juh
 炅	juo
+曦	jur
 曠	jus
 旷	juu
 嵫	juv
@@ -3677,6 +3676,7 @@ columns:
 赃	kuh
 赠	kuj
 蜕	kul
+蟻	kuq
 螠	kut
 罔	kuu
 虻	kuw
@@ -4626,11 +4626,11 @@ columns:
 袢	pua
 邃	pud
 痒	pug
-糕	puh
+裤	puh
 阐	puj
 阅	pul
 褙	pur
-痰	puu
+糕	puu
 糍	puv
 阙	pux
 阚	pva
@@ -5117,11 +5117,13 @@ columns:
 茅	sco
 薅	scs
 蔭	sct
+熙	scu
 荫	scw
 厮	sde
 减	sdf
 斗	sdi
 萁	sdj
+颐	sdk
 薤	sdl
 厦	sdm
 茏	sdq
@@ -5184,6 +5186,7 @@ columns:
 厍	shc
 葉	shf
 著	shj
+赜	shk
 薹	shl
 茉	sho
 莲	shp
@@ -5571,8 +5574,7 @@ columns:
 众	ttt
 怂	tty
 伞	tud
-锩	tug
-镁	tuh
+镁	tug
 锐	tul
 锵	tur
 镀	tus
@@ -5636,7 +5638,7 @@ columns:
 邙	ucf
 諱	uci
 譎	uck
-妄	ucn
+嬴	ucn
 庋	udb
 廝	ude
 詁	udg
@@ -5672,7 +5674,7 @@ columns:
 尊	uga
 券	ugb
 郑	ugc
-庆	ugd
+美	ugd
 試	ugf
 庵	ugk
 眷	ugm
@@ -5689,18 +5691,14 @@ columns:
 壮	uhf
 訐	uhg
 燒	uhh
-羨	uhi
 諸	uhj
 廚	uhl
-盖	uhm
-装	uho
-義	uhq
-羲	uhr
-羡	uhs
+讀	uhm
+烤	uhs
 庄	uht
-羔	uhu
+評	uhu
 請	uhw
-恙	uhy
+訝	uhy
 炉	uie
 識	uij
 焙	uil
@@ -5735,6 +5733,7 @@ columns:
 詛	umi
 爐	umj
 廁	umm
+盖	umn
 訃	umo
 炒	umq
 燦	umr
@@ -5762,7 +5761,7 @@ columns:
 燐	upr
 熔	upt
 焖	upy
-託	uqa
+義	uqa
 誨	uqb
 訓	uqc
 許	uqd
@@ -5782,6 +5781,7 @@ columns:
 浆	urk
 燠	urp
 庇	urr
+羲	urs
 庾	urt
 誘	urv
 背	urw
@@ -5814,11 +5814,11 @@ columns:
 郯	uuc
 燧	uud
 烊	uug
-議	uuh
 善	uul
 剡	uum
 譜	uun
-炎	uuo
+羔	uuo
+議	uuq
 烂	uus
 廉	uux
 榮	uuy
@@ -5855,8 +5855,10 @@ columns:
 廖	uxt
 翔	uxu
 朔	uxw
+恙	uyi
 焕	uyk
 讒	uyl
+羑	uyo
 焰	uyr
 詭	uys
 廨	uyt
@@ -6070,7 +6072,7 @@ columns:
 牧	weh
 欽	wei
 腺	wek
-胳	wel
+鉻	wel
 錦	wem
 脈	wer
 錘	wes
@@ -6149,10 +6151,9 @@ columns:
 刈	wmd
 胱	wmh
 臚	wmj
-鎖	wmm
 罅	wmq
 犋	wmt
-鐲	wmw
+魈	wmw
 鋤	wmx
 鍋	wna
 熏	wne
@@ -6227,11 +6228,11 @@ columns:
 訇	wua
 腑	wue
 朕	wug
-犧	wuh
+脏	wuh
 脱	wul
 劁	wum
 炙	wuo
-乖	wur
+犧	wur
 胼	wus
 銻	wuv
 牤	wuw

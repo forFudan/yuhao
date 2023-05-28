@@ -22,7 +22,7 @@ nav_order: 1
 >[正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim)  
 >[稳定版v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3) ·
 >[内测版v2.0.0-alpha.2下载（四重注解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.2)  
->[快速指南](./docs/cookbook/cookbook) ·
+>[快速入门](./docs/cookbook) ·
 >[详细教程](./docs/learn) ·
 >[在线练习](./docs/practice) ·
 >[更新日志](./docs/updates/updates) ·
