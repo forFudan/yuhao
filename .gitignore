@@ -9,11 +9,19 @@ _site/
 .bundle/
 # vendor/
 
+# Ignore local settings
 /.vscode
 .DS_Store
 
+# Ignore locally-generated dictionary files
 /mabiao
 /schema
-/dist
+
+# Ignore distributions
 宇浩输入法打包.py
+/dist
 *.zip
+
+# Ignore extra key maps
+/beta/mabiao/*.png
+/beta/schema/*.png
