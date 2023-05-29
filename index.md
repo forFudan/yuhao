@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <!-- omit in toc -->
-# 宇浩·沟通古今·心系中華
+# 宇浩·情繫漢字·溝通古今
 {: .no_toc }
 
 <details open markdown="block">
@@ -111,6 +111,15 @@ nav_order: 1
 作者：王牌饼干
 
 项目地址：[https://github.com/lost-melody/rime-smyh](https://github.com/lost-melody/rime-smyh)
+
+[![宇浩三码顶](./image/smyh.png)](./image/smyh.png)
+
+<!-- 
+### 宇浩查字
+
+宇浩查字是由 Poto 开发的宇浩码查字打法软件，让你在使用宇浩码时遇到不会打的字能知道打法。目前仅支持单字。
+
+项目地址：[https://ispoto.github.io/YuHaoDict/](https://ispoto.github.io/YuHaoDict/) -->
 
 ## 背景故事
 

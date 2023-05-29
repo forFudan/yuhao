@@ -1447,6 +1447,7 @@ adfy	撼
 adgb	頂配
 adgc	𢳍
 adgc	𢳒
+adge	𢶋
 adgf	拋球
 adgf	㩥
 adgg	頂替
@@ -6142,11 +6143,11 @@ anmu	攔路虎
 anmu	拦路虎
 anmx	丁当
 ann	丁
-annd	𫽉
 anne	擋路
 anne	持此足為樂
 anne	持此足爲樂
 anne	攩
+annf	𫽉
 annj	丁當
 annn	𦗮
 annu	捉對
@@ -10019,8 +10020,8 @@ avmv	抬眼
 avmw	𱂉
 avnb	擸
 avnd	挨鬥
-avnd	𢪵
 avne	𢰕
+avnf	𢪵
 avnh	打退堂鼓
 avnj	挨踢
 avnk	𢳱
@@ -10929,7 +10930,7 @@ axms	掃瞄
 axmu	可以賦新詩
 axmv	扎眼
 axmx	拙見
-axnd	𭡈
+axnf	𭡈
 axng	打架鬥毆
 axng	报恩
 axng	报国
@@ -16250,9 +16251,9 @@ bnma	𦁗
 bnma	𪨏
 bnmm	𦇖
 bnmv	𮈼
-bnnd	𦁡
 bnne	𫄗
 bnnf	終歲常端正
+bnnf	𦁡
 bnom	網路遊戲
 bnoo	𬻘
 bnov	通過率
@@ -18561,9 +18562,9 @@ bumv	𬗓
 bumx	又見
 bunc	居廟堂之高則憂其民
 bund	纏鬥
-bund	𮈕
 bune	彎路
 bune	變黑
+bunf	𮈕
 bung	又因
 bunl	變回
 bunm	變頻
@@ -18960,10 +18961,10 @@ bvmx	𪨔
 bvn	艰
 bvnb	𦆻
 bvnb	𦈄
-bvnd	𥿇
 bvne	發黑
 bvnf	艰困
 bvnf	𡳚
+bvnf	𥿇
 bvnk	𦄦
 bvnl	發回
 bvnm	忍能對面為盜賊
@@ -23693,8 +23694,8 @@ cnmv	嫦
 cnmx	骘
 cnn	女
 cnna	女团
-cnnd	𨺗
 cnne	𡤭
+cnnf	𨺗
 cnng	女團
 cnnn	𡢋
 cnnn	⼥
@@ -26085,8 +26086,8 @@ cvmq	好少
 cvms	限購
 cvn	限
 cvnd	好鬥
-cvnd	𡛫
 cvnf	限
+cvnf	𡛫
 cvni	限止
 cvni	𩎤
 cvnm	好點
@@ -27606,9 +27607,9 @@ dbmx	起見
 dbmx	支助
 dbmx	𧡽
 dbmy	𫕢
-dbnd	𥒧
 dbnd	𩄙
 dbne	走彎路
+dbnf	𥒧
 dbng	起因
 dbng	協約國
 dbni	起止
@@ -28471,6 +28472,8 @@ ddgc	𫎾
 ddgd	碩大
 ddgd	硕大
 ddgd	㱠
+ddge	驖
+ddge	䟈
 ddgf	殱
 ddgf	䃱
 ddgf	𩆧
@@ -29642,12 +29645,10 @@ dewu	馬化騰
 deww	殘冬臘月
 deww	残冬腊月
 deww	十冬臘月
-deww	䃣
 deww	𧲄
 deww	𧽶
 deww	𪌼
 deww	𫕯
-deww	䃣
 dewy	𪍃
 dex	霆
 dexa	䵁
@@ -30765,6 +30766,7 @@ dglc	霸王别姬
 dglc	霸王別姬
 dglc	𨚵
 dgle	𥗄
+dgle	𢧜
 dgle	𧽮
 dgle	𩥳
 dglf	韯
@@ -34988,7 +34990,6 @@ dncv	露娜
 dndc	憂國憂民
 dndd	丰硕
 dndd	十歲裁詩走馬成
-dndd	㱜
 dndf	西園翰墨林
 dndh	來回來去
 dndl	故國不堪回首月明中
@@ -35023,6 +35024,7 @@ dnev	丰乳
 dnev	露乳
 dney	不足爲怪
 dney	感此傷妾心
+dnfd	㱜
 dnfe	死路一條
 dnfe	電路板
 dnfe	百歲相看能幾個
@@ -35112,8 +35114,8 @@ dnmg	露骨
 dnmv	露眼
 dnn	丰
 dnna	感恩图报
-dnnd	𥓢
 dnnf	不肯過江東
+dnnf	𥓢
 dnnh	感恩圖報
 dnnl	電路圖
 dnnm	露點
@@ -35795,6 +35797,8 @@ doww	尤物
 doww	十六進制
 doww	十六進位制
 doww	南郭先生
+doww	䃣
+doww	䃣
 dox	辜
 doxc	𧽗
 doxd	𰚀
@@ -47665,7 +47669,6 @@ endm	𠎡
 endm	𫤁
 endm	𬿳
 endn	休對故人思故國
-endo	𧺆
 endp	樂此不疲
 endp	偿还
 endr	樂此不彼
@@ -47755,6 +47758,7 @@ enfl	修整
 enfl	𠋼
 enfn	修正
 enfn	𣦛
+enfo	𧺆
 enfq	候机
 enfs	條形
 enfv	候機
@@ -58605,10 +58609,10 @@ fjnb	𭮻
 fjnc	三男四女
 fjnd	惡鬥
 fjnd	三男鄴城戍
-fjnd	𭻿
 fjne	画图
 fjne	東路
 fjne	𣝙
+fjnf	𭻿
 fjng	惡因
 fjng	𫐁
 fjnh	𡑼
@@ -61172,7 +61176,6 @@ fndd	東跑西顛
 fnde	頑固不化
 fnde	顽固不化
 fndg	棝
-fndi	𤴓
 fndk	正南
 fndk	正電
 fndk	𲊺
@@ -61183,7 +61186,6 @@ fndm	𩒞
 fndo	本固邦寧
 fndr	三過其門而不入
 fnds	㮯
-fndv	𣏡
 fndw	檔期
 fndx	政協
 fndx	政协
@@ -61223,6 +61225,7 @@ fnff	正本
 fnfh	正元
 fnfi	一對一
 fnfi	一點一滴
+fnfi	𤴓
 fnfi	𣑭
 fnfj	正東
 fnfk	柵欄
@@ -61253,6 +61256,7 @@ fnfv	正極
 fnfv	柵極
 fnfv	正极
 fnfv	橖
+fnfv	𣏡
 fnfv	𣙳
 fnfw	一國兩制
 fnfw	一国两制
@@ -65412,7 +65416,7 @@ fumw	一尊還酹江月
 fun	椪
 func	樣冊
 fund	无关紧要
-fund	𭪒
+funf	𭪒
 fung	東道國
 funh	一言堂
 funh	林語堂
@@ -66056,10 +66060,10 @@ fvmv	𢁴
 fvmx	晉見
 fvn	根
 fvnb	㯿
-fvnd	𣐌
-fvnd	𤴕
 fvnf	𢀰
+fvnf	𣐌
 fvnf	𣓜
+fvnf	𤴕
 fvnf	𤴜
 fvng	晉國
 fvni	橡皮圖章
@@ -66950,8 +66954,8 @@ fxmj	札幌
 fxml	功罪
 fxmv	杩
 fxmw	一马当先
-fxnd	疌
 fxnf	棣棠
+fxnf	疌
 fxnp	功過
 fxnp	𨓰
 fxnq	概览
@@ -69430,11 +69434,11 @@ gemx	覱
 gemx	𧡅
 genb	𬎝
 genc	軠
-gend	𬆉
 gene	玉泉路
 gene	𠤼
 genf	𠥑
 genf	𩌜
+genf	𬆉
 geng	大兵團
 geng	𤪟
 geng	𩍩
@@ -72923,10 +72927,8 @@ gnbw	王維
 gnbw	王國維
 gncb	王妃
 gncn	珊
-gndc	𤴛
 gndd	王碼
 gndd	王磊
-gndd	𡗱
 gndg	𬰦
 gndh	𡚓
 gndj	王朝
@@ -72950,6 +72952,8 @@ gner	王傑
 gneu	王儲
 gnfa	𤤃
 gnfb	王权
+gnfc	𤴛
+gnfd	𡗱
 gnfh	太歲頭上動土
 gnfj	王東
 gnfs	王權
@@ -73007,9 +73011,9 @@ gnmt	大跌眼镜
 gnmv	瑺
 gnmw	大跌眼鏡
 gnn	王
-gnnd	𩋀
 gnne	𨏻
 gnne	𪼲
+gnnf	𩋀
 gnng	王國
 gnng	王国
 gnnl	大團圓
@@ -73020,7 +73024,6 @@ gnnn	𰢐
 gnnn	⺩
 gnnn	王
 gnnu	王業
-gnnu	煕
 gnoh	王室
 gnol	王宮
 gnol	王宫
@@ -76282,9 +76285,9 @@ gvmn	𮠴
 gvnb	㼃
 gvnb	䪉
 gvnc	𨋨
-gvnd	㺼
-gvnd	𤴝
 gvne	鞎
+gvnf	㺼
+gvnf	𤴝
 gvnl	𫑽
 gvnn	珢
 gvno	𢧟
@@ -79432,8 +79435,8 @@ hemx	未見
 hemx	𥛟
 hena	𩬎
 henb	𪌛
-hend	𬆂
 hene	𪑢
+henf	𬆂
 heng	㙸
 henq	𭏒
 henr	未嘗
@@ -79999,8 +80002,8 @@ hfmv	𩫿
 hfmv	𬒭
 hfmx	辅助
 hfmx	福鼎
-hfnd	𡊕
 hfne	𪣴
+hfnf	𡊕
 hfng	𰿓
 hfni	𥘺
 hfni	𩬧
@@ -83298,7 +83301,6 @@ hnbf	坦尚尼亞
 hnbq	鼓足勇氣
 hncy	世路如今已慣
 hnda	未嘗不可
-hnda	𩬄
 hndc	禍國殃民
 hndc	祸国殃民
 hndf	鼓足幹勁
@@ -83312,6 +83314,7 @@ hneh	𩬼
 hnel	𱘅
 hnen	到此爲止
 hnet	𱗻
+hnfa	𩬄
 hnff	𱖖
 hnfh	𫝔
 hnfj	𡔶
@@ -83351,8 +83354,8 @@ hnmg	賣國賊
 hnmv	𫀠
 hnmv	𰊠
 hnnc	地圖冊
-hnnd	𱵖
 hnne	𰋆
+hnnf	𱵖
 hnni	𡍍
 hnns	𭍥
 hnod	禍害
@@ -85948,8 +85951,8 @@ htmt	𡊧
 htmy	鸦片战争
 htna	𩬮
 htnb	𡌙
-htnd	𩬂
 htne	赤黑
+htnf	𩬂
 htng	轮距
 htnh	禮拜堂
 htni	長途跋涉
@@ -94087,10 +94090,10 @@ ijmx	意見
 ijmx	𧡱
 ijn	湿
 ijnd	𣴪
-ijnd	𣷐
 ijnd	𥪎
 ijne	意图
 ijnf	沉思默想
+ijnf	𣷐
 ijng	𩑀
 ijnk	𰝤
 ijnl	意圖
@@ -94946,7 +94949,6 @@ iksg	油藏
 iksg	贛水蒼茫閩山碧
 iksg	𢨒
 iksh	油压
-iksh	濹
 iksj	濃厚
 iksj	油壓
 iksj	海上有仙山
@@ -96083,7 +96085,6 @@ inco	溫婉
 incu	涉嫌
 ind	涸
 inda	新墨西哥
-indc	𣲓
 inde	溫故
 indg	涸
 indh	𣶦
@@ -96119,6 +96120,7 @@ ines	妾當作蒲葦
 infa	濒于
 infb	滥权
 infb	沈園柳老不吹綿
+infc	𣲓
 infd	溫標
 infe	溫格
 infh	𱦜
@@ -96160,6 +96162,7 @@ inhq	溫熱
 inhq	举足轻重
 inht	溫熱
 inht	漟
+inht	濹
 inhu	扁平
 inhw	𭱿
 ini	沚
@@ -96221,8 +96224,8 @@ inmv	𣴯
 inmv	𣻸
 inmx	𧡤
 innd	翩躚
-innd	𣶵
 inne	灙
+innf	𣶵
 innm	立足點
 innn	澁
 innq	濒临
@@ -100462,11 +100465,11 @@ ivmx	𧠞
 ivna	浪子回頭金不換
 ivnb	𤁯
 ivnc	泿
-ivnd	𣳟
 ivne	波黑
 ivne	治黑
 ivne	𢩆
 ivnf	浪子回頭
+ivnf	𣳟
 ivng	治國
 ivng	治国
 ivng	波恩
@@ -103715,11 +103718,11 @@ jfnb	𪰯
 jfnb	𰖰
 jfnc	韙
 jfnc	𢁈
-jfnd	是
 jfne	曬黑
 jfne	晸
 jfne	𪑛
 jfne	𪰱
+jfnf	是
 jfnf	果园
 jfnf	𣊰
 jfng	凱恩
@@ -108161,7 +108164,6 @@ jugp	旷达
 jugr	𱢂
 jugs	㟄
 jugt	𡺹
-jugv	㒽
 jugv	㟡
 jugv	𡸩
 jugv	𤲨
@@ -108466,7 +108468,7 @@ jvmn	𰖕
 jvmv	顯眼
 jvmx	顯見
 jvnb	𣋲
-jvnd	𤱐
+jvnf	𤱐
 jvnk	𱢇
 jvnr	𭦂
 jvns	幽默
@@ -110352,6 +110354,7 @@ kdg	蛄
 kdgb	𲂾
 kdgc	蛄
 kdgd	电大
+kdge	𧒵
 kdgf	电玩
 kdgf	䘂
 kdgf	𨷡
@@ -111743,6 +111746,7 @@ khfv	蝶
 khfv	𨵳
 khgc	虷
 khgf	赌球
+khgf	曱
 khgf	𲈲
 khgg	𢧍
 khgi	水平面
@@ -113065,7 +113069,6 @@ knbu	𧉫
 knbv	農業局
 kncb	門巴
 kncv	門限
-kndc	𧉆
 kndh	門票
 kndh	閉路電視
 kndh	凹凸不平
@@ -113077,6 +113080,7 @@ knel	𧒌
 knen	𨶯
 knew	開國何茫然
 knfb	門楣
+knfc	𧉆
 knfe	門板
 knff	門禁
 knfg	門框
@@ -115031,6 +115035,7 @@ ksuu	曲譜
 ksuu	野營
 ksuu	𤒍
 ksuu	𨤮
+ksuv	㒽
 ksuw	上前
 ksuw	曲調
 ksuw	上調
@@ -116313,9 +116318,9 @@ kvn	蠟
 kvnb	蠟
 kvnb	蠟
 kvnc	蛝
-kvnd	𰲷
 kvne	水路
 kvne	曲线图
+kvnf	𰲷
 kvng	𨶥
 kvnh	水墨
 kvnh	𨶾
@@ -121636,7 +121641,6 @@ lndm	忠烈
 lndm	噦
 lnds	𰈔
 lndt	中耕
-lndv	𠯬
 lndv	𫫅
 lndw	中期
 lndx	中西
@@ -121684,6 +121688,7 @@ lnfu	郢路更參差
 lnfu	𠿽
 lnfv	戰鬥機
 lnfv	中歲貢舊鄉
+lnfv	𠯬
 lnfv	𠳁
 lng	嗯
 lnga	中專
@@ -124274,7 +124279,7 @@ lvmn	𠵼
 lvmv	嗓子眼
 lvn	哏
 lvnb	𡂏
-lvnd	𠰊
+lvnf	𠰊
 lvnl	𠽔
 lvnp	吸過
 lvnq	𱔰
@@ -124495,6 +124500,7 @@ lwco	別院
 lwco	別嫁
 lwd	啤
 lwda	別趣
+lwde	𫬾
 lwdg	史載
 lwdg	史载
 lwdg	𫬾
@@ -131179,7 +131185,7 @@ mrmy	見稜見角
 mrna	𣨷
 mrnb	瞍
 mrnc	𮯄
-mrnd	𮓝
+mrnf	𮓝
 mrni	則與鬥卮酒
 mrnm	餐點
 mrnn	𥊂
@@ -132534,8 +132540,8 @@ mvn	齦
 mvnb	䁽
 mvnb	𪙷
 mvnc	齦
-mvnd	䝪
 mvnf	眼
+mvnf	䝪
 mvng	還鄉團
 mvnk	悬赏
 mvnq	眼跳
@@ -133686,7 +133692,6 @@ nakr	鬥折蛇行
 naks	团里
 nakv	𮛃
 nakw	团购
-nakw	曱
 nalb	𮛠
 nalk	团员
 nalv	跒
@@ -134160,7 +134165,6 @@ ndcf	固陋
 ndcn	𬦽
 ndcs	歧异
 ndd	鬥
-ndd	龰
 nddb	對不起
 nddb	恩不甚兮輕絕
 nddc	對不起
@@ -134904,6 +134908,7 @@ nfeo	困住
 nfes	困憊
 nfeu	困倦
 nfev	躎
+nff	龰
 nffa	困于
 nffe	黑格爾
 nfff	當頭一棒
@@ -137226,7 +137231,6 @@ nndc	此固其理也
 nndd	蹈常袭故
 nndf	圓因裁製功
 nndi	躊躇不決
-nndi	歨
 nndk	對此不拋眼淚也無由
 nndl	跑過來
 nndm	䠩
@@ -137254,6 +137258,7 @@ nnff	堂堂正正
 nnff	囫圇吞棗
 nnff	黨禁
 nnff	囫囵吞枣
+nnfi	歨
 nnfi	𨀢
 nnfj	黨棍
 nnfn	黨政
@@ -137314,7 +137319,7 @@ nnmd	𠜶
 nnmh	過路財神
 nnmt	黨齡
 nnnc	步踟躕于山隅
-nnnd	𨁾
+nnnf	𨁾
 nnnf	𰘭
 nnnf	𱦻
 nnng	黨團
@@ -139537,11 +139542,11 @@ numv	對眼
 nun	踫
 nunb	黺
 nund	𪓌
-nund	𮛙
 nune	對路
 nune	𣀅
 nunf	黼
 nunf	𤰐
+nunf	𮛙
 nunh	𮜥
 nunm	蹲點
 nunm	圈點
@@ -142651,10 +142656,10 @@ ofmx	㝟
 ofmx	䎙
 ofmy	宇瞻
 ofn	定
-ofnd	定
 ofne	富麗堂皇
 ofne	富丽堂皇
 ofne	高速路
+ofnf	定
 ofnf	為木當作松
 ofng	富國
 ofng	富国
@@ -155576,9 +155581,9 @@ pnmn	𤼎
 pnmv	𤹰
 pnmv	𮖫
 pnn	门
-pnnd	𧚺
 pnne	门路
 pnne	𥽻
+pnnf	𧚺
 pnnm	窩點
 pnnn	𤺙
 pnnn	⻔
@@ -158329,6 +158334,7 @@ pwdb	文契
 pwdb	𥨓
 pwdd	容錯碼
 pwdd	𲉯
+pwde	𱱳
 pwdg	𱱳
 pwdh	魔石
 pwdi	痺
@@ -160919,8 +160925,6 @@ qewt	笑脸
 qewu	𥶱
 qeww	氧化物
 qeww	等價物
-qeww	䈧
-qeww	䈧
 qex	筳
 qexb	䈜
 qexn	艇
@@ -164741,6 +164745,8 @@ qowl	𲍇
 qown	𥭲
 qowt	管腳
 qowu	𮆽
+qoww	䈧
+qoww	䈧
 qowy	乞哀告憐
 qoxc	𥱳
 qoxi	𥏔
@@ -167366,7 +167372,7 @@ qvmu	𧆦
 qvnb	𫚭
 qvnb	䉭
 qvnc	𥮺
-qvnd	𭻾
+qvnf	𭻾
 qvnk	𥶢
 qvnk	𮅐
 qvnm	𫦒
@@ -172986,7 +172992,7 @@ rkmo	𰯽
 rkmo	𱭶
 rkmt	独具
 rkmv	独眼
-rknd	𢓺
+rknf	𢓺
 rknf	𰄖
 rkng	興國
 rknm	独步
@@ -174499,9 +174505,9 @@ rnmq	𮃊
 rnmv	𭀕
 rnn	向
 rnna	𫆎
-rnnd	徙
 rnne	𤣞
 rnne	𥤗
+rnnf	徙
 rnng	𢖃
 rnnn	𰃦
 rnnp	穢跡
@@ -175460,7 +175466,7 @@ rqew	復件
 rqex	疑似
 rqex	𥣮
 rqey	復仇
-rqf	禦
+rqf	御
 rqfa	衘
 rqfd	種植
 rqff	移舟木蘭棹
@@ -178202,7 +178208,7 @@ runa	𮋹
 runc	入圍
 rund	狼煙四起
 rund	狼烟四起
-rund	従
+runf	従
 rung	入團
 runj	氆
 runk	皆言四海同
@@ -180045,7 +180051,7 @@ rxme	秘書處
 rxmf	秉賦
 rxmq	犸
 rxnc	𱝑
-rxnd	𤴘
+rxnf	𤴘
 rxns	𪫓
 rxny	𭚓
 rxob	比翼齊飛
@@ -181797,6 +181803,7 @@ scum	茅廁
 scum	茅廬
 scun	莫嫌犖确坡頭路
 scuo	熙
+scuo	煕
 scuo	𤋮
 scuo	𤌇
 scuo	𦱻
@@ -182004,6 +182011,7 @@ sdfy	𦽫
 sdfy	𭂢
 sdg	苦
 sdgc	𦸊
+sdge	𦼺
 sdgf	暮雲春樹
 sdgf	𮐅
 sdgg	𦺐
@@ -195618,6 +195626,7 @@ sylr	𪆆
 sylx	葂
 sym	带
 syma	藐小
+syma	䑐
 syma	𦬼
 syma	𦬼
 symb	萯
@@ -200903,8 +200912,6 @@ tndl	用來
 tndm	鱥
 tndm	𫖠
 tndo	自圆其说
-tndo	辵
-tndo	⾡
 tndp	乐此不疲
 tndq	人困馬乏
 tnds	𢒤
@@ -200941,6 +200948,8 @@ tnff	全國一盤棋
 tnfg	用武
 tnfk	企求
 tnfo	用工
+tnfo	辵
+tnfo	⾡
 tnfp	用来
 tnfq	欲迴天地入扁舟
 tnfr	𫢚
@@ -207431,8 +207440,8 @@ uemv	𱍲
 uemw	𤋠
 uemx	𪺄
 uena	䚾
-uend	𢉇
 uenf	半斤對八兩
+uenf	𢉇
 ueng	康采恩
 ueng	𧭎
 ueng	𫸆
@@ -211677,10 +211686,10 @@ unmu	並罰
 unmv	龦
 unmv	𢊥
 unnb	普贤
-unnd	𬢮
 unne	讜
 unne	爣
 unnf	𢋹
+unnf	𬢮
 unnh	𪺌
 unnn	𤎠
 unnn	𧬃
@@ -216632,10 +216641,10 @@ uvnb	爉
 uvnb	𧭞
 uvnb	𭄍
 uvnb	𭚾
-uvnd	𪸢
 uvnd	𭛊
-uvnd	𮘇
 uvne	𱍭
+uvnf	𪸢
+uvnf	𮘇
 uvng	慈恩
 uvng	𫅔
 uvnh	𤏯
@@ -221290,11 +221299,8 @@ vnby	蛋鸡
 vnca	引导
 vnca	疏导
 vncu	鄉路隔風煙
-vnd	疋
 vndb	引起
 vndc	引起
-vndi	疋
-vndi	⽦
 vndl	引來
 vndl	弔喪
 vndm	𩑠
@@ -221309,13 +221315,16 @@ vnet	引咎
 vneu	引信
 vnev	蛋雞
 vnew	引爲
+vnf	疋
 vnfa	疏于
 vnfe	引橋
 vnfe	引桥
 vnfe	线路板
 vnff	𠙿
 vnfh	疏远
+vnfi	疋
 vnfi	𠀓
+vnfi	⽦
 vnfl	引逗
 vnfl	疎
 vnfn	卍
@@ -225648,6 +225657,7 @@ wdfy	𤛸
 wdfy	𫓏
 wdfy	𱼞
 wdg	鐵
+wdge	鐵
 wdge	鐵匠
 wdge	腰斬
 wdge	金馬碧雞
@@ -234549,9 +234559,9 @@ wvnb	鑞
 wvnb	犣
 wvnb	臘
 wvnd	進退跡遂殊
-wvnd	𦙬
 wvne	銀鷺
 wvnf	勾践
+wvnf	𦙬
 wvng	勾踐
 wvnj	銀
 wvnj	勾當
@@ -236853,6 +236863,7 @@ xdfi	䎉
 xdfl	𤖠
 xdfm	骦
 xdfu	群龙无首
+xdge	𬴋
 xdgg	𬴋
 xdgr	暨南大學
 xdhj	𢑳
@@ -240656,9 +240667,9 @@ xxmt	出具
 xxmu	盡收眼底
 xxmu	䖓
 xxmw	𮋚
-xxnd	𤴗
 xxne	出路
 xxne	𪐽
+xxnf	𤴗
 xxng	出國
 xxng	出国
 xxng	出團
@@ -245115,7 +245126,6 @@ ynce	歸降
 ynce	歸附
 yncu	歸隊
 yncw	惜墨如金
-ynde	𧿍
 yndf	必固其根本
 yndg	䭅
 yndg	𢛅
@@ -245142,6 +245152,7 @@ yner	歸化
 ynes	𢛾
 ynet	歸咎
 yneu	歸併
+ynfe	𧿍
 ynfg	歸天
 ynfh	歸元
 ynfi	𧲾
