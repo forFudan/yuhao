@@ -17,6 +17,10 @@ nav_order: 2
 {:toc}
 </details>
 
+{: .highlight }
+>[稳定版v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3)  
+>[内测版v2.0.0-alpha.3下载](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.3)  
+
 ## QQ 群资源
 
 官方 QQ 群中提供本输入法的全部资源，还有同好一起讨论相关问题。点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
