@@ -31,7 +31,7 @@ columns:
 上	k
 中	l
 還	m
-對	n
+回	n
 就	o
 裡	p
 我	q
@@ -56,7 +56,7 @@ columns:
 上面	k
 中午	l
 還是	m
-對的	n
+回來	n
 就是	o
 裡面	p
 我們	q
@@ -80,6 +80,7 @@ columns:
 上次	k
 中間	l
 還有	m
+回到	n
 我的	q
 覺得	r
 有人	s
@@ -359,7 +360,7 @@ columns:
 內	kr
 最	ks
 肉	kt
-剛	ku
+對	ku
 水	kv
 閒	kw
 见	kx
@@ -425,7 +426,7 @@ columns:
 止	ni
 當	nj
 踏	nk
-回	nl
+圖	nl
 點	nm
 黨	nn
 鬧	no
@@ -434,7 +435,7 @@ columns:
 些	nr
 尚	ns
 掌	nt
-業	nu
+圈	nu
 跟	nv
 跑	nw
 躍	nx
@@ -602,7 +603,7 @@ columns:
 赢	uk
 誤	ul
 店	um
-並	un
+廠	un
 讓	uo
 這	up
 許	uq
@@ -961,7 +962,7 @@ columns:
 蜘蛛	kq
 內容	kr
 最後	ks
-剛剛	ku
+對的	ku
 水平	kv
 閒人	kw
 见到	kx
@@ -1013,7 +1014,7 @@ columns:
 因為	ng
 止損	ni
 當時	nj
-回到	nl
+圖案	nl
 點頭	nm
 因此	nn
 過來	np
@@ -1021,7 +1022,7 @@ columns:
 因此	nr
 尚未	ns
 過會兒	nt
-對應	nu
+圈子	nu
 跟着	nv
 肯定	nw
 圖書館	nx
@@ -1172,7 +1173,6 @@ columns:
 識别	ui
 曾經	uj
 誤會	ul
-並且	un
 讓我	uo
 這裡	up
 許多	uq
@@ -1394,6 +1394,7 @@ columns:
 捫	akn
 抽	ako
 拽	akq
+撲	aku
 哥	ala
 拐	alb
 挹	alc
@@ -1425,7 +1426,6 @@ columns:
 擋	anj
 揽	anq
 撑	ant
-撲	anu
 捉	anv
 拧	aoa
 掖	aoe
@@ -2219,6 +2219,7 @@ columns:
 侗	ekf
 侧	ekm
 儂	eks
+僕	eku
 泉	ekv
 觅	ekx
 偶	eky
@@ -2245,7 +2246,6 @@ columns:
 償	enm
 傥	enq
 倘	ens
-僕	enu
 促	env
 佇	eoa
 倌	eob
@@ -2480,6 +2480,7 @@ columns:
 柚	fko
 枣	fks
 丙	fkt
+樸	fku
 汞	fkv
 枧	fkx
 楫	fla
@@ -2514,7 +2515,7 @@ columns:
 韭	fnn
 槛	fnq
 焉	fns
-樸	fnu
+柬	fnu
 柠	foa
 棺	fob
 桉	foc
@@ -2588,8 +2589,8 @@ columns:
 槎	fuf
 樽	fug
 櫥	fuh
+椪	fuk
 棁	ful
-椪	fun
 杰	fuo
 栏	fus
 梯	fuv
@@ -2730,6 +2731,7 @@ columns:
 軸	gko
 鵪	gkr
 理	gks
+璞	gku
 泰	gkv
 现	gkx
 鹌	gky
@@ -2752,7 +2754,6 @@ columns:
 珊	gnc
 璐	gne
 醞	gnt
-璞	gnu
 琯	gob
 鞍	goc
 玉	god
@@ -2961,10 +2962,9 @@ columns:
 刊	hmd
 鬟	hmf
 祖	hmi
-祯	hmk
+墟	hmk
 坫	hml
 賣	hmm
-墟	hmn
 塄	hmo
 禍	hna
 祉	hni
@@ -3048,9 +3048,9 @@ columns:
 懿	hyf
 志	hyi
 壺	hyj
+壶	hyk
 堍	hyl
 祢	hym
-壶	hyn
 祕	hyq
 塢	hyw
 澉	iaa
@@ -3102,6 +3102,7 @@ columns:
 湟	ieg
 湲	ieh
 沂	iej
+濮	iek
 洛	iel
 盜	iem
 滌	ien
@@ -3166,9 +3167,9 @@ columns:
 汩	ije
 湯	ijf
 涅	ijh
+湿	ijk
 韻	ijl
 漫	ijm
-湿	ijn
 章	ijo
 竟	ijq
 音	ijr
@@ -3428,6 +3429,7 @@ columns:
 崽	jjy
 峒	jkf
 岬	jkj
+显	jkk
 岫	jko
 崗	jku
 岗	jkw
@@ -3438,7 +3440,6 @@ columns:
 曙	jmh
 峭	jmw
 勗	jmx
-显	jnu
 晏	joc
 昉	jog
 崇	joh
@@ -3571,7 +3572,6 @@ columns:
 閩	kkc
 删	kkf
 閘	kkj
-淼	kkk
 蚰	kko
 蚋	kkr
 蛐	kks
@@ -3594,6 +3594,7 @@ columns:
 蝈	kng
 螳	knh
 蛔	knl
+黻	knt
 贮	kof
 蛀	kog
 閡	koi
@@ -3643,13 +3644,14 @@ columns:
 蚧	ktt
 蚣	ktv
 螅	kty
+叢	kud
 蛳	kuf
 蜷	kug
 赃	kuh
-岡	kuj
+剛	kuj
 蜕	kul
 蟻	kuq
-螠	kut
+業	kut
 罔	kuu
 虻	kuw
 闕	kux
@@ -3790,6 +3792,7 @@ columns:
 遺	lkm
 吶	lkr
 呐	lkt
+噗	lku
 勋	lkx
 喁	lky
 囂	lld
@@ -3806,9 +3809,8 @@ columns:
 噱	lmd
 咣	lmh
 咀	lmi
-唢	lmk
+嘘	lmk
 嚶	lmm
-嘘	lmn
 卟	lmo
 吵	lmq
 啰	lmr
@@ -3823,7 +3825,6 @@ columns:
 盅	lnm
 嘴	lnr
 啮	lnt
-噗	lnu
 嗣	lnv
 啃	lnw
 忠	lny
@@ -3990,7 +3991,10 @@ columns:
 膚	mjw
 慮	mjy
 贞	mkb
+虚	mkk
+覷	mkm
 帽	mks
+幞	mku
 髏	mld
 虞	mlf
 战	mlg
@@ -4013,7 +4017,6 @@ columns:
 幗	mng
 瞠	mnh
 齜	mnr
-覷	mnu
 齪	mnv
 卤	mnw
 貯	moa
@@ -4147,7 +4150,7 @@ columns:
 踢	njw
 蹋	njx
 赏	nkb
-圖	nld
+蹼	nku
 圆	nlk
 躁	nll
 圓	nlm
@@ -4163,7 +4166,6 @@ columns:
 蹚	nnh
 趾	nni
 跐	nnr
-蹼	nnu
 踪	noh
 蹴	nol
 躥	noq
@@ -4209,15 +4211,13 @@ columns:
 囵	ntr
 跄	ntv
 龄	ntx
-邺	nuc
-业	nue
 蹉	nuf
-圈	nug
+蹲	nug
 蹭	nuj
+踫	nuk
 踮	num
-黻	nun
 踱	nus
-叢	nuu
+躞	nuu
 跥	nvf
 黪	nvg
 跆	nvl
@@ -5021,8 +5021,8 @@ columns:
 颎	rud
 狮	ruf
 徉	rug
+氆	ruk
 税	rul
-氆	run
 秋	ruo
 逖	rup
 乘	rur
@@ -5697,6 +5697,8 @@ columns:
 謂	ujw
 烛	ukc
 爛	ukf
+普	ukj
+並	ukk
 炯	ukl
 庙	uko
 訥	ukr
@@ -5722,10 +5724,8 @@ columns:
 帅	umv
 燭	umw
 謔	umx
-廠	une
 烟	ung
 丫	uns
-普	unu
 烷	uof
 訪	uog
 該	uoi
@@ -5794,9 +5794,9 @@ columns:
 郯	uuc
 燧	uud
 詳	uug
+譜	uuk
 善	uul
 剡	uum
-譜	uun
 炎	uuo
 議	uuq
 烂	uus

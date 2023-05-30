@@ -323,10 +323,10 @@ columns:
 晴	jh
 暗	ji
 晶	jj
-映	jk
+显	jk
 巖	jl
 晃	jm
-显	jn
+崮	jn
 早	jo
 崆	jp
 昨	jq
@@ -348,7 +348,7 @@ columns:
 赌	kh
 赔	ki
 甲	kj
-婴	kk
+业	kk
 蝇	kl
 则	km
 門	kn
@@ -401,7 +401,7 @@ columns:
 帽	mk
 点	ml
 罩	mm
-虚	mn
+皿	mn
 罚	mo
 眯	mp
 少	mq
@@ -433,7 +433,7 @@ columns:
 些	nr
 尚	ns
 掌	nt
-业	nu
+圈	nu
 足	nv
 跑	nw
 躍	nx
@@ -598,10 +598,10 @@ columns:
 装	uh
 应	ui
 单	uj
-赢	uk
+普	uk
 总	ul
 店	um
-普	un
+烟	un
 火	uo
 這	up
 炸	uq
@@ -945,9 +945,8 @@ columns:
 晴朗	jh
 暗示	ji
 晶莹	jj
-岗位	jk
+显然	jk
 晃动	jm
-显然	jn
 影响	jo
 崆峒	jp
 昨天	jq
@@ -968,7 +967,7 @@ columns:
 贼人	kg
 赔偿	ki
 螺旋	kj
-婴儿	kk
+业务	kk
 蜗牛	kl
 叔叔	km
 螳螂	kn
@@ -1018,7 +1017,6 @@ columns:
 帽子	mk
 战争	ml
 帖子	mm
-虚伪	mn
 罚款	mo
 虔诚	mp
 少数	mq
@@ -1049,7 +1047,7 @@ columns:
 此外	nr
 尚且	ns
 掌握	nt
-业务	nu
+圈子	nu
 足以	nv
 肯定	nw
 躍居	nx
@@ -1210,9 +1208,9 @@ columns:
 关系	ug
 应该	ui
 单位	uj
+普通	uk
 总是	ul
 盲目	um
-普遍	un
 火车	uo
 熔点	up
 炸弹	uq
@@ -1440,6 +1438,7 @@ columns:
 抽	ako
 拽	akq
 聘	aks
+撲	aku
 哥	ala
 挹	alc
 摟	ald
@@ -1470,7 +1469,6 @@ columns:
 擋	anj
 揽	anq
 撑	ant
-撲	anu
 捉	anv
 拧	aoa
 掖	aoe
@@ -2260,6 +2258,7 @@ columns:
 侧	ekm
 們	ekn
 俚	eks
+僕	eku
 泉	ekv
 觅	ekx
 偶	eky
@@ -2288,7 +2287,6 @@ columns:
 償	enm
 傥	enq
 倘	ens
-僕	enu
 佇	eoa
 倌	eob
 斥	eod
@@ -2513,6 +2511,7 @@ columns:
 柚	fko
 枣	fks
 丙	fkt
+樸	fku
 汞	fkv
 枧	fkx
 楫	fla
@@ -2623,8 +2622,8 @@ columns:
 槎	fuf
 樽	fug
 桩	fuh
+椪	fuk
 棁	ful
-椪	fun
 杰	fuo
 栏	fus
 梯	fuv
@@ -2761,6 +2760,7 @@ columns:
 軸	gko
 鵪	gkr
 理	gks
+璞	gku
 泰	gkv
 规	gkx
 鹌	gky
@@ -2782,7 +2782,6 @@ columns:
 現	gmx
 璐	gne
 醞	gnt
-璞	gnu
 琯	gob
 鞍	goc
 玉	god
@@ -2988,10 +2987,9 @@ columns:
 刊	hmd
 鬟	hmf
 祖	hmi
-祯	hmk
+墟	hmk
 坫	hml
 盐	hmm
-墟	hmn
 塄	hmo
 視	hmx
 禍	hna
@@ -3075,9 +3073,9 @@ columns:
 埠	hyd
 轨	hyf
 壺	hyj
+壶	hyk
 堍	hyl
 祢	hym
-壶	hyn
 壳	hyq
 塢	hyw
 沏	iab
@@ -3127,9 +3125,10 @@ columns:
 湟	ieg
 湲	ieh
 沂	iej
+濮	iek
 洛	iel
 盜	iem
-濮	ien
+滌	ien
 沃	ieo
 派	ier
 浮	iev
@@ -3191,9 +3190,9 @@ columns:
 汩	ije
 湜	ijf
 涅	ijh
+湿	ijk
 韻	ijl
 温	ijm
-湿	ijn
 章	ijo
 竟	ijq
 音	ijr
@@ -3455,6 +3454,7 @@ columns:
 曝	jjs
 崽	jjy
 峒	jkf
+映	jkg
 岬	jkj
 岫	jko
 崗	jku
@@ -3466,7 +3466,6 @@ columns:
 曙	jmh
 峭	jmw
 勗	jmx
-崮	jnd
 晏	joc
 昉	jog
 崇	joh
@@ -3598,9 +3597,8 @@ columns:
 蠅	kjm
 沓	kjr
 赐	kjw
-鹦	kkc
+婴	kkc
 閘	kkj
-淼	kkk
 蚰	kko
 蛐	kks
 蚋	kkt
@@ -3671,13 +3669,16 @@ columns:
 肉	ktt
 蚣	ktv
 螅	kty
+對	kua
+凿	kud
 蛳	kuf
 蛘	kug
 赃	kuh
 赠	kuj
 蜕	kul
+黼	kum
 蟻	kuq
-螠	kut
+業	kut
 罔	kuu
 虻	kuw
 蜣	kux
@@ -3818,6 +3819,7 @@ columns:
 吶	lkr
 哩	lks
 呐	lkt
+噗	lku
 雖	lkw
 勋	lkx
 喁	lky
@@ -3835,9 +3837,8 @@ columns:
 噱	lmd
 咣	lmh
 咀	lmi
-唢	lmk
+嘘	lmk
 嚶	lmm
-嘘	lmn
 卟	lmo
 啰	lmr
 唬	lmu
@@ -3851,7 +3852,6 @@ columns:
 盅	lnm
 呲	lnr
 啮	lnt
-噗	lnu
 嗣	lnv
 啃	lnw
 忠	lny
@@ -4019,7 +4019,10 @@ columns:
 虜	mjx
 慮	mjy
 贞	mkb
+虚	mkk
+覷	mkm
 體	mks
+幞	mku
 髏	mld
 虞	mlf
 战	mlg
@@ -4043,7 +4046,6 @@ columns:
 帼	mng
 瞠	mnh
 眦	mnr
-觑	mnu
 齪	mnv
 卤	mnw
 貯	moa
@@ -4173,6 +4175,7 @@ columns:
 踢	njw
 蹋	njx
 踏	nkj
+蹼	nku
 圖	nld
 躁	nll
 圓	nlm
@@ -4187,7 +4190,6 @@ columns:
 黨	nne
 蹚	nnh
 跐	nnr
-蹼	nnu
 蹴	nol
 鬧	nom
 裳	nor
@@ -4236,14 +4238,13 @@ columns:
 囵	ntr
 跄	ntv
 龄	ntx
-邺	nuc
 蹉	nuf
-圈	nug
+蹲	nug
 蹭	nuj
+踫	nuk
 踮	num
-踫	nun
 踱	nus
-凿	nuu
+躞	nuu
 跥	nvf
 黪	nvg
 跆	nvl
@@ -4418,7 +4419,7 @@ columns:
 交	otw
 详	oug
 商	ouk
-谱	oun
+齊	oun
 灾	ouo
 谥	out
 谈	ouu
@@ -5047,8 +5048,8 @@ columns:
 颎	rud
 狮	ruf
 徉	rug
+氆	ruk
 税	rul
-氆	run
 秋	ruo
 逖	rup
 剩	rur
@@ -5715,8 +5716,10 @@ columns:
 灿	ujs
 曾	uju
 羯	ujw
+赢	ukb
 烛	ukc
 爛	ukf
+並	ukk
 炯	ukl
 庙	uko
 廛	uks
@@ -5742,9 +5745,7 @@ columns:
 燭	umw
 謔	umx
 廠	une
-烟	ung
 丫	uns
-並	unu
 烷	uof
 炷	uog
 該	uoi
@@ -5814,9 +5815,9 @@ columns:
 郯	uuc
 燧	uud
 烊	uug
+譜	uuk
 善	uul
 剡	uum
-譜	uun
 羔	uuo
 議	uuq
 烂	uus
