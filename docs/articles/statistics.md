@@ -73,17 +73,17 @@ nav_order: 2
 
 ## 公式化表达
 
-假设 $Z$ 为一个汉字的集合, $M$ 为一个编码的集合, $p:Z\rightarrow [0,1]$ 为汉字到某文本状态下单字频率的映射.
+假设 $$Z$$ 为一个汉字的集合, $$M$$ 为一个编码的集合, $$p:Z\rightarrow [0,1]$$ 为汉字到某文本状态下单字频率的映射.
 
-用编码和字频对汉字排序, 使汉字 $z_{ij}$ 是编码为 $m_i$ 的第 $j$ 个汉字, $i \in I$, $j \in J_i$, 且满足 $a\geq b$ 时, $f(z_{ia})\geq f(z_{ib})$.
+用编码和字频对汉字排序, 使汉字 $$z_{ij}$$ 是编码为 $$m_i$$ 的第 $$j$$ 个汉字, $$i \in I$$, $$j \in J_i$$, 且满足 $$a\geq b$$ 时, $$f(z_{ia})\geq f(z_{ib})$$.
 
 那么，静态重码数可以表达为：
 
-$N_{s} = \mid \{z_{ia}, z_{ib}  \text{ if } M(z_{ia}) = M(z_{ib}) \text{ for all } a,b \in J_i \text{ and } i \in I \}.$
+$$N_{s} = \mid \{z_{ia}, z_{ib}  \text{ if } M(z_{ia}) = M(z_{ib}) \text{ for all } a,b \in J_i \text{ and } i \in I \}.$$
 
 动态重码率可以表达为:
 
-$N_{d} = \sum\limits_{i \in I, j \in J_i/\{1\}} p(z_{ij}).$
+$$N_{d} = \sum\limits_{i \in I, j \in J_i/\{1\}} p(z_{ij}).$$
 
 ## 码表来源
 
