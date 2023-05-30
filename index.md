@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <!-- omit in toc -->
-# 宇浩·沟通古今·心系中華
+# 宇浩·情繫漢字·溝通古今
 {: .no_toc }
 
 <details open markdown="block">
@@ -21,7 +21,7 @@ nav_order: 1
 >点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)  
 >[正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim)  
 >[稳定版v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3) ·
->[内测版v2.0.0-alpha.2下载（四重注解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.2)  
+>[内测版v2.0.0-alpha.3下载（四重注解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.3)  
 >[快速入门](./docs/cookbook) ·
 >[详细教程](./docs/learn) ·
 >[在线练习](./docs/practice) ·
