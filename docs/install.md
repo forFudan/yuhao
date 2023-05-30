@@ -19,7 +19,7 @@ nav_order: 2
 
 {: .highlight }
 >[稳定版v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3)  
->[内测版v2.0.0-alpha.3下载](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.3)  
+>[内测版v2.0.0-alpha.beta下载](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.beta)  
 
 ## QQ 群资源
 
