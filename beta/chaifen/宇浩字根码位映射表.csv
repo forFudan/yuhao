@@ -10,8 +10,8 @@ repr,font,zhu_code
 不,不,Du
 世,世,Hi
 丰,丰,Dn
-二,二,Se
-⺀,⺀,Se
+二,二,Si
+⺀,⺀,Si
 亍,亍,Ah
 來,來,Dl
 兀,兀,Hw
@@ -95,9 +95,9 @@ repr,font,zhu_code
 {贏頭},,Uw
 亥,亥,Oi
 亦,亦,Pi
-宀,宀,Oo
-亠,亠,Oo
-{齊頭},亠,Oo
+宀,宀,Ob
+亠,亠,Ob
+{齊頭},亠,Ob
 广,广,Uu
 户,户,Ie
 戸,戸,Ie
@@ -110,7 +110,7 @@ repr,font,zhu_code
 灬,灬,Uo
 疒,疒,Pb
 穴,穴,Px
-立,立,Ii
+立,立,Id
 米,米,Pm
 羊,羊,Ug
 衤,衤,Py
@@ -221,7 +221,7 @@ repr,font,zhu_code
 丄,丄,Ks
 上,,Ks
 且,且,Mi
-业,业,Ki
+业,业,Kg
 冂,冂,Kf
 {雋下},,Kf
 {冂丶},,Kf
@@ -245,7 +245,7 @@ repr,font,zhu_code
 巾,巾,Mv
 攴,攴,Kp
 日,日,Jr
-早,早,Jo
+早,早,Jd
 曰,曰,Je
 止,止,Ni
 水,水,Kv
@@ -320,9 +320,9 @@ repr,font,zhu_code
 幺,幺,Vo
 廴,廴,Xn
 弓,弓,Vg
-彐,彐,Xx
-{反彐},彐,Xx
-肀,肀,Xx
+彐,彐,Xl
+{反彐},彐,Xl
+肀,肀,Xl
 母,母,Bm
 {母框},,Bm
 {互中},,Bm
@@ -336,7 +336,7 @@ repr,font,zhu_code
 羽,羽,Xu
 习,习,Xu
 艮,艮,Vn
-阝,阝,Cf
+阝,阝,Cj
 韋,韋,Ci
 {五下},,Ci
 飛,飛,Bk
