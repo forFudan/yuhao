@@ -23,6 +23,8 @@ nav_external_links:
   #   hide_icon: false # set to true to hide the external link icon - defaults to false
 
 markdown: kramdown
+math: katex
+layout: katex
 
 # kramdown:
 #   syntax_highlighter_opts:
