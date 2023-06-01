@@ -7,7 +7,7 @@ has_children: true
 
 {: .warning }
 >本區只用於功能開發、版本測試和意見收集。
->最新測試版本爲 [v2.0.0-alpha.beta](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-alpha.beta)
+>最新測試版本爲 [v2.0.0-beta](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-beta)
 
 <!-- omit in toc -->
 # 開發測試版
