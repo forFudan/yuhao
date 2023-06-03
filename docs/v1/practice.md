@@ -2,7 +2,7 @@
 title: 在线练习
 layout: default
 nav_order: 21
-parent: v1
+parent: 宇浩一代
 ---
 
 1.最常用100字根：
@@ -17,13 +17,13 @@ parent: v1
 
 ​		根据拆分提示，练习最常用的100个汉字，熟悉它们的拆分。这部分汉字占了将近50%的日常使用频率。
 
-​		[开始练习](../v1/practice/practice_characters)
+​		[开始练习](../../v1/practice/practice_characters)
 
 3.全部字根：
 
 ​		练习并熟悉全部字根，每日1遍。
 
-​		[开始练习](../v1/practice/practice)
+​		[开始练习](../../v1/practice/practice)
 
 4.最常用500字：
 

@@ -1,4 +1,4 @@
-d3.csv("https://zhuyuhao.com/yuhao/beta/chaifen/宇浩輸入法全漢字拆分表.csv", function (data) {
+d3.csv("https://zhuyuhao.com/yuhao/v2/chaifen/宇浩輸入法全漢字拆分表.csv", function (data) {
     var dictionary = data;
     var button = d3.select("#button");
     var form = d3.select("#form");

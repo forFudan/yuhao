@@ -1,7 +1,7 @@
 ---
 title: 關於《古籍印刷通規》
 layout: default
-parent: 研究文章
+parent: 相关文章
 nav_order: 3
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 常见输入法重码数据
 layout: default
-parent: 研究文章
+parent: 相关文章
 nav_order: 1
 ---
 

@@ -1,15 +1,12 @@
 ---
-title: 测试区更新日志
+title: 测试日志
 layout: default
-parent: 开发测试
+parent: 测试区域
 nav_order: 1
 ---
 
-{: .warning }
->本區只用於功能測試和意見收集，不是正式版本，也不完全反映未來發展方向。
-
 <!-- omit in toc -->
-# 發燒區更新日誌
+# 宇浩二代更新日誌
 
 ## 2023年6月1日
 
