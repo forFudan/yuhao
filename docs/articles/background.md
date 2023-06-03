@@ -1,7 +1,8 @@
 ---
 title: 背景故事
 layout: default
-nav_order: 91
+parent: 相关文章
+nav_order: 11
 ---
 
 # 背景故事

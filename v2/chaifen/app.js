@@ -26,6 +26,8 @@ d3.csv("https://zhuyuhao.com/yuhao/v2/chaifen/宇浩輸入法全漢字拆分表.
                     // "<td>" + (output[i]['quick_simp']) + "</td>" +
                     "<td>" + (output[i]['division_tw']) + "</td>" 
                     +
+                    "<td>" + (output[i]['code_tw']) + "</td>" 
+                    +
                     "<td>" + (output[i]['region']) + "</td>" 
                     // +
                     // "<td>" + (output[i]['details']) + "</td>" 
