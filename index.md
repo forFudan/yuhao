@@ -18,14 +18,15 @@ nav_order: 1
 </details>
 
 {: .highlight }
->点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)  
+>点击加入官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk) · 
+>点击加入官方 Telegram 群: [yuhaoim](https://t.me/yuhaoim)  
 >[正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim)  
->[稳定版v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3) ·
+>[稳定版v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3) · 
 >[公测版v2.0.0-beta下载（四重注解）](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-beta)  
->[快速入门](./docs/cookbook) ·
->[详细教程](./docs/learn) ·
->[在线练习](./docs/practice) ·
->[更新日志](./docs/updates/updates) ·
+>[快速入门](./docs/cookbook) · 
+>[详细教程](./docs/learn) · 
+>[在线练习](./docs/practice) · 
+>[更新日志](./docs/updates/updates) · 
 >[拆分查询](./chaifen/)  
 
 ## 简介
