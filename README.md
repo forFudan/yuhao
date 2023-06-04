@@ -5,11 +5,17 @@
 宇浩輸入法·傳統漢字简化汉字通打混輸·兼容大陸台灣字形標準·全漢字覆蓋·八萬詞庫·科學高效
 ```
 
-[简体版官方网站](https://zhuyuhao.com/yuhao/) | [正(繁)體版官方網站](https://zhuyuhao.com/yuhaoim/)  
-[详细教程](https://zhuyuhao.com/yuhao/docs/learn) | [在线拆分查询](https://zhuyuhao.com/yuhao/chaifen)  
-[最常用100字根练习](https://zhuyuhao.com/yuhao/practice/practice_100) | [全部字根练习](https://zhuyuhao.com/yuhao/practice/practice) | [最常用汉字输入练习](https://zhuyuhao.com/yuhao/practice/practice_characters)
-
-点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
+>点击加入官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk) · 
+>点击加入官方 Telegram 群: [yuhaoim](https://t.me/yuhaoim)  
+>[简体字版官方网站](https://zhuyuhao.com/yuhao) · 
+>[正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim)  
+>[宇浩二代v2.0.0-beta下载(台湾字形支持)](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-beta) · 
+>[备用下载地址](./dist/)  
+>[快速入门](./docs/cookbook) · 
+>[详细教程](./docs/learn) · 
+>[在线练习](./docs/practice) · 
+>[更新日志](./docs/updates/updates) · 
+>[拆分查询(台湾字形支持)](./v2/chaifen/)  
 
 「宇浩输入法」是一款字形输入法，由朱宇浩博士发明，具有以下特点：
 
