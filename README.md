@@ -32,8 +32,8 @@
 
 [RIME 三大方案](https://github.com/forFudan/yuhao/releases)：
 
-- yuhao.schema.yaml 简化汉字优先方案，名为「开来学」。
-- yuhao_tradition.schema.yaml 传统汉字大陆字形优先方案，名为「繼往聖」。
-- yuhao_tradition_tw.schema.yaml 传统汉字台湾字形优先方案，名为「書同文」。
+- yuhao.schema.yaml 为简化汉字设置简码的方案，名为「开来学」。
+- yuhao_tradition.schema.yaml 为传统汉字大陆字形设置简码的方案，名为「繼往聖」。
+- yuhao_tradition_tw.schema.yaml 为传统汉字台湾字形设置简码的方案，名为「書同文」。
 
 宇浩输入法的设计哲学是：**实用**、**直观**、**科学**、**理性**。实用，指的是完全以输入而非检字进行设计；直观，指的是对汉字的拆分直观易懂；科学，指的是对于编码和简码的设计科学合理，并符合统计频率；理性，指的是拆字规则逻辑严明、没有二义，也指社群抱着理性和开放的态度去面对批评和建议，积极修正存在矛盾的、不正确的拆分。

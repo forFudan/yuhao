@@ -93,15 +93,15 @@ nav_order: 2
 
 方案文件介绍：
 
-- yuhao.schema.yaml 简化汉字优先方案，名为「开来学」。
-- yuhao_tradition.schema.yaml 传统汉字大陆字形优先方案，名为「繼往聖」。
-- yuhao_tradition_tw.schema.yaml 传统汉字台湾字形优先方案，名为「書同文」。
-- yuhao.dict.yaml 简化字优先主码表。
-- yuhao_tradition.dict.yaml 传统汉字优先主码表。
+- yuhao.schema.yaml 为简化汉字设置简码的方案，名为「开来学」。
+- yuhao_tradition.schema.yaml 为传统汉字大陆字形设置简码的方案，名为「繼往聖」。
+- yuhao_tradition_tw.schema.yaml 为传统汉字台湾字形设置简码的方案，名为「書同文」。
+- yuhao.dict.yaml 主码表，用来调用其他码表。
+- yuhao_tradition.dict.yaml 主码表，用来调用其他码表。
+- yuhao.full.dict.yaml 单字全码码表。
 - yuhao.quick.dict.yaml 简化字简码码表。
 - yuhao_tradition.quick.dict.yaml 传统汉字简码码表。
 - yuhao_tradition_tw.quick.dict.yaml 传统汉字台湾字形简码码表。
-- yuhao.full.dict.yaml 单字全码码表。
 - yuhao.words 宇浩核心简体词库。约50000个词语，频率较高。
 - yuhao.words_extended 宇浩增广简体词库。约30000个词语，频率较低，除非有特殊需求，否则不建议开启。
 - yuhao.words_literature 宇浩成语诗词简体词库。约15000个成语和诗词，除非有特殊需求，否则不建议开启。
