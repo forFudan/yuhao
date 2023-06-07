@@ -4,6 +4,10 @@
 -- Author: forFudan 朱宇浩 <dr.yuhao.zhu@outlook.com>
 -- Github: https://github.com/forFudan/
 -- Purpose: 從候選項中過濾出常用繁簡漢字
+-- 版權聲明：
+-- 專爲宇浩輸入法製作 <https://zhuyuhao.com/yuhao/>
+-- 轉載請保留作者名和出處
+-- Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 ---------------------------------------
 --
 -- 介紹:

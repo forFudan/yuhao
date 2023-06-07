@@ -1,5 +1,8 @@
 -- 作者：王牌餅乾
 -- https://github.com/lost-melody/
+-- 转载请保留作者名
+-- Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
+---------------------------------------
 
 -- 將要被返回的過濾器對象
 local embeded_cands_filter = {}
