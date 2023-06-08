@@ -62,6 +62,12 @@ local function render_comment(comment)
     return comment
 end
 
+-- 轉義符號 `%`, 因爲該符號是 string.gsub() 後兩個參數的轉義字符
+local function escape_percent(text)
+    text = string.gsub(text, "%%", "%%%%")
+    return text
+end
+
 -- 渲染單個候選項
 local function render_cand(seq, code, text, comment)
     local cand = ""
@@ -74,9 +80,9 @@ local function render_cand(seq, code, text, comment)
     -- 渲染提示串
     comment = render_comment(comment)
     cand = string.gsub(cand, "seq", index_indicators[seq])
-    cand = string.gsub(cand, "code", code)
-    cand = string.gsub(cand, "候選", text)
-    cand = string.gsub(cand, "comment", comment)
+    cand = string.gsub(cand, "code", escape_percent(code))
+    cand = string.gsub(cand, "候選", escape_percent(text))
+    cand = string.gsub(cand, "comment", escape_percent(comment))
     return cand
 end
 
