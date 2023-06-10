@@ -19,12 +19,8 @@ nav_order: 2
 
 {: .highlight }
 >[v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3)  
->[v2.0.0-beta下载](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-beta)  
+>[v2.0.0-beta.1下载](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-beta.1)  
 >[备用下载地址](https://gitee.com/forFudan/yuhao/releases/)  
-
-## QQ 群资源
-
-官方 QQ 群中提供本输入法的全部资源，还有同好一起讨论相关问题。点击加入官方QQ群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)
 
 ## 码表直接挂载
 
@@ -36,13 +32,13 @@ nav_order: 2
 
 - 宇码  空格  字符，UTF-8。此为**百度格式**，适用于百度输入法、搜狗输入法、清歌输入法。加上表头后，也适用于小小输入法、微软输入法、Fcitx输入法。
 - 字符  Tab  宇码，UTF-8。此为**多多格式**，适用于落格输入法、小胖输入法。加上表头后，也适用于RIME输入法。还能用作[木易跟打器](https://typer.owenyang.top)的词提上传。
-- 宇码  Tab  字符，UTF-8。此为**大竹格式**，用于大竹词提生成。
+<!-- - 宇码  Tab  字符，UTF-8。此为**大竹格式**，用于大竹词提生成。 -->
 
 ### 百度/搜狗手机输入法
 
 百度手机输入法挂载码表方法如下：
 
-- 将 /baidu 下的**yuhao.txt**下载到设备上
+- 将 /baidu 下的码表下载到设备上
 - 进入百度输入法 iOS 版
 - 点击「我的」
 - 点击右上方设置按钮
@@ -50,7 +46,7 @@ nav_order: 2
 - 点击「五笔输入」
 - 点击「自定义方案」
 - 点击「导入方案」
-- 选择下载的**yuhao.txt**文件，导入后即可使用
+- 选择下载的码表文件，导入后即可使用
 
 「搜狗输入法」挂载码表方法同百度输入法。
 
@@ -60,23 +56,21 @@ nav_order: 2
 
 安装方法如下：
 
-- 将 /duoduo 下的**yuhao.txt**下载到电脑上。
+- 将 /duoduo 下的码表下载到电脑上。
 - 进入输入法程序。
 - 选择「Wifi传表」。
-- 将**yuhao.txt**传入手机中。
+- 将码表传入手机中。
 - 回到落格输入法的设置界面，在主码表中选择「yuhao」即可使用。
 
 ### 小小输入法
 
-小小输入法码表是将 /baidu 下的「小小配置.txt」中的内容复制到**yuhao.txt**文件顶部。
+小小输入法码表是将 /baidu 下的「小小配置.txt」中的内容复制到码表文件顶部。
 
 ### 纯单字全码码表
 
-纯单字全码码表是 /baidu 下的**宇浩单字全码.txt**。
+纯单字全码码表是**宇浩单字全码.txt**。
 
-<!-- ### 纯单字全码和简码码表
-
-纯单字全码及简码码表是[此文件夹下](https://github.com/forFudan/yuhao/tree/main/mabiao/chars/) 的**yuhao.txt**。 -->
+纯单字全码和简码码表是**宇浩单字全码和简体简码.txt**。
 
 ## RIME 平台安装（小狼毫、鼠须管、同文、iRime、仓输入法）
 
