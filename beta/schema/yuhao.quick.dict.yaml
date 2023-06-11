@@ -20,7 +20,7 @@ columns:
 
 可	a
 对	b
-也	c
+好	c
 不	d
 的	e
 一	f
@@ -32,7 +32,7 @@ columns:
 中	l
 小	m
 回	n
-说	o
+为	o
 这	p
 我	q
 得	r
@@ -45,7 +45,7 @@ columns:
 心	y
 可以	a
 对于	b
-也许	c
+好的	c
 不是	d
 什么	e
 一个	f
@@ -153,10 +153,10 @@ columns:
 随	cs
 队	ct
 予	cu
-好	cv
+始	cv
 阴	cw
 妈	cx
-隐	cy
+也	cy
 趣	da
 起	db
 要	dc
@@ -452,10 +452,10 @@ columns:
 话	or
 实	os
 认	ot
-谈	ou
+说	ou
 字	ov
 谁	ow
-为	ox
+辛	ox
 密	oy
 闻	pa
 变	pb
@@ -773,10 +773,10 @@ columns:
 随时	cs
 队伍	ct
 予以	cu
-好的	cv
+始终	cv
 阴谋	cw
 妈妈	cx
-隐藏	cy
+也许	cy
 趣味	da
 起来	db
 要求	dc
@@ -881,13 +881,13 @@ columns:
 都是	hj
 神奇	hk
 喜欢	hl
+祖先	hm
 较为	ho
 连续	hp
 轶事	hq
 表现	hr
 转化	hs
-输出	ht
-增加	hu
+增加	ht
 却是	hv
 礼物	hx
 轨迹	hy
@@ -1038,10 +1038,10 @@ columns:
 它们	or
 实现	os
 认为	ot
-谈话	ou
+说话	ou
 充分	ov
 调整	ow
-为了	ox
+辛苦	ox
 密切	oy
 变化	pb
 数字	pc
@@ -1845,7 +1845,6 @@ columns:
 嫌	cux
 娜	cva
 奶	cvj
-始	cvl
 限	cvn
 陂	cvp
 嫋	cvs
@@ -1864,6 +1863,7 @@ columns:
 豫	cyl
 妳	cym
 陷	cyr
+隐	cyx
 砌	dab
 寿	dac
 硗	daq
@@ -4367,6 +4367,7 @@ columns:
 齊	oun
 灾	ouo
 谥	out
+谈	ouu
 寝	oux
 帝	ouy
 讯	ovd
