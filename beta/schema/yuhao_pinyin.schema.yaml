@@ -71,14 +71,14 @@ translator:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
-punctuator:
-  import_preset: symbols
+# punctuator:
+  # import_preset: symbols
 
-key_binder:
-  import_preset: default
+# key_binder:
+  # import_preset: default
 
 recognizer:
-  import_preset: default
+  # import_preset: default
   patterns:
     # hack: to enable "/fh" style symbols, '/' must be mapped to a [list].
     # so those who have customized '/' for direct commit won't be affected by
