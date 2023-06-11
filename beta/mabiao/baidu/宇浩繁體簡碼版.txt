@@ -2372,8 +2372,6 @@ afvf 𢮕
 afvh 𫽪
 afvi 𣎽
 afvi 𢪞
-afvj 搢
-afvj 搢
 afvo 𢪮
 afvo 𦕇
 afvo 𰓀
@@ -2813,7 +2811,6 @@ ahew 掛件
 ahew 挂件
 ahfa 聖地亞哥
 ahff 擡槓
-ahff 𢳩
 ahfg 持械
 ahfj 挂画
 ahfl 撓頭
@@ -2951,6 +2948,7 @@ ahsk 拷
 ahsm 抹布
 ahsn 掛在
 ahsn 挂在
+ahsn 𢳩
 ahsp 耳鬓厮磨
 ahsr 掛曆
 ahsr 𦕝
@@ -7546,6 +7544,8 @@ asv 扼
 asvb 𢺍
 asvf 𢶳
 asvi 扼
+asvj 搢
+asvj 搢
 asvk 攤子
 asvl 搭台
 asvl 𢰥
@@ -11892,7 +11892,6 @@ bflc 鄧
 bfld 𱿁
 bfle 𣃆
 bfle 𬗳
-bflf 𰤐
 bflh 𭽄
 bflh 𱵫
 bflj 練唱
@@ -12082,8 +12081,6 @@ bfuy 𭞊
 bfvf 經
 bfvf 𦁛
 bfvh 杘
-bfvj 縉
-bfvj 縉
 bfvk 凳子
 bfvl 登台
 bfvn 紅蛋
@@ -15019,6 +15016,7 @@ bsbe 㰺
 bsbh 又驚又喜
 bsbh 䌑
 bsbj 纜繩
+bsbk 縉紳
 bsbk 𧎂
 bsbm 䊺
 bsbm 䫗
@@ -15156,6 +15154,7 @@ bsll 展品
 bsll 變壓器
 bsll 展覽品
 bsll 𦃣
+bsln 𰤐
 bslv 𮈆
 bslw 䌯
 bsmg 臀尖
@@ -15279,6 +15278,8 @@ bsuy 𢟬
 bsv 紜
 bsve 展缓
 bsvi 𥾒
+bsvj 縉
+bsvj 縉
 bsvl 展台
 bsvq 𡱓
 bsvt 𦂓
@@ -18768,7 +18769,6 @@ cfld 嫩叶
 cfle 嫩
 cfle 嫰
 cflf 𨽮
-cflf 𫰫
 cflh 努爾哈赤
 cflj 𨺤
 cflj 𫱆
@@ -21574,6 +21574,7 @@ cslf 𩏊
 cslh 异味
 cslk 随员
 cslm 隨員
+csln 𫰫
 cslv 隨口
 cslv 随口
 cslv 𡛮
@@ -35052,7 +35053,6 @@ dxfm 西貢
 dxfo 喪盡天良
 dxfr 雪橇
 dxft 雪松
-dxfv 西晉
 dxfv 𩃕
 dxg 赳
 dxgb 西裝革履
@@ -35300,6 +35300,7 @@ dxsr 甚而
 dxss 𫝓
 dxsv 不翼而飞
 dxsv 西药
+dxsv 西晉
 dxsx 雪茄
 dxt 协
 dxtd 𱳸
@@ -46206,7 +46207,6 @@ fdfv 𣗖
 fdfw 植株
 fdfx 无功
 fdfy 𣛴
-fdfy 𬅂
 fdg 枯
 fdga 五雷轟頂
 fdgb 无瑕
@@ -46504,6 +46504,7 @@ fdsw 標有
 fdsx 枝节
 fdsy 一石二鸟
 fdsy 枯荣
+fdsy 𬅂
 fdta 𣟪
 fdtb 五馬分屍
 fdtb 㯪
@@ -47423,7 +47424,6 @@ ffld 𣙞
 ffle 樕
 ffle 𣘅
 ffle 𣙙
-fflf 𬂲
 ffli 𩇶
 fflj 楅
 fflk 梦遗
@@ -47708,7 +47708,6 @@ ffvd 枪林弹雨
 ffvf 桱
 ffvf 𭪱
 ffvh 𣖭
-ffvj 榗
 ffvk 本子
 ffvk 林子
 ffvk 槍桿子
@@ -49538,7 +49537,6 @@ fjfn 更正
 fjfn 查檔
 fjfn 无影无踪
 fjfn 㮛
-fjfn 𫠱
 fjfo 无时无刻
 fjfo 查核
 fjfo 一時三刻
@@ -49561,7 +49559,6 @@ fjfu 𰟣
 fjfv 棵
 fjfv 形影相弔
 fjfv 楊木
-fjfv 東晉
 fjfv 皶
 fjfv 𣕎
 fjfw 𩁒
@@ -49859,6 +49856,7 @@ fjst 𣚣
 fjst 𣚣
 fjsu 𣕴
 fjsv 更动
+fjsv 東晉
 fjsv 杣
 fjsv 𠄃
 fjsw 更有
@@ -51122,14 +51120,11 @@ flmv 𣑐
 flmv 𰀌
 flmy 𢣬
 flmy 𭝥
-flna 𣱌
 flnb 束紧
 flnc 𠀷
 flnc 𨜥
 flnd 整固
-flnf 亜
 flng 𢨖
-flnh 𡏍
 flni 𣥔
 flnj 𡈧
 flnl 𠻸
@@ -51140,7 +51135,6 @@ flnn 𪳱
 flnr 𬆊
 flns 𣐄
 flns 𬻇
-flny 悪
 flny 𢘑
 flob 副官
 flob 速记
@@ -52237,7 +52231,6 @@ fnjf 正是
 fnjf 正果
 fnjf 正題
 fnjf 正题
-fnjf 𠀥
 fnjf 𣅯
 fnjf 𤰱
 fnjr 楊尚昆
@@ -54483,6 +54476,7 @@ fsll 工艺品
 fsll 槗
 fslm 欟
 fslm 𣖻
+fsln 𬂲
 fslr 𪈻
 fsls 型號
 fsls 型号
@@ -54827,6 +54821,7 @@ fsvg 𢏗
 fsvh 开垦
 fsvi 枙
 fsvj 开花结果
+fsvj 榗
 fsvk 模子
 fsvk 板子
 fsvl 开台
@@ -55045,7 +55040,6 @@ ftfs 松开
 ftfs 五邊形
 ftft 柳杉
 ftfu 一个样
-ftfu 𤇟
 ftfv 杉木
 ftfv 松木
 ftfv 楡
@@ -55746,7 +55740,6 @@ fvad 極頂
 fvad 𥒽
 fvae 橄
 fvag 𩊳
-fvai 晉職
 fvak 𧋳
 fvak 𬻩
 fval 木排
@@ -55778,14 +55771,12 @@ fvbr 機尾
 fvbr 木屐
 fvbr 五子登科
 fvbu 機變
-fvbv 晉級
 fvbw 极难
 fvbx 機繡
 fvby 根絶
 fvcb 𭩾
 fvce 機務
 fvce 機降
-fvcj 晉陽
 fvcj 𨚏
 fvct 根除
 fvcv 極限
@@ -55803,7 +55794,6 @@ fvdh 根基
 fvdh 機票
 fvdi 㭄
 fvdj 極其
-fvdj 晉朝
 fvdj 极其
 fvdk 機電
 fvdl 機靈
@@ -55826,7 +55816,6 @@ fveb 李白
 fved 木质
 fvee 木質
 fvef 木条
-fveg 晉代
 fveh 極佳
 fveh 极佳
 fveh 𪲏
@@ -55834,7 +55823,6 @@ fveh 𭪔
 fvei 機位
 fvek 木偶
 fvel 𰘅
-fvem 晉爵
 fvem 极处
 fvem 𰘣
 fven 機修
@@ -55952,7 +55940,6 @@ fvha 㯑
 fvhb 木块
 fvhc 極地
 fvhc 极地
-fvhd 晉城
 fvhd 极坏
 fvhe 極致
 fvhe 极致
@@ -55960,7 +55947,6 @@ fvhe 焚书坑儒
 fvhf 機殼
 fvhf 𣓪
 fvhf 𦤳
-fvhh 晉封
 fvhj 機場
 fvhl 機臺
 fvho 極壞
@@ -55978,7 +55964,6 @@ fvhw 李敖
 fvhx 𠨙
 fvib 橡皮泥
 fvif 杨浦
-fvif 晉江
 fvii 𠀂
 fvij 極端
 fvij 极端
@@ -56052,7 +56037,6 @@ fvll 機器
 fvll 極品
 fvll 木器
 fvll 极品
-fvln 晉中
 fvln 機中
 fvlq 𤰑
 fvls 根號
@@ -56066,7 +56050,6 @@ fvma 極小
 fvma 极小
 fvmb 梭羅
 fvmc 𨚸
-fvmd 晉劇
 fvme 極處
 fvmf 極目
 fvmf 极目
@@ -56083,7 +56066,6 @@ fvmt 機具
 fvmt 極具
 fvmt 极具
 fvmv 𢁴
-fvmx 晉見
 fvn 根
 fvnb 㯿
 fvnf 𢀰
@@ -56091,7 +56073,6 @@ fvnf 𣐌
 fvnf 𣓜
 fvnf 𤴕
 fvnf 𤴜
-fvng 晉國
 fvnm 極點
 fvnq 三级跳
 fvnq 李四
@@ -56159,7 +56140,6 @@ fvqp 木简
 fvqq 木船
 fvqr 㭇
 fvqr 𠤜
-fvqs 晉升
 fvqs 勁舞
 fvqs 勁升
 fvqt 機艙
@@ -56251,18 +56231,14 @@ fvv 木
 fvva 𣕀
 fvva 𪜆
 fvvb 𣚎
-fvvc 鄑
 fvvc 𡿮
-fvvc 鄑
 fvvf 一朶朶
 fvvf 𠄮
-fvvg 戩
 fvvh 一張張
 fvvh 𡌥
 fvvh 𭎆
 fvvi 𠫓
 fvvi 𠫔
-fvvj 晉
 fvvj 𭦙
 fvvk 機子
 fvvk 根子
@@ -56280,7 +56256,6 @@ fvvp 一缕缕
 fvvp 𬨧
 fvvt 機
 fvvt 槮
-fvvu 𤐦
 fvvv 極強
 fvvv 朩
 fvvv 𣎳
@@ -56300,7 +56275,6 @@ fvwh 根雕
 fvwi 枱鐘
 fvwk 機制
 fvwm 機身
-fvwm 晉身
 fvwm 𪟆
 fvwm 𬃇
 fvwn 桙
@@ -59442,7 +59416,6 @@ gfov 輕率
 gfov 大功率
 gfow 大政方針
 gfoy 式
-gfpc 秦晉之好
 gfpc 秦晋之好
 gfpg 大梦初醒
 gfpg 球类
@@ -59554,8 +59527,6 @@ gfvf 𩈡
 gfvf 𩋑
 gfvg 𣏩
 gfvg 𨌷
-gfvj 瑨
-gfvj 𨍬
 gfvj 𭟺
 gfvk 式子
 gfvl 輕彈
@@ -60392,11 +60363,11 @@ ghyc 套色
 ghye 𫯾
 ghyf 匦
 ghyf 理髮師
-ghyf 𤩖
 ghyi 𤥴
 ghyi 𩊴
 ghyi 𭝍
 ghyn 玡
+ghyn 𤩖
 ghyu 𮧑
 ghyw 區域性
 gi 面
@@ -63252,7 +63223,6 @@ grft 秦檜
 grft 秦桧
 grfu 春風一度
 grfu 𩖬
-grfv 秦晉
 grfv 𣕰
 grga 酩酊
 grgd 鞦韆
@@ -63419,6 +63389,7 @@ grso 酸甜苦辣
 grst 璵
 grst 𨣦
 grst 𪼰
+grsv 秦晉
 grte 㔱
 grte 𤧙
 grtm 𩉓
@@ -63781,6 +63752,7 @@ gsom 太原市
 gsor 𧚠
 gsot 勤於
 gsot 勤雜
+gspc 秦晉之好
 gspd 𨒎
 gspd 𨓡
 gspe 𤦧
@@ -63908,6 +63880,8 @@ gsuu 𪪩
 gsv 軛
 gsvi 軛
 gsvi 𩉴
+gsvj 瑨
+gsvj 𨍬
 gsvl 𩌂
 gsvm 𨡿
 gsvp 𤿰
@@ -68015,7 +67989,6 @@ hffm 福相
 hffr 土木工程
 hffv 榖
 hffv 鬆勁
-hffv 福晉
 hffv 𡍚
 hffv 𬴫
 hffy 喜形于色
@@ -68240,6 +68213,7 @@ hfsn 赤橙黃綠青藍紫
 hfsn 赤橙黄绿青蓝紫
 hfsq 㺉
 hfst 𪏙
+hfsv 福晉
 hfsw 鬆散
 hfsw 辅警
 hft 鬆
@@ -78467,7 +78441,6 @@ ifvh 溼
 ifvh 新疆
 ifvi 新编
 ifvi 𬼱
-ifvj 溍
 ifvj 𭲒
 ifvk 渣子
 ifvk 親子
@@ -84771,6 +84744,7 @@ isvf 𣾛
 isvf 𤂋
 isvh 𭱋
 isvi 𣲣
+isvj 溍
 isvk 漢子
 isvk 滞纳
 isvl 港台
@@ -88636,7 +88610,6 @@ jflb 𢻣
 jflc 是啊
 jfld 是嗎
 jfle 敳
-jflf 𪰥
 jflh 是呀
 jflh 果味
 jfli 是非
@@ -88703,7 +88676,6 @@ jfne 𪑛
 jfne 𪰱
 jfnf 是
 jfnf 果园
-jfnf 𣊰
 jfng 𭧦
 jfnh 果園
 jfnh 𢆝
@@ -88725,6 +88697,7 @@ jfnm 𢅨
 jfnm 𧡨
 jfnm 𧡰
 jfnm 𧸯
+jfnn 𣊰
 jfno 𣈡
 jfno 𭕦
 jfnp 遈
@@ -88871,8 +88844,6 @@ jfva 豈敢
 jfvf 𡷨
 jfvf 𣇁
 jfvh 𣉓
-jfvj 㬐
-jfvj 𡺽
 jfvk 果子
 jfvk 量子
 jfvk 量纲
@@ -91877,6 +91848,7 @@ jslf 𡹪
 jslh 異味
 jsll 異獸
 jsln 山中
+jsln 𪰥
 jslv 山口
 jslv 𰢿
 jslv 𰣁
@@ -92125,6 +92097,8 @@ jsve 𫝝
 jsve 𫶝
 jsvi 𭖆
 jsvi 𱛉
+jsvj 㬐
+jsvj 𡺽
 jsvn 山藥蛋
 jsvq 異鄉
 jsvq 山鄉
@@ -95409,7 +95383,6 @@ kfvf 蛵
 kfvf 𣎻
 kfvf 𧋝
 kfvh 開張
-kfvj 𧎽
 kfvl 同台
 kfvl 開台
 kfvl 開了
@@ -99268,6 +99241,7 @@ ksvg 𢏢
 ksvi 蚅
 ksvi 𥝂
 ksvi 𰼘
+ksvj 𧎽
 ksvk 曲子
 ksvk 里子
 ksvk 𧋫
@@ -102978,7 +102952,6 @@ lfld 𡁑
 lfle 嗽
 lfle 𠻳
 lfle 𢿙
-lflf 唖
 lflf 槑
 lflh 哭天喊地
 lflj 𠸢
@@ -103005,7 +102978,6 @@ lflv 𠲿
 lflv 𩇹
 lflw 呆頭呆腦
 lflw 𱒚
-lfly 𫫖
 lfmb 嗊
 lfmd 啞劇
 lfmf 𠷹
@@ -106810,6 +106782,7 @@ lslh 𰊩
 lslk 中共中央
 lsll 號哭
 lsll 号哭
+lsln 唖
 lsls 嘩嘩
 lsls 𠳯
 lsls 𠿸
@@ -106822,6 +106795,7 @@ lslw 嚾
 lslx 號叫
 lslx 号叫
 lslx 𡅳
+lsly 𫫖
 lsm 饕
 lsma 𱿕
 lsmf 𣜍
@@ -140057,7 +140031,6 @@ qfvj 朵
 qfvj 築巢
 qfvj 筑巢
 qfvj 凩
-qfvj 𥰸
 qfvk 箱子
 qfvk 筆桿子
 qfvl 氫彈
@@ -144547,6 +144520,7 @@ qsuy 無恙
 qsvf 𥱘
 qsvh 無疆
 qsvh 𥯿
+qsvj 𥰸
 qsvk 箭在弦上
 qsvk 籃子
 qsvl 舞台
@@ -146713,7 +146687,6 @@ rcfk 魏晋
 rcfo 衛校
 rcfo 衞校
 rcfv 猱
-rcfv 魏晉
 rcfv 𢔟
 rcfv 𥠊
 rcgj 穩如泰山
@@ -146803,6 +146776,7 @@ rcsi 向隅而泣
 rcsm 𡤍
 rcsp 𤢩
 rcsr 乘隙而入
+rcsv 魏晉
 rcsw 𤡪
 rcsw 𩙇
 rctf 委會
@@ -159826,7 +159800,6 @@ sfvg 𮎾
 sfvg 𮏌
 sfvi 𰏇
 sfvj 㭉
-sfvj 𦵻
 sfvj 㭉
 sfvk 燕子
 sfvk 帶子
@@ -161764,6 +161737,7 @@ sjne 𱾶
 sjnf 苗圃
 sjnh 草堂
 sjnh 墓園
+sjni 𫠱
 sjnl 草圖
 sjnm 臨界點
 sjnp 莫過
@@ -162909,8 +162883,10 @@ slmr 黃口小兒
 slmv 右眼
 slmy 觀瞻
 sln 冲
+slna 𣱌
 slne 右路
 slne 右图
+slnh 𡏍
 slni 勸止
 slni 觀止
 slnj 𰄋
@@ -162923,10 +162899,12 @@ slnm 觀賞
 slnm 贒
 slno 歡鬧
 slns 冲
+slns 亜
 slns 𦬕
 slnt 唇齿
 slnt 𮧟
 slnt 𰄉
+slny 悪
 slob 歡實
 slog 右方
 sloj 歡宴
@@ -163621,6 +163599,7 @@ snjh 辰時
 snjk 在崗
 snjk 在岗
 snjn 𫨞
+snjr 𠀥
 snjr 𫇰
 snjt 蓝田
 snjt 𦼨
@@ -166027,6 +166006,7 @@ ssvi 苊
 ssvi 茕茕孑立
 ssvj 黃巢
 ssvj 𧁖
+ssvj 𦵻
 ssvk 𬛧
 ssvl 黃了
 ssvl 𬜷
@@ -166852,6 +166832,7 @@ stxo 蒼翠
 stxo 苍翠
 stxo 进驻
 stxq 𮎰
+stxu 𤇟
 stxu 𰟑
 stxv 𦺄
 stxx 进出
@@ -167300,6 +167281,7 @@ svad 云顶
 svae 动摇
 svae 𠪚
 svag 𭑤
+svai 晉職
 svak 𠪬
 sval 難能可貴
 svao 𬛣
@@ -167319,6 +167301,7 @@ svbm 萾
 svbm 𣫱
 svbs 云层
 svbv 蒸發
+svbv 晉級
 svbw 厄难
 svby 顾忌
 svby 雄鸡
@@ -167327,6 +167310,7 @@ svca 𰚸
 svcb 动怒
 svcd 艺妓
 svch 云际
+svcj 晉陽
 svcj 䢵
 svcj 𨙿
 svcn 𡛍
@@ -167342,6 +167326,7 @@ svdg 雄霸
 svdg 运载
 svdi 䒖
 svdi 𠦊
+svdj 晉朝
 svdk 顾
 svdk 云南
 svdl 魂靈
@@ -167371,10 +167356,12 @@ svec 雄偉
 svef 雄兵
 svef 云彩
 svef 动兵
+sveg 晉代
 sveg 𬐋
 sveh 𢽔
 sveh 𭣵
 sveh 𰱎
+svem 晉爵
 sveq 动作
 sveq 运作
 sver 雄傑
@@ -167439,7 +167426,9 @@ svgv 草台班子
 svgy 魂牵
 svha 动辄
 svha 𦸾
+svhd 晉城
 svhd 运城
+svhh 晉封
 svhj 蒸煮
 svhj 𧅁
 svhk 雄视
@@ -167455,6 +167444,7 @@ svia 运河
 svib 云涌
 svid 云涛
 svie 云浮
+svif 晉江
 svig 药酒
 svig 茅台酒
 svih 厄
@@ -167540,6 +167530,7 @@ svll 药品
 svlm 𧀟
 svlm 𧄈
 svlm 𭃵
+svln 晉中
 svlp 䕂
 svlp 𬨴
 svlr 莻
@@ -167555,6 +167546,7 @@ svly 𰱥
 svm 荪
 svma 荪
 svmb 𧴳
+svmd 晉劇
 svmi 𮏢
 svmm 𦼡
 svmn 䓝
@@ -167565,6 +167557,7 @@ svmt 顾盼
 svmt 药具
 svmu 𱿏
 svmw 云雀
+svmx 晉見
 svmx 𧠏
 svmy 顾虑
 svn 蔬
@@ -167573,6 +167566,7 @@ svnb 𧀨
 svne 唇红齿白
 svne 雄图
 svng 动因
+svng 晉國
 svni 𫥋
 svnj 茛
 svnj 𮏃
@@ -167645,6 +167639,7 @@ svqp 䕖
 svqq 运气
 svqq 𪵣
 svqr 动笔
+svqs 晉升
 svqu 菰
 svqu 𬝊
 svqw 雄风
@@ -167750,17 +167745,21 @@ svuo 𭴉
 svus 药瓶
 svus 运煤
 svux 魂归
-svv 茲
+svv 晉
 svva 𤮀
 svvb 𮑙
 svvb 𰆦
+svvc 鄑
+svvc 鄑
 svve 𦯩
 svve 𦴅
 svvf 𦶖
+svvg 戩
 svvg 𡙠
 svvg 𦭲
 svvi 云
 svvi 䒛
+svvj 晉
 svvj 𤲸
 svvj 𫨗
 svvj 𫨟
@@ -167789,6 +167788,7 @@ svvt 𦺬
 svvt 𬹪
 svvu 动弹
 svvu 原子弹
+svvu 𤐦
 svvv 魂斷
 svvv 孶
 svvv 苰
@@ -167802,6 +167802,7 @@ svwi 雄
 svwi 𮶤
 svwj 冶金
 svwj 𱽾
+svwm 晉身
 svwm 动身
 svwm 𫨢
 svwn 蒸鍋
@@ -179883,7 +179884,6 @@ ufla 𤌦
 uflc 𪪘
 ufle 𣣔
 uflf 𢌐
-uflf 𤉁
 uflf 𩐕
 uflj 煏
 uflj 諨
@@ -185460,6 +185460,7 @@ uslk 总动员
 usll 變壓器
 usll 𤌕
 uslm 𱫲
+usln 𤉁
 uslp 𨔏
 uslv 并口
 uslv 瓶口
@@ -190084,7 +190085,6 @@ vfvh 飞来飞去
 vfvi 𣎿
 vfvi 𠂏
 vfvj 朶
-vfvj 𡦌
 vfvk 缙绅
 vfvk 台柱子
 vfvk 𣏍
@@ -192917,6 +192917,7 @@ vsve 𢾼
 vsve 𱤹
 vsvf 飞红
 vsvh 𡎳
+vsvj 𡦌
 vsvk 𢾲
 vsvl 买了
 vsvl 𥀌
@@ -196524,7 +196525,6 @@ wflv 𤙨
 wflv 𨧃
 wflv 𩳒
 wflw 𱼅
-wfly 𨉼
 wfm 肺
 wfmb 𨫋
 wfmb 𰄵
@@ -196739,7 +196739,6 @@ wfvh 集结
 wfvh 𦞥
 wfvi 集
 wfvj 鈢
-wfvj 𨫌
 wfvk 鋪子
 wfvk 集纳
 wfvl 杀
@@ -201560,6 +201559,7 @@ wslw 𩵄
 wslw 𮜾
 wslx 鑑别
 wslx 錯别
+wsly 𨉼
 wsm 希
 wsma 瓻
 wsma 𪖪
@@ -201778,6 +201778,7 @@ wsvi 𦙜
 wsvi 𮜯
 wsvi 𰠪
 wsvi 𱰜
+wsvj 𨫌
 wsvk 罐子
 wsvk 鉗子
 wsvk 𡥉
@@ -210320,7 +210321,6 @@ yfvf 杂
 yfvf 𢙼
 yfvf 𢛐
 yfvi 𪫟
-yfvj 𪬕
 yfvk 師承
 yfvk 命根子
 yfvk 䝗
@@ -214030,6 +214030,7 @@ ysvh 𠨪
 ysvi 危
 ysvi 𩚚
 ysvi 𭜒
+ysvj 𪬕
 ysvk 𬱟
 ysvk 𢼨
 ysvl 慌了

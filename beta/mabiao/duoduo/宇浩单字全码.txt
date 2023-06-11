@@ -801,8 +801,6 @@
 𫽪	afvh
 𣎽	afvi
 𢪞	afvi
-搢	afvj
-搢	afvj
 𢪮	afvo
 𦕇	afvo
 𰓀	afvo
@@ -988,7 +986,6 @@
 𰓼	ahej
 抺	aheo
 𦕜	aher
-𢳩	ahff
 𢩿	ahfo
 𢵊	ahfu
 揲	ahfv
@@ -1044,6 +1041,7 @@
 𭢈	ahrm
 㧼	ahry
 拷	ahsk
+𢳩	ahsn
 𦕝	ahsr
 掕	ahte
 𢲳	ahte
@@ -2631,6 +2629,8 @@
 𢺍	asvb
 𢶳	asvf
 扼	asvi
+搢	asvj
+搢	asvj
 𢰥	asvl
 耾	asvv
 抎	asvv
@@ -4264,7 +4264,6 @@
 𱿁	bfld
 𣃆	bfle
 𬗳	bfle
-𰤐	bflf
 𭽄	bflh
 𱵫	bflh
 䋹	bflj
@@ -4348,8 +4347,6 @@
 經	bfvf
 𦁛	bfvf
 杘	bfvh
-縉	bfvj
-縉	bfvj
 𥾬	bfvo
 䊾	bfvs
 𣎼	bfvu
@@ -5772,6 +5769,7 @@
 𪨒	bslh
 𡂶	bslj
 𦃣	bsll
+𰤐	bsln
 𮈆	bslv
 䌯	bslw
 𥁉	bsmn
@@ -5846,6 +5844,8 @@
 𦀴	bsuw
 𢟬	bsuy
 𥾒	bsvi
+縉	bsvj
+縉	bsvj
 𡱓	bsvq
 𦂓	bsvt
 层	bsvv
@@ -7301,7 +7301,6 @@
 嫩	cfle
 嫰	cfle
 𨽮	cflf
-𫰫	cflf
 𨺤	cflj
 𫱆	cflj
 𰌙	cflk
@@ -8846,6 +8845,7 @@
 𡢪	cslf
 𨽣	cslf
 𩏊	cslf
+𫰫	csln
 𡛮	cslv
 孉	cslw
 𨽧	cslw
@@ -19776,7 +19776,6 @@
 㯦	fdfv
 𣗖	fdfv
 𣛴	fdfy
-𬅂	fdfy
 𣘝	fdgc
 𭭂	fdgd
 㰇	fdgf
@@ -19895,6 +19894,7 @@
 檽	fdsr
 橒	fdsv
 㭬	fdsv
+𬅂	fdsy
 𣟪	fdta
 㯪	fdtb
 𣑳	fdti
@@ -20242,7 +20242,6 @@
 樕	ffle
 𣘅	ffle
 𣙙	ffle
-𬂲	fflf
 𩇶	ffli
 楅	fflj
 𰘳	fflk
@@ -20347,7 +20346,6 @@
 桱	ffvf
 𭪱	ffvf
 𣖭	ffvh
-榗	ffvj
 𣒶	ffvk
 楚	ffvn
 𣏳	ffvo
@@ -20914,7 +20912,6 @@
 𣠢	fjfm
 𥂸	fjfm
 㮛	fjfn
-𫠱	fjfn
 𣒋	fjfo
 𨙠	fjfp
 鸉	fjfr
@@ -21630,12 +21627,9 @@
 𰀌	flmv
 𢣬	flmy
 𭝥	flmy
-𣱌	flna
 𠀷	flnc
 𨜥	flnc
-亜	flnf
 𢨖	flng
-𡏍	flnh
 𣥔	flni
 𡈧	flnj
 𠻸	flnl
@@ -21645,7 +21639,6 @@
 𬆊	flnr
 𣐄	flns
 𬻇	flns
-悪	flny
 𢘑	flny
 𡩆	flor
 辢	flox
@@ -22058,7 +22051,6 @@
 𬆃	fnim
 杫	fniv
 𪴹	fniv
-𠀥	fnjf
 𣅯	fnjf
 𤰱	fnjf
 𣐤	fnjr
@@ -22983,6 +22975,7 @@
 槗	fsll
 欟	fslm
 𣖻	fslm
+𬂲	fsln
 𪈻	fslr
 𣐞	fslv
 𰏋	fslv
@@ -23127,6 +23120,7 @@
 𣓣	fsux
 𢏗	fsvg
 枙	fsvi
+榗	fsvj
 𤿐	fsvp
 𭪺	fsvq
 枟	fsvv
@@ -23212,7 +23206,6 @@
 榆	ftfm
 棆	ftfn
 𭩫	ftfo
-𤇟	ftfu
 楡	ftfv
 枔	ftfv
 𣒡	ftfv
@@ -23700,16 +23693,12 @@
 𣕀	fvva
 𪜆	fvva
 𣚎	fvvb
-鄑	fvvc
 𡿮	fvvc
-鄑	fvvc
 𠄮	fvvf
-戩	fvvg
 𡌥	fvvh
 𭎆	fvvh
 𠫓	fvvi
 𠫔	fvvi
-晉	fvvj
 𭦙	fvvj
 𱣌	fvvk
 𠸲	fvvl
@@ -23719,7 +23708,6 @@
 𬨧	fvvp
 機	fvvt
 槮	fvvt
-𤐦	fvvu
 朩	fvvv
 𣎳	fvvv
 𣐜	fvvv
@@ -25175,8 +25163,6 @@
 𩋑	gfvf
 𣏩	gfvg
 𨌷	gfvg
-瑨	gfvj
-𨍬	gfvj
 𭟺	gfvj
 𨆪	gfvn
 𬍓	gfvn
@@ -25633,11 +25619,11 @@
 𩊲	ghxh
 𫯾	ghye
 匦	ghyf
-𤩖	ghyf
 𤥴	ghyi
 𩊴	ghyi
 𭝍	ghyi
 玡	ghyn
+𤩖	ghyn
 𮧑	ghyu
 𤤾	giah
 𨎛	gibf
@@ -27655,6 +27641,8 @@
 𪪩	gsuu
 軛	gsvi
 𩉴	gsvi
+瑨	gsvj
+𨍬	gsvj
 𩌂	gsvl
 𨡿	gsvm
 𤿰	gsvp
@@ -35271,7 +35259,6 @@
 𪊵	ifvf
 溼	ifvh
 𬼱	ifvi
-溍	ifvj
 𭲒	ifvj
 𣵎	ifvk
 䴢	ifvl
@@ -38165,6 +38152,7 @@
 𤂋	isvf
 𭱋	isvh
 𣲣	isvi
+溍	isvj
 𣹓	isvl
 竑	isvv
 沄	isvv
@@ -40104,7 +40092,6 @@
 𭺤	jfla
 𢻣	jflb
 敳	jfle
-𪰥	jflf
 鼌	jflk
 敱	jflk
 曧	jflk
@@ -40153,7 +40140,6 @@
 𪑛	jfne
 𪰱	jfne
 是	jfnf
-𣊰	jfnf
 𭧦	jfng
 𢆝	jfnh
 𧤘	jfnh
@@ -40172,6 +40158,7 @@
 𧡨	jfnm
 𧡰	jfnm
 𧸯	jfnm
+𣊰	jfnn
 𣈡	jfno
 𭕦	jfno
 遈	jfnp
@@ -40251,8 +40238,6 @@
 𡷨	jfvf
 𣇁	jfvf
 𣉓	jfvh
-㬐	jfvj
-𡺽	jfvj
 𡵮	jfvo
 果	jfvr
 杲	jfvr
@@ -41997,6 +41982,7 @@
 𫶥	jsku
 𡽇	jsky
 𡹪	jslf
+𪰥	jsln
 𰢿	jslv
 𰣁	jslv
 巏	jslw
@@ -42135,6 +42121,8 @@
 𫶝	jsve
 𭖆	jsvi
 𱛉	jsvi
+㬐	jsvj
+𡺽	jsvj
 𡽮	jsvu
 昙	jsvv
 㽧	jsvv
@@ -43901,7 +43889,6 @@
 蛵	kfvf
 𣎻	kfvf
 𧋝	kfvf
-𧎽	kfvj
 𭫪	kfvl
 閑	kfvn
 𧉛	kfvo
@@ -45522,6 +45509,7 @@
 蚅	ksvi
 𥝂	ksvi
 𰼘	ksvi
+𧎽	ksvj
 𧋫	ksvk
 𣌵	ksvo
 螆	ksvv
@@ -47381,7 +47369,6 @@
 嗽	lfle
 𠻳	lfle
 𢿙	lfle
-唖	lflf
 槑	lflf
 𠸢	lflj
 𪢐	lflk
@@ -47401,7 +47388,6 @@
 𠲿	lflv
 𩇹	lflv
 𱒚	lflw
-𫫖	lfly
 嗊	lfmb
 𠷹	lfmf
 𱲧	lfmf
@@ -49436,11 +49422,13 @@
 噧	lsky
 𭈫	lslf
 𰊩	lslh
+唖	lsln
 𠳯	lsls
 𠿸	lsls
 𠸸	lslv
 嚾	lslw
 𡅳	lslx
+𫫖	lsly
 𱿕	lsma
 𣜍	lsmf
 㙱	lsmh
@@ -66003,7 +65991,6 @@
 𪿈	qfvi
 朵	qfvj
 凩	qfvj
-𥰸	qfvj
 𬕤	qfvn
 㭧	qfvo
 𦨠	qfvo
@@ -68236,6 +68223,7 @@
 𱇮	qsuw
 𥱘	qsvf
 𥯿	qsvh
+𥰸	qsvj
 𫗁	qsvp
 𫗂	qsvp
 凨	qsvv
@@ -76435,7 +76423,6 @@
 𮏌	sfvg
 𰏇	sfvi
 㭉	sfvj
-𦵻	sfvj
 㭉	sfvj
 𦰁	sfvk
 𦳲	sfvm
@@ -77486,6 +77473,7 @@
 𠩶	sjnd
 𬞯	sjne
 𱾶	sjne
+𫠱	sjni
 𦸿	sjnr
 𦷣	sjoa
 𰆝	sjog
@@ -78082,15 +78070,19 @@
 㔈	slmd
 𥁓	slmn
 𠁩	slmo
+𣱌	slna
+𡏍	slnh
 𰄋	slnj
 𧔁	slnk
 𦽊	slnl
 𪡐	slnl
 贒	slnm
 冲	slns
+亜	slns
 𦬕	slns
 𮧟	slnt
 𰄉	slnt
+悪	slny
 𨒐	slpd
 𮑋	slpd
 𦻔	slpw
@@ -78463,6 +78455,7 @@
 𪡻	snjd
 𦾪	snje
 𫨞	snjn
+𠀥	snjr
 𫇰	snjr
 𦼨	snjt
 𦼲	snjt
@@ -79855,6 +79848,7 @@
 𧅟	ssvf
 苊	ssvi
 𧁖	ssvj
+𦵻	ssvj
 𬛧	ssvk
 𬜷	ssvl
 𣦀	ssvn
@@ -80242,6 +80236,7 @@
 䒢	stxj
 𰅉	stxk
 𮎰	stxq
+𤇟	stxu
 𰟑	stxu
 𦺄	stxv
 𦵛	stxx
@@ -80719,13 +80714,17 @@
 𤮀	svva
 𮑙	svvb
 𰆦	svvb
+鄑	svvc
+鄑	svvc
 𦯩	svve
 𦴅	svve
 𦶖	svvf
+戩	svvg
 𡙠	svvg
 𦭲	svvg
 云	svvi
 䒛	svvi
+晉	svvj
 𤲸	svvj
 𫨗	svvj
 𫨟	svvj
@@ -80743,6 +80742,7 @@
 𦳪	svvt
 𦺬	svvt
 𬹪	svvt
+𤐦	svvu
 孶	svvv
 苰	svvv
 慈	svvy
@@ -86311,7 +86311,6 @@
 𪪘	uflc
 𣣔	ufle
 𢌐	uflf
-𤉁	uflf
 𩐕	uflf
 煏	uflj
 諨	uflj
@@ -88976,6 +88975,7 @@
 𧫴	uslh
 𤌕	usll
 𱫲	uslm
+𤉁	usln
 𨔏	uslp
 𠰥	uslv
 𪸚	uslv
@@ -91113,7 +91113,6 @@
 𣎿	vfvi
 𠂏	vfvi
 朶	vfvj
-𡦌	vfvj
 𣏍	vfvk
 𣐻	vfvn
 𢏁	vfvo
@@ -92254,6 +92253,7 @@
 𢾼	vsve
 𱤹	vsve
 𡎳	vsvh
+𡦌	vsvj
 𢾲	vsvk
 𥀌	vsvl
 𩱜	vsvn
@@ -93999,7 +93999,6 @@
 𨧃	wflv
 𩳒	wflv
 𱼅	wflw
-𨉼	wfly
 𨫋	wfmb
 𰄵	wfmb
 刹	wfmd
@@ -94125,7 +94124,6 @@
 𦞥	wfvh
 集	wfvi
 鈢	wfvj
-𨫌	wfvj
 杀	wfvl
 𧸶	wfvm
 𮌦	wfvm
@@ -96821,6 +96819,7 @@
 𤜍	wslw
 𩵄	wslw
 𮜾	wslw
+𨉼	wsly
 瓻	wsma
 𪖪	wsma
 郗	wsmc
@@ -96983,6 +96982,7 @@
 𮜯	wsvi
 𰠪	wsvi
 𱰜	wsvi
+𨫌	wsvj
 𡥉	wsvk
 𡮱	wsvm
 𬛂	wsvm
@@ -101056,7 +101056,6 @@
 𢙼	yfvf
 𢛐	yfvf
 𪫟	yfvi
-𪬕	yfvj
 䝗	yfvk
 𣎾	yfvm
 𩚞	yfvo
@@ -103013,6 +103012,7 @@
 危	ysvi
 𩚚	ysvi
 𭜒	ysvi
+𪬕	ysvj
 𢼨	ysvk
 𬱟	ysvk
 𢞇	ysvl

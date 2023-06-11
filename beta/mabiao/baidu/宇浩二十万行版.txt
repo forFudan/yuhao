@@ -1810,8 +1810,6 @@ afvf 𢮕
 afvh 𫽪
 afvi 𣎽
 afvi 𢪞
-afvj 搢
-afvj 搢
 afvo 𢪮
 afvo 𦕇
 afvo 𰓀
@@ -2133,7 +2131,6 @@ aheo 抺
 aher 可视化
 aher 𦕜
 ahew 挂件
-ahff 𢳩
 ahfg 持械
 ahfj 挂画
 ahfo 𢩿
@@ -2244,6 +2241,7 @@ ahsh 掷地有声
 ahsk 拷
 ahsm 抹布
 ahsn 挂在
+ahsn 𢳩
 ahsp 耳鬓厮磨
 ahsr 𦕝
 ahsu 抹灰
@@ -5942,6 +5940,8 @@ asvb 𢺍
 asvf 描红
 asvf 𢶳
 asvi 扼
+asvj 搢
+asvj 搢
 asvl 搭台
 asvl 𢰥
 asvt 描绘
@@ -9305,7 +9305,6 @@ bflc 鄧
 bfld 𱿁
 bfle 𣃆
 bfle 𬗳
-bflf 𰤐
 bflh 𭽄
 bflh 𱵫
 bflj 䋹
@@ -9422,8 +9421,6 @@ bfv 經
 bfvf 經
 bfvf 𦁛
 bfvh 杘
-bfvj 縉
-bfvj 縉
 bfvk 凳子
 bfvl 登台
 bfvo 𥾬
@@ -11546,6 +11543,7 @@ bslh 𪨒
 bslj 𡂶
 bsll 展品
 bsll 𦃣
+bsln 𰤐
 bslv 𮈆
 bslw 䌯
 bsmg 臀尖
@@ -11654,6 +11652,8 @@ bsuy 𢟬
 bsv 层
 bsve 展缓
 bsvi 𥾒
+bsvj 縉
+bsvj 縉
 bsvl 展台
 bsvq 𡱓
 bsvt 𦂓
@@ -14177,7 +14177,6 @@ cfld 嫩叶
 cfle 嫩
 cfle 嫰
 cflf 𨽮
-cflf 𫰫
 cflj 𨺤
 cflj 𫱆
 cflk 𰌙
@@ -16548,6 +16547,7 @@ cslf 𨽣
 cslf 𩏊
 cslh 异味
 cslk 随员
+csln 𫰫
 cslv 随口
 cslv 𡛮
 cslw 孉
@@ -36462,7 +36462,6 @@ fdfw 植株
 fdfw 一百万
 fdfx 无功
 fdfy 𣛴
-fdfy 𬅂
 fdg 枯
 fdgb 无瑕
 fdgc 𣘝
@@ -36724,6 +36723,7 @@ fdsv 㭬
 fdsx 枝节
 fdsy 一石二鸟
 fdsy 枯荣
+fdsy 𬅂
 fdta 𣟪
 fdtb 㯪
 fdtd 无须
@@ -37489,7 +37489,6 @@ ffld 𣙞
 ffle 樕
 ffle 𣘅
 ffle 𣙙
-fflf 𬂲
 ffli 𩇶
 fflj 楅
 fflk 梦遗
@@ -37726,7 +37725,6 @@ ffvf 桱
 ffvf 𭪱
 ffvg 格林纳达
 ffvh 𣖭
-ffvj 榗
 ffvk 本子
 ffvk 林子
 ffvk 枪杆子
@@ -39238,7 +39236,6 @@ fjfm 𥂸
 fjfn 无影无踪
 fjfn 更正
 fjfn 㮛
-fjfn 𫠱
 fjfo 无时无刻
 fjfo 查核
 fjfo 画工
@@ -40579,14 +40576,11 @@ flmv 𣑐
 flmv 𰀌
 flmy 𢣬
 flmy 𭝥
-flna 𣱌
 flnb 束紧
 flnc 𠀷
 flnc 𨜥
 flnd 整固
-flnf 亜
 flng 𢨖
-flnh 𡏍
 flni 𣥔
 flnj 𡈧
 flnl 𠻸
@@ -40596,7 +40590,6 @@ flnn 𪳱
 flnr 𬆊
 flns 𣐄
 flns 𬻇
-flny 悪
 flny 𢘑
 flob 速记
 flob 副官
@@ -41408,7 +41401,6 @@ fnj 檔
 fnjf 正是
 fnjf 正果
 fnjf 正题
-fnjf 𠀥
 fnjf 𣅯
 fnjf 𤰱
 fnjr 杨尚昆
@@ -43301,6 +43293,7 @@ fsll 工艺品
 fsll 槗
 fslm 欟
 fslm 𣖻
+fsln 𬂲
 fslr 𪈻
 fsls 型号
 fslv 开口
@@ -43583,6 +43576,7 @@ fsvg 𢏗
 fsvh 开垦
 fsvi 枙
 fsvj 开花结果
+fsvj 榗
 fsvk 模子
 fsvl 开台
 fsvl 邢台
@@ -43765,7 +43759,6 @@ ftfq 三长两短
 ftfs 松开
 ftft 柳杉
 ftfu 一个样
-ftfu 𤇟
 ftfv 杉木
 ftfv 松木
 ftfv 一针一线
@@ -44725,16 +44718,12 @@ fvv 木
 fvva 𣕀
 fvva 𪜆
 fvvb 𣚎
-fvvc 鄑
 fvvc 𡿮
-fvvc 鄑
 fvvf 𠄮
-fvvg 戩
 fvvh 𡌥
 fvvh 𭎆
 fvvi 𠫓
 fvvi 𠫔
-fvvj 晉
 fvvj 𭦙
 fvvk 根子
 fvvk 李子
@@ -44752,7 +44741,6 @@ fvvp 𬨧
 fvvt 機
 fvvt 一张张
 fvvt 槮
-fvvu 𤐦
 fvvv 朩
 fvvv 𣎳
 fvvv 𣐜
@@ -47345,8 +47333,6 @@ gfvf 𩈡
 gfvf 𩋑
 gfvg 𣏩
 gfvg 𨌷
-gfvj 瑨
-gfvj 𨍬
 gfvj 𭟺
 gfvk 式子
 gfvl 球台
@@ -47988,11 +47974,11 @@ ghy 匦
 ghyc 套色
 ghye 𫯾
 ghyf 匦
-ghyf 𤩖
 ghyi 𤥴
 ghyi 𩊴
 ghyi 𭝍
 ghyn 玡
+ghyn 𤩖
 ghyu 𮧑
 gi 面
 gi 面前
@@ -50937,6 +50923,8 @@ gsv 酝
 gsva 勤练
 gsvi 軛
 gsvi 𩉴
+gsvj 瑨
+gsvj 𨍬
 gsvl 𩌂
 gsvm 𨡿
 gsvp 𤿰
@@ -63097,7 +63085,6 @@ ifvh 溼
 ifvh 新疆
 ifvi 新编
 ifvi 𬼱
-ifvj 溍
 ifvj 𭲒
 ifvk 渣子
 ifvk 亲子
@@ -68247,6 +68234,7 @@ isvf 𣾛
 isvf 𤂋
 isvh 𭱋
 isvi 𣲣
+isvj 溍
 isvk 滞纳
 isvl 港台
 isvl 满了
@@ -71512,7 +71500,6 @@ jfla 𭺤
 jflb 𢻣
 jflc 是啊
 jfle 敳
-jflf 𪰥
 jflh 是呀
 jflh 果味
 jfli 是非
@@ -71571,7 +71558,6 @@ jfne 𪑛
 jfne 𪰱
 jfnf 是
 jfnf 果园
-jfnf 𣊰
 jfng 𭧦
 jfnh 𢆝
 jfnh 𧤘
@@ -71590,6 +71576,7 @@ jfnm 𢅨
 jfnm 𧡨
 jfnm 𧡰
 jfnm 𧸯
+jfnn 𣊰
 jfno 𣈡
 jfno 𭕦
 jfnp 遈
@@ -71710,8 +71697,6 @@ jfva 果敢
 jfvf 𡷨
 jfvf 𣇁
 jfvh 𣉓
-jfvj 㬐
-jfvj 𡺽
 jfvk 果子
 jfvk 量子
 jfvk 量纲
@@ -74343,6 +74328,7 @@ jskw 山冈
 jsky 𡽇
 jslf 𡹪
 jsln 山中
+jsln 𪰥
 jslv 山口
 jslv 𰢿
 jslv 𰣁
@@ -74549,6 +74535,8 @@ jsve 𫝝
 jsve 𫶝
 jsvi 𭖆
 jsvi 𱛉
+jsvj 㬐
+jsvj 𡺽
 jsvn 山药蛋
 jsvq 山乡
 jsvu 𡽮
@@ -77318,7 +77306,6 @@ kfvd 邮政编码
 kfvf 蛵
 kfvf 𣎻
 kfvf 𧋝
-kfvj 𧎽
 kfvl 同台
 kfvl 𭫪
 kfvm 同组
@@ -80453,6 +80440,7 @@ ksvg 𢏢
 ksvi 蚅
 ksvi 𥝂
 ksvi 𰼘
+ksvj 𧎽
 ksvk 曲子
 ksvk 里子
 ksvk 𧋫
@@ -83472,7 +83460,6 @@ lfld 𡁑
 lfle 嗽
 lfle 𠻳
 lfle 𢿙
-lflf 唖
 lflf 槑
 lflh 哭天喊地
 lflj 𠸢
@@ -83497,7 +83484,6 @@ lflu 𰶝
 lflv 𠲿
 lflv 𩇹
 lflw 𱒚
-lfly 𫫖
 lfmb 嗊
 lfmf 𠷹
 lfmf 𱲧
@@ -86623,6 +86609,7 @@ lslh 唠嗑
 lslh 𰊩
 lslk 中共中央
 lsll 号哭
+lsln 唖
 lsls 𠳯
 lsls 𠿸
 lslv 哎哟
@@ -86632,6 +86619,7 @@ lslw 号啕
 lslw 嚾
 lslx 号叫
 lslx 𡅳
+lsly 𫫖
 lsm 饕
 lsma 𱿕
 lsmf 𣜍
@@ -114578,7 +114566,6 @@ qfvi 𪿈
 qfvj 朵
 qfvj 筑巢
 qfvj 凩
-qfvj 𥰸
 qfvk 箱子
 qfvk 笔杆子
 qfvn 笨蛋
@@ -118248,6 +118235,7 @@ qsuw 𥭶
 qsuw 𱇮
 qsvf 𥱘
 qsvh 𥯿
+qsvj 𥰸
 qsvk 箭在弦上
 qsvl 舞台
 qsvn 鱼与熊掌
@@ -130699,7 +130687,6 @@ sfvg 𮎾
 sfvg 𮏌
 sfvi 𰏇
 sfvj 㭉
-sfvj 𦵻
 sfvj 㭉
 sfvk 燕子
 sfvk 厨子
@@ -132339,6 +132326,7 @@ sjne 𱾶
 sjnf 苗圃
 sjnf 墓园
 sjnh 草堂
+sjni 𫠱
 sjnr 𦸿
 sjoa 𦷣
 sjoc 草案
@@ -133310,18 +133298,22 @@ slmn 𥁓
 slmo 𠁩
 slmq 黄口小儿
 slmv 右眼
+slna 𣱌
 slne 右路
 slne 右图
+slnh 𡏍
 slnj 𰄋
 slnk 𧔁
 slnl 𦽊
 slnl 𪡐
 slnm 贒
 slns 冲
+slns 亜
 slns 𦬕
 slnt 唇齿
 slnt 𮧟
 slnt 𰄉
+slny 悪
 slog 右方
 slol 唇膏
 sloq 右旋
@@ -133877,6 +133869,7 @@ snje 𦾪
 snjf 存量
 snjk 在岗
 snjn 𫨞
+snjr 𠀥
 snjr 𫇰
 snjt 蓝田
 snjt 𦼨
@@ -135884,6 +135877,7 @@ ssvf 𧅟
 ssvi 苊
 ssvi 茕茕孑立
 ssvj 𧁖
+ssvj 𦵻
 ssvk 𬛧
 ssvl 𬜷
 ssvn 𣦀
@@ -136591,6 +136585,7 @@ stxl 井架
 stxo 苍翠
 stxo 进驻
 stxq 𮎰
+stxu 𤇟
 stxu 𰟑
 stxv 𦺄
 stxx 进出
@@ -137435,13 +137430,17 @@ svv 云
 svva 𤮀
 svvb 𮑙
 svvb 𰆦
+svvc 鄑
+svvc 鄑
 svve 𦯩
 svve 𦴅
 svvf 𦶖
+svvg 戩
 svvg 𡙠
 svvg 𦭲
 svvi 云
 svvi 䒛
+svvj 晉
 svvj 𤲸
 svvj 𫨗
 svvj 𫨟
@@ -137469,6 +137468,7 @@ svvt 𦺬
 svvt 𬹪
 svvu 动弹
 svvu 原子弹
+svvu 𤐦
 svvv 凉丝丝
 svvv 孶
 svvv 苰
@@ -147587,7 +147587,6 @@ ufla 𤌦
 uflc 𪪘
 ufle 𣣔
 uflf 𢌐
-uflf 𤉁
 uflf 𩐕
 uflj 煏
 uflj 諨
@@ -151882,6 +151881,7 @@ usli 并非
 uslk 总动员
 usll 𤌕
 uslm 𱫲
+usln 𤉁
 uslp 𨔏
 uslv 并口
 uslv 瓶口
@@ -155575,7 +155575,6 @@ vfvh 飞来飞去
 vfvi 𣎿
 vfvi 𠂏
 vfvj 朶
-vfvj 𡦌
 vfvk 缙绅
 vfvk 台柱子
 vfvk 𣏍
@@ -158155,6 +158154,7 @@ vsve 𢾼
 vsve 𱤹
 vsvf 飞红
 vsvh 𡎳
+vsvj 𡦌
 vsvk 𢾲
 vsvl 买了
 vsvl 𥀌
@@ -161081,7 +161081,6 @@ wflv 𤙨
 wflv 𨧃
 wflv 𩳒
 wflw 𱼅
-wfly 𨉼
 wfm 刹
 wfmb 𨫋
 wfmb 𰄵
@@ -161257,7 +161256,6 @@ wfvh 集结
 wfvh 𦞥
 wfvi 集
 wfvj 鈢
-wfvj 𨫌
 wfvk 集纳
 wfvl 杀
 wfvm 𧸶
@@ -165243,6 +165241,7 @@ wslw 𠤍
 wslw 𤜍
 wslw 𩵄
 wslw 𮜾
+wsly 𨉼
 wsm 郗
 wsma 瓻
 wsma 𪖪
@@ -165432,6 +165431,7 @@ wsvi 𦙜
 wsvi 𮜯
 wsvi 𰠪
 wsvi 𱰜
+wsvj 𨫌
 wsvk 罐子
 wsvk 𡥉
 wsvm 𡮱
@@ -172301,7 +172301,6 @@ yfvf 杂
 yfvf 𢙼
 yfvf 𢛐
 yfvi 𪫟
-yfvj 𪬕
 yfvk 命根子
 yfvk 䝗
 yfvm 𣎾
@@ -175388,6 +175387,7 @@ ysvh 𠨪
 ysvi 危
 ysvi 𩚚
 ysvi 𭜒
+ysvj 𪬕
 ysvk 𬱟
 ysvk 𢼨
 ysvl 慌了
