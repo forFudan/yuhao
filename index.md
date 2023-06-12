@@ -21,7 +21,7 @@ nav_order: 1
 >点击加入官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk) · 
 >点击加入官方 Telegram 群: [yuhaoim](https://t.me/yuhaoim)  
 >[正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim)  
->[宇浩二代v2.0.0-beta.2下载(台湾字形支持)](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-beta.2) · 
+>[宇浩二代预览版 v2.0.0-rc.2 下载(台湾字形支持)](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-rc.2) · 
 >[备用下载地址](https://gitee.com/forFudan/yuhao/releases/)  
 >[快速入门](./docs/cookbook) · 
 >[详细教程](./docs/learn) · 

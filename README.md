@@ -9,7 +9,7 @@
 >点击加入官方 Telegram 群: [yuhaoim](https://t.me/yuhaoim)  
 >[简体字版官方网站](https://zhuyuhao.com/yuhao) · 
 >[正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim)  
->[宇浩二代v2.0.0-beta.2下载(台湾字形支持)](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-beta.2) · 
+>[宇浩二代v2.0.0-rc.2下载(台湾字形支持)](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-rc.2) · 
 >[备用下载地址](https://gitee.com/forFudan/yuhao/releases/)  
 >[快速入门](./docs/cookbook) · 
 >[详细教程](./docs/learn) · 
