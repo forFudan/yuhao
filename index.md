@@ -18,20 +18,22 @@ nav_order: 1
 </details>
 
 {: .highlight }
->点击加入官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk) · 
->点击加入官方 Telegram 群: [yuhaoim](https://t.me/yuhaoim)  
->[正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim)  
->[宇浩二代预览版 v2.0.0-rc 下载(台湾字形支持)](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-rc) · 
+>官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk) · 
+>官方 TG 群: [yuhaoim](https://t.me/yuhaoim)  
+>[预览版 v2.0.0-rc 下载](https://github.com/forFudan/yuhao/releases/tag/v2.0.0-rc) · 
 >[备用下载地址](https://gitee.com/forFudan/yuhao/releases/)  
+>[Bug 提交](https://github.com/forFudan/yuhao/issues) · 
+>[讨论交流区](https://github.com/forFudan/yuhao/discussions) · 
+>[正(繁)體字版官方網站](https://zhuyuhao.com/yuhaoim)  
 >[快速入门](./docs/cookbook) · 
 >[详细教程](./docs/learn) · 
 >[在线练习](./docs/practice) · 
->[更新日志](./docs/updates/updates) · 
->[拆分查询(台湾字形支持)](./v2/chaifen/)  
+>[拆分查询(支持台湾字形)](./v2/chaifen/)  
 
 {: .note }
->本网站目前介绍的是宇浩二代。[宇浩一代相关信息(教程、练习、查询)请移步此处。](./docs/v1/v1)  
->[宇浩一代最新版v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3)
+>本网站介绍的是宇浩二代，[宇浩一代相关信息请移步此处](./docs/v1/v1)  
+>[宇浩一代稳定版下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3) · 
+>[备用下载地址](https://gitee.com/forFudan/yuhao/releases/tag/v1.4.3)  
 
 ## 简介
 
