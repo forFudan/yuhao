@@ -4102,8 +4102,8 @@ bbtp 𦄷
 bbua 𫌵
 bbud 𠬛
 bbud 𪠤
-bbuh 㞋
 bbuh 㠯
+bbuh 㞋
 bbuh 𠬩
 bbuh 𠬮
 bbuh 𤕪
@@ -12789,7 +12789,6 @@ dke 砷
 dkeh 砷
 dkf 硐
 dkfb 𧱣
-dkfb 𰅹
 dkff 𭁢
 dkfi 𩂬
 dkfk 𱂪
@@ -12820,6 +12819,7 @@ dkjr 𭦪
 dkjv 𩧤
 dkjy 𩂘
 dkk 走
+dkkb 𰅹
 dkkc 蟸
 dkkc 𧓑
 dkkc 𬒣
@@ -17862,6 +17862,7 @@ emag 𩉃
 emam 𩕖
 embb 𪽾
 embe 𰂇
+embf 😒
 embg 𤔼
 embk 𭶰
 embk 𢅞
@@ -17871,6 +17872,10 @@ embu 𠆸
 embu 𤽐
 embu 𭆲
 embw 儸
+embx 😒
+embx 🙅
+embx 🙆
+emby 🙄
 emcn 𠈤
 emdk 😭
 emdm 䫢
@@ -17920,6 +17925,9 @@ emhr 𠐛
 emhs 🙏
 emhw 㿠
 emhw 侊
+emhz 🙈
+emhz 🙉
+emhz 🙊
 emie 伹
 emik 𤔈
 emj 倬
@@ -17930,18 +17938,22 @@ emjs 🙋
 emjt 儩
 emjx 𤔴
 emjx 😏
+emjx 😼
 emjy 儢
+emjy 😱
 emjz 🙌
 emk 侦
 emkb 侦
 emkd 𬿄
 emkg 𫣞
 emkl 𢄗
+emkz 😷
 eml 咎
 emle 㰶
 emlg 𪝭
 emlh 😅
 emlh 😓
+emlh 😥
 emlm 😐
 emlm 😑
 emlr 𭈃
@@ -17961,6 +17973,7 @@ emmd 𠞄
 emmf 𥇠
 emmg 😈
 emmi 𭶴
+emmj 😎
 emmm 𪝽
 emmq 𠋝
 emmv 𰲝
@@ -17980,6 +17993,10 @@ emqj 𠇵
 emqm 偗
 emqp 仯
 emqp 𠍥
+emqq 😗
+emqq 😘
+emqq 😙
+emqq 😚
 emqs 𫢡
 emrb 𪕻
 emre 𦧠
@@ -17994,6 +18011,7 @@ emro 𪁼
 emrp 儏
 emrp 𭽢
 emrr 𱘪
+emsb 😷
 emsj 𫢱
 emsj 😴
 emsq 𠋬
@@ -18032,10 +18050,10 @@ emwe 𠇻
 emwh 𠍝
 emwk 斶
 emwk 㒔
-emwl 🙈
 emwt 𰂫
 emwv 𢄇
 emwx 😬
+emwx 🙂
 emwy 俏
 emwy 𦚅
 emx 爵
@@ -18047,7 +18065,7 @@ emxc 𫑲
 emxe 俔
 emxh 𡕚
 emxh 😍
-emxh 😎
+emxh 😻
 emxk 覓
 emxk 𧠙
 emxk 𢅞
@@ -47053,7 +47071,12 @@ kkbe Β
 kkbe β
 kkbf %
 kkbf ％
+kkbf 😒
 kkbq ㏃
+kkbx 😒
+kkbx 🙅
+kkbx 🙆
+kkby 🙄
 kkc 婴
 kkc Ç
 kkc ç
@@ -47260,6 +47283,9 @@ kkhx ﹌
 kkhx －
 kkhx ￣
 kkhz ㎐
+kkhz 🙈
+kkhz 🙉
+kkhz 🙊
 kki Ê
 kki Ë
 kki Ì
@@ -47320,6 +47346,8 @@ kkjr 𮔍
 kkjs 🙋
 kkjv 𧖋
 kkjx 😏
+kkjx 😼
+kkjy 😱
 kkjz 🙌
 kkk 里
 kkk ķ
@@ -47376,6 +47404,7 @@ kkkv 淼
 kkkv 㴇
 kkkv ㎸
 kkkw ㎾
+kkkz 😷
 kkl ĺ
 kkl Ļ
 kkl ļ
@@ -47397,6 +47426,7 @@ kklh ~
 kklh ～
 kklh 😅
 kklh 😓
+kklh 😥
 kkli ⑥
 kkli ⓪
 kkli ⓺
@@ -47424,6 +47454,7 @@ kkmh ¨
 kkmh ‥
 kkmh ︰
 kkmh ：
+kkmj 😎
 kkmo ㏁
 kkmu Μ
 kkmu μ
@@ -47522,6 +47553,10 @@ kkqi ⓻
 kkqi 〧
 kkqm 𢃹
 kkqp 𧊣
+kkqq 😗
+kkqq 😘
+kkqq 😙
+kkqq 😚
 kkqx ⿹
 kkr Ŕ
 kkr Ŗ
@@ -47556,6 +47591,7 @@ kksb 𪉽
 kksb ª
 kksb ⑱
 kksb ⓲
+kksb 😷
 kkse ⑫
 kkse ⓬
 kksf 円
@@ -47736,7 +47772,6 @@ kkwh ？
 kkwj 𲇑
 kkwl 𧈿
 kkwl 𨳠
-kkwl 🙈
 kkwo 罂
 kkwu ⑤
 kkwu ⓹
@@ -47744,6 +47779,7 @@ kkwu 〥
 kkww 蛧
 kkwx ⿲
 kkwx 😬
+kkwx 🙂
 kkx 蚬
 kkx Ⓧ
 kkx ⓧ
@@ -47758,7 +47794,7 @@ kkxh ＊
 kkxh ＿
 kkxh ｜
 kkxh 😍
-kkxh 😎
+kkxh 😻
 kkxi Ξ
 kkxi ξ
 kkxj ￬
@@ -91916,8 +91952,8 @@ uewl 𭚑
 uewm 𥊹
 uewm 𧸛
 uewm 𩪠
-uewo 熎
 uewo 謡
+uewo 熎
 uewo 𤆡
 uewr 鷹
 uewr 𪈠
@@ -96208,9 +96244,9 @@ uwwi 𧮓
 uwwl 訤
 uwwm 𠞳
 uwwo 謠
+uwwo 謡
 uwwo 䛬
 uwwo 熎
-uwwo 謡
 uwwr 𪈲
 uwwu 𲂁
 uwwx 詾
