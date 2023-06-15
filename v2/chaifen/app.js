@@ -17,7 +17,7 @@ d3.csv("https://zhuyuhao.com/yuhao/v2/chaifen/宇浩輸入法全漢字拆分表.
             var output = _.sortBy(filteredDictionary, 'code')
             for (var i = 0; i < filteredDictionary.length; i++) {
                 d3.select("tbody").insert("tr").html(
-                    "<td>" + (output[i]['char']) + "</td>" 
+                    "<td><a href='https://zi.tools/zi/" + (output[i]['char']) + "'>" + (output[i]['char']) + "</a></td>" 
                     +
                     "<td>" + (output[i]['division']) + "</td>" 
                     +
