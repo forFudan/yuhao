@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230615
+# 版本: 20230616
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words_extended"
-version: "20230615"
+version: "20230616"
 sort: original
 columns:
   - text
@@ -16576,7 +16576,6 @@ columns:
 咖哩	lxlk
 顺之者昌	qphj
 听骨	lemg
-呵佛骂祖	lelh
 轻裘肥马	hfwx
 团年	naqa
 罗敷有夫	mfsg
@@ -28337,4 +28336,5 @@ columns:
 文聘	pwak
 广园	uunf
 方特	ogwh
+么么么	qqqv
 徐码	rtdx

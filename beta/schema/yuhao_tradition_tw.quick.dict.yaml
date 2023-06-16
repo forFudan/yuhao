@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20230615
+# 版本: 20230616
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tradition_tw.quick"
-version: "20230615"
+version: "20230616"
 sort: original
 columns:
   - text

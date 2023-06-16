@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230615
+# 版本: 20230616
 #
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -27,7 +27,7 @@
 # - 傳統字增廣詞庫（次常用詞語、成語、詩詞）
 ---
 name: "yuhao"
-version: "20230615"
+version: "20230616"
 sort: original
 import_tables:
   # 去除下方的 # 符号以导入词库
@@ -37,7 +37,7 @@ import_tables:
   - yuhao.words
   - yuhao_tradition.words
   - yuhao.words_extended
-  #  - yuhao.words_literature
+  - yuhao.words_literature
   #  - yuhao_tradition.words_extended
   #  - yuhao_tradition.words_literature
   - yuhao.symbols
