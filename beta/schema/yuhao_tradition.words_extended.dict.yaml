@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230616
+# 版本: 20230617
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -13,7 +13,7 @@
 
 ---
 name: "yuhao_tradition.words_extended"
-version: "20230616"
+version: "20230617"
 sort: original
 columns:
   - text
@@ -3018,28 +3018,20 @@ columns:
 天時地利	fjhr
 殘障	frci
 戰神	llhk
-水滸	kviu
-水中	kvln
-水費	kvvt
 濟寧	iooy
 貴國	lkng
 跪倒	nyeh
-啪啪	lala
 墨子	nhvk
 連著	gpsh
-內網	krbk
 飛走	bkdk
 燒壞	uhho
 粉撲	ptak
-塞滿	osis
 宜春	omgj
 定單	ofll
 窗前	pruw
 迎著	txsh
 猛擊	rvgx
 鐵棍	wdfj
-豬頭	dhfl
-留在	tjsn
 撥開	abkf
 拖住	aqeo
 本草	ffsj
@@ -4927,7 +4919,7 @@ columns:
 下個月	aewy
 上市公司	kotv
 洪湖	isid
-匯豐銀行	gjwr
+滙豐銀行	ijwr
 小魚	maty
 汙染物	iiww
 沒辦法	ioih
@@ -25743,7 +25735,6 @@ columns:
 迷妹	ppch
 燈珠	ubgw
 迷途知反	ptqs
-官威	ondf
 補檔	pffn
 夠著	rrsh
 鎂鋁	wuwl
@@ -30237,7 +30228,6 @@ columns:
 聽不聽	adag
 恨着	yvum
 迷途知反	ptqe
-官威	obdf
 夠着	rrum
 熱縮	htbo
 拴着	atum

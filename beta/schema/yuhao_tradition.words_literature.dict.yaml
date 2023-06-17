@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230616
+# 版本: 20230617
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tradition.words_literature"
-version: "20230616"
+version: "20230617"
 sort: original
 columns:
   - text
@@ -369,7 +369,7 @@ columns:
 琴心劍膽	gyrw
 一切眾生	famw
 扼腕嘆息	awlt
-兼容幷蓄	upqs
+兼容並蓄	upus
 艱難曲折	sska
 大肆宣傳	ghoe
 傳為美談	eouu
@@ -15553,7 +15553,7 @@ columns:
 龍門翠黛眉相對	ikxk
 跌足大嘆	nngl
 低階趣味	ecdl
-相容幷蓄	fpqs
+相容並蓄	fpus
 杳無訊息	fqut
 儲存實力	esox
 八方支援	toda
@@ -16529,7 +16529,6 @@ columns:
 爲留待騷人	etrt
 爲君持酒勸斜陽	exac
 胡爲乎來哉	deqd
-就中更有癡兒女	olfc
 問客何爲來	koed
 自爾爲佳節	tfeq
 天下皆知美之爲美	faru

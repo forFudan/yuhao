@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230616
+# 版本: 20230617
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words"
-version: "20230616"
+version: "20230617"
 sort: original
 columns:
   - text
@@ -19,6 +19,7 @@ columns:
 ...
 
 即使	xvef
+二十	sidi
 即便	xvef
 字根	ovfv
 字集	ovwf
@@ -36090,6 +36091,14 @@ columns:
 廊坊	uoho
 文宗	pwoh
 遮遮掩掩	uuaa
+水浒	kvio
+水中	kvln
+水费	kvvt
+啪啪	lala
+内网	ktkw
+塞满	osis
+猪头	rhsg
+留在	tjsn
 多项	rrfd
 不绝	duvy
 一新	fiif
@@ -38661,7 +38670,6 @@ columns:
 老有所为	hsio
 零零碎碎	dddd
 二期	sidw
-二十	sidi
 坯料	hdps
 干好	hgcv
 走了	dkvl
@@ -52341,6 +52349,7 @@ columns:
 忖思	yajy
 炽情	ulyh
 横测	fsik
+官威	obdf
 涉事	inal
 参检	vgft
 沿习	iqxi

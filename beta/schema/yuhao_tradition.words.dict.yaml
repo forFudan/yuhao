@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230616
+# 版本: 20230617
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tradition.words"
-version: "20230616"
+version: "20230617"
 sort: original
 columns:
   - text
@@ -20,6 +20,7 @@ columns:
 ...
 
 卽使	eref
+二十	sidi
 卽便	eref
 字根	ovfv
 字集	ovwf
@@ -6569,6 +6570,7 @@ columns:
 大氣壓	gqsj
 事倍功半	aefu
 遥遥無期	eeqd
+兼收並蓄	uxus
 生離死别	wpfl
 失魂落魄	qsse
 無可比擬	qara
@@ -35166,6 +35168,7 @@ columns:
 頤養天年	sufq
 敦請	ovuh
 婚齡	ctmt
+兼容並包	upuw
 名廚	rluh
 授受	aeey
 玉照	gojb
@@ -36079,6 +36082,14 @@ columns:
 廊坊	uoho
 文宗	pwoh
 遮遮掩掩	uuaa
+水滸	kviu
+水中	kvln
+水費	kvvt
+啪啪	lala
+内網	ktbk
+塞滿	osis
+豬頭	dhfl
+留在	tjsn
 碼表	ddhr
 多項	rrfd
 不絶	duby
@@ -38650,7 +38661,6 @@ columns:
 老有所爲	hsie
 零零碎碎	dddd
 二期	sidw
-二十	sidi
 坯料	hdps
 幹好	djcv
 走了	dkvl
@@ -52320,6 +52330,7 @@ columns:
 忖思	yajy
 熾情	uiyh
 橫測	fsim
+官威	obdf
 涉事	inal
 參檢	vvfr
 沿習	iqxx
@@ -52333,7 +52344,6 @@ columns:
 通用規範漢字表	btgh
 擡頭	ahfl
 座標	utfd
-兼收幷蓄	uxqs
 揹包	auwc
 高擡貴手	oalt
 不識擡舉	duar
@@ -52362,7 +52372,6 @@ columns:
 鉅子	wgvk
 揹簍	auql
 伙伕	eueg
-兼容幷包	upqw
 腳伕	wteg
 覆函	drvk
 擡腿	ahwv
@@ -52380,6 +52389,8 @@ columns:
 高擡	olah
 趙孟頫	dvqs
 師姑	yfcd
+兼收幷蓄	uxqs
+兼容幷包	upqw
 阿訇	cawu
 阿斗	casd
 阿飛	cabk
@@ -55618,6 +55629,7 @@ columns:
 戀曲	buks
 變焦	buwu
 誰敢	uwaa
+內網	krbk
 不絕	dubb
 打贏	aaul
 著地	shhc
@@ -55876,7 +55888,6 @@ columns:
 求變	fkbu
 不含	dutf
 平倉	hutf
-匯豐	gijd
 小官	maon
 漫延	ikqn
 沒了	iwvl
@@ -56529,7 +56540,6 @@ columns:
 剁碎	qfdo
 敢打	aaaa
 層巒	bubu
-恆生	yfwg
 慢用	yktn
 究其根源	odfi
 割下	ohak
@@ -57216,6 +57226,7 @@ columns:
 角櫃	ywfg
 概稱	fxre
 概而言之	fsup
+官威	ondf
 栓牢	frow
 阿曼	caks
 介面	ttgi
@@ -57348,7 +57359,7 @@ columns:
 程式設計師	rguy
 矽片	drtp
 搜尋枯腸	axfw
-相容幷包	fpqw
+相容並包	fpuw
 藍色畫面	syxg
 布林	smff
 部落格	isfe

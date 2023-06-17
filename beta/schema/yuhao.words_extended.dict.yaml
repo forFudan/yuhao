@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230616
+# 版本: 20230617
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words_extended"
-version: "20230616"
+version: "20230617"
 sort: original
 columns:
   - text
@@ -3016,28 +3016,20 @@ columns:
 天时地利	fjhr
 残障	frci
 战神	mlhk
-水浒	kvio
-水中	kvln
-水费	kvvt
 济宁	ipoa
 贵国	lkng
 跪倒	nyeh
-啪啪	lala
 墨子	nhvk
 连着	hpum
-内网	ktkw
 飞走	vsdk
 烧坏	uahd
 粉扑	ptam
-塞满	osis
 宜春	omgj
 定单	ofuj
 窗前	pruw
 迎着	txum
 猛击	rvax
 铁棍	tqfj
-猪头	rhsg
-留在	tjsn
 拨开	axfs
 拖住	aqeo
 本草	ffsj
@@ -25742,7 +25734,6 @@ columns:
 迷妹	ppch
 灯珠	uagw
 迷途知反	ptqe
-官威	obdf
 补档	pmfm
 够着	wlum
 镁铝	tutl
