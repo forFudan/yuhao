@@ -11,3 +11,5 @@ local temp = require("yuhao/yuhao_chaifen")
 yuhao_chaifen = temp.filter
 yuhao_chaifen_processor = temp.processor
 yuhao_embeded_cands = require("yuhao.yuhao_embeded_cands")
+yuhao_switch_proc = require("yuhao.yuhao_switch").proc
+yuhao_switch_tr = require("yuhao.yuhao_switch").tr

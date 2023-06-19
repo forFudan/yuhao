@@ -7,6 +7,9 @@
 -- 將要被返回的過濾器對象
 local embeded_cands_filter = {}
 
+-- 導入外部模块變量
+local yuhao_switch_vars = require("yuhao.yuhao_switch").var
+
 --[[
 # xxx.schema.yaml
 switches:
@@ -90,7 +93,7 @@ end
 
 -- 過濾器
 function embeded_cands_filter.func(input, env)
-    if not env.embeded.embeded_cands then
+    if not env.embeded.embeded_cands and not yuhao_switch_vars.is_zhelp then
         for cand in input:iter() do
             yield(cand)
         end
@@ -105,10 +108,12 @@ function embeded_cands_filter.func(input, env)
     local index, first_cand, preedit = 0, nil, ""
 
     local function refresh_preedit()
-        first_cand.preedit = table.concat(page_rendered, separator)
-        -- 將暫存的一頁候選批次送出
-        for _, c in ipairs(page_cands) do
-            yield(c)
+        if first_cand then
+            first_cand.preedit = table.concat(page_rendered, separator)
+            -- 將暫存的一頁候選批次送出
+            for _, c in ipairs(page_cands) do
+                yield(c)
+            end
         end
         -- 清空暫存
         first_cand, preedit = nil, ""
@@ -132,7 +137,7 @@ function embeded_cands_filter.func(input, env)
         if (not hash[cand.text]) then
             hash[cand.text] = true
 
-            if index == 1 then
+            if not first_cand then
                 -- 把首選捉出來
                 first_cand = cand
             end
