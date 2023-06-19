@@ -18,6 +18,9 @@ local kRejected = 0 -- 拒: 不作響應, 由操作系統做默認處理
 local kAccepted = 1 -- 收: 由rime響應該按鍵
 local kNoop     = 2 -- 無: 請下一個processor繼續看
 
+local cSpace  = string.byte(" ") -- 空格鍵
+local cReturn = 0xff0d           -- 回車鍵
+
 -- 候選序號標記
 local index_indicators = {"¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "⁹", "⁰"}
 
@@ -97,7 +100,7 @@ local function handle_switch(env, ctx, idx)
     return kAccepted
 end
 
--- 處理開關管理候選
+-- 處理開關狀態展示候選
 local function handle_switch_display(env, ctx, seg, input)
     local text_list = {}
     for idx, option_name in ipairs(switch_options) do
@@ -158,7 +161,11 @@ function yuhao_switch_proc.func(key_event, env)
         end
         -- 開關管理
         local idx = select_index(key_event, env)
-        if idx >= 0 then
+        if ch == cSpace or ch == cReturn then
+            -- 空格或回車退出開關管理模式
+            ctx:clear()
+            return kAccepted
+        elseif idx >= 0 then
             return handle_switch(env, ctx, idx)
         else
             return kNoop
