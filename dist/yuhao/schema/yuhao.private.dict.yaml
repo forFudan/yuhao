@@ -1,0 +1,19 @@
+---
+name: "yuhao.private"
+version: 20230312
+sort: original
+columns:
+  - text
+  - code
+  - weight
+  - other
+...
+
+# 词码表中定义的词组，优先级在官方词库之前
+
+# 长度在编码规则 encoder/rules 定义范围内的词组，可省略编码。
+# 重新部署时会按规则自动编码，能以 tecc 打出「自动编码词组」。
+# 自定义编码不必遵循编码规则，词条也不必是汉字。
+
+# 输入法
+宇浩	ofiw

@@ -19,7 +19,7 @@ _site/
 
 # Ignore distributions
 宇浩输入法打包.py
-/dist
+/dist/*.zip
 
 # Ignore extra key maps
 /beta/mabiao/*.png

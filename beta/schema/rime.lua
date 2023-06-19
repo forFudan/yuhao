@@ -1,4 +1,3 @@
--- rime.lua
 
 -- 宇浩输入法
 yuhao_char_filter = require("yuhao/yuhao_char_filter")
