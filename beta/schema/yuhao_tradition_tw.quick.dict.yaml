@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20230617
+# 版本: 20230618
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tradition_tw.quick"
-version: "20230617"
+version: "20230618"
 sort: original
 columns:
   - text
@@ -1126,7 +1126,7 @@ columns:
 有人	st
 灰色	su
 蔬菜	sv
-有個	sw
+有人	sw
 茄子	sx
 蒙面	sy
 昏暗	ta
@@ -1509,7 +1509,7 @@ columns:
 掬	awp
 攢	awq
 插	awr
-撚	aws
+捶	aws
 携	awv
 挦	axa
 报	axb
@@ -1684,6 +1684,7 @@ columns:
 綢	bwh
 維	bwi
 絢	bwj
+綞	bws
 縐	bwx
 劝	bxk
 繡	bxt
@@ -1853,6 +1854,7 @@ columns:
 際	cwh
 阡	cwk
 妁	cwo
+陲	cws
 姝	cwt
 隗	cwu
 陶	cww
@@ -2555,7 +2557,7 @@ columns:
 殊	frw
 板	fsb
 邢	fsc
-橱	fsf
+樺	fsf
 樺	fsh
 模	fsj
 朽	fsk
@@ -2607,6 +2609,7 @@ columns:
 趸	fwn
 杓	fwo
 迈	fwp
+棰	fws
 株	fwt
 槐	fwu
 构	fwv
@@ -3480,6 +3483,7 @@ columns:
 嶷	jrq
 嶼	jrs
 嶽	jru
+畢	jsa
 畈	jsb
 畢	jsd
 屿	jsf
@@ -3943,7 +3947,7 @@ columns:
 史	lwl
 吽	lwn
 鵑	lwr
-唏	lws
+唾	lws
 吻	lwt
 噍	lwu
 啕	lww
@@ -4116,6 +4120,7 @@ columns:
 齣	mwl
 削	mwm
 逍	mwp
+睡	mws
 肖	mwy
 覷	mxf
 助	mxk
@@ -5219,7 +5224,7 @@ columns:
 蔫	sfn
 莱	sfp
 葬	sfr
-荆	sfs
+華	sfs
 菘	sft
 莆	sfu
 莖	sfv
@@ -5673,7 +5678,7 @@ columns:
 钓	two
 铣	twq
 爹	twr
-钧	tws
+锤	tws
 铢	twt
 钩	twv
 爷	twx
@@ -6297,7 +6302,7 @@ columns:
 罐	wsl
 希	wsm
 鑑	wsq
-鉗	wss
+郵	wss
 肼	wst
 肱	wsv
 鑊	wsw
@@ -6347,7 +6352,7 @@ columns:
 遥	wwp
 鑽	wwq
 鵬	wwr
-鈞	wws
+錘	wws
 銖	wwt
 胸	www
 匈	wwx

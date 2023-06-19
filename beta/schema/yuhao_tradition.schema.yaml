@@ -3,7 +3,7 @@
 
 schema:
   schema_id: yuhao_tradition
-  name: 宇浩·繁簡通·大陸繁體簡碼
+  name: 宇浩·大陸繁體簡碼
   version: 20230522
   author:
     - 發明人 朱宇浩
@@ -63,6 +63,7 @@ switches:
 
 engine:
   processors:
+    - lua_processor@yuhao_switch_proc
     - ascii_composer
     - recognizer
     - lua_processor@yuhao_chaifen_processor
@@ -87,6 +88,7 @@ engine:
     - table_translator
     - lua_translator@yuhao_helper # 幫助文檔
     - "table_translator@zaoci" # 用户造詞
+    - lua_translator@yuhao_switch_tr
   filters:
     - lua_filter@yuhao_single_char_only_for_full_code
     - lua_filter@yuhao_char_first

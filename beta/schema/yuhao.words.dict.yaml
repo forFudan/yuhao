@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230617
+# 版本: 20230618
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words"
-version: "20230617"
+version: "20230618"
 sort: original
 columns:
   - text
@@ -20,6 +20,7 @@ columns:
 
 即使	xvef
 二十	sidi
+有人	swte
 即便	xvef
 字根	ovfv
 字集	ovwf
@@ -42260,7 +42261,6 @@ columns:
 方成	ogdv
 两人	fkte
 不知道	dqut
-有人	swte
 五一	fcfi
 农资	yrse
 文化大革命	pegy
