@@ -1,7 +1,7 @@
 # 功能開關一鍵配置
 
 patch:
-  # schema/name: 宇浩·大陸繁體簡碼  # 方案名
+  # schema/name: 宇浩·大陸繁體  # 方案名
   speller/auto_select: true  # 四碼唯一自動上屏
   translator/enable_completion: true  # 輸入預測（逐碼提示）
   fixed/enable_completion: true  # 輸入預測（逐碼提示）

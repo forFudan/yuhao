@@ -16,6 +16,10 @@ nav_order: 1
 {:toc}
 </details>
 
+## 2023年6月20日
+
+增加 zhelp 引導快捷功能開關（[王牌餅乾](https://github.com/lost-melody/)）。
+
 ## 2023年6月18日
 
 癸卯年五月初一日，宇浩輸入法 v2.0.0 正式版發佈。

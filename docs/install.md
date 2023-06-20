@@ -18,8 +18,7 @@ nav_order: 2
 </details>
 
 {: .highlight }
->[v1.4.3下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3)  
->[v2.0.0下载](https://github.com/forFudan/yuhao/releases/tag/v2.0.0)  
+>[最新稳定版本下载](https://github.com/forFudan/yuhao/releases/)  
 >[备用下载地址](https://gitee.com/forFudan/yuhao/releases/)  
 
 ## 码表直接挂载
