@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230618
+# 版本: 20230620
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words"
-version: "20230618"
+version: "20230620"
 sort: original
 columns:
   - text
@@ -19,6 +19,7 @@ columns:
 ...
 
 即使	xvef
+很大	rvgd
 二十	sidi
 有人	swte
 即便	xvef
@@ -28702,7 +28703,6 @@ columns:
 千秋大业	wrgk
 笔杆	qrfh
 德意志	rihy
-很大	rvgd
 很好	rvcv
 第七	qvai
 繁花	qbse

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20230618
+# 版本: 20230620
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tradition_tw.quick"
-version: "20230618"
+version: "20230620"
 sort: original
 columns:
   - text
@@ -1126,7 +1126,7 @@ columns:
 有人	st
 灰色	su
 蔬菜	sv
-有人	sw
+有個	sw
 茄子	sx
 蒙面	sy
 昏暗	ta
@@ -5705,7 +5705,7 @@ columns:
 炖	uax
 彎	ubb
 羞	ubc
-證	ubf
+燈	ubf
 記	ubj
 炤	ubl
 認	ubo

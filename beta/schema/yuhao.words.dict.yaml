@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230620
+# 版本: 20230626
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words"
-version: "20230620"
+version: "20230626"
 sort: original
 columns:
   - text
@@ -19,6 +19,7 @@ columns:
 ...
 
 即使	xvef
+主义	ogow
 很大	rvgd
 二十	sidi
 有人	swte
@@ -6824,7 +6825,6 @@ columns:
 也是	cyjf
 现代化	geer
 一面	figi
-主义	ogow
 有力	swxk
 用于	tnfa
 人士	tehf

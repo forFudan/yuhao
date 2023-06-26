@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230620
+# 版本: 20230626
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tradition.words"
-version: "20230620"
+version: "20230626"
 sort: original
 columns:
   - text
@@ -20,6 +20,7 @@ columns:
 ...
 
 卽使	eref
+主義	oguq
 很大	rvgd
 二十	sidi
 有人	swte
@@ -6829,7 +6830,6 @@ columns:
 也是	cyjf
 現代化	geer
 一面	figi
-主義	oguq
 有力	swxk
 用於	tnot
 人士	tehf

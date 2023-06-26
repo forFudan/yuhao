@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230618
+# 版本: 20230620
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tradition.words"
-version: "20230618"
+version: "20230620"
 sort: original
 columns:
   - text
@@ -20,6 +20,7 @@ columns:
 ...
 
 卽使	eref
+很大	rvgd
 二十	sidi
 有人	swte
 卽便	eref
@@ -6571,6 +6572,7 @@ columns:
 大氣壓	gqsj
 事倍功半	aefu
 遥遥無期	eeqd
+兼收并蓄	uxus
 兼收並蓄	uxus
 生離死别	wpfl
 失魂落魄	qsse
@@ -28697,7 +28699,6 @@ columns:
 千秋大業	wrgk
 筆桿	qxfj
 德意志	rihy
-很大	rvgd
 很好	rvcv
 第七	qvai
 繁花	qbse
@@ -35169,6 +35170,7 @@ columns:
 頤養天年	sufq
 敦請	ovuh
 婚齡	ctmt
+兼容并包	upuw
 兼容並包	upuw
 名廚	rluh
 授受	aeey
