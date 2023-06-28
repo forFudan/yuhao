@@ -18,6 +18,8 @@ nav_order: 1
 
 ## 2023年6月20日
 
+v2.1.0 發佈。
+
 增加 zhelp 引導快捷功能開關（[王牌餅乾](https://github.com/lost-melody/)）。
 
 ## 2023年6月18日
