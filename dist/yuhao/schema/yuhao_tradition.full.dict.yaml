@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230620
+# 版本: 20230630
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tradition.full"
-version: "20230620"
+version: "20230630"
 sort: original
 columns:
   - text
@@ -10477,7 +10477,7 @@ columns:
 邃	oqup
 埕	hlen
 錘	wwss
-删	kkfm
+删	wkfm
 樺	fsfa
 癥	prfe
 邸	tafc
@@ -10846,6 +10846,7 @@ columns:
 鯪	thqe
 黇	sskl
 堲	erxh
+㠯	bnbu
 㥄	yhqe
 𨱑	tsjt
 𬶨	ergq
@@ -53463,6 +53464,7 @@ columns:
 𧞇	peye
 𢞽	peyi
 𤸵	pfac
+𢊢	pfau
 𧘢	pfbm
 𤷠	pfeh
 𥺚	pfej
@@ -53477,6 +53479,7 @@ columns:
 𤻇	pffn
 𤹈	pffq
 𧙒	pffs
+𢒹	pfft
 𥦝	pffv
 𪎦	pffv
 𧞁	pfgf
@@ -53663,6 +53666,7 @@ columns:
 𥨔	phrr
 𥩊	phrr
 𤷶	phry
+𢋎	phsa
 𤵫	phsb
 𥹬	phsk
 𧙲	phsk
@@ -53876,6 +53880,7 @@ columns:
 𢒺	plto
 𪎮	pltu
 𥼞	pluo
+𢊠	plva
 𥥾	plwy
 𠡧	plxk
 𤵱	plxk
@@ -54717,6 +54722,7 @@ columns:
 𥤿	pydi
 𥼡	pydr
 𥨶	pyee
+𢋤	pyeh
 𥽁	pyei
 𤴦	pyfb
 𥧝	pyfl
@@ -63603,17 +63609,12 @@ columns:
 𤋹	ufdg
 𩓮	ufdm
 𧨿	ufeb
-𢊢	uffa
 𤓣	uffa
-𢋤	uffe
 𢋮	uffe
 𢊲	ufff
 𤏗	ufff
-𢋎	uffh
 𤐖	uffh
 𧦹	uffi
-𢊠	uffl
-𢒹	ufft
 𤊩	uffv
 𧬩	ufgf
 𧨩	ufgo
@@ -64564,7 +64565,6 @@ columns:
 𧪳	urwy
 𤊔	urxl
 𢋯	urxx
-𧧴	urxy
 𠭼	uryb
 𢋉	uryc
 𡋭	uryh
@@ -64856,6 +64856,7 @@ columns:
 𧩝	utwy
 𧥴	utxj
 𠡼	utxk
+𧧴	utxy
 𩠮	utyb
 𩠰	utye
 𧪩	utyi
@@ -99661,7 +99662,7 @@ columns:
 岺	jtfb
 喨	loqr
 帯	sfnm
-麿	uffr
+麿	plrn
 嘅	lerq
 沷	iswo
 鮻	tvqe
@@ -100936,6 +100937,7 @@ columns:
 𠥣	gtoo
 𠥫	gtoo
 𠥮	gkru
+𠦗	dbnb
 𠦛	esdi
 𠦪	dsdd
 𠨅	xmje
@@ -101238,10 +101240,10 @@ columns:
 𢌁	pfnf
 𢌉	urde
 𢌊	usss
-𢌑	ufff
 𢌕	ubux
 𢌥	lexn
 𢌻	hqsj
+𢍀	bnbs
 𢍶	bubs
 𢏈	vnbb
 𢏗	hhvg
@@ -101330,6 +101332,7 @@ columns:
 𢧌	glfe
 𢧒	dtfl
 𢧜	dgle
+𢧝	mbng
 𢧠	xjwg
 𢧤	ggle
 𢧴	hoeg
@@ -101513,6 +101516,7 @@ columns:
 𣤡	rqpe
 𣤬	sfte
 𣤶	hqje
+𣤷	hbne
 𣤿	tmte
 𣥻	nhqe
 𣥽	nhbs
@@ -101798,6 +101802,7 @@ columns:
 𥄘	twmf
 𥄯	mtfv
 𥅍	tfbm
+𥅑	mbnb
 𥅝	hhmf
 𥆉	mewb
 𥆌	mywh
@@ -101861,6 +101866,7 @@ columns:
 𥛘	hjsd
 𥛳	hmxf
 𥛵	hsfa
+𥞐	rbnb
 𥞲	rlwm
 𥟑	rjqd
 𥟓	ronb
@@ -102256,7 +102262,6 @@ columns:
 𦣐	wbub
 𦣖	ulwo
 𦣛	wbuy
-𦣤	sbbu
 𦤇	tsbu
 𦤝	toqk
 𦤨	tsnm
@@ -102301,6 +102306,7 @@ columns:
 𦱊	sexv
 𦱏	sgue
 𦱘	sswo
+𦱱	sbns
 𦲄	soqv
 𦲎	soqr
 𦲰	smsx
@@ -102424,6 +102430,7 @@ columns:
 𧔚	koqv
 𧔠	kurg
 𧔬	ndlf
+𧔸	kbnl
 𧔽	kyfa
 𧕍	kuur
 𧕳	kulo
@@ -103035,6 +103042,7 @@ columns:
 𩝛	yohl
 𩝞	ytfl
 𩝭	yuqf
+𩝵	bnby
 𩝽	yvvk
 𩞩	ysst
 𩟇	yrqg
@@ -103477,6 +103485,7 @@ columns:
 𫴙	ohlg
 𫴥	obub
 𫵌	nwss
+𫵰	xbnh
 𫶔	aaej
 𫶝	jsae
 𫶠	jhww
@@ -103583,6 +103592,7 @@ columns:
 𬪟	toqc
 𬫗	wsow
 𬫡	wslf
+𬬢	wbnm
 𬬦	wbuy
 𬭪	tohl
 𬮞	ptfv
@@ -103732,6 +103742,7 @@ columns:
 𮀩	donb
 𮁣	htfb
 𮁵	hrgn
+𮂂	hbnx
 𮃇	rhwk
 𮄁	oqhk
 𮄐	oqhl
@@ -103825,6 +103836,7 @@ columns:
 𮥼	wkql
 𮦼	ditu
 𮧞	ghwk
+𮨘	bnbb
 𮨝	bfnm
 𮨥	ohmm
 𮩙	yssu
@@ -103840,6 +103852,8 @@ columns:
 𭡰	terq
 𭥊	ergp
 𮔕	erxk
+𰀥	bnbc
+𰀦	bnbb
 𰁛	svkb
 𰂟	eslf
 𰃫	ohlk
@@ -104109,6 +104123,7 @@ columns:
 𲈁	thqh
 𲈠	tulo
 𲈣	tfnh
+𲉕	bnbm
 𲉝	ctfl
 𲊒	dukb
 𲊛	gsbu
@@ -104281,10 +104296,3 @@ columns:
 𮸉	toqr
 𮸶	xbsj
 𮸾	xksb
-ebqe	😏
-qguw	😞
-gdqe	😁
-hlsl	😍
-hlsl	😎
-hlbe	😍
-hlbe	😎

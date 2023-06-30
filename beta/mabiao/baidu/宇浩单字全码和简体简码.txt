@@ -5461,11 +5461,18 @@ bmyt 𥌏
 bn 綑
 bnas 緺
 bnbb 𥿓
+bnbb 𮨘
+bnbb 𰀦
+bnbc 𰀥
+bnbm 𲉕
 bnbn 𡖈
 bnbn 𬻈
 bnbs 𤟶
+bnbs 𢍀
+bnbu 㠯
 bnbu 叏
 bnbu 𤼬
+bnby 𩝵
 bncs 𥿑
 bndg 𮈗
 bndm 𦅵
@@ -10557,6 +10564,7 @@ dbmv 𢺶
 dbmw 碿
 dbmx 𧡽
 dbmy 𫕢
+dbnb 𠦗
 dbnd 𩄙
 dbnf 𥒧
 dbns 𠦁
@@ -30781,8 +30789,10 @@ hbmf 𱲸
 hbmj 繛
 hbmt 坶
 hbmw 𡎮
+hbne 𣤷
 hbnx 𪘂
 hbnx 𡒈
+hbnx 𮂂
 hbo 轫
 hbob 𩯪
 hbob 𮈑
@@ -46000,6 +46010,7 @@ kbmf 𭾴
 kbmk 𧐰
 kbmv 𣳗
 kbmw 𮔱
+kbnl 𧔸
 kbod 蚇
 kbod 𠧛
 kbod 𧈳
@@ -47364,7 +47375,6 @@ kkfk ￭
 kkfl 𧊚
 kkfl 𨤷
 kkfl 𨴏
-kkfm 删
 kkfm ㎙
 kkfn ʩ
 kkfo ㄈ
@@ -54635,7 +54645,9 @@ mbmr 𦍆
 mbmr 𦌾
 mbmw 𦊏
 mbmw 𪙑
+mbnb 𥅑
 mbnd 𢄜
+mbng 𢧝
 mbnv 𬑝
 mboa 𤭲
 mbod 㠴
@@ -66528,6 +66540,7 @@ pfan 闫
 pfau 衧
 pfau 穻
 pfau 㽳
+pfau 𢊢
 pfbm 𧘢
 pfc 痦
 pfcl 痦
@@ -66554,6 +66567,7 @@ pffm 𥨨
 pffn 𤻇
 pffq 𤹈
 pffs 𧙒
+pfft 𢒹
 pffv 𥦝
 pffv 𪎦
 pffv 𮇥
@@ -67034,6 +67048,7 @@ phrr 𥨔
 phrr 𥩊
 phry 裱
 phry 𤷶
+phsa 𢋎
 phsb 𤵫
 phsi 𬒵
 phsk 𥹬
@@ -67610,6 +67625,7 @@ plri 𮇎
 plri 𰈴
 plrn 𥨈
 plrn 𥺓
+plrn 麿
 plrn 㾔
 plru 𠓬
 plsd 𥦖
@@ -67624,6 +67640,7 @@ pluo 爢
 pluo 㸏
 pluo 𥼞
 plv 吝
+plva 𢊠
 plvi 𱒢
 plvm 𬖏
 plvn 问
@@ -69816,6 +69833,7 @@ pye ē
 pye ě
 pyeb 㾑
 pyee 𥨶
+pyeh 𢋤
 pyei 𥽁
 pyem 粭
 pyen 𬮤
@@ -74603,6 +74621,7 @@ rbmw 㣯
 rbmw 𪖀
 rbmw 𪖏
 rbmw 𬓹
+rbnb 𥞐
 rbng 𢕠
 rbnr 𪕑
 rbnv 𪕝
@@ -80516,7 +80535,6 @@ sbbs 𦱱
 sbbs 𱾍
 sbbs 𥾩
 sbbu 苢
-sbbu 𦣤
 sbbv 𰫱
 sbcb 𫉇
 sbcj 𰰪
@@ -80665,6 +80683,7 @@ sbnb 𦸖
 sbnd 䓿
 sbnd 𠗴
 sbnm 蘊
+sbns 𦱱
 sbo 荩
 sboa 𮐸
 sboc 𬝰
@@ -92450,24 +92469,17 @@ ufdo 𭴊
 ufdo 𰕰
 ufeb 𧨿
 ufeb 𫷰
-uffa 𢊢
 uffa 𤓣
-uffe 𢋤
 uffe 𢋮
 ufff 𢊲
 ufff 𤏗
-ufff 𢌑
-uffh 𢋎
 uffh 𤐖
 uffi 㡷
 uffi 㶱
 uffi 𧦹
-uffl 𢊠
 uffn 𪹵
 uffo 𫍉
-uffr 麿
 uffs 𬋔
-ufft 𢒹
 ufft 𪹡
 uffv 諃
 uffv 𤊩
@@ -99805,6 +99817,7 @@ wbnb 𦚀
 wbnb 𨥻
 wbnd 䥁
 wbnd 𦞞
+wbnm 𬬢
 wbo 釵
 wbob 𮈛
 wbod 釵
@@ -101737,6 +101750,7 @@ wkfl 胴
 wkfl 銅
 wkfl 𤙓
 wkfl 𨈹
+wkfm 删
 wkfn 𨤴
 wkfs 鐦
 wkft 𰠱
@@ -105667,6 +105681,7 @@ xblv 㸛
 xbmg 𡴋
 xbmg 𡴋
 xbmi 𡲂
+xbnh 𫵰
 xbo 骚
 xbod 发
 xbod 𬻲
@@ -111751,10 +111766,3 @@ yyyi 惢
 yyyo 𢣳
 yyyo 𩝸
 yyyy 𧴕
-😁 gdqe
-😍 hlsl
-😍 hlbe
-😎 hlsl
-😎 hlbe
-😏 ebqe
-😞 qguw

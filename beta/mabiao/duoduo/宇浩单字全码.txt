@@ -5052,11 +5052,18 @@
 𥌏	bmyt
 緺	bnas
 𥿓	bnbb
+𮨘	bnbb
+𰀦	bnbb
+𰀥	bnbc
+𲉕	bnbm
 𡖈	bnbn
 𬻈	bnbn
 𤟶	bnbs
+𢍀	bnbs
+㠯	bnbu
 叏	bnbu
 𤼬	bnbu
+𩝵	bnby
 𥿑	bncs
 𮈗	bndg
 𦅵	bndm
@@ -9868,6 +9875,7 @@
 碿	dbmw
 𧡽	dbmx
 𫕢	dbmy
+𠦗	dbnb
 𩄙	dbnd
 𥒧	dbnf
 𠦁	dbns
@@ -28939,8 +28947,10 @@
 繛	hbmj
 坶	hbmt
 𡎮	hbmw
+𣤷	hbne
 𪘂	hbnx
 𡒈	hbnx
+𮂂	hbnx
 𩯪	hbob
 𮈑	hbob
 轫	hbod
@@ -43239,6 +43249,7 @@
 𧐰	kbmk
 𣳗	kbmv
 𮔱	kbmw
+𧔸	kbnl
 蚇	kbod
 𠧛	kbod
 𧈳	kbod
@@ -44291,7 +44302,6 @@
 𧊚	kkfl
 𨤷	kkfl
 𨴏	kkfl
-删	kkfm
 𧕗	kkfu
 𫊬	kkgd
 𮤋	kkgd
@@ -50376,7 +50386,9 @@
 𦌾	mbmr
 𦊏	mbmw
 𪙑	mbmw
+𥅑	mbnb
 𢄜	mbnd
+𢧝	mbng
 𬑝	mbnv
 𤭲	mboa
 㠴	mbod
@@ -61651,6 +61663,7 @@
 衧	pfau
 穻	pfau
 㽳	pfau
+𢊢	pfau
 𧘢	pfbm
 痦	pfcl
 𲈽	pfcl
@@ -61675,6 +61688,7 @@
 𤻇	pffn
 𤹈	pffq
 𧙒	pffs
+𢒹	pfft
 𥦝	pffv
 𪎦	pffv
 𮇥	pffv
@@ -62126,6 +62140,7 @@
 𥩊	phrr
 裱	phry
 𤷶	phry
+𢋎	phsa
 𤵫	phsb
 𬒵	phsi
 𥹬	phsk
@@ -62671,6 +62686,7 @@
 𰈴	plri
 𥨈	plrn
 𥺓	plrn
+麿	plrn
 㾔	plrn
 𠓬	plru
 𥦖	plsd
@@ -62684,6 +62700,7 @@
 爢	pluo
 㸏	pluo
 𥼞	pluo
+𢊠	plva
 𱒢	plvi
 𬖏	plvm
 问	plvn
@@ -64746,6 +64763,7 @@
 𥼡	pydr
 㾑	pyeb
 𥨶	pyee
+𢋤	pyeh
 𥽁	pyei
 粭	pyem
 𬮤	pyen
@@ -69260,6 +69278,7 @@
 𪖀	rbmw
 𪖏	rbmw
 𬓹	rbmw
+𥞐	rbnb
 𢕠	rbng
 𪕑	rbnr
 𪕝	rbnv
@@ -74749,7 +74768,6 @@
 𱾍	sbbs
 𥾩	sbbs
 苢	sbbu
-𦣤	sbbu
 𰫱	sbbv
 𫉇	sbcb
 𰰪	sbcj
@@ -74892,6 +74910,7 @@
 䓿	sbnd
 𠗴	sbnd
 蘊	sbnm
+𦱱	sbns
 𮐸	sboa
 𬝰	sboc
 犮	sbod
@@ -86063,24 +86082,17 @@
 𰕰	ufdo
 𧨿	ufeb
 𫷰	ufeb
-𢊢	uffa
 𤓣	uffa
-𢋤	uffe
 𢋮	uffe
 𢊲	ufff
 𤏗	ufff
-𢌑	ufff
-𢋎	uffh
 𤐖	uffh
 㡷	uffi
 㶱	uffi
 𧦹	uffi
-𢊠	uffl
 𪹵	uffn
 𫍉	uffo
-麿	uffr
 𬋔	uffs
-𢒹	ufft
 𪹡	ufft
 諃	uffv
 𤊩	uffv
@@ -92990,6 +93002,7 @@
 𨥻	wbnb
 䥁	wbnd
 𦞞	wbnd
+𬬢	wbnm
 𮈛	wbob
 釵	wbod
 牣	wbod
@@ -94828,6 +94841,7 @@
 銅	wkfl
 𤙓	wkfl
 𨈹	wkfl
+删	wkfm
 𨤴	wkfn
 鐦	wkfs
 𰠱	wkft
@@ -98591,6 +98605,7 @@
 𡴋	xbmg
 𡴋	xbmg
 𡲂	xbmi
+𫵰	xbnh
 发	xbod
 𬻲	xbod
 骚	xbok
@@ -104260,10 +104275,3 @@
 𢣳	yyyo
 𩝸	yyyo
 𧴕	yyyy
-gdqe	😁
-hlsl	😍
-hlbe	😍
-hlsl	😎
-hlbe	😎
-ebqe	😏
-qguw	😞
