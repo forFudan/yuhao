@@ -28,32 +28,81 @@ key_binder:
 local index_indicators = {"¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "⁹", "⁰"}
 
 -- 首選/非首選格式定義
--- seq: 候選序號; code: 編碼; 候選: 候選文本; comment: 候選提示
-local first_format = "候選commentseq"
-local next_format = " 候選commentseq"
-local separator = ""
+-- Seq: 候選序號; Code: 編碼; 候選: 候選文本; Comment: 候選提示
+local first_format = "${候選}${Comment}${Seq}"
+local next_format = "${候選}${Comment}${Seq}"
+local separator = " "
 
 -- 讀取 schema.yaml 開關設置:
 local option_name = "embeded_cands"
 
-function embeded_cands_filter.init(env)
-    -- 初始化局部表變量, 並裝入env
-    local embeded = {}
-    env.embeded = embeded
-    local handler = function(ctx, name)
-        -- 通知回調, 當改變選項值時更新暫存的值
-        if name == option_name then
-            embeded.embeded_cands = ctx:get_option(name)
-            if embeded.embeded_cands == nil then
-                -- 當選項不存在時默認爲啓用狀態
-                embeded.embeded_cands = true
+-- 從方案配置中讀取字符串
+local function parse_conf_str(env, path, default)
+    local str = env.engine.schema.config:get_string(env.name_space.."/"..path)
+    if not str and default and #default ~= 0 then
+        str = default
+    end
+    return str
+end
+
+-- 從方案配置中讀取字符串列表
+local function parse_conf_str_list(env, path, default)
+    local list = {}
+    local conf_list = env.engine.schema.config:get_list(env.name_space.."/"..path)
+    if conf_list then
+        for i = 0, conf_list.size-1 do
+            table.insert(list, conf_list:get_value_at(i).value)
+        end
+    elseif default then
+        list = default
+    end
+    return list
+end
+
+-- 構造開關變更回調函數
+local function get_switch_handler(env, op_name)
+    local option
+    if not env.option then
+        option = {}
+        env.option = option
+    else
+        option = env.option
+    end
+    -- 返回通知回調, 當改變選項值時更新暫存的值
+    return function(ctx, name)
+        if name == op_name then
+            option[name] = ctx:get_option(name)
+            if option[name] == nil then
+                -- 當選項不存在時默認爲啟用狀態
+                option[name] = true
             end
         end
     end
-    -- 初始化爲選項實際值, 如果設置了 reset, 則會再次觸發 handler
-    handler(env.engine.context, option_name)
-    -- 注册通知回調
-    env.engine.context.option_update_notifier:connect(handler)
+end
+
+function embeded_cands_filter.init(env)
+    -- 讀取配置項
+    env.config = {}
+    env.config.index_indicators = parse_conf_str_list(env, "index_indicators", index_indicators)
+    env.config.first_format = parse_conf_str(env, "first_format", first_format)
+    env.config.next_format = parse_conf_str(env, "next_format", next_format)
+    env.config.separator = parse_conf_str(env, "separator", separator)
+    env.config.option_name = parse_conf_str(env, "option_name")
+
+    -- 是否指定開關
+    if env.config.option_name and #env.config.option_name ~= 0 then
+        -- 構造回調函數
+        local handler = get_switch_handler(env, env.config.option_name)
+        -- 初始化爲選項實際值, 如果設置了 reset, 則會再次觸發 handler
+        handler(env.engine.context, env.config.option_name)
+        -- 注册通知回調
+        env.engine.context.option_update_notifier:connect(handler)
+    else
+        -- 未指定開關, 默認啓用
+        env.config.option_name = option_name
+        env.option = {}
+        env.option[env.config.option_name] = true
+    end
 end
 
 -- 渲染提示, 因爲提示經常有可能爲空, 抽取爲函數更昜操作
@@ -74,26 +123,26 @@ local function escape_percent(text)
 end
 
 -- 渲染單個候選項
-local function render_cand(seq, code, text, comment)
+local function render_cand(env, seq, code, text, comment)
     local cand = ""
     -- 選擇渲染格式
     if seq == 1 then
-        cand = first_format
+        cand = env.config.first_format
     else
-        cand = next_format
+        cand = env.config.next_format
     end
     -- 渲染提示串
     comment = render_comment(comment)
-    cand = string.gsub(cand, "seq", index_indicators[seq])
-    cand = string.gsub(cand, "code", escape_percent(code))
-    cand = string.gsub(cand, "候選", escape_percent(text))
-    cand = string.gsub(cand, "comment", escape_percent(comment))
+    cand = string.gsub(cand, "%${Seq}", env.config.index_indicators[seq])
+    cand = string.gsub(cand, "%${Code}", escape_percent(code))
+    cand = string.gsub(cand, "%${候選}", escape_percent(text))
+    cand = string.gsub(cand, "%${Comment}", escape_percent(comment))
     return cand
 end
 
 -- 過濾器
 function embeded_cands_filter.func(input, env)
-    if not env.embeded.embeded_cands and not yuhao_switch_vars.is_zhelp then
+    if not env.option[env.config.option_name] and not yuhao_switch_vars.is_zhelp then
         for cand in input:iter() do
             yield(cand)
         end
@@ -109,7 +158,7 @@ function embeded_cands_filter.func(input, env)
 
     local function refresh_preedit()
         if first_cand then
-            first_cand.preedit = table.concat(page_rendered, separator)
+            first_cand.preedit = table.concat(page_rendered, env.config.separator)
             -- 將暫存的一頁候選批次送出
             for _, c in ipairs(page_cands) do
                 yield(c)
@@ -145,7 +194,7 @@ function embeded_cands_filter.func(input, env)
             rank = rank + 1
 
             -- 修改首選的預编輯文本, 這会作爲内嵌編碼顯示到輸入處
-            preedit = render_cand(rank, first_cand.preedit, cand.text, cand.comment)
+            preedit = render_cand(env, rank, first_cand.preedit, cand.text, cand.comment)
 
             -- 存入候選
             table.insert(page_cands, cand)
