@@ -20,7 +20,7 @@ nav_order: 1
 {: .highlight }
 >官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk) · 
 >官方 TG 群: [yuhaoim](https://t.me/yuhaoim)  
->[最新稳定版本 v2.1.1 下载](https://github.com/forFudan/yuhao/releases/tag/v2.1.1) · 
+>[最新稳定版本 v2.1.2 下载](https://github.com/forFudan/yuhao/releases/tag/v2.1.2) · 
 >[备用下载地址](https://gitee.com/forFudan/yuhao/releases/)  
 >[Bug 提交](https://github.com/forFudan/yuhao/issues) · 
 >[讨论交流区](https://github.com/forFudan/yuhao/discussions) · 
