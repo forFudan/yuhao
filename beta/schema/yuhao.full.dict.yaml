@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230630
+# 版本: 20230703
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20230630"
+version: "20230703"
 sort: original
 columns:
   - text
@@ -10596,6 +10596,7 @@ columns:
 皴	vqev
 熜	urty
 琤	gexv
+黃	ssjt
 裎	plen
 創	tfxm
 绂	vswo
@@ -10844,7 +10845,7 @@ columns:
 韞	cntm
 馧	rjnm
 鯪	thqe
-黇	sskl
+黇	ssjl
 堲	erxh
 㠯	bnbu
 㥄	yhqe
@@ -99697,7 +99698,7 @@ columns:
 狑	rtfb
 癴	pbut
 覙	qmmx
-鷬	sskr
+鷬	ssjr
 圞	nbuf
 夋	vqeh
 婙	cexv
@@ -99899,7 +99900,7 @@ columns:
 懬	ussy
 摾	avvk
 攨	aoqq
-斢	sskd
+斢	ssjd
 曅	jsfa
 曫	bubj
 曺	ojjr
@@ -100330,10 +100331,10 @@ columns:
 鹶	ktfv
 鹷	ktfb
 麌	ilxg
-黅	sskv
-黆	sskq
-黈	sskg
-黊	sskh
+黅	ssjv
+黆	ssjq
+黈	ssjg
+黊	ssjh
 黺	kntb
 鼀	hqjm
 齴	mpst
@@ -100803,12 +100804,12 @@ columns:
 䴝	kksb
 䴪	ihbk
 䵅	hoee
-䵋	sskw
-䵌	sskt
-䵍	sskv
-䵎	ssks
-䵏	sskt
-䵐	sskd
+䵋	ssjw
+䵌	ssjt
+䵍	ssjv
+䵎	ssjs
+䵏	ssjt
+䵐	ssjd
 䵤	hhne
 䶖	mtfv
 䶯	cyjm
@@ -101724,7 +101725,7 @@ columns:
 𤮀	svva
 𤮅	hqha
 𤮆	mxfa
-𤮏	sska
+𤮏	ssja
 𤮖	gvua
 𤮝	mywa
 𤯈	ssho
@@ -102818,7 +102819,7 @@ columns:
 𨜾	tfxc
 𨝃	ohlc
 𨝍	dgvc
-𨝴	sskc
+𨝴	ssjc
 𨞓	rqpc
 𨞖	dtfc
 𨞼	sksc
@@ -103022,7 +103023,7 @@ columns:
 𩘤	rojj
 𩘭	ruqb
 𩘮	hoer
-𩙁	sskr
+𩙁	ssjr
 𩙟	bubr
 𩙠	rryj
 𩙳	tfbb
@@ -103180,48 +103181,51 @@ columns:
 𪍝	denm
 𪍩	dekb
 𪍪	dejd
-𪎴	sska
-𪎵	sskq
-𪎶	sskx
+𪎳	ssjb
+𪎴	ssja
+𪎵	ssjq
+𪎶	ssjx
 𪎷	sjtr
 𪎸	sjtq
-𪎹	sskh
-𪎺	ssko
-𪎻	sskf
-𪎽	sskq
-𪎾	sskr
+𪎹	ssjh
+𪎺	ssjo
+𪎻	ssjf
+𪎽	ssjq
+𪎾	ssjr
 𪎿	sjts
 𪏀	sjth
-𪏁	sskw
-𪏂	ssku
+𪏁	ssjw
+𪏂	ssju
+𪏃	ssju
+𪏄	ssju
 𪏅	sjtf
-𪏇	sskf
-𪏈	sskj
-𪏉	sskn
-𪏊	sskg
-𪏋	ssku
-𪏌	sskw
+𪏇	ssjf
+𪏈	ssjj
+𪏉	ssjn
+𪏊	ssjg
+𪏋	ssju
+𪏌	ssjw
 𪏏	sjta
 𪏐	sjtm
-𪏔	sskm
-𪏕	sskg
+𪏔	ssjm
+𪏕	ssjg
 𪏖	sffs
 𪏗	sjtn
-𪏘	sskk
-𪏚	sskm
-𪏛	sskr
-𪏝	ssky
-𪏞	sskt
+𪏘	ssjk
+𪏚	ssjm
+𪏛	ssjr
+𪏝	ssjy
+𪏞	ssjt
 𪏟	sjtg
 𪏠	sjtk
-𪏡	sskd
+𪏡	ssjd
 𪏢	sjtk
 𪏣	sjts
-𪏤	ssky
+𪏤	ssjy
 𪏥	sfst
-𪏦	sskk
-𪏧	sskk
-𪏨	ssku
+𪏦	ssjk
+𪏧	ssjk
+𪏨	ssju
 𪏩	sjtu
 𪏪	sjtt
 𪏫	sjth
@@ -103613,6 +103617,7 @@ columns:
 𬶷	qmse
 𬷡	onbr
 𬷺	ywhr
+𬹐	ssjo
 𬹑	sjth
 𬹓	sjty
 𬺎	uqfx
@@ -104001,6 +104006,7 @@ columns:
 𱊪	dtfy
 𱊫	mlxy
 𱋲	sjtw
+𱋳	ssjq
 𱋴	sjtd
 𱌐	rbtu
 𰅓	ergx
@@ -104146,6 +104152,7 @@ columns:
 ⾓	ywht
 ⾭	hwks
 ⾲	fnnf
+⿈	ssjt
 ⿋	kntt
 龜	yjmm
 龜	yjmm
