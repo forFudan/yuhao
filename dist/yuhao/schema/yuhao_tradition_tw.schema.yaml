@@ -94,7 +94,7 @@ engine:
     - lua_filter@yuhao_postpone_full_code
     - simplifier@simplify
     - lua_filter@yuhao_chaifen
-    - lua_filter@yuhao_embeded_cands
+    - lua_filter@yuhao_embeded_cands@embeded_cands
     - uniquifier
 
 simplify:
@@ -181,6 +181,16 @@ reverse_lookup:
     - xform/([nl])v/$1ü/
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
+
+# 嵌入候選的顯示配置
+# 默認顯示效果爲:
+# 浩¹ 泃² 竘³
+embeded_cands:
+  option_name: embeded_cands                         # 嵌入候選開關
+  index_indicators: [ ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ⁰ ] # 嵌入候選的序號顯示格式
+  first_format: "${候選}${Comment}${Seq}"            # 首選的渲染格式
+  next_format: "${候選}${Comment}${Seq}"             # 非首選的渲染格式
+  separator: " "                                     # 候選之間的分隔符
 
 punctuator:
   import_preset: default
