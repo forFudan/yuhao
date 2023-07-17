@@ -290,10 +290,8 @@ aanb 打紧
 aand 打鬥
 aane 捷报频传
 aane 打黑
-aanh 𢲖
 aani 𢲮
 aanj 敢當
-aanj 㩅
 aank 打赏
 aanm 打點
 aann 指指點點
@@ -304,7 +302,6 @@ aano 招搖過市
 aanr 耵
 aanr 打柴
 aanu 打圈
-aanx 𢮮
 aaob 指挥官
 aaob 指揮官
 aaob 憨實
@@ -2605,8 +2602,10 @@ afmx 𭠹
 afmy 𫾋
 afn 揀
 afnd 搏鬥
+afnh 𢲖
 afni 聇
 afni 𪭤
+afnj 㩅
 afnm 下一步
 afno 撑杆跳高
 afnq 执政党
@@ -2614,6 +2613,7 @@ afnq 东林党
 afnt 抚掌
 afnu 揀
 afnu 𢳃
+afnx 𢮮
 afo 扛
 afoa 抚宁
 afob 搭橋牽線
@@ -3132,7 +3132,6 @@ ahaf 歌声振林樾
 ahai 挂接
 ahai 掛職
 ahai 掛接
-ahak 𢳩
 ahal 挂职
 aham 抹掉
 aham 挂挡
@@ -3198,6 +3197,7 @@ ahey 擡愛
 ahfa 聖地亞哥
 ahfe 挂板
 ahff 擡槓
+ahff 𢳩
 ahfg 持械
 ahfh 掠地攻城
 ahfj 挂画
@@ -4593,7 +4593,6 @@ akkc 下野
 akkd 下电
 akkf 下贱
 akkf 下同
-akkf 𮠕
 akkk 捉贼见赃
 akkk 丅
 akkl 聘問
@@ -4771,7 +4770,6 @@ aktf 下铺
 aktf 下拜
 aktf 下令
 akth 𱠳
-akti 𠀜
 akti 𮦄
 aktj 撲鼻
 aktl 下锅
@@ -5166,12 +5164,10 @@ alju 切中時弊
 aljw 歌星
 aljw 聖明
 alk 损
-alka 𣱌
 alkb 损
 alkg 事业
 alkg 职业
 alkg 𱡒
-alkh 𡏍
 alkk 聩
 alkk 𰔋
 alkk 𰳖
@@ -5186,7 +5182,6 @@ alks 聖上
 alks 聖典
 alks 操典
 alks 事典
-alks 亜
 alkt 扣肉
 alkt 𱟽
 alku 捐赠
@@ -5194,7 +5189,6 @@ alku 事業
 alkv 排水
 alkv 聖水
 alkx 可见
-alky 悪
 all 操
 alla 𢰊
 allb 可叹
@@ -6064,17 +6058,11 @@ angd 撑大
 angd 撐大
 angd 㧢
 angf 摑
-angh 𡋲
-angj 畱
-angm 𭄘
 ango 掴
-angp 𨖻
 angq 抚掌大笑
-angr 𪅳
 angs 捉弄
 angt 丁玲
 angy 摁
-angy 𢥍
 anh 撐
 anhc 撑地
 anhc 撐地
@@ -6159,8 +6147,6 @@ ansf 接踵而来
 ansf 打回原形
 ansg 摔跟头
 ansh 接踵而至
-ansi 𭺪
-ansi 𭺫
 ansm 抵足而眠
 anso 抵掌而谈
 anso 𢮐
@@ -11755,7 +11741,6 @@ balc 对吧
 balh 对味
 balh 对呀
 balj 对唱
-balk 𰤐
 bals 对号
 balv 对口
 balv 䋍
@@ -13530,6 +13515,7 @@ bfld 𱿁
 bfle 劲吹
 bfle 𣃆
 bfle 𬗳
+bflf 𰤐
 bflh 𭽄
 bflh 𱵫
 bflj 練唱
@@ -19269,7 +19255,6 @@ calh 阿呀
 calh 𫮄
 calj 𬯣
 calk 导员
-calk 𫰫
 call 𡟵
 call 𮥯
 calm 𬯩
@@ -19296,7 +19281,6 @@ cane 陆路
 cane 导图
 cang 民国
 cang 民國
-canh 𡟽
 canj 陈旧
 canj 䦺
 cann 奵
@@ -20883,6 +20867,7 @@ cfld 嫩叶
 cfle 嫩
 cfle 嫰
 cflf 𨽮
+cflf 𫰫
 cflh 努爾哈赤
 cflj 𨺤
 cflj 𫱆
@@ -20919,6 +20904,7 @@ cfmv 𬰪
 cfmv 𱀃
 cfn 嫣
 cfna 始于足下
+cfnh 𡟽
 cfni 姃
 cfni 阷
 cfnl 𨻛
@@ -26173,15 +26159,11 @@ damm 不可小覷
 damn 盛
 damq 不拘小節
 dams 不拘小节
-dana 𤮷
 dane 走势图
 danh 寿堂
 danh 矴
 dani 囊括四海之意
 danj 不敢當
-danj 驑
-danj 𩅸
-danj 𰧡
 danm 𩡯
 dans 𧰩
 dany 𩁷
@@ -28835,11 +28817,15 @@ dfmx 𧢀
 dfmx 𱻦
 dfmy 鹴
 dfn 歪
+dfna 𤮷
 dfne 𰀚
 dfng 感恩
 dfni 歪
 dfni 𪴺
 dfni 𮀗
+dfnj 驑
+dfnj 𩅸
+dfnj 𰧡
 dfnl 𠾂
 dfnl 𪴻
 dfnm 十三點
@@ -39388,7 +39374,6 @@ ean 仃
 eanb 𭽆
 eane 仃
 eang 保护国
-eanh 𠋿
 eani 何止
 eanr 何嘗
 eans 何尝
@@ -41884,6 +41869,7 @@ efne 后路
 efne 彩图
 efng 兵團
 efnh 任天堂
+efnh 𠋿
 efni 休止
 efni 佂
 efni 𤽢
@@ -50468,7 +50454,6 @@ fal 柯
 fale 檉
 falf 𣝺
 falg 檉
-falk 𬂲
 fall 模拟器
 fall 𣘁
 faln 村中
@@ -50500,7 +50485,6 @@ fanc 三圍
 fane 柏拉图
 fang 三国
 fang 三國
-fanj 橊
 fanl 迂回
 fanl 迂迴
 fanl 柏拉圖
@@ -51424,7 +51408,6 @@ fdau 棋联
 fdav 棋聯
 fdav 吾其披发左衽矣
 fdaw 𰢢
-fday 𬅂
 fdb 枝
 fdbb 无双
 fdbb 𣚃
@@ -51591,6 +51574,7 @@ fdfx 村南无限桃花发
 fdfy 一石两鸟
 fdfy 两朝开济老臣心
 fdfy 𣛴
+fdfy 𬅂
 fdg 枯
 fdga 五雷轟頂
 fdgb 无瑕
@@ -53169,6 +53153,7 @@ ffle 樕
 ffle 𣘅
 ffle 𣙙
 fflf 机杼鸣帘栊
+fflf 𬂲
 ffli 一样悲欢逐逝波
 ffli 𩇶
 fflj 楅
@@ -53238,6 +53223,7 @@ ffnh 𰙆
 ffni 禁止
 ffni 柾
 ffnj 杳无踪影
+ffnj 橊
 ffnl 梦圆
 ffnl 梦回
 ffnn 来来回回
@@ -57716,12 +57702,15 @@ flmv 𣑐
 flmv 𰀌
 flmy 𢣬
 flmy 𭝥
+flna 𣱌
 flnb 束紧
 flnb 一别旧游尽
 flnc 𠀷
 flnc 𨜥
 flnd 整固
+flnf 亜
 flng 𢨖
+flnh 𡏍
 flni 𣥔
 flnj 𡈧
 flnl 𠻸
@@ -57733,6 +57722,7 @@ flnn 𪳱
 flnr 𬆊
 flns 𣐄
 flns 𬻇
+flny 悪
 flny 𢘑
 floa 樓亭
 flob 速记
@@ -58840,15 +58830,21 @@ fngd 栶
 fngf 正式
 fngf 槶
 fngf 𰀖
+fngh 𡋲
 fngi 正面
+fngj 畱
 fngk 正规
 fngk 正理
 fngl 政區
 fngm 正規
+fngm 𭄘
 fngo 正太
 fngo 椢
+fngp 𨖻
+fngr 𪅳
 fngw 政区
 fngy 正軌
+fngy 𢥍
 fngy 𬃼
 fnh 樘
 fnha 𱤡
@@ -58915,6 +58911,7 @@ fnka 迂回曲折
 fnka 迂迴曲折
 fnkd 正电
 fnke 𭬡
+fnkf 𮠕
 fnkg 正业
 fnkm 正则
 fnkm 校园卡
@@ -59069,6 +59066,8 @@ fnse 韭菜
 fnse 𩰽
 fnsh 吾党有直躬者
 fnsi 求贤若渴
+fnsi 𭺪
+fnsi 𭺫
 fnsk 一路凉风十八里
 fnsn 正在
 fnso 一蹴而就
@@ -59090,6 +59089,7 @@ fnte 正常人
 fnte 㐁
 fntf 政令
 fntf 正途
+fntf 𠀜
 fntf 𢒅
 fntg 𬞿
 fnth 𭀟
@@ -66024,8 +66024,6 @@ ganb 奉贤
 ganc 𨊡
 gane 靪
 ganh 奇蹟
-ganj 璢
-ganj 𰹤
 ganl 夺回
 ganm 轉折點
 gann 玎
@@ -68174,6 +68172,7 @@ gfjg 大无畏
 gfji 𨐀
 gfjj 𤩾
 gfjj 𨤇
+gfjq 𤩮
 gfjr 𢦱
 gfjr 𤦪
 gfjr 𨌿
@@ -68299,6 +68298,8 @@ gfni 𨠣
 gfni 𮝆
 gfni 𰋞
 gfni 𰡴
+gfnj 璢
+gfnj 𰹤
 gfnk 玩赏
 gfnm 玩賞
 gfnm 輕點
@@ -69175,7 +69176,6 @@ ghjd 𫰂
 ghjf 大都是
 ghjn 車到山前必有路
 ghjo 琽
-ghjq 𤩮
 ghjr 奢
 ghjr 醏
 ghjr 琽
@@ -69388,10 +69388,10 @@ ghye 大雅久不作
 ghye 𫯾
 ghyf 匦
 ghyf 理髮師
+ghyf 𤩖
 ghyi 𤥴
 ghyi 𩊴
 ghyi 𭝍
-ghyk 𤩖
 ghyn 玡
 ghyu 𮧑
 ghyw 區域性
@@ -75627,9 +75627,6 @@ hama 𪣆
 hamc 長眠
 hame 長處
 haml 转折点
-hanh 𩮢
-hanj 㙧
-hanj 𥛽
 hanl 長歌當哭
 hant 圢
 hant 𦒱
@@ -78070,8 +78067,11 @@ hfne 辅路
 hfne 𪣴
 hfnf 𡊕
 hfng 𰿓
+hfnh 𩮢
 hfni 𥘺
 hfni 𩬧
+hfnj 㙧
+hfnj 𥛽
 hfnm 𠟜
 hfnn 執政黨
 hfnu 墕
@@ -83524,7 +83524,7 @@ hsyw 示范性
 hsyw 转性
 hsyx 𫭼
 ht 土
-ht 土地
+ht 增加
 hta 祗
 htab 熱切
 htaf 祗
@@ -86797,8 +86797,6 @@ iamq 𪷎
 ian 汀
 iand 𫞻
 iane 河图
-ianj 澑
-ianm 𤄉
 ians 汀
 iaod 𨐌
 iaog 新东方
@@ -89335,8 +89333,10 @@ ifnh 学无止境
 ifnh 漫无止境
 ifni 泟
 ifnj 新旧
+ifnj 澑
 ifnm 污點
 ifnm 汙點
+ifnm 𤄉
 ifnp 污跡
 ifnp 汙跡
 ifnq 亲临
@@ -99859,7 +99859,6 @@ jaks 𪨢
 jaks 𭖄
 jal 岢
 jalk 最贵
-jalk 𪰥
 jalv 岢
 jalv 㞹
 jalv 𪰏
@@ -101347,6 +101346,7 @@ jflc 是啊
 jflc 是吧
 jfld 是嗎
 jfle 敳
+jflf 𪰥
 jflh 是呀
 jflh 果味
 jfli 是非
@@ -101413,6 +101413,7 @@ jfne 𪑛
 jfne 𪰱
 jfnf 是
 jfnf 果园
+jfnf 𣊰
 jfng 𭧦
 jfnh 果園
 jfnh 𢆝
@@ -101425,7 +101426,6 @@ jfnj 𡺔
 jfnj 𪰾
 jfnk 题
 jfnk 𣆜
-jfnk 𣊰
 jfnk 𨤱
 jfnl 曬圖
 jfnl 𠸭
@@ -116143,7 +116143,6 @@ lale 𪢎
 lalf 吓呆
 lalg 𪢎
 lali 𠼕
-lalk 唖
 lall 𠹭
 lalm 吓唬
 lalm 𡁢
@@ -116160,7 +116159,6 @@ lalv 呵
 lalv 𭇎
 lalv 𰇗
 lalx 𠶝
-laly 𫫖
 lama 𰇎
 lamq 𠳕
 lamr 𱕪
@@ -117737,6 +117735,7 @@ lfle 𠻳
 lfle 𢿙
 lflf 喳喳
 lflf 吁吁
+lflf 唖
 lflf 槑
 lflh 哭天喊地
 lflh 哽噎
@@ -117765,6 +117764,7 @@ lflv 𠲿
 lflv 𩇹
 lflw 呆頭呆腦
 lflw 𱒚
+lfly 𫫖
 lfmb 嗊
 lfmd 啞劇
 lfmf 𠷹
@@ -124258,8 +124258,6 @@ manf 盯
 manf 小扣柴扉久不开
 mang 財團
 mang 𩨑
-manh 𥉢
-manj 𮊚
 manl 小圆
 manm 小點
 mann 𰤲
@@ -125655,10 +125653,12 @@ mfn 罡
 mfna 𡬺
 mfna 𤭺
 mfne 戲路
+mfnh 𥉢
 mfni 罡
 mfni 瞞天過海
 mfni 眐
 mfni 𢁿
+mfnj 𮊚
 mfnm 㓻
 mfnu 𢃿
 mfnu 𥈵
@@ -149592,8 +149592,6 @@ pamw 麻雀
 pan 疔
 panb 疔
 pane 闭路
-panj 癅
-panj 𥨌
 panm 𥸧
 pann 𮤫
 pant 𥻪
@@ -151355,6 +151353,8 @@ pfni 𣁇
 pfni 𧘿
 pfni 𭤗
 pfnj 空當
+pfnj 癅
+pfnj 𥨌
 pfnk 𰩓
 pfnm 闲步
 pfnm 竀
@@ -157581,7 +157581,6 @@ qaae 𥴊
 qaae 𦪧
 qaae 𲍙
 qaaj 無可挑剔
-qaaj 籒
 qaak 年下
 qaal 我操
 qaal 年事
@@ -157651,6 +157650,7 @@ qaet 年份
 qaew 我的
 qafa 𥴮
 qafj 年画
+qafj 籒
 qafl 年頭
 qafm 我想
 qafo 我校
@@ -157720,7 +157720,6 @@ qajr 𫽑
 qajx 𮆉
 qajy 𬕻
 qakb 𱝂
-qakd 𮆕
 qakj 年間
 qakk 年里
 qakk 𥫫
@@ -157775,7 +157774,6 @@ qang 我國
 qani 𭿽
 qank 𥫙
 qanm 𢆫
-qanm 𥷢
 qano 𦨍
 qanq 年鉴
 qanq 我党
@@ -159481,6 +159479,7 @@ qfna 𦉑
 qfna 𬎩
 qfnb 𠛺
 qfnc 䣃
+qfnd 𮆕
 qfne 短路
 qfne 筑路
 qfne 築路
@@ -159494,6 +159493,7 @@ qfni 𬼉
 qfnm 第一步
 qfnm 每一步
 qfnm 第三步
+qfnm 𥷢
 qfno 𤧧
 qfnp 𨓴
 qfnp 𮟆
@@ -160371,7 +160371,6 @@ qhyy 𬶅
 qi 篇
 qi 篇章
 qiaa 無所事事
-qiaj 𥶅
 qiav 风流才子
 qibe 籠絡
 qibf 簗
@@ -160443,6 +160442,7 @@ qiff 𬕙
 qiff 𬕠
 qifi 知汝远来应有意
 qifi 𥸗
+qifj 𥶅
 qifk 血浓于水
 qifl 𱸙
 qifo 儿童相见不相识
@@ -161334,7 +161334,6 @@ qlan 知耻
 qlar 笨嘴拙舌
 qlar 箿
 qlar 聟
-qlas 𱳤
 qlay 知恥
 qlbb 衆口紛紜
 qlbj 知己
@@ -161379,6 +161378,7 @@ qlfk 𧐉
 qlfl 风鸣两岸叶
 qlfr 风吹柳花满店香
 qlfr 𭈆
+qlfs 𱳤
 qlfu 衆口一詞
 qlfv 𣔇
 qlgn 䇸
@@ -166341,9 +166341,6 @@ rani 名扬四海
 rani 行止
 rani 名揚四海
 ranj 行當
-ranj 飅
-ranj 𢔲
-ranj 𥢋
 rano 行踪
 ranp 行跡
 ranq 𭷸
@@ -168314,6 +168311,9 @@ rfne 黴
 rfnf 种植园
 rfnh 徽墨
 rfni 征
+rfnj 飅
+rfnj 𢔲
+rfnj 𥢋
 rfnn 徰
 rfns 風尚
 rfns 𤾿
@@ -193057,7 +193057,6 @@ tamv 帋
 tamw 昏睡
 tamx 𬡼
 tan 钉
-tana 𭔿
 tane 昏黑
 tanf 𤗣
 tanj 钉
@@ -195063,6 +195062,7 @@ tfmx 𪟢
 tfmy 𩼲
 tfn 钲
 tfna 𠁄
+tfna 𭔿
 tfnb 𱜘
 tfnc 侖
 tfne 铺路
@@ -203019,7 +203019,6 @@ uald 訂數
 uale 𧬼
 ualg 𧬼
 ualk 炊事员
-ualk 𤉁
 uall 訂單
 uall 謌
 uall 𦏤
@@ -203062,7 +203061,6 @@ uang 叛国
 uang 叛國
 uanh 廳堂
 uanj 半旧
-uanj 𢊺
 uanl 半圆
 uanl 半圓
 uanl 討回
@@ -205031,6 +205029,7 @@ ufla 𤌦
 uflc 𪪘
 ufle 𣣔
 uflf 𢌐
+uflf 𤉁
 uflf 𩐕
 uflg 归来唯见秦淮碧
 uflj 煏
@@ -205100,6 +205099,7 @@ ufni 望梅止渴
 ufni 炡
 ufni 𪪎
 ufni 𫅏
+ufnj 𢊺
 ufnm 差點
 ufnu 煉
 ufnu 諫
@@ -222069,14 +222069,11 @@ walv 胢
 walv 鈳
 walv 牱
 walx 𨧫
-waly 𨉼
 wam 胨
 wama 胨
 wamf 鬼把戲
 wan 釘
 wanj 釘
-wanj 鐂
-wanj 𦠝
 wank 重操旧业
 wanm 射频
 wanm 射頻
@@ -224003,6 +224000,7 @@ wflv 𤙨
 wflv 𨧃
 wflv 𩳒
 wflw 𱼅
+wfly 𨉼
 wfm 刹
 wfmb 𢼢
 wfmb 𨫋
@@ -224038,6 +224036,8 @@ wfng 集團
 wfnh 金无足赤
 wfni 鉦
 wfni 𦙫
+wfnj 鐂
+wfnj 𦠝
 wfnm 進一步
 wfnn 𮣟
 wfnq 杀跌
@@ -234170,7 +234170,6 @@ xfag 尋找
 xfah 君无势则去
 xfai 卫护
 xfai 盡職
-xfaj 𰤁
 xfal 尋事
 xfal 骊歌
 xfal 寻枝摘叶
@@ -234214,6 +234213,7 @@ xffg 牀頭櫃
 xffg 出于无奈
 xffj 牀榻
 xffj 尋查
+xffj 𰤁
 xffk 尋求
 xffk 马来亚
 xffl 盡頭
@@ -238000,7 +238000,6 @@ yamv 鸟瞰
 yamw 鸟雀
 yana 杂技团
 yani 忊
-yanj 𩞷
 yans 飣
 yaod 军事家
 yaod 鸟害
@@ -239594,6 +239593,7 @@ yfng 師恩
 yfni 怔
 yfni 𩚫
 yfnj 尔来四万八千岁
+yfnj 𩞷
 yfnm 𱐣
 yfnt 恒齿
 yfnt 𢙖
