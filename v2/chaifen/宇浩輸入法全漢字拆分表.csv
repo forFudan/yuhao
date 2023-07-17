@@ -25,7 +25,7 @@ char,division,code,division_tw,code_tw,region
 丞,乛水一,VKFi,,,GB0
 丢,壬厶,EVvn,,,GB0
 两,一冂人人,FKTT,,,GB0
-严,一业丿,FKQp,,,GB0
+严,丌䒑丿,AUQp,,,GB0
 丧,十丷,DUGf,,,GB0
 丨,丨,Nsss,,,GB0
 个,人丨,TNse,,,GB0
@@ -86,7 +86,7 @@ char,division,code,division_tw,code_tw,region
 五,一,FCii,,,GB0
 井,二,STii,,,GB0
 亘,一日一,FJFi,,,GB0
-亚,一业,FKgi,,,GB0
+亚,丌䒑,AUej,,,GB0
 些,止匕二,NRSi,,,GB0
 亟,了口又一,VLBF,丂口又一,SLBF,GB0
 亠,亠,Obbb,,,GB0
@@ -258,7 +258,7 @@ char,division,code,division_tw,code_tw,region
 信,亻言,EUae,,,GB0
 俣,亻口一大,ELFG,,,GB0
 俦,亻丰寸,EDAc,,,GB0
-俨,亻一业丿,EFKQ,,,GB0
+俨,亻丌䒑丿,EAUQ,,,GB0
 俩,亻一冂人,EFKT,,,GB0
 俪,亻一,EFKK,,,GB0
 俭,亻人一,ETFI,,,GB0
@@ -689,7 +689,7 @@ char,division,code,division_tw,code_tw,region
 听,口斤,LEjv,,,GB0
 吭,口亠几,LOQj,,,GB0
 吮,口厶儿,LVQr,,,GB0
-启,户口,ILve,,,GB0
+启,戶口,ILve,,,GB0
 吱,口十又,LDBu,,,GB0
 吲,口弓丨,LVNs,,,GB0
 吴,口一大,LFGd,,,GB0
@@ -778,7 +778,7 @@ char,division,code,division_tw,code_tw,region
 哎,口艹乂,LSWl,,,GB0
 哏,口艮,LVnv,,,GB0
 哐,口匚王,LGGn,,,GB0
-哑,口一业,LFKg,,,GB0
+哑,口丌䒑,LAUe,,,GB0
 哒,口大辶,LGPd,,,GB0
 哓,口七丿兀,LAQH,,,GB0
 哔,口匕匕十,LRRD,,,GB0
@@ -1056,9 +1056,9 @@ char,division,code,division_tw,code_tw,region
 垤,土至,HHkt,,,GB0
 垦,艮土,VHtn,,,GB0
 垧,土向,HRnt,,,GB0
-垩,一业土,FKHt,,,GB0
+垩,丌䒑土,AUHt,,,GB0
 垫,扌九丶土,AYOH,,,GB0
-垭,土一业,HFKg,,,GB0
+垭,土丌䒑,HAUe,,,GB0
 垮,土大一丂,HGFS,,,GB0
 垲,土山己,HJBj,,,GB0
 垴,土文凵,HPXg,,,GB0
@@ -1242,7 +1242,7 @@ char,division,code,division_tw,code_tw,region
 威,戊一女,DFCn,,,GB0
 娃,女土土,CHHt,,,GB0
 娄,米女,PCnm,,,GB0
-娅,女一业,CFKg,,,GB0
+娅,女丌䒑,CAUe,,,GB0
 娆,女七丿兀,CAQH,,,GB0
 娇,女夭,CETi,,,GB0
 娈,亦女,PCni,,,GB0
@@ -1815,7 +1815,7 @@ char,division,code,division_tw,code_tw,region
 息,自心,TYik,,,GB0
 恰,忄合,YYei,,,GB0
 恳,艮心,VYin,,,GB0
-恶,一业心,FKYi,,,GB0
+恶,丌䒑心,AUYi,,,GB0
 恸,忄二厶力,YSVX,,,GB0
 恹,忄厂犬,YSSq,,,GB0
 恺,忄山己,YJBj,,,GB0
@@ -1950,7 +1950,7 @@ char,division,code,division_tw,code_tw,region
 戤,乃又皿戈,VBMG,,,GB0
 戥,日生戈,JWGg,,,GB0
 截,十戈隹,DGWi,,,GB0
-戬,一业日戈,FKJG,,,GB0
+戬,丌䒑日戈,AUJG,,,GB0
 戮,习习人戈,XXTG,,,GB0
 戳,习习隹戈,XXWG,,,GB0
 戴,十戈田八,DGJT,,,GB0
@@ -2360,7 +2360,7 @@ char,division,code,division_tw,code_tw,region
 显,日业,JKgr,,,GB0
 晁,日儿二二,JQSS,,,GB0
 晃,日小兀,JMHw,,,GB0
-晋,一业日,FKJr,,,GB0
+晋,丌䒑日,AUJr,,,GB0
 晌,日向,JRnr,,,GB0
 晏,日宀女,JOCn,,,GB0
 晒,日西,JDxr,,,GB0
@@ -2567,7 +2567,7 @@ char,division,code,division_tw,code_tw,region
 桓,木一日一,FFJF,,,GB0
 桔,木士口,FHLv,,,GB0
 桕,木臼,FRjv,,,GB0
-桠,木一业,FFKg,,,GB0
+桠,木丌䒑,FAUe,,,GB0
 桡,木七丿兀,FAQH,,,GB0
 桢,木卜贝,FMKb,,,GB0
 档,木小彐,FMXl,,,GB0
@@ -2807,7 +2807,7 @@ char,division,code,division_tw,code_tw,region
 氦,气亥,QOiq,,,GB0
 氧,气羊,QUgq,,,GB0
 氨,气宀女,QOCn,,,GB0
-氩,气一业,QFKg,,,GB0
+氩,气丌䒑,QAUe,,,GB0
 氪,气古儿,QDQr,,,GB0
 氮,气火火,QUUo,,,GB0
 氯,气彐水,QXKv,气彑水,QBKv,GB0
@@ -3602,7 +3602,7 @@ char,division,code,division_tw,code_tw,region
 痒,疒羊,PUgb,,,GB0
 痔,疒土寸,PHAc,,,GB0
 痕,疒艮,PVnb,,,GB0
-痖,疒一业,PFKg,,,GB0
+痖,疒丌䒑,PAUe,,,GB0
 痘,疒一口䒑,PFLU,,,GB0
 痛,疒マ用,PBTn,,,GB0
 痞,疒不口,PDLv,,,GB0
@@ -4303,7 +4303,7 @@ char,division,code,division_tw,code_tw,region
 编,纟户冊,VINc,,,GB0
 缗,纟巳七日,VCAJ,,,GB0
 缘,纟豕,VBDs,,,GB0
-缙,纟一业日,VFKJ,,,GB0
+缙,纟丌䒑日,VAUJ,,,GB0
 缚,纟甫寸,VFAc,,,GB0
 缛,纟辰寸,VSAc,,,GB0
 缜,纟十且八,VDMT,,,GB0
@@ -5893,7 +5893,7 @@ char,division,code,division_tw,code_tw,region
 酷,酉⺧口,GWLv,,,GB0
 酸,酉厶八夊,GVTE,酉厶儿夊,GVQE,GB0
 酹,酉爪寸,GEAc,,,GB0
-酽,酉一业丿,GFKQ,,,GB0
+酽,酉丌䒑丿,GAUQ,,,GB0
 酾,酉一,GFKK,,,GB0
 酿,酉丶艮,GOVn,,,GB0
 醅,酉立口,GILv,,,GB0
@@ -6830,7 +6830,7 @@ char,division,code,division_tw,code_tw,region
 亖,二二,SSii,,,GBK
 亗,山二,JSis,,,GBK
 亙,一月一,FWFi,,,GBK
-亜,一口〢一,FLNF,,,GBK
+亜,丌口一,ALFi,,,GBK
 亝,厶厶厶二,VVVS,,,GBK
 亞,一,FJai,,,GBK
 亣,丶丌,OAjd,,,GBK
@@ -7764,7 +7764,7 @@ char,division,code,division_tw,code_tw,region
 唒,口酉,LGov,,,GBK
 唓,口車,LGcv,,,GBK
 唕,口白十,LEDi,,,GBK
-唖,口一口一,LFLF,,,GBK
+唖,口丌口一,LALF,,,GBK
 唗,口走,LDkv,,,GBK
 唘,石又口,DBLv,,,GBK
 唙,口犭火,LRUo,,,GBK
@@ -7810,7 +7810,7 @@ char,division,code,division_tw,code_tw,region
 啛,口十彐女,LDXC,,,GBK
 啝,口禾口,LRLv,,,GBK
 啞,口一,LFJa,,,GBK
-啟,户口夊,ILEh,,,GBK
+啟,戶口夊,ILEh,,,GBK
 啠,斤斤口,EELv,,,GBK
 啢,口一巾入,LFMR,,,GBK
 啣,口𠂉一卩,LQFX,,,GBK
@@ -8433,7 +8433,7 @@ char,division,code,division_tw,code_tw,region
 壴,士口䒑,HLUe,,,GBK
 壵,士士士,HHHf,,,GBK
 壷,士冖口一,HYLF,,,GBK
-壸,士冖一业,HYFK,,,GBK
+壸,士冖丌䒑,HYAU,,,GBK
 壺,士冖,HYJa,,,GBK
 壻,土乛龰月,HVNW,,,GBK
 壼,士冖一,HYFJ,,,GBK
@@ -9701,7 +9701,7 @@ char,division,code,division_tw,code_tw,region
 悥,言心,UYia,,,GBK
 悧,忄禾刂,YRMd,,,GBK
 悩,忄⺍乂凵,YIWX,,,GBK
-悪,一口〢心,FLNY,,,GBK
+悪,丌口一心,ALFY,,,GBK
 悮,忄口一大,YLFG,,,GBK
 悰,忄宀示,YOHs,,,GBK
 悳,十目乚心,DMXY,,,GBK
@@ -10093,7 +10093,7 @@ char,division,code,division_tw,code_tw,region
 挗,扌大弓,AGVg,,,GBK
 挘,扌小丿力,AMQX,,,GBK
 挙,八手,ITTu,,,GBK
-挜,扌一业,AFKg,,,GBK
+挜,扌丌䒑,AAUe,,,GBK
 挦,扌彐寸,AXAc,,,GBK
 挧,扌习习,AXXi,,,GBK
 挩,扌八口儿,ATLQ,,,GBK
@@ -10243,7 +10243,7 @@ char,division,code,division_tw,code_tw,region
 搚,扌力力月,AXXW,,,GBK
 搝,扌自犬,ATSq,,,GBK
 搟,扌車干,AGHg,,,GBK
-搢,扌一业日,AFKJ,扌一厶日,AFVJ,GBK
+搢,扌丌䒑日,AAUJ,扌一厶日,AFVJ,GBK
 搣,扌戊一火,ADFU,,,GBK
 搤,扌䒑八皿,AUTM,,,GBK
 搥,扌𠂤辶,AYPd,,,GBK
@@ -11168,7 +11168,7 @@ char,division,code,division_tw,code_tw,region
 榒,木弓二二,FVSS,,,GBK
 榓,木心丿皿,FYQM,,,GBK
 榖,一木,HFFv,,,GBK
-榗,木一业日,FFKJ,木一厶日,FFVJ,GBK
+榗,木丌䒑日,FAUJ,木一厶日,FFVJ,GBK
 榙,木艹合,FSYe,,,GBK
 榚,木羊灬,FUUo,,,GBK
 榝,木乂木殳,FWFQ,,,GBK
@@ -11309,7 +11309,7 @@ char,division,code,division_tw,code_tw,region
 橆,𠂉卌一木,QSFF,,,GBK
 橈,木土土兀,FHHH,,,GBK
 橉,木米夕ヰ,FPRA,,,GBK
-橊,木一〢田,FFNJ,,,GBK
+橊,木丌匚田,FAGJ,,,GBK
 橋,木夭口口,FELL,,,GBK
 橌,木門月,FKWy,,,GBK
 橍,木門王,FKGn,,,GBK
@@ -12023,7 +12023,7 @@ char,division,code,division_tw,code_tw,region
 溊,氵尸二又,IBSB,,,GBK
 溋,氵乃又皿,IVBM,,,GBK
 溌,氵癶二儿,IBSQ,,,GBK
-溍,氵一业日,IFKJ,氵一厶日,IFVJ,GBK
+溍,氵丌䒑日,IAUJ,氵一厶日,IFVJ,GBK
 溎,氵木土土,IFHH,,,GBK
 溑,氵小貝,IMMb,,,GBK
 溒,氵土口𧘇,IHLR,,,GBK
@@ -12202,7 +12202,7 @@ char,division,code,division_tw,code_tw,region
 澋,氵日小,IJOM,,,GBK
 澏,氵口口山,ILLJ,,,GBK
 澐,氵雨二厶,IDSV,,,GBK
-澑,氵一〢田,IFNJ,,,GBK
+澑,氵丌匚田,IAGJ,,,GBK
 澒,氵工丆貝,IFDM,,,GBK
 澓,氵彳𠂉夊,IRQE,,,GBK
 澔,氵白⺧口,IEWL,,,GBK
@@ -13116,7 +13116,7 @@ char,division,code,division_tw,code_tw,region
 瑥,王日皿,GJMn,王囗人皿,GNTM,GBK
 瑦,王烏,GYwn,,,GBK
 瑧,王𡗗禾,GGRh,,,GBK
-瑨,王一业日,GFKJ,王一厶日,GFVJ,GBK
+瑨,王丌䒑日,GAUJ,王一厶日,GFVJ,GBK
 瑩,火火冖丶,UUYO,,,GBK
 瑪,王馬,GDmn,,,GBK
 瑫,王爪臼,GERj,,,GBK
@@ -13160,7 +13160,7 @@ char,division,code,division_tw,code_tw,region
 璟,王日小,GJOM,,,GBK
 璠,王丿米田,GQPJ,,,GBK
 璡,王隹辶,GWPd,,,GBK
-璢,王一〢田,GFNJ,,,GBK
+璢,王丌匚田,GAGJ,,,GBK
 璣,王幺幺人,GVVT,,,GBK
 璤,王心,GGYi,,,GBK
 璥,王艹勹夊,GSWE,,,GBK
@@ -13307,7 +13307,7 @@ char,division,code,division_tw,code_tw,region
 畮,田𠂉母,JQBm,,,GBK
 畯,田厶八夊,JVTE,田厶儿夊,JVQE,GBK
 異,田龷八,JSTi,,,GBK
-畱,一〢匚田,FNGJ,,,GBK
+畱,丌匚コ田,AGBJ,,,GBK
 畳,田冖且,JYMi,,,GBK
 畵,彐土田凵,XHJX,,,GBK
 當,尚田,NJts,,,GBK
@@ -13419,7 +13419,7 @@ char,division,code,division_tw,code_tw,region
 癁,疒彳𠂉夊,PRQE,,,GBK
 療,疒大丷小,PGUM,,,GBK
 癄,疒隹灬,PWUo,,,GBK
-癅,疒一〢田,PFNJ,,,GBK
+癅,疒丌匚田,PAGJ,,,GBK
 癆,疒火火力,PUUX,,,GBK
 癇,疒門月,PKWy,,,GBK
 癈,疒癶弓殳,PBVQ,,,GBK
@@ -14489,7 +14489,7 @@ char,division,code,division_tw,code_tw,region
 籏,竹方𠂉其,QOQD,,,GBK
 籐,竹月丷水,QWUK,,,GBK
 籑,竹目大艮,QMGV,,,GBK
-籒,竹扌一田,QAFJ,,,GBK
+籒,竹扌丌田,QAAJ,,,GBK
 籓,竹氵丿田,QIQJ,,,GBK
 籔,竹口十夊,QLDE,,,GBK
 籕,竹木卯田,QFTJ,,,GBK
@@ -14873,7 +14873,7 @@ char,division,code,division_tw,code_tw,region
 縆,糹忄一一,BYFF,,,GBK
 縇,糹宀一一,BOFF,,,GBK
 縈,火火冖糸,UUYB,,,GBK
-縉,糹一业日,BFKJ,糹一厶日,BFVJ,GBK
+縉,糹丌䒑日,BAUJ,糹一厶日,BFVJ,GBK
 縊,糹䒑八皿,BUTM,,,GBK
 縋,糹𠂤辶,BYPd,,,GBK
 縌,糹䒑屮辶,BUXP,,,GBK
@@ -18079,7 +18079,7 @@ char,division,code,division_tw,code_tw,region
 鄎,自心阝,TYCj,,,GBK
 鄏,辰寸阝,SACj,,,GBK
 鄐,亠幺田阝,OVJC,,,GBK
-鄑,一业日阝,FKJC,一厶厶阝,FVVC,GBK
+鄑,丌䒑日阝,AUJC,一厶厶阝,FVVC,GBK
 鄒,勹屮勹阝,WXWC,,,GBK
 鄓,自犬阝,TSCj,,,GBK
 鄔,烏阝,YCjw,,,GBK
@@ -18749,7 +18749,7 @@ char,division,code,division_tw,code_tw,region
 鏿,金尚木,WNFv,,,GBK
 鐀,金口丄貝,WLKM,,,GBK
 鐁,金其斤,WDEj,,,GBK
-鐂,金一〢田,WFNJ,,,GBK
+鐂,金丌匚田,WAGJ,,,GBK
 鐃,金土土兀,WHHH,,,GBK
 鐄,金龷由八,WSKT,金艹二八,WSST,GBK
 鐅,丷巾八金,UMTW,,,GBK
@@ -18884,7 +18884,7 @@ char,division,code,division_tw,code_tw,region
 铇,钅勹巳,TWCk,,,GBK
 铏,钅一卄刂,TFSM,,,GBK
 铓,钅艹亡,TSUw,,,GBK
-铔,钅一业,TFKg,,,GBK
+铔,钅丌䒑,TAUe,,,GBK
 铚,钅至,THkj,,,GBK
 铦,钅舌,TRej,,,GBK
 铻,钅一口,TFCL,,,GBK
@@ -18999,7 +18999,7 @@ char,division,code,division_tw,code_tw,region
 闖,門馬,KDmn,,,GBK
 闗,門幺幺灬,KVVU,,,GBK
 闘,門一口寸,KFLA,,,GBK
-闙,門户口夊,KILE,,,GBK
+闙,門戶口夊,KILE,,,GBK
 闚,門夫見,KGMx,,,GBK
 闛,門尚土,KNHt,,,GBK
 關,門幺幺丱,KVVX,,,GBK
@@ -19162,7 +19162,7 @@ char,division,code,division_tw,code_tw,region
 霂,雨氵木,DIFv,,,GBK
 霃,雨氵冖儿,DIYQ,,,GBK
 霅,雨言,DUay,,,GBK
-霊,雨一一业,DFFK,,,GBK
+霊,雨一丌䒑,DFAU,,,GBK
 霋,雨十彐女,DDXC,,,GBK
 霌,雨土口,DWHL,,,GBK
 霐,雨氵弓厶,DIVV,,,GBK
@@ -19507,7 +19507,7 @@ char,division,code,division_tw,code_tw,region
 飂,風习习彡,RXXT,,,GBK
 飃,風西示,RDHs,,,GBK
 飄,西示風,DHRf,,,GBK
-飅,風一〢田,RFNJ,,,GBK
+飅,風丌匚田,RAGJ,,,GBK
 飆,犬犬犬風,SSSR,,,GBK
 飇,風犬犬犬,RSSS,,,GBK
 飈,風火火火,RUUU,,,GBK
@@ -19841,7 +19841,7 @@ char,division,code,division_tw,code_tw,region
 驎,馬米夕ヰ,DPRA,,,GBK
 驏,馬尸子子,DBVV,,,GBK
 驐,馬子夊,DOVE,,,GBK
-驑,馬一〢田,DFNJ,,,GBK
+驑,馬丌匚田,DAGJ,,,GBK
 驒,馬口口十,DLLD,,,GBK
 驓,馬丷日日,DUJJ,,,GBK
 驔,馬西早,DDJd,,,GBK
@@ -19978,7 +19978,7 @@ char,division,code,division_tw,code_tw,region
 鬩,鬥臼儿,NRQr,,,GBK
 鬪,鬥一口寸,NFLA,,,GBK
 鬫,鬥乛耳夊,NVAE,鬥丅耳夊,NAAE,GBK
-鬬,鬥コ斤,NTBE,,,GBK
+鬬,鬥コ斤,NTBE,鬥{黽上}斤,NLJE,GBK
 鬭,鬥匚コ斤,NGBE,,,GBK
 鬮,鬥丿,NQJm,鬥⺈,NYJm,GBK
 鬰,木乂乂彡,FWWT,,,GBK
@@ -21695,7 +21695,7 @@ char,division,code,division_tw,code_tw,region
 㙤,土虍丿,HMQA,,,CJK-A
 㙥,土亠八𧘇,HOTR,,,CJK-A
 㙦,人一木土,TFFH,,,CJK-A
-㙧,土一〢田,HFNJ,,,CJK-A
+㙧,土丌匚田,HAGJ,,,CJK-A
 㙨,土幺幺人,HVVT,,,CJK-A
 㙩,土大丷小,HGUM,,,CJK-A
 㙪,土士冖䒑,HHYU,,,CJK-A
@@ -22679,7 +22679,7 @@ char,division,code,division_tw,code_tw,region
 㩂,扌⺈用十,AYTD,扌⺈十,AYWD,CJK-A
 㩃,扌宀⺀,AOSS,,,CJK-A
 㩄,扌山田心,AJJY,,,CJK-A
-㩅,扌一〢田,AFNJ,,,CJK-A
+㩅,扌丌匚田,AAGJ,,,CJK-A
 㩆,扌小尤,AOMD,,,CJK-A
 㩇,扌彐土一,AXHF,,,CJK-A
 㩈,扌穴彐口,APXL,扌宀儿口,AOQL,CJK-A
@@ -22844,7 +22844,7 @@ char,division,code,division_tw,code_tw,region
 㫨,日宀女,JOCn,,,CJK-A
 㫩,十卄日,DSJr,十十日,DSDJ,CJK-A
 㫪,𡗗丨日,GNJr,,,CJK-A
-㫫,日一业,JFKg,,,CJK-A
+㫫,日丌䒑,JAUe,,,CJK-A
 㫬,日勹日,JWJr,,,CJK-A
 㫭,日土寸,JHAc,,,CJK-A
 㫮,止匕日,NRJr,,,CJK-A
@@ -22881,7 +22881,7 @@ char,division,code,division_tw,code_tw,region
 㬍,日甫寸,JFAc,,,CJK-A
 㬎,日幺幺灬,JVVU,,,CJK-A
 㬏,日一口丨,JFLN,,,CJK-A
-㬐,日一业日,JFKJ,日一厶日,JFVJ,CJK-A
+㬐,日丌䒑日,JAUJ,日一厶日,JFVJ,CJK-A
 㬑,日子阝,JOVC,,,CJK-A
 㬒,日艹犬卄,JSSS,,,CJK-A
 㬓,日西示,JDHs,,,CJK-A
@@ -24470,7 +24470,7 @@ char,division,code,division_tw,code_tw,region
 䅆,禾二欠,RSEi,,,CJK-A
 䅇,西禾,DRhx,,,CJK-A
 䅈,丷夫禾,UGRh,,,CJK-A
-䅉,禾一业,RFKg,,,CJK-A
+䅉,禾丌䒑,RAUe,,,CJK-A
 䅊,禾广丿七,RUQA,,,CJK-A
 䅋,禾⺈口儿,RYLQ,,,CJK-A
 䅌,禾口月,RLWy,,,CJK-A
@@ -27465,7 +27465,7 @@ char,division,code,division_tw,code_tw,region
 䴞,鹵习习隹,KXXW,,,CJK-A
 䴟,鹿几丶,IQOd,,,CJK-A
 䴠,鹿夭,IEol,,,CJK-A
-䴡,一业丿匕,FKQR,,,CJK-A
+䴡,丌䒑丿匕,AUQR,,,CJK-A
 䴢,鹿木,IFvl,,,CJK-A
 䴣,鹿丿丷,IQUA,,,CJK-A
 䴤,鹿生,IWgl,,,CJK-A
@@ -27651,7 +27651,7 @@ char,division,code,division_tw,code_tw,region
 𠀙,一冂一冂,FKFK,,,CJK-B
 𠀚,一厶亻丶,FVEO,,,CJK-B
 𠀛,一大冂,FGKf,,,CJK-B
-𠀜,一〢八一,FNTF,,,CJK-B
+𠀜,丌八一,ATFi,,,CJK-B
 𠀝,下上,AKsk,,,CJK-B
 𠀞,一丨乛乛,FNVV,,,CJK-B
 𠀟,木乛㇉,FVXi,,,CJK-B
@@ -27964,7 +27964,7 @@ char,division,code,division_tw,code_tw,region
 𠅘,亠〢二丁,ONSA,,,CJK-B
 𠅙,亠〢二几,ONSQ,,,CJK-B
 𠅚,亠亻一乂,OEFW,,,CJK-B
-𠅛,亠乂凵丨,OWXN,,,CJK-B
+𠅛,文凵幺丨,PXVN,,,CJK-B
 𠅜,亠亻一刂,OEFM,,,CJK-B
 𠅝,子,OVkl,,,CJK-B
 𠅞,亠夕ヰ几,ORAQ,,,CJK-B
@@ -28384,7 +28384,7 @@ char,division,code,division_tw,code_tw,region
 𠋼,亻囗一口,ENFL,,,CJK-B
 𠋽,亻大壬廴,EGEX,,,CJK-B
 𠋾,亻王マ小,EGBM,,,CJK-B
-𠋿,亻一〢土,EFNH,,,CJK-B
+𠋿,亻丌匚土,EAGH,,,CJK-B
 𠌀,亻爪マ小,EEBM,亻爪マ木,EEBF,CJK-B
 𠌁,亻乂丶,EWSO,,,CJK-B
 𠌂,人乂乂十,TWWD,,,CJK-B
@@ -28587,7 +28587,7 @@ char,division,code,division_tw,code_tw,region
 𠏇,人一幺田,TFVJ,,,CJK-B
 𠏈,亻勹屮缶,EWXW,,,CJK-B
 𠏉,十早人木,DJTF,,,CJK-B
-𠏊,亻一业〢,EFKN,,,CJK-B
+𠏊,亻丌䒑〢,EAUN,,,CJK-B
 𠏋,亻禺心,EKYi,,,CJK-B
 𠏌,亻羊見,EUMx,,,CJK-B
 𠏍,亻工辶,ESFP,,,CJK-B
@@ -28667,7 +28667,7 @@ char,division,code,division_tw,code_tw,region
 𠐗,合目艮,YMVn,,,CJK-B
 𠐘,亻僉刂,ERMd,,,CJK-B
 𠐙,人一月木,TFWF,,,CJK-B
-𠐚,亻一业匕,EFKR,,,CJK-B
+𠐚,亻丌䒑匕,EAUR,,,CJK-B
 𠐛,亻罒土𧘇,EMHR,,,CJK-B
 𠐜,亻亠龷言,EOSU,,,CJK-B
 𠐝,亻亠丷辶,EOUP,,,CJK-B
@@ -28780,7 +28780,7 @@ char,division,code,division_tw,code_tw,region
 𠒈,十冖一兀,DYFH,,,CJK-B
 𠒉,一兀丑,FHBc,,,CJK-B
 𠒊,厶丨厶兀,VNVH,,,CJK-B
-𠒋,亠乂凵儿,OWXQ,,,CJK-B
+𠒋,文凵儿,PXQr,,,CJK-B
 𠒌,艹土儿,SHQr,,,CJK-B
 𠒍,臼丿乙,RQVi,,,CJK-B
 𠒎,儿,RQro,,,CJK-B
@@ -29552,7 +29552,7 @@ char,division,code,division_tw,code_tw,region
 𠞍,口口勹刂,LLWM,,,CJK-B
 𠞎,夕夕灬刂,RRUM,,,CJK-B
 𠞏,生生刂,WWMd,,,CJK-B
-𠞐,丌匚コ土,AGBH,,,CJK-B
+𠞐,丌匚コ刂,AGBM,,,CJK-B
 𠞑,文干䒑刂,PHUM,,,CJK-B
 𠞒,大丷电刂,GUKM,,,CJK-B
 𠞓,龶糸刂,HBMd,,,CJK-B
@@ -31125,7 +31125,7 @@ char,division,code,division_tw,code_tw,region
 𠶳,户殳口,IQLv,,,CJK-B
 𠶴,口阝亠巾,LCOM,,,CJK-B
 𠶵,口丨勹八,LNWT,,,CJK-B
-𠶶,户口戈,ILGg,,,CJK-B
+𠶶,戶口戈,ILGg,,,CJK-B
 𠶷,立口丨口,ILNL,,,CJK-B
 𠶸,口八人卩,LTTX,,,CJK-B
 𠶹,口糹𠂉乙,LBQV,,,CJK-B
@@ -31456,7 +31456,7 @@ char,division,code,division_tw,code_tw,region
 𠻾,口亡月王,LUWG,口亡月壬,LUWE,CJK-B
 𠻿,口文厂生,LPSW,,,CJK-B
 𠼀,口立早,LIJd,,,CJK-B
-𠼁,口丶一𧘇,LOFR,,,CJK-B
+𠼁,口丶丌𧘇,LOAR,,,CJK-B
 𠼂,口阝木日,LCFJ,,,CJK-B
 𠼃,車斤口,GELv,,,CJK-B
 𠼄,口大卄人,LGST,,,CJK-B
@@ -32465,7 +32465,7 @@ char,division,code,division_tw,code_tw,region
 𡋯,土十冖子,HDYV,,,CJK-B
 𡋰,土儿土儿,HQHQ,,,CJK-B
 𡋱,土王卄,HGSj,,,CJK-B
-𡋲,一〢匚土,FNGH,,,CJK-B
+𡋲,丌匚コ土,AGBH,,,CJK-B
 𡋳,土目匕,HMRi,,,CJK-B
 𡋴,阝⺁又土,CEBH,阝厂又土,CSBH,CJK-B
 𡋵,日大土,JGHt,,,CJK-B
@@ -32684,7 +32684,7 @@ char,division,code,division_tw,code_tw,region
 𡏊,土䒑彐八,HUXT,,,CJK-B
 𡏋,氵甫土,IFHt,,,CJK-B
 𡏌,土辰寸,HSAc,,,CJK-B
-𡏍,一口〢土,FLNH,,,CJK-B
+𡏍,丌口一土,ALFH,,,CJK-B
 𡏎,大丷土巳,GUHC,,,CJK-B
 𡏏,土龷八水,HSTK,,,CJK-B
 𡏐,臣斤土,SEHt,,,CJK-B
@@ -33755,12 +33755,12 @@ char,division,code,division_tw,code_tw,region
 𡟺,女丆目夊,CDME,,,CJK-B
 𡟻,女艹囗大,CSNG,,,CJK-B
 𡟼,女豕丶,CBDO,,,CJK-B
-𡟽,女一〢土,CFNH,,,CJK-B
+𡟽,女丌匚土,CAGH,,,CJK-B
 𡟾,女广壬廴,CUEX,,,CJK-B
 𡟿,羊女一,UCFC,,,CJK-B
 𡠀,女高,COln,,,CJK-B
 𡠁,女又丶丶,CBOO,,,CJK-B
-𡠂,女一业日,CFKJ,,,CJK-B
+𡠂,女丌䒑日,CAUJ,,,CJK-B
 𡠃,未戈乚女,HGXC,,,CJK-B
 𡠄,女烏,CYwn,,,CJK-B
 𡠅,矢矢女,QQCn,,,CJK-B
@@ -34154,7 +34154,7 @@ char,division,code,division_tw,code_tw,region
 𡦉,子虫文,VKPw,,,CJK-B
 𡦊,耂子子子,HVVV,,,CJK-B
 𡦋,臣𠂉⺀子,SQSV,,,CJK-B
-𡦌,子一业日,VFKJ,子一厶日,VFVJ,CJK-B
+𡦌,子丌䒑日,VAUJ,子一厶日,VFVJ,CJK-B
 𡦍,子文耳,VPAr,,,CJK-B
 𡦎,子气米,VQPm,,,CJK-B
 𡦏,子子子日,VVVJ,,,CJK-B
@@ -35378,7 +35378,7 @@ char,division,code,division_tw,code_tw,region
 𡹒,山八人日,JTTJ,,,CJK-B
 𡹓,山人丶心,JTOY,山人一心,JTFY,CJK-B
 𡹔,山月月,JWWy,,,CJK-B
-𡹕,山亠乂儿,JOWQ,,,CJK-B
+𡹕,山文凵儿,JPXQ,,,CJK-B
 𡹖,山火火,JUUo,,,CJK-B
 𡹗,山穴弓,JPVg,山宀儿弓,JOQV,CJK-B
 𡹘,户夊山,IEJs,,,CJK-B
@@ -35482,7 +35482,7 @@ char,division,code,division_tw,code_tw,region
 𡺺,山身弓,JWVg,,,CJK-B
 𡺻,山石又土,JDBH,,,CJK-B
 𡺼,山自木,JTFv,,,CJK-B
-𡺽,山一业日,JFKJ,山一厶日,JFVJ,CJK-B
+𡺽,山丌䒑日,JAUJ,山一厶日,JFVJ,CJK-B
 𡺾,山隹十,JWDi,,,CJK-B
 𡺿,山阝土夊,JCHE,,,CJK-B
 𡻀,山山夊丰,JJED,,,CJK-B
@@ -36503,7 +36503,7 @@ char,division,code,division_tw,code_tw,region
 𢊷,广𡗗貝,UGMb,,,CJK-B
 𢊸,广囗〢禾,UNNR,,,CJK-B
 𢊹,广厶大貝,UVGM,,,CJK-B
-𢊺,广一〢田,UFNJ,,,CJK-B
+𢊺,广丌匚田,UAGJ,,,CJK-B
 𢊻,广臼人小,URTM,,,CJK-B
 𢊼,广彡丆貝,UTDM,,,CJK-B
 𢊽,广火火火,UUUU,,,CJK-B
@@ -37135,7 +37135,7 @@ char,division,code,division_tw,code_tw,region
 𢔯,彳木口刂,RFLM,,,CJK-B
 𢔰,彳目,RBMf,,,CJK-B
 𢔱,彳八人卩,RTTX,,,CJK-B
-𢔲,彳一〢田,RFNJ,,,CJK-B
+𢔲,彳丌匚田,RAGJ,,,CJK-B
 𢔳,彳又丶虫,RBOK,,,CJK-B
 𢔴,彳一阝,RFCC,,,CJK-B
 𢔵,彳冂土,RSKH,,,CJK-B
@@ -38186,7 +38186,7 @@ char,division,code,division_tw,code_tw,region
 𢥊,忄臣見,YSQM,,,CJK-B
 𢥋,忄⺈口丶,YYLO,,,CJK-B
 𢥌,忄魚羊,YTUg,,,CJK-B
-𢥍,一〢匚心,FNGY,,,CJK-B
+𢥍,丌匚コ心,AGBY,,,CJK-B
 𢥎,忄十口貝,YDLM,,,CJK-B
 𢥏,忄火火口,YUUL,忄火火,YUUR,CJK-B
 𢥐,忄鹿米,YIPm,,,CJK-B
@@ -38343,7 +38343,7 @@ char,division,code,division_tw,code_tw,region
 𢧨,十戈𡗗日,DGGJ,,,CJK-B
 𢧩,戈鬼,GWug,,,CJK-B
 𢧪,广肀口戈,UXLG,,,CJK-B
-𢧫,日一业戈,JFKG,,,CJK-B
+𢧫,日丌䒑戈,JAUG,,,CJK-B
 𢧬,戈山日,GAJJ,,,CJK-B
 𢧭,十戈七日,DGAJ,,,CJK-B
 𢧮,目目戈,MMGg,,,CJK-B
@@ -38389,7 +38389,7 @@ char,division,code,division_tw,code_tw,region
 𢨖,一口〢戈,FLNG,,,CJK-B
 𢨗,大馬戈,GDGg,,,CJK-B
 𢨘,虍隹戈,MWGg,,,CJK-B
-𢨙,一业日戈,FKJG,,,CJK-B
+𢨙,丌䒑日戈,AUJG,,,CJK-B
 𢨚,戈田八,GAJT,,,CJK-B
 𢨛,⺁虍一戈,EMFG,,,CJK-B
 𢨜,戈工虫虫,GFKK,,,CJK-B
@@ -38453,11 +38453,11 @@ char,division,code,division_tw,code_tw,region
 𢩖,户千臼,IWRj,,,CJK-B
 𢩗,尸二户户,BSII,,,CJK-B
 𢩘,户土厶皿,IHVM,,,CJK-B
-𢩙,户口户口,ILIL,,,CJK-B
+𢩙,戶口戶口,ILIL,,,CJK-B
 𢩚,户冊乛口,INVL,,,CJK-B
 𢩛,户工貝,IFMb,,,CJK-B
 𢩜,户方𠂉矢,IOQQ,,,CJK-B
-𢩝,户口户户,ILII,,,CJK-B
+𢩝,戶口户户,ILII,,,CJK-B
 𢩞,户辛爪,IOEk,,,CJK-B
 𢩟,大人人冊,GTTN,,,CJK-B
 𢩠,户罒一𧘇,IMFR,,,CJK-B
@@ -38794,7 +38794,7 @@ char,division,code,division_tw,code_tw,region
 𢮫,扌女又弓,ACBV,,,CJK-B
 𢮬,扌屮凵小,AXXM,,,CJK-B
 𢮭,扌且八,AMTi,,,CJK-B
-𢮮,扌一〢彐,AFNX,,,CJK-B
+𢮮,扌丌二彐,AASX,,,CJK-B
 𢮯,扌亠亠𧘇,AOOR,,,CJK-B
 𢮰,扌亥刂,AOMd,,,CJK-B
 𢮱,扌宀示,AOHs,,,CJK-B
@@ -39026,7 +39026,7 @@ char,division,code,division_tw,code_tw,region
 𢲓,臼大手,RGTu,,,CJK-B
 𢲔,扌王リ王,AGUG,,,CJK-B
 𢲕,扌癶矢,ABQi,,,CJK-B
-𢲖,扌一〢土,AFNH,,,CJK-B
+𢲖,扌丌匚土,AAGH,,,CJK-B
 𢲗,扌罒示,AMHs,,,CJK-B
 𢲘,扌穴大丷,APGU,扌宀儿丷,AOQU,CJK-B
 𢲙,扌户亠𧘇,AIOR,,,CJK-B
@@ -39109,7 +39109,7 @@ char,division,code,division_tw,code_tw,region
 𢳦,扌宀几,AOQR,,,CJK-B
 𢳧,扌广彐水,AUXK,,,CJK-B
 𢳨,扌𡗗虫,AGKc,,,CJK-B
-𢳩,扌耂一一,AHFF,,,CJK-B
+𢳩,扌耂丌一,AHAF,,,CJK-B
 𢳪,扌木口辶,AFLP,,,CJK-B
 𢳫,扌弓長,AVHa,,,CJK-B
 𢳬,扌雨彐,ADXl,,,CJK-B
@@ -40729,7 +40729,7 @@ char,division,code,division_tw,code_tw,region
 𣌺,冂龷口丩,KSLX,,,CJK-B
 𣌻,日米,JTPm,,,CJK-B
 𣌼,一由八日,FKTJ,,,CJK-B
-𣌽,一由一业,FKFK,,,CJK-B
+𣌽,一由丌䒑,FKAU,,,CJK-B
 𣌾,申木日,KFJr,,,CJK-B
 𣌿,日夊卜日,JEMJ,日夊人日,JETJ,CJK-B
 𣍀,冂龷口木,KSLF,,,CJK-B
@@ -41496,7 +41496,7 @@ char,division,code,division_tw,code_tw,region
 𣘹,木宀一八,FOFT,,,CJK-B
 𣘺,木𠂉〢口,FQNL,,,CJK-B
 𣘻,木艹人木,FSTF,,,CJK-B
-𣘼,户口夊木,ILEF,,,CJK-B
+𣘼,戶口夊木,ILEF,,,CJK-B
 𣘽,木小丿丶,FMQO,木小丿儿,FMQQ,CJK-B
 𣘾,一米户月,FPIW,,,CJK-B
 𣘿,穴合木,PYFv,宀儿合木,OQYF,CJK-B
@@ -41505,7 +41505,7 @@ char,division,code,division_tw,code_tw,region
 𣙂,丷夫厶木,UGVF,,,CJK-B
 𣙃,木广卄火,FUSU,,,CJK-B
 𣙄,木氵木乛,FIFV,,,CJK-B
-𣙅,户口戈木,ILGF,,,CJK-B
+𣙅,戶口戈木,ILGF,,,CJK-B
 𣙆,木亠厶未,FOVH,,,CJK-B
 𣙇,土隹木,HWFv,,,CJK-B
 𣙈,十早木口,DJFL,,,CJK-B
@@ -41605,7 +41605,7 @@ char,division,code,division_tw,code_tw,region
 𣚦,木弓口虫,FVLK,,,CJK-B
 𣚧,口丂⺁木,LSEF,,,CJK-B
 𣚨,卄一木木,SFFF,,,CJK-B
-𣚩,户口古木,ILDF,,,CJK-B
+𣚩,戶口古木,ILDF,,,CJK-B
 𣚪,木亦丿止,FPQN,木亦一一,FPFF,CJK-B
 𣚫,木氵耂日,FIHJ,,,CJK-B
 𣚬,木糹士口,FBHL,,,CJK-B
@@ -43048,7 +43048,7 @@ char,division,code,division_tw,code_tw,region
 𣱉,二厶巳七,SVCA,,,CJK-B
 𣱊,丅儿丶,AQTO,丅儿一,AQTF,CJK-B
 𣱋,七丶幺,TAOV,七一幺,TAFV,CJK-B
-𣱌,一口〢七,FLNA,,,CJK-B
+𣱌,丌口一七,ALFA,,,CJK-B
 𣱍,罒九七,MYTA,,,CJK-B
 𣱎,七丶儿,TAOQ,七一儿,TAFQ,CJK-B
 𣱏,予丿勹七,CQWA,,,CJK-B
@@ -43373,7 +43373,7 @@ char,division,code,division_tw,code_tw,region
 𣶎,氵山白,IJEb,,,CJK-B
 𣶏,氵一彐龰,IFXN,,,CJK-B
 𣶐,氵大卯,IGTm,,,CJK-B
-𣶑,氵亠乂儿,IOWQ,,,CJK-B
+𣶑,氵文凵儿,IPXQ,,,CJK-B
 𣶒,片爿一,TXFi,,,CJK-B
 𣶓,氵卜囗丶,IMNO,氵卜囗夕,IMNR,CJK-B
 𣶔,氵戈又,IGBT,,,CJK-B
@@ -43659,7 +43659,7 @@ char,division,code,division_tw,code_tw,region
 𣺬,氵艹亡,ISUQ,,,CJK-B
 𣺭,氵戊一人,IDFT,,,CJK-B
 𣺮,氵大镸,IGHa,,,CJK-B
-𣺯,氵日一业,IJFK,,,CJK-B
+𣺯,氵日丌䒑,IJAU,,,CJK-B
 𣺰,氵口小月,ILMW,,,CJK-B
 𣺱,氵竹彐丿,IQXQ,,,CJK-B
 𣺲,氵米殳,IPQh,,,CJK-B
@@ -44158,7 +44158,7 @@ char,division,code,division_tw,code_tw,region
 𤂟,臣𠂉一水,SQFK,,,CJK-B
 𤂠,氵土厶厶,IHVV,,,CJK-B
 𤂡,氵艹夫厶,ISGV,,,CJK-B
-𤂢,氵一业匕,IFKR,,,CJK-B
+𤂢,氵丌䒑匕,IAUR,,,CJK-B
 𤂣,氵艹彐,ISXT,,,CJK-B
 𤂤,氵大牛牛,IGWW,,,CJK-B
 𤂥,氵矢口丂,IQLS,,,CJK-B
@@ -44261,7 +44261,7 @@ char,division,code,division_tw,code_tw,region
 𤄆,氵厂艹力,ISSX,,,CJK-B
 𤄇,氵門亠巾,IKOM,,,CJK-B
 𤄈,臣𠂉口水,SQLK,,,CJK-B
-𤄉,氵一〢刂,IFNM,,,CJK-B
+𤄉,氵丌匚刂,IAGM,,,CJK-B
 𤄊,氵厂黑土,ISNH,,,CJK-B
 𤄋,氵糹心,IBRY,,,CJK-B
 𤄌,扌斤氵火,AEIU,,,CJK-B
@@ -44572,7 +44572,7 @@ char,division,code,division_tw,code_tw,region
 𤈾,氵欠火,IEUo,,,CJK-B
 𤈿,一水丶灬,FKOU,,,CJK-B
 𤉀,木干火,FHUo,,,CJK-B
-𤉁,火一口一,UFLF,,,CJK-B
+𤉁,火丌口一,UALF,,,CJK-B
 𤉂,尸毛灬,BRUo,,,CJK-B
 𤉃,火刀丶心,UBOY,,,CJK-B
 𤉄,豕灬,DUos,,,CJK-B
@@ -45440,7 +45440,7 @@ char,division,code,division_tw,code_tw,region
 𤖢,爿厂禾止,XSRN,,,CJK-B
 𤖣,爿禾禾口,XRRL,,,CJK-B
 𤖤,爿一罒大,XFMG,,,CJK-B
-𤖥,爿雨口业,XDLK,,,CJK-B
+𤖥,爿雨口䒑,XDLU,,,CJK-B
 𤖦,爿雨口人,XDLT,,,CJK-B
 𤖧,爿來來口,XDDL,,,CJK-B
 𤖨,片乚,TXip,,,CJK-B
@@ -45951,7 +45951,7 @@ char,division,code,division_tw,code_tw,region
 𤞡,犭牙阝,RHCj,,,CJK-B
 𤞢,犭卝干,RSHg,,,CJK-B
 𤞣,口月犬,LWSq,厶月犬,VWSq,CJK-B
-𤞤,犭一业丿,RFKQ,,,CJK-B
+𤞤,犭丌䒑丿,RAUQ,,,CJK-B
 𤞥,犭口木,RLFv,,,CJK-B
 𤞦,犭𠂉母,RQBm,,,CJK-B
 𤞧,犭囗木,RNFv,,,CJK-B
@@ -46556,7 +46556,7 @@ char,division,code,division_tw,code_tw,region
 𤧾,王方⺈巴,GOYC,,,CJK-B
 𤧿,王文而,GPSr,,,CJK-B
 𤨀,王大田丁,GGJA,,,CJK-B
-𤨁,王一业日,GFKJ,,,CJK-B
+𤨁,王丌䒑日,GAUJ,,,CJK-B
 𤨂,王月辶,GSWP,,,CJK-B
 𤨃,王卄一口,GSFL,,,CJK-B
 𤨄,王龶糸,GHBs,,,CJK-B
@@ -46665,7 +46665,7 @@ char,division,code,division_tw,code_tw,region
 𤩫,王山鬼,GJWu,,,CJK-B
 𤩬,王丿阝,GVQC,,,CJK-B
 𤩭,王口丂虎,GLSM,,,CJK-B
-𤩮,王一日殳,GFJQ,,,CJK-B
+𤩮,王土日殳,GHJQ,,,CJK-B
 𤩯,一日丨丶,FJNO,,,CJK-B
 𤩰,王卜囗木,GMNF,,,CJK-B
 𤩱,尸龷八丶,BSTO,,,CJK-B
@@ -46994,7 +46994,7 @@ char,division,code,division_tw,code_tw,region
 𤮴,艹口口瓦,SLLA,,,CJK-B
 𤮵,而大瓦䒑,SGAU,,,CJK-B
 𤮶,言火火瓦,UUUA,,,CJK-B
-𤮷,雨一〢瓦,DFNA,,,CJK-B
+𤮷,雨丌匚瓦,DAGA,,,CJK-B
 𤮸,雨口口瓦,DLLA,,,CJK-B
 𤮹,雨口口瓦,DLLA,,,CJK-B
 𤮺,二凵,SXgi,,,CJK-B
@@ -48700,7 +48700,7 @@ char,division,code,division_tw,code_tw,region
 𥉟,目舟殳,MQQh,,,CJK-B
 𥉠,予丿夊目,CQEM,,,CJK-B
 𥉡,目穴人夕,MPTR,,,CJK-B
-𥉢,目一〢土,MFNH,,,CJK-B
+𥉢,目丌匚土,MAGH,,,CJK-B
 𥉣,目亠丷方,MOUO,,,CJK-B
 𥉤,目火艮,MUVn,,,CJK-B
 𥉥,目䒑屮辶,MUXP,,,CJK-B
@@ -49879,7 +49879,7 @@ char,division,code,division_tw,code_tw,region
 𥛺,示匕十八,HRDT,,,CJK-B
 𥛻,示士口彡,HHLT,,,CJK-B
 𥛼,示艹日日,HSJJ,,,CJK-B
-𥛽,示一〢田,HFNJ,,,CJK-B
+𥛽,示丌匚田,HAGJ,,,CJK-B
 𥛾,示人人日,HTTJ,,,CJK-B
 𥛿,示弓囗土,HVNH,,,CJK-B
 𥜀,尸毛示且,BRHM,,,CJK-B
@@ -50277,7 +50277,7 @@ char,division,code,division_tw,code_tw,region
 𥢈,禾丆且戈,RDMG,,,CJK-B
 𥢉,士冖禾口,HYRL,,,CJK-B
 𥢊,禾十卄貝,RDSM,,,CJK-B
-𥢋,禾一〢田,RFNJ,,,CJK-B
+𥢋,禾丌匚田,RAGJ,,,CJK-B
 𥢌,禾丿米田,RQPJ,,,CJK-B
 𥢍,禾古辛,RDOx,,,CJK-B
 𥢎,禾丷酉寸,RUGA,,,CJK-B
@@ -50662,7 +50662,7 @@ char,division,code,division_tw,code_tw,region
 𥨉,穴爿言,PXUa,,,CJK-B
 𥨊,穴爿彐又,PXXB,宀儿爿又,OQXB,CJK-B
 𥨋,穴牙王卄,PHGS,宀儿牙卄,OQHS,CJK-B
-𥨌,穴一〢田,PFNJ,,,CJK-B
+𥨌,穴丌匚田,PAGJ,,,CJK-B
 𥨍,穴彳𠂉夊,PRQE,宀儿彳夊,OQRE,CJK-B
 𥨎,穴西早,PDJd,宀儿西早,OQDJ,CJK-B
 𥨏,丬匕穴夊,URPE,丬匕宀夊,UROE,CJK-B
@@ -51217,7 +51217,7 @@ char,division,code,division_tw,code_tw,region
 𥰵,竹立口刂,QILM,,,CJK-B
 𥰶,竹宀丰口,QODL,竹宀龶口,QOHL,CJK-B
 𥰷,竹夕㔾田,QRVJ,,,CJK-B
-𥰸,竹一业日,QFKJ,竹一厶日,QFVJ,CJK-B
+𥰸,竹丌䒑日,QAUJ,竹一厶日,QFVJ,CJK-B
 𥰹,竹月亠乂,QWOW,,,CJK-B
 𥰺,竹工几殳,QFQQ,,,CJK-B
 𥰻,竹日大口,QJGL,,,CJK-B
@@ -51356,7 +51356,7 @@ char,division,code,division_tw,code_tw,region
 𥳀,竹尸示寸,QBHA,,,CJK-B
 𥳁,竹丶乛一,QOVF,,,CJK-B
 𥳂,竹田夊口,QJEL,,,CJK-B
-𥳃,竹户口夊,QILE,,,CJK-B
+𥳃,竹戶口夊,QILE,,,CJK-B
 𥳄,竹宀一八,QOFT,,,CJK-B
 𥳅,竹言辶,QUPd,,,CJK-B
 𥳆,竹丷巾夊,QUME,,,CJK-B
@@ -51550,7 +51550,7 @@ char,division,code,division_tw,code_tw,region
 𥶂,竹其夕夕,QDRR,,,CJK-B
 𥶃,竹艹罒夕,QSMR,,,CJK-B
 𥶄,竹女木夊,QCFE,,,CJK-B
-𥶅,竹氵一田,QIFJ,,,CJK-B
+𥶅,竹氵丌田,QIAJ,,,CJK-B
 𥶆,竹門口口,QKLL,竹門口,QKLR,CJK-B
 𥶇,竹魚日,QTJr,,,CJK-B
 𥶈,竹勹屮皮,QWXV,,,CJK-B
@@ -51643,7 +51643,7 @@ char,division,code,division_tw,code_tw,region
 𥷟,竹水水皿,QKKM,,,CJK-B
 𥷠,竹卜囗,QMNW,,,CJK-B
 𥷡,竹火僉,QURl,,,CJK-B
-𥷢,竹一〢刂,QFNM,,,CJK-B
+𥷢,竹丌匚刂,QAGM,,,CJK-B
 𥷣,竹工人又,QFTB,,,CJK-B
 𥷤,竹大䒑言,QGUU,,,CJK-B
 𥷥,竹革勹米,QGWP,,,CJK-B
@@ -53757,8 +53757,8 @@ char,division,code,division_tw,code_tw,region
 𦘢,彐土日水,XHJK,,,CJK-B
 𦘣,彐土田,XHJA,,,CJK-B
 𦘤,肀片爿乂,XTXW,,,CJK-B
-𦘥,户口戈,ILGA,,,CJK-B
-𦘦,户口夊,ILEA,,,CJK-B
+𦘥,戶口戈,ILGA,,,CJK-B
+𦘦,戶口夊,ILEA,,,CJK-B
 𦘧,尸毛彐一,BRXF,,,CJK-B
 𦘨,彐土勹,XHWT,彐勹,XAWT,CJK-B
 𦘩,月八,WTiy,,,CJK-B
@@ -54261,7 +54261,7 @@ char,division,code,division_tw,code_tw,region
 𦠚,月夭口口,WELL,,,CJK-B
 𦠛,月夫夫日,WGGJ,,,CJK-B
 𦠜,月艹干龷,WSHS,月艹一,WSFA,CJK-B
-𦠝,月一〢田,WFNJ,,,CJK-B
+𦠝,月丌匚田,WAGJ,,,CJK-B
 𦠞,丷巾八月,UMTW,,,CJK-B
 𦠟,月山一斤,WJFE,,,CJK-B
 𦠠,月山二斤,WJSE,,,CJK-B
@@ -55635,7 +55635,7 @@ char,division,code,division_tw,code_tw,region
 𦵸,艹耳火,SAUo,,,CJK-B
 𦵹,艹火火刂,SUUM,,,CJK-B
 𦵺,艹罒水,SMKv,艹罒二丨,SMSN,CJK-B
-𦵻,艹一业日,SFKJ,艹一厶日,SFVJ,CJK-B
+𦵻,艹丌䒑日,SAUJ,艹一厶日,SFVJ,CJK-B
 𦵼,艹彐丿阝,SXQC,,,CJK-B
 𦵽,艹日小兀,SJMH,,,CJK-B
 𦵾,艹二二月,SSSW,,,CJK-B
@@ -57237,7 +57237,7 @@ char,division,code,division_tw,code_tw,region
 𧎺,虫丁口口,KALL,,,CJK-B
 𧎻,予丿夊虫,CQEK,,,CJK-B
 𧎼,虫爪缶,KEWo,虫月缶,KWWo,CJK-B
-𧎽,虫一业日,KFKJ,虫一厶日,KFVJ,CJK-B
+𧎽,虫丌䒑日,KAUJ,虫一厶日,KFVJ,CJK-B
 𧎾,虫小日小,KMJM,,,CJK-B
 𧎿,疒矢虫,PQKc,,,CJK-B
 𧏀,虫乂心,KRWY,,,CJK-B
@@ -59029,7 +59029,7 @@ char,division,code,division_tw,code_tw,region
 𧪺,言人一〢,UTFN,,,CJK-B
 𧪻,言立立,UIId,,,CJK-B
 𧪼,言口貝,ULMb,,,CJK-B
-𧪽,言一业日,UFKJ,,,CJK-B
+𧪽,言丌䒑日,UAUJ,,,CJK-B
 𧪾,言子丿糸,UVQB,,,CJK-B
 𧪿,言冂土,USKH,,,CJK-B
 𧫀,言亠火𧘇,UOUR,,,CJK-B
@@ -61011,7 +61011,7 @@ char,division,code,division_tw,code_tw,region
 𨉹,身囗戈一,WNGF,,,CJK-B
 𨉺,身八刀貝,WTBM,,,CJK-B
 𨉻,身車欠,WGEi,,,CJK-B
-𨉼,身一心,WFJY,身一口心,WFLY,CJK-B
+𨉼,身一心,WFJY,身丌口心,WALY,CJK-B
 𨉽,身囗王王,WNGG,,,CJK-B
 𨉾,身竹目,WQMf,,,CJK-B
 𨉿,身而而,WSSr,,,CJK-B
@@ -61154,7 +61154,7 @@ char,division,code,division_tw,code_tw,region
 𨌈,車身,GWmc,,,CJK-B
 𨌉,車口月,GLWy,,,CJK-B
 𨌊,車宀夕一,GORF,,,CJK-B
-𨌋,車户口,GILv,,,CJK-B
+𨌋,車戶口,GILv,,,CJK-B
 𨌌,車⺁一巴,GEFC,,,CJK-B
 𨌍,車辛,GOxc,,,CJK-B
 𨌎,車人一木,GTFF,,,CJK-B
@@ -61251,7 +61251,7 @@ char,division,code,division_tw,code_tw,region
 𨍩,車亠丷方,GOUO,,,CJK-B
 𨍪,車⺁彐殳,GEXQ,,,CJK-B
 𨍫,車西木,GDFv,,,CJK-B
-𨍬,車一业日,GFKJ,車一厶日,GFVJ,CJK-B
+𨍬,車丌䒑日,GAUJ,車一厶日,GFVJ,CJK-B
 𨍭,車甫寸,GFAc,,,CJK-B
 𨍮,車一口丨,GFLN,,,CJK-B
 𨍯,日龷八車,JSTG,,,CJK-B
@@ -61424,7 +61424,7 @@ char,division,code,division_tw,code_tw,region
 𨐖,乂木辛,WFOx,,,CJK-B
 𨐗,辛冂一口,OKFL,,,CJK-B
 𨐘,乂木丶辛,WFOO,,,CJK-B
-𨐙,户口辛,ILOx,,,CJK-B
+𨐙,戶口辛,ILOx,,,CJK-B
 𨐚,彐丿口辛,XQLO,,,CJK-B
 𨐛,尸水辛,BKOx,,,CJK-B
 𨐜,辛十,OWDi,,,CJK-B
@@ -61450,7 +61450,7 @@ char,division,code,division_tw,code_tw,region
 𨐰,辛八刀辛,OTBO,,,CJK-B
 𨐱,辛月辛,OWOx,,,CJK-B
 𨐲,爪マ冊辛,EBNO,,,CJK-B
-𨐳,户口八辛,ILTO,,,CJK-B
+𨐳,戶口八辛,ILTO,,,CJK-B
 𨐴,尸口辛甲,BLOK,,,CJK-B
 𨐵,辛心丿辛,OYQO,,,CJK-B
 𨐶,辛彐土一,OXHF,,,CJK-B
@@ -61842,7 +61842,7 @@ char,division,code,division_tw,code_tw,region
 𨖸,止日小辶,NJMP,,,CJK-B
 𨖹,至至辶,HHPd,,,CJK-B
 𨖺,竹而辶,QSPd,,,CJK-B
-𨖻,一〢匚辶,FNGP,,,CJK-B
+𨖻,丌匚コ辶,AGBP,,,CJK-B
 𨖼,丿罒亻辶,QMEP,,,CJK-B
 𨖽,臼人土辶,RTHP,,,CJK-B
 𨖾,糹糸辶,BBPd,,,CJK-B
@@ -63139,7 +63139,7 @@ char,division,code,division_tw,code_tw,region
 𨫉,金日土寸,WJHA,,,CJK-B
 𨫊,金西木,WDFv,,,CJK-B
 𨫋,金工貝,WFMb,,,CJK-B
-𨫌,金一厶日,WFVJ,金一业日,WFKJ,CJK-B
+𨫌,金一厶日,WFVJ,金丌䒑日,WAUJ,CJK-B
 𨫍,金一由心,WFKY,,,CJK-B
 𨫎,金王丶丶,WGOO,,,CJK-B
 𨫏,金亠幺十,WOVD,,,CJK-B
@@ -64188,7 +64188,7 @@ char,division,code,division_tw,code_tw,region
 𨻢,阝而火,CSUo,,,CJK-B
 𨻣,阝厂白小,CSEM,,,CJK-B
 𨻤,阝大人女,CGTC,,,CJK-B
-𨻥,阝日一业,CJFK,,,CJK-B
+𨻥,阝日丌䒑,CJAU,,,CJK-B
 𨻦,阝夊一虫,CEFK,,,CJK-B
 𨻧,阝卯田,CTJt,,,CJK-B
 𨻨,阝巛貝,CVMb,,,CJK-B
@@ -64650,7 +64650,7 @@ char,division,code,division_tw,code_tw,region
 𩂰,雨女口,DCLv,,,CJK-B
 𩂱,雨亠𧘇,DORy,,,CJK-B
 𩂲,雨一口人,DFLT,,,CJK-B
-𩂳,雨一业,DFKg,,,CJK-B
+𩂳,雨丌䒑,DAUe,,,CJK-B
 𩂴,雨木冂,DFKf,,,CJK-B
 𩂵,雨尸巳,DBCk,,,CJK-B
 𩂶,雨一夕刂,DFRM,,,CJK-B
@@ -64847,7 +64847,7 @@ char,division,code,division_tw,code_tw,region
 𩅵,雨氵尸至,DIBH,,,CJK-B
 𩅶,雨户户户,DIII,,,CJK-B
 𩅷,雨彐其乚,DXDX,,,CJK-B
-𩅸,雨一〢田,DFNJ,,,CJK-B
+𩅸,雨丌匚田,DAGJ,,,CJK-B
 𩅹,雨氵目,DIBM,,,CJK-B
 𩅺,雨彡丆貝,DTDM,,,CJK-B
 𩅻,雨氵耂日,DIHJ,,,CJK-B
@@ -65799,7 +65799,7 @@ char,division,code,division_tw,code_tw,region
 𩔭,土口𧘇貝,HLRM,,,CJK-B
 𩔮,王リ王貝,GUGM,,,CJK-B
 𩔯,大人人貝,GTTM,,,CJK-B
-𩔰,日一业貝,JFKM,,,CJK-B
+𩔰,日丌䒑貝,JAUM,,,CJK-B
 𩔱,䒑八皿貝,UTMM,,,CJK-B
 𩔲,卯田丆貝,TJDM,,,CJK-B
 𩔳,龶貝丆貝,HMDM,,,CJK-B
@@ -66446,7 +66446,7 @@ char,division,code,division_tw,code_tw,region
 𩞴,食十艹十,YDSD,,,CJK-B
 𩞵,食士冖,YHYJ,,,CJK-B
 𩞶,食艹阝夫,YSCG,,,CJK-B
-𩞷,食一〢田,YFNJ,,,CJK-B
+𩞷,食丌匚田,YAGJ,,,CJK-B
 𩞸,食西米,YDPm,,,CJK-B
 𩞹,日月犬食,JWSY,,,CJK-B
 𩞺,土口食,WHLY,,,CJK-B
@@ -66835,7 +66835,7 @@ char,division,code,division_tw,code_tw,region
 𩤹,馬禾日,DRJr,,,CJK-B
 𩤺,臼人馬,RTDm,,,CJK-B
 𩤻,馬爪丿夫,DEQG,馬爪一夫,DEFG,CJK-B
-𩤼,馬人一业,DTFK,,,CJK-B
+𩤼,馬人一䒑,DTFU,,,CJK-B
 𩤽,馬⺁虎,DEMu,,,CJK-B
 𩤾,馬虍文,DMPw,,,CJK-B
 𩤿,馬彐冖又,DXYB,,,CJK-B
@@ -67349,7 +67349,7 @@ char,division,code,division_tw,code_tw,region
 𩬻,髟几木,HQFv,,,CJK-B
 𩬼,髟囗夊,HNEh,,,CJK-B
 𩬽,髟マ木,HBFv,,,CJK-B
-𩬾,髟一业,HFKg,,,CJK-B
+𩬾,髟丌䒑,HAUe,,,CJK-B
 𩬿,髟亠𧘇,HORy,,,CJK-B
 𩭀,髟月,HSWy,,,CJK-B
 𩭁,髟川川,HQQc,,,CJK-B
@@ -67449,7 +67449,7 @@ char,division,code,division_tw,code_tw,region
 𩮟,髟干囗人,HHNT,,,CJK-B
 𩮠,髟穴人口,HPTL,,,CJK-B
 𩮡,髟冖一豕,HYFD,,,CJK-B
-𩮢,髟一〢土,HFNH,,,CJK-B
+𩮢,髟丌匚土,HAGH,,,CJK-B
 𩮣,髟止舟,HNQo,,,CJK-B
 𩮤,髟予丿丶,HCQO,,,CJK-B
 𩮥,髟大丷水,HGUK,,,CJK-B
@@ -68938,7 +68938,7 @@ char,division,code,division_tw,code_tw,region
 𪅰,人干口鳥,THLR,,,CJK-B
 𪅱,尸丿虫鳥,BQKR,,,CJK-B
 𪅲,合习习鳥,YXXR,,,CJK-B
-𪅳,一〢匚鳥,FNGR,,,CJK-B
+𪅳,丌匚コ鳥,AGBR,,,CJK-B
 𪅴,一心鳥,FJYR,,,CJK-B
 𪅵,虫二欠鳥,KSER,,,CJK-B
 𪅶,尚夊鳥,NERo,,,CJK-B
@@ -69077,7 +69077,7 @@ char,division,code,division_tw,code_tw,region
 𪇻,言隹鳥,UWRo,,,CJK-B
 𪇼,卄一口鳥,SFLR,,,CJK-B
 𪇽,卄一口鳥,SFLR,,,CJK-B
-𪇾,一业丿鳥,FKQR,,,CJK-B
+𪇾,丌䒑丿鳥,AUQR,,,CJK-B
 𪇿,爿一亻鳥,XFER,,,CJK-B
 𪈀,口口禺鳥,LLKR,,,CJK-B
 𪈁,竹戊一鳥,QDFR,,,CJK-B
@@ -69322,7 +69322,7 @@ char,division,code,division_tw,code_tw,region
 𪋰,鹿罒耂日,IMHJ,,,CJK-B
 𪋱,鹿臼豕,IRDs,,,CJK-B
 𪋲,鹿火火ヰ,IUUA,,,CJK-B
-𪋳,鹿雨一业,IDFK,,,CJK-B
+𪋳,鹿雨一䒑,IDFU,,,CJK-B
 𪋴,鹿几一鳥,IQFR,,,CJK-B
 𪋵,鹿彐水水,IXKK,,,CJK-B
 𪋶,鹿雨口口,IDLL,,,CJK-B
@@ -71097,7 +71097,7 @@ char,division,code,division_tw,code_tw,region
 𪧿,冂人小,KTMa,,,CJK-C
 𪨀,小屮凵,MXXg,,,CJK-C
 𪨁,爪子小,EVMa,,,CJK-C
-𪨂,丶一业小,OFKM,,,CJK-C
+𪨂,丶丌䒑小,OAUM,,,CJK-C
 𪨃,小扌亠十,MAOD,,,CJK-C
 𪨄,小丿八貝,MQTM,,,CJK-C
 𪨅,小矢隹,MQWi,,,CJK-C
@@ -71150,7 +71150,7 @@ char,division,code,division_tw,code_tw,region
 𪨴,山牛八,JWTi,,,CJK-C
 𪨵,扌十又山,ADBJ,,,CJK-C
 𪨶,山大车,JGHc,,,CJK-C
-𪨷,山一业丿,JFKQ,,,CJK-C
+𪨷,山丌䒑丿,JAUQ,,,CJK-C
 𪨸,山口欠,JLEi,,,CJK-C
 𪨹,山口冂人,JLKT,,,CJK-C
 𪨺,山二一マ,JSFB,,,CJK-C
@@ -71644,7 +71644,7 @@ char,division,code,division_tw,code_tw,region
 𪰢,日⺍川,JIQc,,,CJK-C
 𪰣,日习习,JXXi,,,CJK-C
 𪰤,日氵女,JICn,,,CJK-C
-𪰥,日一口一,JFLF,,,CJK-C
+𪰥,日丌口一,JALF,,,CJK-C
 𪰦,日人人土,JTTH,,,CJK-C
 𪰧,日宀厶,JOSV,,,CJK-C
 𪰨,日忄户,JYIe,,,CJK-C
@@ -72037,7 +72037,7 @@ char,division,code,division_tw,code_tw,region
 𪶫,氵厂隹,ISWi,,,CJK-C
 𪶬,氵匚非,IGLi,,,CJK-C
 𪶭,氵一夕灬,IFRU,,,CJK-C
-𪶮,氵一业心,IFKY,,,CJK-C
+𪶮,氵丌䒑心,IAUY,,,CJK-C
 𪶯,氵木丆日,IFDJ,,,CJK-C
 𪶰,髟水,HKva,,,CJK-C
 𪶱,氵山辛,IJOx,,,CJK-C
@@ -72069,7 +72069,7 @@ char,division,code,division_tw,code_tw,region
 𪷋,氵雨𠂉十,IDQD,,,CJK-C
 𪷌,氵而刂灬,ISMU,,,CJK-C
 𪷍,氵龶月见,IHWK,,,CJK-C
-𪷎,氵丅貝丿,IAMQ,,,CJK-C
+𪷎,氵工貝丿,IFMQ,,,CJK-C
 𪷏,氵厂一寸,ISFA,,,CJK-C
 𪷐,氵牙隹,IHWi,,,CJK-C
 𪷑,氵日一里,IJFK,,,CJK-C
@@ -72202,7 +72202,7 @@ char,division,code,division_tw,code_tw,region
 𪹐,火勹口灬,UWLU,,,CJK-C
 𪹑,刀口火火,BLUU,,,CJK-C
 𪹒,火厂卄日,USSJ,,,CJK-C
-𪹓,火一业日,UFKJ,,,CJK-C
+𪹓,火丌䒑日,UAUJ,,,CJK-C
 𪹔,火王向,UGRn,,,CJK-C
 𪹕,日勹日灬,JWJU,,,CJK-C
 𪹖,火山一夊,UJFE,,,CJK-C
@@ -72577,7 +72577,7 @@ char,division,code,division_tw,code_tw,region
 𪿇,予丿口月,CQLW,,,CJK-C
 𪿈,矢木,QFvi,,,CJK-C
 𪿉,矢小丿,QMQp,,,CJK-C
-𪿊,矢一业,QFKg,,,CJK-C
+𪿊,矢丌䒑,QAUe,,,CJK-C
 𪿋,矢其,QDji,,,CJK-C
 𪿌,矢予丿木,QCQF,,,CJK-C
 𪿍,矢口口刂,QLLM,,,CJK-C
@@ -73818,7 +73818,7 @@ char,division,code,division_tw,code_tw,region
 𫒠,金丿糸,WQBs,,,CJK-C
 𫒡,金𠂉乛龰,WQVN,,,CJK-C
 𫒢,金冖儿干,WYQH,,,CJK-C
-𫒣,丶一业金,OFKW,,,CJK-C
+𫒣,丶丌䒑金,OAUW,,,CJK-C
 𫒤,金文子,WPVk,,,CJK-C
 𫒥,金亡心,WUYi,,,CJK-C
 𫒦,金十且,WDMi,,,CJK-C
@@ -74939,7 +74939,7 @@ char,division,code,division_tw,code_tw,region
 𫤉,亻匕丆,ERDR,,,CJK-E
 𫤊,一口田田,FLJJ,,,CJK-E
 𫤋,言一卩,UFTX,,,CJK-E
-𫤌,亻一业夊,EFKE,,,CJK-E
+𫤌,亻丌䒑夊,EAUE,,,CJK-E
 𫤍,人王言冊,TGUN,入王言冊,RGUN,CJK-E
 𫤎,亻匕丆止,ERDN,,,CJK-E
 𫤏,亻匕丆辶,ERDP,,,CJK-E
@@ -75004,7 +75004,7 @@ char,division,code,division_tw,code_tw,region
 𫥊,二⺈厂㔾,SYSV,,,CJK-E
 𫥋,二艮,SVni,,,CJK-E
 𫥌,二王卄,SGSj,,,CJK-E
-𫥍,二一业丿,SFKQ,,,CJK-E
+𫥍,二丌䒑丿,SAUQ,,,CJK-E
 𫥎,⺈口儿⺀,YLQS,,,CJK-E
 𫥏,二木夊,SFEh,,,CJK-E
 𫥐,二日一寸,SJFA,,,CJK-E
@@ -75051,7 +75051,7 @@ char,division,code,division_tw,code_tw,region
 𫥹,〢大刂,NGMd,,,CJK-E
 𫥺,业刂,KMdg,,,CJK-E
 𫥻,刂人丶マ,MTOB,刂人一マ,MTFB,CJK-E
-𫥼,一业刂,FKMd,,,CJK-E
+𫥼,丌䒑刂,AUMd,,,CJK-E
 𫥽,夭刂,ETMd,,,CJK-E
 𫥾,米刂,PMdm,,,CJK-E
 𫥿,亠八乂刀,OTWB,,,CJK-E
@@ -75313,7 +75313,7 @@ char,division,code,division_tw,code_tw,region
 𫩿,口扌丁入,LAAR,,,CJK-E
 𫪀,口寸辶,LAPd,,,CJK-E
 𫪁,口一米,LFPm,,,CJK-E
-𫪂,口一业丿,LFKQ,,,CJK-E
+𫪂,口丌䒑丿,LAUQ,,,CJK-E
 𫪃,口一,LFKK,,,CJK-E
 𫪄,口〢又土,LNBH,,,CJK-E
 𫪅,口日寸,LJAc,,,CJK-E
@@ -75382,7 +75382,7 @@ char,division,code,division_tw,code_tw,region
 𫫄,口扌大人,LAGT,,,CJK-E
 𫫅,口鬥,LNdv,,,CJK-E
 𫫆,口口丨,LDLN,,,CJK-E
-𫫇,口一业心,LFKY,,,CJK-E
+𫫇,口丌䒑心,LAUY,,,CJK-E
 𫫈,止小合,NMYe,,,CJK-E
 𫫉,口缶欠,LWEi,,,CJK-E
 𫫊,口隹又,LWBu,,,CJK-E
@@ -75397,7 +75397,7 @@ char,division,code,division_tw,code_tw,region
 𫫓,口扌广口,LAUL,,,CJK-E
 𫫔,口扌土卜,LAHM,,,CJK-E
 𫫕,口木龵廴,LFTX,,,CJK-E
-𫫖,口一口心,LFLY,,,CJK-E
+𫫖,口丌口心,LALY,,,CJK-E
 𫫗,口不貝,LDMb,,,CJK-E
 𫫘,不口不口,DLDL,,,CJK-E
 𫫙,口匕矢欠,LRQE,,,CJK-E
@@ -75553,7 +75553,7 @@ char,division,code,division_tw,code_tw,region
 𫭯,土彐寸,HXAc,,,CJK-E
 𫭰,土士心,HHYi,,,CJK-E
 𫭱,土而一,HSFi,,,CJK-E
-𫭲,土一业丿,HFKQ,,,CJK-E
+𫭲,土丌䒑丿,HAUQ,,,CJK-E
 𫭳,土土乙,HHVA,,,CJK-E
 𫭴,禾刂土,RMHt,,,CJK-E
 𫭵,土忄丑,HYBc,,,CJK-E
@@ -75738,7 +75738,7 @@ char,division,code,division_tw,code_tw,region
 𫰨,女乛⺀大,CVSG,,,CJK-E
 𫰩,女凵木,CXFv,,,CJK-E
 𫰪,女耂子,CHVk,,,CJK-E
-𫰫,女一口一,CFLF,,,CJK-E
+𫰫,女丌口一,CALF,,,CJK-E
 𫰬,女木工,CFFo,,,CJK-E
 𫰭,女土八,CHTT,,,CJK-E
 𫰮,女艹尸,CSBh,,,CJK-E
@@ -75814,7 +75814,7 @@ char,division,code,division_tw,code_tw,region
 𫱴,臼目女,RMCn,,,CJK-E
 𫱵,女丷酉寸,CUGA,,,CJK-E
 𫱶,予丿小女,CQMC,,,CJK-E
-𫱷,女彐片十,CXTD,,,CJK-E
+𫱷,女肀片一,CXTF,,,CJK-E
 𫱸,女干𡗗水,CHGK,,,CJK-E
 𫱹,女一水𧘇,CFKR,,,CJK-E
 𫱺,女士口又,CHLB,,,CJK-E
@@ -75841,7 +75841,7 @@ char,division,code,division_tw,code_tw,region
 𫲏,女艹日又,CSJB,女艹冂又,CSKB,CJK-E
 𫲐,女尚貝,CNMb,,,CJK-E
 𫲑,女舟予木,CQCF,,,CJK-E
-𫲒,女丶目丨,COMN,,,CJK-E
+𫲒,女丶丌丨,COAN,,,CJK-E
 𫲓,亡罒月丶,UMWO,,,CJK-E
 𫲔,女艹隹灬,CSWU,,,CJK-E
 𫲕,屮𠂤辛女,XYOC,,,CJK-E
@@ -75890,11 +75890,11 @@ char,division,code,division_tw,code_tw,region
 𫳀,宀幺力,OVXk,,,CJK-E
 𫳁,宀大山,OGJs,,,CJK-E
 𫳂,宀一由,OFKo,,,CJK-E
-𫳃,宀一业,OFKg,,,CJK-E
+𫳃,宀丌䒑,OAUe,,,CJK-E
 𫳄,宀宀巳,OOCk,,,CJK-E
 𫳅,宀羊,OUgb,,,CJK-E
 𫳆,宀弓弓,OVVg,,,CJK-E
-𫳇,宀丅丨一,OANF,,,CJK-E
+𫳇,宀丅口丄,OALK,,,CJK-E
 𫳈,宀土冖儿,OHYQ,,,CJK-E
 𫳉,宀戈大,OGGd,,,CJK-E
 𫳊,宀止土,ONHt,,,CJK-E
@@ -76305,7 +76305,7 @@ char,division,code,division_tw,code_tw,region
 𫹟,彳口王阝,RLGC,彳口壬阝,RLEC,CJK-E
 𫹠,彳竹夭,RQEo,,,CJK-E
 𫹡,彳革二,RGSi,,,CJK-E
-𫹢,彳户口夊,RILE,,,CJK-E
+𫹢,彳戶口夊,RILE,,,CJK-E
 𫹣,彳大丷小,RGUM,,,CJK-E
 𫹤,彳业丨〢,RKNN,,,CJK-E
 𫹥,彳丿冂,RCQK,,,CJK-E
@@ -76685,7 +76685,7 @@ char,division,code,division_tw,code_tw,region
 𫿛,小丿目夊,MQME,,,CJK-E
 𫿜,⺧口貝夊,WLME,,,CJK-E
 𫿝,米亠囗夊,PONE,,,CJK-E
-𫿞,一业丿夊,FKQE,,,CJK-E
+𫿞,丌䒑丿夊,AUQE,,,CJK-E
 𫿟,扌非乂夊,ALWE,,,CJK-E
 𫿠,亠〢羊夊,ONUE,,,CJK-E
 𫿡,鹿灬夊,IUEh,,,CJK-E
@@ -76841,7 +76841,7 @@ char,division,code,division_tw,code_tw,region
 𬁷,月夭,WEoy,,,CJK-E
 𬁸,月人㔾,WTVi,,,CJK-E
 𬁹,屮凵月,XXWy,,,CJK-E
-𬁺,月一业,WFKg,,,CJK-E
+𬁺,月丌䒑,WAUe,,,CJK-E
 𬁻,月丰八,WDTi,,,CJK-E
 𬁼,二欠月,SEWy,,,CJK-E
 𬁽,月口贝,WLKb,,,CJK-E
@@ -76897,7 +76897,7 @@ char,division,code,division_tw,code_tw,region
 𬂯,木土,FRHt,,,CJK-E
 𬂰,木冖𧘇,FYRy,,,CJK-E
 𬂱,氵𠄎木,IVTF,,,CJK-E
-𬂲,木一口一,FFLF,,,CJK-E
+𬂲,木丌口一,FALF,,,CJK-E
 𬂳,木工人人,FFTT,,,CJK-E
 𬂴,木土乙,FHVA,,,CJK-E
 𬂵,木艹又丶,FSBO,木艹丶乂,FSOW,CJK-E
@@ -77041,7 +77041,7 @@ char,division,code,division_tw,code_tw,region
 𬄿,木羊耳又,FUAB,,,CJK-E
 𬅀,木辛木口,FOFL,,,CJK-E
 𬅁,木士口貝,FHLM,,,CJK-E
-𬅂,木古一心,FDFY,,,CJK-E
+𬅂,木古丌心,FDAY,,,CJK-E
 𬅃,木木匕尤,FFRD,,,CJK-E
 𬅄,未戊乛木,HDVF,,,CJK-E
 𬅅,木艹艹未,FSSH,,,CJK-E
@@ -77085,7 +77085,7 @@ char,division,code,division_tw,code_tw,region
 𬅫,十卄贝欠,DSKE,,,CJK-E
 𬅬,羊口欠,ULEi,,,CJK-E
 𬅭,士冖示欠,HYHE,,,CJK-E
-𬅮,日一业欠,JFKE,,,CJK-E
+𬅮,日丌䒑欠,JAUE,,,CJK-E
 𬅯,日口凵欠,JLXE,,,CJK-E
 𬅰,口口冖欠,LLYE,,,CJK-E
 𬅱,丿米田欠,QPJE,,,CJK-E
@@ -77211,7 +77211,7 @@ char,division,code,division_tw,code_tw,region
 𬇩,氵木土,IFHt,,,CJK-E
 𬇪,氵木亍,IFAh,,,CJK-E
 𬇫,氵扌巴,IACb,,,CJK-E
-𬇬,氵一业丿,IFKQ,,,CJK-E
+𬇬,氵丌䒑丿,IAUQ,,,CJK-E
 𬇭,氵小丿下,IMQA,,,CJK-E
 𬇮,氵殳亡,IQUw,,,CJK-E
 𬇯,氵丷刂,IUAM,,,CJK-E
@@ -77949,7 +77949,7 @@ char,division,code,division_tw,code_tw,region
 𬓋,示⺈冂大,HYKG,,,CJK-E
 𬓌,示丶彐阝,HOXC,,,CJK-E
 𬓍,示亦大,HPGd,,,CJK-E
-𬓎,示一业日,HFKJ,,,CJK-E
+𬓎,示丌䒑日,HAUJ,,,CJK-E
 𬓏,示隹又,HWBu,,,CJK-E
 𬓐,示乚厶心,HXVY,,,CJK-E
 𬓑,示革二,HGSi,,,CJK-E
@@ -78426,7 +78426,7 @@ char,division,code,division_tw,code_tw,region
 𬚨,耳一八乂,AFTW,,,CJK-E
 𬚩,山石山耳,JDJA,,,CJK-E
 𬚪,彐土乂,XHWl,,,CJK-E
-𬚫,户口彐,ILXA,,,CJK-E
+𬚫,戶口彐,ILXA,,,CJK-E
 𬚬,⺧儿彐彡,WQXT,,,CJK-E
 𬚭,烏彐,YXAo,,,CJK-E
 𬚮,夕一夕,RFRA,,,CJK-E
@@ -79107,7 +79107,7 @@ char,division,code,division_tw,code_tw,region
 𬥑,乂凵貝,WXMb,,,CJK-E
 𬥒,彐丿貝,XQMb,,,CJK-E
 𬥓,貝丷,MUAo,,,CJK-E
-𬥔,⺁丅貝匕,EAMR,,,CJK-E
+𬥔,斤貝匕,EMRi,,,CJK-E
 𬥕,貝八丅乛,MTAV,,,CJK-E
 𬥖,貝止土,MNHt,,,CJK-E
 𬥗,貝人人土,MTTH,,,CJK-E
@@ -79123,7 +79123,7 @@ char,division,code,division_tw,code_tw,region
 𬥡,卜夕斤貝,MREM,,,CJK-E
 𬥢,貝爪干又,MEHB,,,CJK-E
 𬥣,八刀貝㔾,TBMV,,,CJK-E
-𬥤,貝宀丅一,MOAF,,,CJK-E
+𬥤,貝宀丅丄,MOAK,,,CJK-E
 𬥥,貝冖豕丶,MYDO,,,CJK-E
 𬥦,未夊厂貝,HESM,,,CJK-E
 𬥧,貝𠂉母夊,MQBE,,,CJK-E
@@ -80992,8 +80992,8 @@ char,division,code,division_tw,code_tw,region
 𭂼,巛𡿨巛凵,VXVX,,,CJK-F
 𭂽,屮凵乂木,XXWF,,,CJK-F
 𭂾,一日八女,FJTC,,,CJK-F
-𭂿,乂凵一心,WXFY,,,CJK-F
-𭃀,屮凵一心,XXFY,,,CJK-F
+𭂿,乂凵丌心,WXAY,,,CJK-F
+𭃀,屮凵丌心,XXAY,,,CJK-F
 𭃁,屮凵一心,XXFY,,,CJK-F
 𭃂,乛,VAoi,,,CJK-F
 𭃃,刀七,BAid,,,CJK-F
@@ -81081,7 +81081,7 @@ char,division,code,division_tw,code_tw,region
 𭄕,竹人一刂,QTFM,,,CJK-F
 𭄖,宀丆且刂,ODMM,,,CJK-F
 𭄗,宀貝刂,OBMM,,,CJK-F
-𭄘,一〢匚刂,FNGM,,,CJK-F
+𭄘,丌匚コ刂,AGBM,,,CJK-F
 𭄙,竹户冊刂,QINM,,,CJK-F
 𭄚,艹口口刂,SLLM,,,CJK-F
 𭄛,⺧儿⺧刂,WQWM,,,CJK-F
@@ -81408,7 +81408,7 @@ char,division,code,division_tw,code_tw,region
 𭉜,口扌里,LAKk,,,CJK-F
 𭉝,口一夕八,LFRT,,,CJK-F
 𭉞,口土阝,LHTC,,,CJK-F
-𭉟,口一业日,LFKJ,,,CJK-F
+𭉟,口丌䒑日,LAUJ,,,CJK-F
 𭉠,丰丷一寸,DUFA,,,CJK-F
 𭉡,口艹亻壬,LSEE,,,CJK-F
 𭉢,尚乛一口,NVFL,,,CJK-F
@@ -81448,7 +81448,7 @@ char,division,code,division_tw,code_tw,region
 𭊄,口木口犬,LFLS,,,CJK-F
 𭊅,口扌斤辶,LAEP,,,CJK-F
 𭊆,土八口,HTTL,,,CJK-F
-𭊇,口一业田,LFKJ,,,CJK-F
+𭊇,口丌䒑田,LAUJ,,,CJK-F
 𭊈,口田龷八,LJST,,,CJK-F
 𭊉,口口口口,LLLL,,,CJK-F
 𭊊,口艹夊丰,LSED,,,CJK-F
@@ -81998,7 +81998,7 @@ char,division,code,division_tw,code_tw,region
 𭒪,女一弋貝,CFGM,,,CJK-F
 𭒫,女口十夊,CLDE,,,CJK-F
 𭒬,女合十十,CYDD,,,CJK-F
-𭒭,女一业匕,CFKR,,,CJK-F
+𭒭,女丌䒑匕,CAUR,,,CJK-F
 𭒮,女艹門日,CSKJ,,,CJK-F
 𭒯,艹尸口女,SBLC,,,CJK-F
 𭒰,口十口女,LDLC,,,CJK-F
@@ -82144,7 +82144,7 @@ char,division,code,division_tw,code_tw,region
 𭔼,阝丶艮寸,COVA,,,CJK-F
 𭔽,阝目一寸,CMFA,,,CJK-F
 𭔾,业口土寸,KLHA,,,CJK-F
-𭔿,八一〢寸,TFNA,,,CJK-F
+𭔿,八丌冂寸,TAKA,,,CJK-F
 𭕀,士冖一寸,HYFA,,,CJK-F
 𭕁,日耳又寸,JABA,冂二耳寸,KSAA,CJK-F
 𭕂,囗口貝寸,NLMA,,,CJK-F
@@ -82500,7 +82500,7 @@ char,division,code,division_tw,code_tw,region
 𭚠,丿弋丶,QGOd,,,CJK-F
 𭚡,弋コ,GBuy,,,CJK-F
 𭚢,土八夊弋,HTEG,土儿夊弋,HQEG,CJK-F
-𭚣,弋一业日,GFKJ,,,CJK-F
+𭚣,弋丌䒑日,GAUJ,,,CJK-F
 𭚤,丂一小工,SFMF,,,CJK-F
 𭚥,丶𠄎,OVid,,,CJK-F
 𭚦,弓广,VUug,,,CJK-F
@@ -82741,7 +82741,7 @@ char,division,code,division_tw,code_tw,region
 𭞑,甫夊心,FEYi,,,CJK-F
 𭞒,忄厂户冊,YSIN,,,CJK-F
 𭞓,扌隹心,AWYi,,,CJK-F
-𭞔,一业心凵,FKYX,,,CJK-F
+𭞔,丌䒑心凵,AUYX,,,CJK-F
 𭞕,日且力心,JMXY,,,CJK-F
 𭞖,忄艹彐卩,YSXX,,,CJK-F
 𭞗,上一大心,KFGY,,,CJK-F
@@ -82940,7 +82940,7 @@ char,division,code,division_tw,code_tw,region
 𭡘,扌八刀贝,ATBK,,,CJK-F
 𭡙,手户月,TIWy,,,CJK-F
 𭡚,扌氵土厶,AIHV,,,CJK-F
-𭡛,扌亠乂儿,AOWQ,,,CJK-F
+𭡛,扌文凵儿,APXQ,,,CJK-F
 𭡜,扌宀申,AOKe,,,CJK-F
 𭡝,扌凵了二,AXVS,,,CJK-F
 𭡞,扌土土寸,AHHA,,,CJK-F
@@ -82966,7 +82966,7 @@ char,division,code,division_tw,code_tw,region
 𭡲,扌丆目夊,ADME,,,CJK-F
 𭡳,扌走己,ADBj,扌走巳,ADCk,CJK-F
 𭡴,扌七丿皿,AAQM,,,CJK-F
-𭡵,扌一业心,AFKY,,,CJK-F
+𭡵,扌丌䒑心,AAUY,,,CJK-F
 𭡶,扌艹早,ASJd,,,CJK-F
 𭡷,扌艹戊丶,ASDO,,,CJK-F
 𭡸,扌卜日龰,AMJN,,,CJK-F
@@ -83267,7 +83267,7 @@ char,division,code,division_tw,code_tw,region
 𭦟,日罒一勹,JMFW,,,CJK-F
 𭦠,日日丿卄,JJQS,,,CJK-F
 𭦡,日斤欠,JEEi,,,CJK-F
-𭦢,日彡亅丅,JTVA,,,CJK-F
+𭦢,日彡亅斤,JTVE,,,CJK-F
 𭦣,日丷夫㔾,JUGV,,,CJK-F
 𭦤,日宀一龰,JOFN,,,CJK-F
 𭦥,日广亻寸,JUEA,,,CJK-F
@@ -83393,7 +83393,7 @@ char,division,code,division_tw,code_tw,region
 𭨝,日勹斤,JWTE,,,CJK-F
 𭨞,王リ王日,GUGJ,,,CJK-F
 𭨟,丷日丷丿,UJUQ,,,CJK-F
-𭨠,户口夊日,ILEJ,,,CJK-F
+𭨠,戶口夊日,ILEJ,,,CJK-F
 𭨡,彐土日乂,XHJW,,,CJK-F
 𭨢,日屮凵丶,JXXO,,,CJK-F
 𭨣,日合口冊,JYLN,,,CJK-F
@@ -83689,7 +83689,7 @@ char,division,code,division_tw,code_tw,region
 𭭅,一兀欠,FHEi,,,CJK-F
 𭭆,冖几欠,YQEi,,,CJK-F
 𭭇,木冂欠,FKEi,,,CJK-F
-𭭈,一业欠,FKEi,,,CJK-F
+𭭈,丌䒑欠,AUEi,,,CJK-F
 𭭉,亠八乂欠,OTWE,,,CJK-F
 𭭊,夕口欠,RLEi,,,CJK-F
 𭭋,羊欠,UEig,,,CJK-F
@@ -83699,7 +83699,7 @@ char,division,code,division_tw,code_tw,region
 𭭏,匚米欠,GPEi,,,CJK-F
 𭭐,日一勹欠,JFWE,,,CJK-F
 𭭑,日皿欠,JMEi,,,CJK-F
-𭭒,一业日欠,FKJE,,,CJK-F
+𭭒,丌䒑日欠,AUJE,,,CJK-F
 𭭓,丆月冖欠,DWYE,,,CJK-F
 𭭔,虍斤一欠,MEFE,,,CJK-F
 𭭕,龷隹欠,SWEi,,,CJK-F
@@ -83820,7 +83820,7 @@ char,division,code,division_tw,code_tw,region
 𭯈,不母,DBmu,,,CJK-F
 𭯉,𠂉母𠂉,QBQQ,,,CJK-F
 𭯊,匕匕口儿,RRLQ,,,CJK-F
-𭯋,一业匕匕,FKRR,,,CJK-F
+𭯋,丌䒑匕匕,AURR,,,CJK-F
 𭯌,匕匕𠂉ヰ,RRQA,,,CJK-F
 𭯍,⺈口匕匕,YLRR,,,CJK-F
 𭯎,二欠匕匕,SERR,,,CJK-F
@@ -84171,7 +84171,7 @@ char,division,code,division_tw,code_tw,region
 𭴧,火一口䒑,UFLU,,,CJK-F
 𭴨,火古儿,UDQr,,,CJK-F
 𭴩,土八火,HTTU,,,CJK-F
-𭴪,一业丿火,FKQU,,,CJK-F
+𭴪,丌䒑丿火,AUQU,,,CJK-F
 𭴫,日巳灬,JCUo,,,CJK-F
 𭴬,里火,KUok,,,CJK-F
 𭴭,火卜囗コ,UMNB,,,CJK-F
@@ -84555,8 +84555,8 @@ char,division,code,division_tw,code_tw,region
 𭺧,革宀女瓦,GOCA,,,CJK-F
 𭺨,魚日瓦,TJAw,,,CJK-F
 𭺩,貝貝女瓦,MMCA,,,CJK-F
-𭺪,一〢二,FNSi,,,CJK-F
-𭺫,一〢二,FNSi,,,CJK-F
+𭺪,丌二,ASij,,,CJK-F
+𭺫,丅丨二,ANSi,,,CJK-F
 𭺬,卄二匕日,SSRJ,,,CJK-F
 𭺭,卄二冖羊,SSYU,,,CJK-F
 𭺮,龸乚口二,NXLS,,,CJK-F
@@ -84590,7 +84590,7 @@ char,division,code,division_tw,code_tw,region
 𭻊,田亅二,JTVS,,,CJK-F
 𭻋,コ二日丿,BSJQ,,,CJK-F
 𭻌,西田,DJtx,,,CJK-F
-𭻍,一业田,FKJt,,,CJK-F
+𭻍,丌䒑田,AUJt,,,CJK-F
 𭻎,甲一夕刂,KFRM,,,CJK-F
 𭻏,一夕匕田,FRRJ,,,CJK-F
 𭻐,田乃木,JVFv,,,CJK-F
@@ -85302,7 +85302,7 @@ char,division,code,division_tw,code_tw,region
 𮆒,竹氵匚木,QIGF,,,CJK-F
 𮆓,竹力口貝,QXLM,,,CJK-F
 𮆔,竹𮓗斤八,QMET,,,CJK-F
-𮆕,竹一〢十,QFND,,,CJK-F
+𮆕,竹丌一十,QAFD,,,CJK-F
 𮆖,竹面夊,QGEh,,,CJK-F
 𮆗,竹艹氵口,QSIL,,,CJK-F
 𮆘,竹罒冖戈,QMYG,,,CJK-F
@@ -85365,7 +85365,7 @@ char,division,code,division_tw,code_tw,region
 𮇑,米屮凵,PXXg,,,CJK-F
 𮇒,米力口,PXLv,,,CJK-F
 𮇓,夊米,ETPm,,,CJK-F
-𮇔,米一业,PFKg,,,CJK-F
+𮇔,米丌䒑,PAUe,,,CJK-F
 𮇕,米士口,PHLv,,,CJK-F
 𮇖,米匕日,PRJr,,,CJK-F
 𮇗,米艹乂,PSWl,,,CJK-F
@@ -85563,7 +85563,7 @@ char,division,code,division_tw,code_tw,region
 𮊗,冖八巛木,YTVF,,,CJK-F
 𮊘,冂乂乂寸,KWWA,,,CJK-F
 𮊙,罒习习白,MXXE,,,CJK-F
-𮊚,罒一〢田,MFNJ,,,CJK-F
+𮊚,罒丌匚田,MAGJ,,,CJK-F
 𮊛,罒火火毛,MUUR,,,CJK-F
 𮊜,冂人冖力,KTYX,,,CJK-F
 𮊝,罒厂火毛,MSUR,,,CJK-F
@@ -85736,7 +85736,7 @@ char,division,code,division_tw,code_tw,region
 𮍄,月戈爿臣,WGXS,,,CJK-F
 𮍅,艹日大月,SJGW,,,CJK-F
 𮍆,月艹冂丶,WSKO,,,CJK-F
-𮍇,月一业匕,WFKR,,,CJK-F
+𮍇,月丌䒑匕,WAUR,,,CJK-F
 𮍈,金辰月,WSWy,,,CJK-F
 𮍉,冂人人力,KTTX,,,CJK-F
 𮍊,月立木見,WIFM,,,CJK-F
@@ -86962,11 +86962,11 @@ char,division,code,division_tw,code_tw,region
 𮠎,尸毛耳阝,BRAC,,,CJK-F
 𮠏,木幺木巴,FVFC,,,CJK-F
 𮠐,勹口古阝,WLDC,,,CJK-F
-𮠑,一业丿阝,FKQC,,,CJK-F
+𮠑,丌䒑丿阝,AUQC,,,CJK-F
 𮠒,广黑阝,UNCj,,,CJK-F
 𮠓,山豕豕阝,JDDC,,,CJK-F
 𮠔,广黑土阝,UNHC,,,CJK-F
-𮠕,一〢冂三,FNKF,,,CJK-F
+𮠕,丌冂三,AKFa,,,CJK-F
 𮠖,𠂉酉,QGok,,,CJK-F
 𮠗,酉乛一,GVFi,,,CJK-F
 𮠘,酉⺈丶,GYOd,,,CJK-F
@@ -87285,7 +87285,7 @@ char,division,code,division_tw,code_tw,region
 𮥑,阝火小丶,CUMO,,,CJK-F
 𮥒,阝冖車,CYGc,,,CJK-F
 𮥓,阝癶生,CBWg,,,CJK-F
-𮥔,阝一业日,CFKJ,,,CJK-F
+𮥔,阝丌䒑日,CAUJ,,,CJK-F
 𮥕,阝甫寸,CFAc,,,CJK-F
 𮥖,阝口电,CLKT,,,CJK-F
 𮥗,阝艹人木,CSTF,,,CJK-F
@@ -87613,7 +87613,7 @@ char,division,code,division_tw,code_tw,region
 𮪙,馬习习彡,DXXT,,,CJK-F
 𮪚,馬口口木,DLLF,,,CJK-F
 𮪛,馬亡罒几,DUMQ,,,CJK-F
-𮪜,馬一业匕,DFKR,,,CJK-F
+𮪜,馬丌䒑匕,DAUR,,,CJK-F
 𮪝,馬厂西寸,DSDA,,,CJK-F
 𮪞,馬口木,DSLF,,,CJK-F
 𮪟,馬合口冊,DYLN,,,CJK-F
@@ -87870,7 +87870,7 @@ char,division,code,division_tw,code_tw,region
 𮮚,黑立口,NILv,,,CJK-F
 𮮛,黑宀尸コ,NOBB,黑宀丨コ,NONB,CJK-F
 𮮜,立日里灬,IJKU,,,CJK-F
-𮮝,户口夊黑,ILEN,,,CJK-F
+𮮝,戶口夊黑,ILEN,,,CJK-F
 𮮞,身里黑,WKNe,,,CJK-F
 𮮟,士罒貝灬,HMMU,,,CJK-F
 𮮠,龷丨丷八,SNUT,,,CJK-F
@@ -88052,7 +88052,7 @@ char,division,code,division_tw,code_tw,region
 𰁯,人丶水,TOKv,,,CJK-G
 𰁰,弓人,VTTe,,,CJK-G
 𰁱,亻大巳,EGCk,,,CJK-G
-𰁲,亻十冂丨,EDKN,,,CJK-G
+𰁲,亻十冂丄,EDKK,,,CJK-G
 𰁳,亻匚斤,EGEj,,,CJK-G
 𰁴,亻土一,EHFA,,,CJK-G
 𰁵,亻士子,EHVk,,,CJK-G
@@ -88078,7 +88078,7 @@ char,division,code,division_tw,code_tw,region
 𰂉,亻𠂉丶,EQWO,,,CJK-G
 𰂊,亻乂口,EWSL,,,CJK-G
 𰂋,亻门日,EPJr,,,CJK-G
-𰂌,亻户口,EILv,,,CJK-G
+𰂌,亻戶口,EILv,,,CJK-G
 𰂍,亻厶小又,EVMB,,,CJK-G
 𰂎,亻门月,EPWy,,,CJK-G
 𰂏,亻十乛大,EDVG,,,CJK-G
@@ -88306,7 +88306,7 @@ char,division,code,division_tw,code_tw,region
 𰅭,八十,TDii,,,CJK-G
 𰅮,乃十,VDij,,,CJK-G
 𰅯,乙乙乙十,VVVD,,,CJK-G
-𰅰,十冂一丨,DKFN,,,CJK-G
+𰅰,十冂丄,DKKs,,,CJK-G
 𰅱,乂凵十,WXDi,,,CJK-G
 𰅲,世十,HDii,,,CJK-G
 𰅳,大丷十,GUDi,,,CJK-G
@@ -88744,7 +88744,7 @@ char,division,code,division_tw,code_tw,region
 𰌣,子矢,VQik,,,CJK-G
 𰌤,子人丶マ,VTOB,子人一マ,VTFB,CJK-G
 𰌥,子宀丁,VOAn,,,CJK-G
-𰌦,子一业,VFKg,,,CJK-G
+𰌦,子丌䒑,VAUe,,,CJK-G
 𰌧,子而,VSrk,,,CJK-G
 𰌨,子小月,VMWy,,,CJK-G
 𰌩,來子,DVkl,,,CJK-G
@@ -88866,7 +88866,7 @@ char,division,code,division_tw,code_tw,region
 𰎝,山冖车,JYHc,,,CJK-G
 𰎞,山冖𧘇,JYRy,,,CJK-G
 𰎟,山大人人,JGTT,,,CJK-G
-𰎠,山一业丿,JFKQ,,,CJK-G
+𰎠,山丌䒑丿,JAUQ,,,CJK-G
 𰎡,山王大,JGGd,,,CJK-G
 𰎢,山囗乛,JNAV,,,CJK-G
 𰎣,戶弋山,IGJs,,,CJK-G
@@ -89118,7 +89118,7 @@ char,division,code,division_tw,code_tw,region
 𰒙,忄氵卄入,YISR,,,CJK-G
 𰒚,立日心口,IJYL,,,CJK-G
 𰒛,木几心,FHQY,,,CJK-G
-𰒜,一业心水,FKYK,,,CJK-G
+𰒜,丌䒑心水,AUYK,,,CJK-G
 𰒝,木口木丿,FLFQ,,,CJK-G
 𰒞,忄巛囗,YVNB,,,CJK-G
 𰒟,忄西䒑月,YDUW,,,CJK-G
@@ -89210,7 +89210,7 @@ char,division,code,division_tw,code_tw,region
 𰓵,手夊丰,TEDn,,,CJK-G
 𰓶,禾刂手,RMTu,,,CJK-G
 𰓷,扌门王,APGn,,,CJK-G
-𰓸,扌户口,AILv,,,CJK-G
+𰓸,扌戶口,AILv,,,CJK-G
 𰓹,扌丶卄丶,AOSO,,,CJK-G
 𰓺,扌臣人,ASTe,,,CJK-G
 𰓻,扌夫见,AGKx,,,CJK-G
@@ -89354,7 +89354,7 @@ char,division,code,division_tw,code_tw,region
 𰖅,日⺧儿,JWQr,,,CJK-G
 𰖆,乛水一日,VKFJ,,,CJK-G
 𰖇,日古儿,JDQr,,,CJK-G
-𰖈,日一业丿,JFKQ,,,CJK-G
+𰖈,日丌䒑丿,JAUQ,,,CJK-G
 𰖉,日一口䒑,JFLU,,,CJK-G
 𰖊,日日乀,JJSO,,,CJK-G
 𰖋,日夊人人,JETT,,,CJK-G
@@ -89439,7 +89439,7 @@ char,division,code,division_tw,code_tw,region
 𰗚,木冖丂一,FYSF,,,CJK-G
 𰗛,木又,FBAo,,,CJK-G
 𰗜,厂犬木,SSFv,,,CJK-G
-𰗝,木十冂丨,FDKN,,,CJK-G
+𰗝,木十冂丄,FDKK,,,CJK-G
 𰗞,小彐木,MXFv,,,CJK-G
 𰗟,木乂凵儿,FWXQ,,,CJK-G
 𰗠,木夊巾,FEMv,,,CJK-G
@@ -89469,7 +89469,7 @@ char,division,code,division_tw,code_tw,region
 𰗸,木乛水三,FVKF,,,CJK-G
 𰗹,木肀八,FXTT,,,CJK-G
 𰗺,木十卄贝,FDSK,,,CJK-G
-𰗻,木一业女,FFKC,,,CJK-G
+𰗻,木丌䒑女,FAUC,,,CJK-G
 𰗼,木日生,FJWg,,,CJK-G
 𰗽,木日立,FJId,,,CJK-G
 𰗾,木矢木,FQFv,,,CJK-G
@@ -89599,7 +89599,7 @@ char,division,code,division_tw,code_tw,region
 𰙺,舟丆貝止,QDMN,,,CJK-G
 𰙻,里厂木止,KSFN,,,CJK-G
 𰙼,一夕三,FRFa,,,CJK-G
-𰙽,一夕十丨,FRDN,,,CJK-G
+𰙽,一夕十丄,FRDK,,,CJK-G
 𰙾,一夕人王,FRTG,一夕入王,FRRG,CJK-G
 𰙿,一夕止小,FRNM,,,CJK-G
 𰚀,一夕辛,FROx,,,CJK-G
@@ -90059,7 +90059,7 @@ char,division,code,division_tw,code_tw,region
 𰡆,犭用,RTnq,,,CJK-G
 𰡇,犭夕卜,RRMo,,,CJK-G
 𰡈,犬且,SMiq,,,CJK-G
-𰡉,犭一业,RFKg,,,CJK-G
+𰡉,犭丌䒑,RAUe,,,CJK-G
 𰡊,犭夭,RETi,,,CJK-G
 𰡋,犭冖车,RYHc,,,CJK-G
 𰡌,犭舟,RQoq,,,CJK-G
@@ -90243,7 +90243,7 @@ char,division,code,division_tw,code_tw,region
 𰣾,疒口口田,PLLJ,,,CJK-G
 𰣿,疒虫宀匕,PKOR,,,CJK-G
 𰤀,疒月丷儿,PWUQ,,,CJK-G
-𰤁,爿一一田,XFFJ,,,CJK-G
+𰤁,爿一丌田,XFAJ,,,CJK-G
 𰤂,疒十早月,PDJW,,,CJK-G
 𰤃,疒隹火,PWUo,,,CJK-G
 𰤄,疒人人日,PTTJ,,,CJK-G
@@ -90258,7 +90258,7 @@ char,division,code,division_tw,code_tw,region
 𰤍,癶弓,BVgu,,,CJK-G
 𰤎,癶弓丨,BVNs,,,CJK-G
 𰤏,癶电,BKdu,,,CJK-G
-𰤐,癶一口一,BFLF,,,CJK-G
+𰤐,癶丌口一,BALF,,,CJK-G
 𰤑,癶方夊,BOEh,,,CJK-G
 𰤒,白乛,EVib,,,CJK-G
 𰤓,白𠄎,EVTo,,,CJK-G
@@ -90422,7 +90422,7 @@ char,division,code,division_tw,code_tw,region
 𰦱,巳七石,CADh,,,CJK-G
 𰦲,石又寸,DBAc,,,CJK-G
 𰦳,石耳,DArh,,,CJK-G
-𰦴,石一业,DFKg,,,CJK-G
+𰦴,石丌䒑,DAUe,,,CJK-G
 𰦵,石大寸,DGAc,,,CJK-G
 𰦶,石一日一,DFJF,,,CJK-G
 𰦷,艹冖石,SYDh,,,CJK-G
@@ -90432,7 +90432,7 @@ char,division,code,division_tw,code_tw,region
 𰦻,⺁一口皮,EFLV,,,CJK-G
 𰦼,石十冖子,DDYV,,,CJK-G
 𰦽,石龶夊,DHEh,,,CJK-G
-𰦾,石一业丿,DFKQ,,,CJK-G
+𰦾,石丌䒑丿,DAUQ,,,CJK-G
 𰦿,石口冂人,DLKT,,,CJK-G
 𰧀,石日卄,DJSj,,,CJK-G
 𰧁,石口口丨,DLLN,,,CJK-G
@@ -90467,7 +90467,7 @@ char,division,code,division_tw,code_tw,region
 𰧞,石⺈田日,DYJJ,,,CJK-G
 𰧟,石言辶,DUPd,,,CJK-G
 𰧠,尸示寸石,BHAD,,,CJK-G
-𰧡,石一〢田,DFNJ,,,CJK-G
+𰧡,石丌匚田,DAGJ,,,CJK-G
 𰧢,石夫夫日,DGGJ,,,CJK-G
 𰧣,其斤石,DEDh,,,CJK-G
 𰧤,石竹彐,DQXA,,,CJK-G
@@ -90829,7 +90829,7 @@ char,division,code,division_tw,code_tw,region
 𰭈,罒卜又,MMBu,,,CJK-G
 𰭉,冖八口儿,YTLQ,,,CJK-G
 𰭊,冂人木刂,KTFM,,,CJK-G
-𰭋,罒十冂丨,MDKN,,,CJK-G
+𰭋,罒十冂丄,MDKK,,,CJK-G
 𰭌,罒羊,MUgw,,,CJK-G
 𰭍,冂人⺈儿,KTYQ,,,CJK-G
 𰭎,罒辛,MOxw,,,CJK-G
@@ -91194,7 +91194,7 @@ char,division,code,division_tw,code_tw,region
 𰲵,虫又,KBAo,,,CJK-G
 𰲶,虫ス工,KBFo,,,CJK-G
 𰲷,虫乛龰,KVNf,,,CJK-G
-𰲸,一业虫,FKKc,,,CJK-G
+𰲸,丌䒑虫,AUKc,,,CJK-G
 𰲹,虫山己,KJBj,,,CJK-G
 𰲺,虫寸辶,KAPd,,,CJK-G
 𰲻,虫大辶,KGPd,,,CJK-G
@@ -91370,7 +91370,7 @@ char,division,code,division_tw,code_tw,region
 𰵥,讠夕夕,ORRk,,,CJK-G
 𰵦,讠亠八乂,OOTW,,,CJK-G
 𰵧,讠士心,OHYi,,,CJK-G
-𰵨,讠一业丿,OFKQ,,,CJK-G
+𰵨,讠丌䒑丿,OAUQ,,,CJK-G
 𰵩,讠甫,OFua,,,CJK-G
 𰵪,讠冂八口,OKTL,讠冂儿口,OKQL,CJK-G
 𰵫,讠一口䒑,OFLU,,,CJK-G
@@ -91622,7 +91622,7 @@ char,division,code,division_tw,code_tw,region
 𰹡,車彑水刂,GBKM,,,CJK-G
 𰹢,車予丿示,GCQH,,,CJK-G
 𰹣,車⺈丨心,GYNY,,,CJK-G
-𰹤,車一〢田,GFNJ,,,CJK-G
+𰹤,車丌匚田,GAGJ,,,CJK-G
 𰹥,車日罒勹,GJMW,,,CJK-G
 𰹦,車卯貝,GTMb,,,CJK-G
 𰹧,車肀片一,GXTF,,,CJK-G
@@ -91948,7 +91948,7 @@ char,division,code,division_tw,code_tw,region
 𰾧,钅龶勹夊,THWE,钅士方夊,THOE,CJK-G
 𰾨,钅冂土,TSKH,,,CJK-G
 𰾩,钅土厶皿,THVM,,,CJK-G
-𰾪,钅一业心,TFKY,,,CJK-G
+𰾪,钅丌䒑心,TAUY,,,CJK-G
 𰾫,钅〢皿,TNQM,,,CJK-G
 𰾬,钅日习习,TJXX,,,CJK-G
 𰾭,钅爪冖又,TEYB,,,CJK-G
@@ -92650,7 +92650,7 @@ char,division,code,division_tw,code_tw,region
 𱉥,士口鸟,HLYa,,,CJK-G
 𱉦,耂匕鸟,HRYa,,,CJK-G
 𱉧,十戈鸟,DGYa,,,CJK-G
-𱉨,一业鸟,FKYa,,,CJK-G
+𱉨,丌䒑鸟,AUYa,,,CJK-G
 𱉩,大弓鸟,GVYa,,,CJK-G
 𱉪,艹乂鸟,SWYa,,,CJK-G
 𱉫,牛八鸟,WTYa,,,CJK-G
@@ -92909,7 +92909,7 @@ char,division,code,division_tw,code_tw,region
 𱍭,リ艮,UVne,,,CJK-H
 𱍮,リ亠厶儿,UOVQ,,,CJK-H
 𱍯,リ冂一口,UKFL,,,CJK-H
-𱍰,リ一业,UFKg,,,CJK-H
+𱍰,リ丌䒑,UAUe,,,CJK-H
 𱍱,リ冂䒑山,UKUJ,,,CJK-H
 𱍲,リ白巾,UEMv,,,CJK-H
 𱍳,リ龷日,USJr,,,CJK-H
@@ -92968,7 +92968,7 @@ char,division,code,division_tw,code_tw,region
 𱎨,亻人工,ETFo,,,CJK-H
 𱎩,亻𠂉一㇉,EQFX,,,CJK-H
 𱎪,亻又,EBAo,,,CJK-H
-𱎫,亻一业,EFKg,,,CJK-H
+𱎫,亻丌䒑,EAUe,,,CJK-H
 𱎬,亻缶,EWoe,,,CJK-H
 𱎭,亻女子,ECVk,,,CJK-H
 𱎮,亻二申,ESKe,,,CJK-H
@@ -92988,8 +92988,8 @@ char,division,code,division_tw,code_tw,region
 𱎼,亻革,EGee,,,CJK-H
 𱎽,亻白水,EEKv,,,CJK-H
 𱎾,亻丷夫马,EUGX,,,CJK-H
-𱎿,亻一业日,EFKJ,,,CJK-H
-𱏀,亻一业心,EFKY,,,CJK-H
+𱎿,亻丌䒑日,EAUJ,,,CJK-H
+𱏀,亻丌䒑心,EAUY,,,CJK-H
 𱏁,亻艹人厶,ESTV,,,CJK-H
 𱏂,亻䒑夫,EUGT,,,CJK-H
 𱏃,亻丶彐月,EOXW,,,CJK-H
@@ -93226,7 +93226,7 @@ char,division,code,division_tw,code_tw,region
 𱒪,口大ヰ,LGAo,,,CJK-H
 𱒫,口扌コ人,LABT,,,CJK-H
 𱒬,口扌人⺀,LATS,,,CJK-H
-𱒭,一业口亅,FKLV,,,CJK-H
+𱒭,丌䒑口亅,AULV,,,CJK-H
 𱒮,末厶口,HVLv,,,CJK-H
 𱒯,口卜囗コ,LMNB,,,CJK-H
 𱒰,口艹寸,LSAc,,,CJK-H
@@ -93325,7 +93325,7 @@ char,division,code,division_tw,code_tw,region
 𱔍,口白儿,LETQ,,,CJK-H
 𱔎,口亻田,LEJG,,,CJK-H
 𱔏,口禾彐夕,LRXR,,,CJK-H
-𱔐,户口夊口,ILEL,,,CJK-H
+𱔐,戶口夊口,ILEL,,,CJK-H
 𱔑,口忄厶彡,LYVT,口忄厶三,LYVF,CJK-H
 𱔒,口言殳,LUQh,,,CJK-H
 𱔓,口宀大口,LOGL,,,CJK-H
@@ -93643,13 +93643,13 @@ char,division,code,division_tw,code_tw,region
 𱙋,女卜尸,CMBh,,,CJK-H
 𱙌,女囗儿,CNQr,,,CJK-H
 𱙍,女又土,CBHt,,,CJK-H
-𱙎,一业女,FKCn,,,CJK-H
+𱙎,丌䒑女,AUCn,,,CJK-H
 𱙏,女囗女,CNCn,,,CJK-H
 𱙐,女臼,CRjn,,,CJK-H
 𱙑,女文,CPTi,,,CJK-H
 𱙒,女门子,CPVk,,,CJK-H
 𱙓,女宀一,COFA,,,CJK-H
-𱙔,女一业丿,CFKQ,,,CJK-H
+𱙔,女丌䒑丿,CAUQ,,,CJK-H
 𱙕,女日土,CJHt,,,CJK-H
 𱙖,女八人口,CTTL,,,CJK-H
 𱙗,女门月,CPWy,,,CJK-H
@@ -93786,7 +93786,7 @@ char,division,code,division_tw,code_tw,region
 𱛚,山夊力,JEXk,,,CJK-H
 𱛛,斤一山,EFJs,,,CJK-H
 𱛜,山丨土,JSNH,,,CJK-H
-𱛝,山一业,JFKg,,,CJK-H
+𱛝,山丌䒑,JAUe,,,CJK-H
 𱛞,山工几丶,JFQO,,,CJK-H
 𱛟,山厂犬,JSSq,,,CJK-H
 𱛠,山火,JSUo,,,CJK-H
@@ -94828,7 +94828,7 @@ char,division,code,division_tw,code_tw,region
 𱫬,火疒卜了,UPMV,,,CJK-H
 𱫭,爿木丶灬,XFOU,,,CJK-H
 𱫮,肀一灬火,XFUU,,,CJK-H
-𱫯,火一业心,UFKY,,,CJK-H
+𱫯,火丌䒑心,UAUY,,,CJK-H
 𱫰,扌𠄎口灬,AVLU,,,CJK-H
 𱫱,士口一灬,HLFU,,,CJK-H
 𱫲,火犬口小,USLM,,,CJK-H
@@ -95329,7 +95329,7 @@ char,division,code,division_tw,code_tw,region
 𱳡,矢口白,QLEb,,,CJK-H
 𱳢,矢面,QGii,,,CJK-H
 𱳣,矢丁口口,QALL,,,CJK-H
-𱳤,矢口一丂,QLFS,,,CJK-H
+𱳤,矢口丌丂,QLAS,,,CJK-H
 𱳥,矢𠂉卌灬,QQSU,,,CJK-H
 𱳦,矢氵匚木,QIGF,,,CJK-H
 𱳧,矢咼辶,QNPd,,,CJK-H
@@ -95960,7 +95960,7 @@ char,division,code,division_tw,code_tw,region
 𱽘,艹人人一,STTF,,,CJK-H
 𱽙,艹人卄,STSj,,,CJK-H
 𱽚,艹小,STMa,,,CJK-H
-𱽛,艹一业,SFKg,,,CJK-H
+𱽛,艹丌䒑,SAUe,,,CJK-H
 𱽜,艹扌九丶,SAYO,,,CJK-H
 𱽝,艹王厶,SGVv,,,CJK-H
 𱽞,屮屮大屮,XXGX,,,CJK-H
@@ -96262,7 +96262,7 @@ char,division,code,division_tw,code_tw,region
 𲂆,讠甲,OKja,,,CJK-H
 𲂇,讠宀丁,OOAn,,,CJK-H
 𲂈,讠而,OSra,,,CJK-H
-𲂉,讠一业,OFKg,,,CJK-H
+𲂉,讠丌䒑,OAUe,,,CJK-H
 𲂊,讠亻匕十,OERD,,,CJK-H
 𲂋,讠囗木,ONFv,,,CJK-H
 𲂌,讠〢又土,ONBH,,,CJK-H
@@ -96976,7 +96976,7 @@ char,division,code,division_tw,code_tw,region
 𲍐,鱼米,QPmy,,,CJK-H
 𲍑,鱼七丿兀,QAQH,,,CJK-H
 𲍒,鱼戊乛,QDVi,,,CJK-H
-𲍓,鱼一业丿,QFKQ,,,CJK-H
+𲍓,鱼丌䒑丿,QAUQ,,,CJK-H
 𲍔,鱼氵小丿,QIMQ,,,CJK-H
 𲍕,鱼十,QWDi,,,CJK-H
 𲍖,鱼日业,QJKg,,,CJK-H
@@ -96992,7 +96992,7 @@ char,division,code,division_tw,code_tw,region
 𲍠,鳥十冖子,RDYV,,,CJK-H
 𲍡,鳥寸辶,RAPd,,,CJK-H
 𲍢,鳥口⺀十,RLSD,,,CJK-H
-𲍣,一业女鳥,FKCR,,,CJK-H
+𲍣,丌䒑女鳥,AUCR,,,CJK-H
 𲍤,冖日亠鳥,YJOR,,,CJK-H
 𲍥,白王𠂉二,EGQS,,,CJK-H
 𲍦,鳥罒貝,RMMb,,,CJK-H
@@ -97137,7 +97137,7 @@ char,division,code,division_tw,code_tw,region
 𮰱,士卄,HSjf,,,CJK-I
 𮰲,士口丿,HLAQ,,,CJK-I
 𮰳,士儿二二,HQSS,,,CJK-I
-𮰴,一业日夊,FKJE,,,CJK-I
+𮰴,丌䒑日夊,AUJE,,,CJK-I
 𮰵,⺍一大,IFGd,,,CJK-I
 𮰶,大士口,GHLv,,,CJK-I
 𮰷,乚大,WXGd,,,CJK-I
@@ -97228,7 +97228,7 @@ char,division,code,division_tw,code_tw,region
 𮲌,扌一卄,AFSj,,,CJK-I
 𮲍,扌九丶厶,AYOV,,,CJK-I
 𮲎,扌⺈口电,AYLK,,,CJK-I
-𮲏,户口夊手,ILET,,,CJK-I
+𮲏,戶口夊手,ILET,,,CJK-I
 𮲐,由夊,KEho,,,CJK-I
 𮲑,山己夊,JBEh,,,CJK-I
 𮲒,亠田夊,OJEh,,,CJK-I
@@ -97278,7 +97278,7 @@ char,division,code,division_tw,code_tw,region
 𮲾,夕卜丿戈,RMQG,,,CJK-I
 𮲿,氵丶乂,IOWl,,,CJK-I
 𮳀,氵又又,IBBu,,,CJK-I
-𮳁,氵一业,IFKg,,,CJK-I
+𮳁,氵丌䒑,IAUe,,,CJK-I
 𮳂,氵亻匕十,IERD,,,CJK-I
 𮳃,氵宀火,IOUo,,,CJK-I
 𮳄,氵阝七小,ICAM,,,CJK-I
@@ -97289,7 +97289,7 @@ char,division,code,division_tw,code_tw,region
 𮳉,氵门米,IPPm,,,CJK-I
 𮳊,氵宀⺧儿,IOWQ,,,CJK-I
 𮳋,氵止匕白,INRE,,,CJK-I
-𮳌,户口夊水,ILEK,,,CJK-I
+𮳌,戶口夊水,ILEK,,,CJK-I
 𮳍,氵厂亻隹,ISEW,,,CJK-I
 𮳎,土甫人水,HFTK,,,CJK-I
 𮳏,氵十冂犬,IDKS,,,CJK-I
@@ -97330,7 +97330,7 @@ char,division,code,division_tw,code_tw,region
 𮳲,牛厂力,WSXk,,,CJK-I
 𮳳,牛尸古,WBDg,,,CJK-I
 𮳴,犭⺁一口,REFL,,,CJK-I
-𮳵,犭户口,RILv,,,CJK-I
+𮳵,犭戶口,RILv,,,CJK-I
 𮳶,犬犬犬犬,SSSS,,,CJK-I
 𮳷,王兀,GHwn,,,CJK-I
 𮳸,王小,GMan,,,CJK-I
@@ -97347,7 +97347,7 @@ char,division,code,division_tw,code_tw,region
 𮴃,王䒑二,GUSi,,,CJK-I
 𮴄,王屮凵,GXXg,,,CJK-I
 𮴅,王又土,GBHt,,,CJK-I
-𮴆,王一业,GFKg,,,CJK-I
+𮴆,王丌䒑,GAUe,,,CJK-I
 𮴇,王臣,GScn,,,CJK-I
 𮴈,王夫丷,GGUe,,,CJK-I
 𮴉,王山己,GJBj,,,CJK-I
@@ -98357,7 +98357,7 @@ char,division,code,division_tw,code_tw,region
 突,穴犬,PSqx,宀儿犬,OQSq,兼容文字
 節,竹彐厶卩,QXVX,,,兼容文字
 練,糹木囗丷,BFNU,,,兼容文字
-縉,糹一业日,BFKJ,糹一厶日,BFVJ,兼容文字
+縉,糹丌䒑日,BAUJ,糹一厶日,BFVJ,兼容文字
 繁,𠂉母夊糸,QBEB,,,兼容文字
 署,罒耂日,MHJr,,,兼容文字
 者,耂日,HJrt,,,兼容文字
@@ -98676,7 +98676,7 @@ char,division,code,division_tw,code_tw,region
 掃,扌彐冖巾,AXYM,,,兼容補充
 揤,扌彐厶卩,AXVX,,,兼容補充
 𢯱,扌宀火又,AOUB,,,兼容補充
-搢,扌一业日,AFKJ,扌一厶日,AFVJ,兼容補充
+搢,扌丌䒑日,AAUJ,扌一厶日,AFVJ,兼容補充
 揅,石一卄手,DFST,,,兼容補充
 掩,扌大电,AGKd,,,兼容補充
 㨮,扌白儿,AETQ,,,兼容補充
@@ -98969,7 +98969,7 @@ char,division,code,division_tw,code_tw,region
 𨗭,臼丨八辶,RNTP,臼人土辶,RTHP,兼容補充
 邔,己阝,BCjj,,,兼容補充
 郱,䒑卄阝,USCj,,,兼容補充
-鄑,一业日阝,FKJC,一厶厶阝,FVVC,兼容補充
+鄑,丌䒑日阝,AUJC,一厶厶阝,FVVC,兼容補充
 𨜮,丿白阝,TQEC,,,兼容補充
 鄛,巛日木阝,VJFC,,,兼容補充
 鈸,金又丶,WSBO,金乂丶,WSWO,兼容補充

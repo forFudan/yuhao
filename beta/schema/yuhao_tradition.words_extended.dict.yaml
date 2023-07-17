@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230703
+# 版本: 20230716
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -13,7 +13,7 @@
 
 ---
 name: "yuhao_tradition.words_extended"
-version: "20230703"
+version: "20230716"
 sort: original
 columns:
   - text
@@ -29804,6 +29804,7 @@ columns:
 姐弟戀	cuub
 華能	shvw
 華泰	shgk
+縉雲	bads
 蠻快	ubyb
 着哩	umlk
 税目	rumf

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230703
+# 版本: 20230716
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tradition.quick"
-version: "20230703"
+version: "20230716"
 sort: original
 columns:
   - text
@@ -1466,15 +1466,19 @@ columns:
 抢	atv
 抑	atx
 拌	aua
+亚	aue
 搓	auf
 捲	aug
-掸	auj
+垩	auh
+晋	auj
 聪	aul
 撇	aum
 耿	auo
+严	auq
 揹	aur
 擴	aus
 搛	aux
+恶	auy
 挪	ava
 韧	avb
 韬	ave
@@ -1680,6 +1684,7 @@ columns:
 阿	cal
 陈	cam
 娆	caq
+娅	cau
 陆	cax
 妞	cbc
 駑	cbd
@@ -2072,6 +2077,7 @@ columns:
 仃	ean
 逄	eap
 侥	eaq
+俨	eau
 伟	eav
 佤	eaw
 倨	ebd
@@ -2418,20 +2424,16 @@ columns:
 惡	fjy
 贡	fkb
 棗	fkf
-亚	fkg
-垩	fkh
 柙	fkj
 郦	fkk
 櫚	fkl
 刺	fkm
 柚	fko
-严	fkq
 枣	fks
 丙	fkt
 樸	fku
 汞	fkv
 枧	fkx
-恶	fky
 楫	fla
 枴	flb
 樓	fld
@@ -2590,6 +2592,7 @@ columns:
 酊	gan
 奉	gao
 耷	gar
+酽	gau
 玮	gav
 輒	gax
 輟	gbb
@@ -2809,6 +2812,7 @@ columns:
 琤	gyx
 寺	hac
 坷	hal
+垭	hau
 祎	hav
 辄	hax
 轰	hbb
@@ -3646,6 +3650,7 @@ columns:
 吓	lak
 叮	lan
 哓	laq
+哑	lau
 噸	lax
 嗓	lbb
 叨	lbd
@@ -3698,7 +3703,6 @@ columns:
 吴	lfg
 韭	lfi
 啞	lfj
-哑	lfk
 喇	lfl
 咧	lfr
 哺	lfu
@@ -4618,6 +4622,7 @@ columns:
 舸	qal
 箝	qas
 籀	qat
+氩	qau
 鲀	qax
 篆	qbd
 繁	qbe
@@ -5815,6 +5820,7 @@ columns:
 敢	vae
 绕	vaq
 弭	var
+缙	vau
 练	vav
 纯	vax
 绎	vba
@@ -5852,7 +5858,6 @@ columns:
 线	vfg
 刁	vfi
 缰	vfj
-缙	vfk
 刴	vfm
 红	vfo
 彌	vft
@@ -6484,4 +6489,3 @@ columns:
 餡	yyr
 懈	yyt
 㤘	yyx
-闡	kll
