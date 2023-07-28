@@ -2,7 +2,7 @@
 title: 帮你挑选适合的输入方案
 layout: default
 parent: 相关文章
-nav_order: 4
+nav_order: 22
 ---
 
 <!-- omit in toc -->

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20230717
+# 版本: 20230729
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tradition_tw.quick"
-version: "20230717"
+version: "20230729"
 sort: original
 columns:
   - text
@@ -1075,9 +1075,10 @@ columns:
 簡單	qk
 知道	ql
 怎麽	qm
+延長	qn
 管理	qo
 氣流	qp
-盤腿	qq
+盤子	qq
 簽字	qr
 無法	qs
 氛圍	qt
@@ -1210,7 +1211,7 @@ columns:
 錯誤	ws
 忽然	wt
 焦慮	wu
-腿腳	wv
+腿上	wv
 物品	ww
 服務	wx
 月亮	wy
@@ -3903,8 +3904,8 @@ columns:
 嗬	lse
 嘆	lsf
 嘩	lsh
-喵	lsj
-嘈	lsk
+嘈	lsj
+喱	lsk
 饕	lsm
 嚆	lso
 吠	lsq
@@ -4331,6 +4332,7 @@ columns:
 賓	ofm
 证	ofn
 讧	ofo
+衰	ofr
 诬	oft
 宋	ofv
 寄	oga
@@ -4374,7 +4376,7 @@ columns:
 让	oks
 讷	okt
 寓	oky
-衰	olf
+误	olf
 诽	oli
 谴	olk
 宮	olr
@@ -4649,7 +4651,7 @@ columns:
 癱	psf
 痲	psi
 弈	psj
-糟	psk
+癘	psk
 襪	psm
 襤	psq
 斋	psr
@@ -4836,7 +4838,7 @@ columns:
 氳	qnt
 氨	qoc
 凡	qod
-鲩	qof
+簑	qof
 舫	qog
 氦	qoi
 篙	qol
@@ -5290,7 +5292,6 @@ columns:
 蘭	skf
 英	skg
 苒	skh
-遭	skj
 苘	skl
 菽	skm
 繭	skn

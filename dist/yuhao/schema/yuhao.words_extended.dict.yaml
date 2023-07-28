@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230716
+# 版本: 20230729
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words_extended"
-version: "20230716"
+version: "20230729"
 sort: original
 columns:
   - text
@@ -1045,7 +1045,7 @@ columns:
 忠言	lnua
 黑头	nesg
 二流子	sivk
-遭难	skbw
+遭难	sjbw
 水母	kvbm
 为期不远	oddf
 避风港	bqis
@@ -13558,7 +13558,7 @@ columns:
 哀矜	orcq
 市盈率	ovov
 义形于色	offy
-衰迈	olfw
+衰迈	offw
 为的	oxew
 高平	olhu
 词霸	ovdg
@@ -16042,7 +16042,7 @@ columns:
 母树	bmfb
 终有	vesw
 课下	ojak
-衰人	olte
+衰人	ofte
 谓词	ojov
 雇凶	iwwx
 攻其一点	fdfm
@@ -18322,7 +18322,7 @@ columns:
 方寸不乱	oadr
 讨平	oahu
 齐物	ptww
-衰惫	olej
+衰惫	ofej
 调光	owmh
 鹿寨	ilos
 毫分	ortb
@@ -19894,7 +19894,7 @@ columns:
 庸医杀人	ugwt
 靡有孑遗	psvl
 斋堂	psnh
-衰歇	oljw
+衰歇	ofjw
 高唱入云	olrs
 庸中佼佼	ulee
 颤颤	onon
@@ -20095,9 +20095,9 @@ columns:
 霍山	dwjs
 武穴	fgpx
 不嫁	duco
-不衰	duol
+不衰	duof
 枣阳	fkcj
-曹县	skmv
+曹县	sjmv
 两餐	fkmr
 两站	fkim
 恶女	aucn
@@ -20228,7 +20228,7 @@ columns:
 维拉	vwai
 张弛有度	vvsu
 纠缠不休	vvde
-衰神	olhk
+衰神	ofhk
 高阳	olcj
 房号	iols
 底物	utww
@@ -20495,7 +20495,7 @@ columns:
 足色	nvyc
 嗜酒如命	licy
 呈堂证供	lnoe
-唱衰	ljol
+唱衰	ljof
 置留	mdtj
 车下	hcak
 连天烽火	hfuu
@@ -20663,7 +20663,7 @@ columns:
 读破	oddv
 主牌	ogtw
 裹扎	ojax
-衰替	olgg
+衰替	ofgg
 库门	uhpn
 刻骨相思	omfj
 肇端	ieij
@@ -21369,7 +21369,7 @@ columns:
 熟思	ovjy
 广开才路	ufan
 讣文	ompw
-衰萎	olsr
+衰萎	ofsr
 高足弟子	onuv
 为用	oxtn
 为私	oxrv
@@ -21876,7 +21876,7 @@ columns:
 平靖	huih
 玉璧	gobl
 虎势	muay
-虚衰	mkol
+虚衰	mkof
 旧章	njij
 点定	mlof
 占分	mltb
@@ -22088,7 +22088,7 @@ columns:
 黑着	neum
 回蓝	nlsn
 略多	jerr
-同遭	kfsk
+同遭	kfsj
 网评	kwoh
 殿前	bsuw
 民资	case
@@ -22843,7 +22843,7 @@ columns:
 天干物燥	fhwu
 王庄	gnuh
 正价	fnet
-曹格	skfe
+曹格	sjfe
 丙酸	fkgv
 亚特	auwh
 静安寺	hoha
@@ -23755,7 +23755,7 @@ columns:
 纸衣	vtor
 敦劝	ovbx
 就歼	omfr
-衰残	olfr
+衰残	offr
 忘私	uyrv
 刻丝	omvv
 亵慢	oayj
@@ -24087,7 +24087,7 @@ columns:
 静僻	hweb
 迂执	faay
 下炕	akuo
-遭厄	sksv
+遭厄	sjsv
 亚寒带	aosy
 残屑	frbm
 敖德萨	hrsc
@@ -25700,7 +25700,7 @@ columns:
 幽丽	jvfk
 盲聋哑	udla
 诗豪	ohod
-衰乱	olrx
+衰乱	ofrx
 康帕内拉	umka
 谈会	outs
 豪萨	odsc
@@ -26030,7 +26030,7 @@ columns:
 艾弗森	svff
 陈辰	casn
 阳逻	cjmr
-阿衰	caol
+阿衰	caof
 隆鑫	ceww
 巴蒂尔	csym
 驻澳	xoir
@@ -26503,7 +26503,7 @@ columns:
 精装修	puen
 字牌	ovtw
 宝器	ogll
-军曹	yhsk
+军曹	yhsj
 宠物小精灵	owmx
 宇智波	oqiv
 牛二	wnsi
@@ -27011,7 +27011,7 @@ columns:
 艳慕	dysj
 悲烈	lyfr
 非统	livo
-历遭	sxsk
+历遭	sxsj
 耐干	sahg
 盛演	dvio
 碗壶	dohy

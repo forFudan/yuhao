@@ -2,7 +2,7 @@
 title: 關於《古籍印刷通規》
 layout: default
 parent: 相关文章
-nav_order: 3
+nav_order: 21
 ---
 
 <!-- omit in toc -->

@@ -2,7 +2,7 @@
 title: 宇浩輸入法設計哲學
 layout: default
 parent: 相关文章
-nav_order: 10
+nav_order: 51
 ---
 
 <!-- omit in toc -->

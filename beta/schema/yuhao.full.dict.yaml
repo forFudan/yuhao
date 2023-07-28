@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230717
+# 版本: 20230729
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20230717"
+version: "20230729"
 sort: original
 columns:
   - text
@@ -1327,7 +1327,7 @@ columns:
 珍	gtto
 伏	esqe
 绍	vblv
-曹	skjr
+曹	sjjr
 爬	ecbk
 丫	unse
 炸	uqmo
@@ -1370,7 +1370,7 @@ columns:
 宽	oskx
 堆	hwit
 裂	frmr
-遭	skjp
+遭	sjjp
 赤	htti
 旋	oqvn
 扭	abco
@@ -1763,7 +1763,7 @@ columns:
 侵	exyb
 岩	jdhs
 扮	atbd
-糟	pskj
+糟	psjj
 盈	vbmn
 腹	wqje
 斩	hejc
@@ -2383,7 +2383,7 @@ columns:
 妨	cogn
 拂	avti
 倦	eugv
-衰	olfr
+衰	ofry
 靖	ihwy
 循	redm
 挪	avac
@@ -3251,7 +3251,7 @@ columns:
 竿	qhgk
 蜷	kugv
 癌	pllj
-嘈	lskj
+嘈	lsjj
 蚕	fgkc
 剖	ilmd
 颁	tbdk
@@ -3386,7 +3386,7 @@ columns:
 醇	govk
 掺	avgt
 驿	xbao
-槽	fskj
+槽	fsjj
 惬	yggu
 镰	tuut
 抡	atri
@@ -4553,7 +4553,7 @@ columns:
 彧	glft
 柩	fgyo
 耆	hrjr
-漕	iskj
+漕	isjj
 鹄	wlya
 龛	ydqp
 饯	rfgg
@@ -4898,7 +4898,7 @@ columns:
 绻	vugv
 呔	lgod
 绌	vxxg
-蓑	solr
+蓑	sofr
 釉	qpko
 纥	vqvi
 翳	gqqx
@@ -7124,7 +7124,7 @@ columns:
 蛘	kugc
 嗪	lgrh
 钋	tmoj
-榱	folr
+榱	fofr
 唛	lheh
 苤	sdfi
 蒇	sdkb
@@ -7495,7 +7495,7 @@ columns:
 兗	otlq
 浥	ilcb
 夼	gqcd
-艚	qskj
+艚	qsjj
 鼗	qssb
 筅	qwqr
 奓	grrk
@@ -7949,7 +7949,7 @@ columns:
 攴	mbuo
 鳢	qksu
 鳙	quxw
-螬	kskj
+螬	ksjj
 抃	aomo
 姞	chlv
 砫	dogn
@@ -8263,7 +8263,7 @@ columns:
 燼	uxfm
 鰲	hwet
 頷	tovm
-簑	qolr
+簑	qofr
 羶	uonf
 儈	etfj
 犖	uuyw
@@ -8453,7 +8453,7 @@ columns:
 窎	pyax
 锧	tedk
 炟	ujfi
-缞	volr
+缞	vofr
 酂	wqwc
 慬	ygsi
 曆	srrj
@@ -9101,10 +9101,10 @@ columns:
 讖	uttf
 鳩	yrof
 襠	pnjt
+癘	psky
 臚	wmjm
 鍬	wruo
 聶	aaar
-癘	psky
 軔	gbod
 莢	sgtt
 灤	iubf
@@ -10100,7 +10100,7 @@ columns:
 𨙸	dbcj
 𥖨	dllf
 𥔲	dlls
-𥕢	dskj
+𥕢	dsjj
 𣗋	fnqr
 𤩽	gdks
 𤧛	goum
@@ -11694,7 +11694,7 @@ columns:
 鮗	tesi
 鮀	tori
 巜	vccc
-慒	yskj
+慒	ysjj
 湳	idkd
 槤	fgpd
 臞	wmmw
@@ -12019,7 +12019,7 @@ columns:
 帢	myev
 蹍	nbsg
 歯	npxg
-蹧	nskj
+蹧	nsjj
 袠	oqgr
 褾	pdhs
 闬	phgn
@@ -12576,7 +12576,7 @@ columns:
 盇	gomn
 瑏	gphy
 鹥	gqqy
-醩	gskj
+醩	gsjj
 昚	gujr
 瑍	gykg
 禃	hdmi
@@ -12728,7 +12728,7 @@ columns:
 紬	bkos
 孹	blov
 纙	bmbw
-縗	bolr
+縗	bofr
 鳮	brou
 繈	bvvk
 絻	bylq
@@ -15096,7 +15096,7 @@ columns:
 傇	esar
 甀	esaw
 偄	esgd
-傮	eskj
+傮	esjj
 乕	esmv
 翶	essx
 伌	esvi
@@ -15379,9 +15379,9 @@ columns:
 潶	ines
 澁	innn
 鶣	inro
+滖	iofr
 浨	iofv
 湻	iojr
-滖	iolr
 瀤	iomr
 湸	ioqj
 浶	iown
@@ -15920,7 +15920,7 @@ columns:
 莵	srqo
 萖	srqr
 臦	sscc
-蓸	sskj
+蓸	ssjj
 甛	ssre
 拲	sttu
 藰	stwm
@@ -18724,7 +18724,7 @@ columns:
 屵	jshs
 亗	jsis
 暯	jsjg
-嶆	jskj
+嶆	jsjj
 曂	jskt
 盢	jsmn
 鷐	jsro
@@ -19570,8 +19570,8 @@ columns:
 瘔	psdg
 襔	psfr
 襼	pshv
+褿	psjj
 褠	pskh
-褿	pskj
 糎	pskk
 襺	pskk
 糷	psku
@@ -19720,6 +19720,7 @@ columns:
 氱	qjft
 箟	qjrr
 屲	qjsp
+甶	qjtp
 氠	qkeq
 笚	qkjk
 𠂉	qkkk
@@ -19915,7 +19916,6 @@ columns:
 穯	rhll
 狫	rhri
 狋	rhsq
-甶	rhtn
 獓	rhwe
 稖	rilv
 猀	rimq
@@ -20643,7 +20643,7 @@ columns:
 鮁	tsbo
 鄓	tscj
 鰖	tsfw
-鰽	tskj
+鰽	tsjj
 鱹	tslw
 鱴	tsmo
 佱	tsni
@@ -21456,9 +21456,9 @@ columns:
 鐯	wshj
 鑉	wshm
 鑮	wsia
+鏪	wsjj
 臈	wsjx
 朠	wskg
-鏪	wskj
 鑖	wsmo
 鋠	wsnj
 銌	wsnv
@@ -22065,7 +22065,7 @@ columns:
 㨺	asfr
 㨊	asfw
 㨎	asgd
-䏆	askj
+䏆	asjj
 㨅	askt
 㩰	aslf
 㩲	aslw
@@ -22485,8 +22485,8 @@ columns:
 㯐	csff
 䢫	csfp
 䜐	csfu
+㜖	csjj
 㛭	csjr
-㜖	cskj
 㜴	csmm
 㚴	csmv
 㜮	csqm
@@ -23489,7 +23489,7 @@ columns:
 㰙	fsfw
 㮕	fsgd
 㯼	fshm
-㯾	fskp
+㯾	fsjp
 㿼	fsmn
 䙹	fsmx
 䵤	fsne
@@ -24109,8 +24109,8 @@ columns:
 䄏	hseo
 䦈	hsfo
 㙢	hsfr
+䄚	hsjj
 䄍	hsjr
-䄚	hskj
 㙹	hsmr
 㘵	hsmv
 䰐	hsqm
@@ -25327,11 +25327,11 @@ columns:
 䯝	msfw
 䞂	msgd
 䝽	mshh
+㡟	msjj
 䀎	mskf
 㡕	mskg
 䁐	mskg
 㡚	mskh
-㡟	mskj
 䞅	mslv
 䁾	msmo
 䯦	msmo
@@ -25609,6 +25609,7 @@ columns:
 䨈	ofmw
 㝟	ofmx
 䎙	ofmx
+㲤	ofrr
 䫯	ogam
 䯨	ogdl
 㝙	ogft
@@ -25626,7 +25627,6 @@ columns:
 䯧	oklv
 䴁	okro
 㲾	okvb
-㲤	olfr
 㐯	ollj
 䜨	olly
 䯬	olnd
@@ -25882,9 +25882,9 @@ columns:
 䘸	poeo
 䙋	poff
 䘺	pofn
+䙑	pofr
 䊉	pofv
 㾸	polb
-䙑	polr
 㾃	pori
 䘼	porv
 䙭	posn
@@ -27498,10 +27498,10 @@ columns:
 㢜	usfy
 䜓	ushf
 㷬	usjg
+㷮	usjj
+䜊	usjj
 㷞	usjv
 㢍	uskg
-㷮	uskj
-䜊	uskj
 䜕	usky
 㷹	usmj
 䢠	uspd
@@ -27951,8 +27951,8 @@ columns:
 䐽	wsfr
 䤻	wsfw
 䍎	wsiu
+䐬	wsjj
 䐟	wskh
-䐬	wskj
 䐵	wskt
 䑏	wslw
 䑅	wsmr
@@ -29266,10 +29266,12 @@ columns:
 𡉹	aqht
 𢹈	aqik
 𢶌	aqiq
+𢱻	aqjb
 𢴈	aqjf
 𥚌	aqjf
 𥙏	aqjn
 𢩫	aqjo
+𦖛	aqjs
 𢹢	aqjt
 𥛴	aqjt
 𢪼	aqkb
@@ -29359,9 +29361,7 @@ columns:
 𢳚	arfv
 𣕔	arfv
 𢱜	arha
-𢱻	arhb
 𢬝	arho
-𦖛	arhs
 𢴘	arhw
 𢯼	aria
 𢸾	arkt
@@ -29441,10 +29441,10 @@ columns:
 𨝨	asjc
 𢵵	asjf
 𢹥	asjh
+𢲵	asjj
 𢸓	asjj
 𢸆	asjt
 𢰶	askg
-𢲵	askj
 𢺃	askk
 𢺉	askk
 𢩨	asko
@@ -30573,7 +30573,9 @@ columns:
 𦇃	bqhj
 𡱁	bqih
 𤼩	bqiu
+𦂢	bqja
 𥾊	bqjs
+𦂖	bqjs
 𣃁	bqke
 𪅱	bqkr
 𢑗	bqkv
@@ -30630,7 +30632,6 @@ columns:
 𦃨	brfv
 𡳒	brfx
 𡳊	brgs
-𦂢	brha
 𦃀	brha
 𡲧	brhe
 𡱭	brhg
@@ -30638,7 +30639,6 @@ columns:
 𡳮	brhm
 𥜀	brhm
 𥿘	brhs
-𦂖	brhs
 𡊴	brht
 𡲨	brhv
 𡳪	brhw
@@ -30756,13 +30756,13 @@ columns:
 𢩗	bsii
 𦇩	bsiu
 𦄩	bsjg
+𦄧	bsjj
 𣫬	bsjm
 𦅟	bsjm
 𡱔	bsjr
 𦁎	bsjr
 𦅶	bsjx
 𦃪	bskh
-𦄧	bskj
 𧒝	bskk
 𦀋	bskv
 𨛠	bslc
@@ -33829,6 +33829,7 @@ columns:
 𥗁	dqhj
 𧺢	dqhk
 𧼱	dqje
+𡯹	dqjg
 𧺋	dqjk
 𠘶	dqju
 𧟣	dqjx
@@ -33902,7 +33903,6 @@ columns:
 𩗏	drfx
 𩄏	drfy
 𧻺	drgn
-𡯹	drhg
 𥔄	drht
 𧺊	drik
 𥕣	drja
@@ -37616,13 +37616,13 @@ columns:
 𣔶	fsiv
 𣞩	fsjj
 𣟟	fsjm
+𨘨	fsjp
 𣝓	fsjs
 𢌶	fsjv
 𣖔	fsjv
 𣛵	fsjv
 𣠷	fskk
 𨴚	fskn
-𨘨	fskp
 𣕺	fskq
 𣓃	fskt
 𣑏	fskv
@@ -39501,6 +39501,7 @@ columns:
 𢌵	gsjg
 𨢢	gsjg
 𩌧	gsjg
+𨎝	gsjj
 𤪶	gsjo
 𤦘	gsjr
 𩊿	gsjr
@@ -39509,7 +39510,6 @@ columns:
 𩍛	gsjx
 𨍅	gskb
 𨍞	gskg
-𨎝	gskj
 𨌣	gskt
 𨎩	gskt
 𨏼	gsku
@@ -41488,6 +41488,7 @@ columns:
 𡉃	hsht
 𡓺	hsim
 𡍿	hsjc
+𡐋	hsjj
 𥛼	hsjj
 𩭡	hsjr
 𥜒	hsjs
@@ -41497,7 +41498,6 @@ columns:
 𣪒	hskf
 𡎘	hskg
 𡏞	hskh
-𡐋	hskj
 𥜲	hskk
 𡍝	hskt
 𡔔	hsku
@@ -45100,13 +45100,13 @@ columns:
 𣋛	jsil
 𣄾	jsir
 𡻟	jsjg
+𣉿	jsjj
 𣈏	jsjr
 𢌲	jsjs
 𡽣	jsjs
 𢌿	jsjt
 𣈴	jsjt
 𡻉	jskh
-𣉿	jskj
 𡺉	jskk
 𡿋	jskk
 𡽇	jsky
@@ -50160,6 +50160,8 @@ columns:
 𡭛	msja
 𥃲	msjf
 𧷸	msjg
+𦋿	msjj
+𪙡	msjj
 𨖞	msjp
 𢃟	msjr
 𥅭	msjr
@@ -50169,8 +50171,6 @@ columns:
 𪙰	msjx
 𥉇	mskh
 𧸪	mskh
-𦋿	mskj
-𪙡	mskj
 𥀿	mskn
 𢆄	msku
 𩪪	msku
@@ -54002,13 +54002,13 @@ columns:
 𧚁	pofh
 𤻬	pofl
 𧛪	pofl
+𤸬	pofr
 𢋲	poft
 𨸂	pogn
 𤶓	pojr
 𧜰	pole
 𤹜	poll
 𧚢	polq
-𤸬	polr
 𥽬	polr
 𧟄	polr
 𤷦	poma
@@ -55402,11 +55402,15 @@ columns:
 𥰢	qixx
 𥳣	qjab
 𥴂	qjaf
+𤱖	qjav
 𥵕	qjbu
 𥏅	qjdi
 𥭆	qjdi
+𧱋	qjds
+𤰲	qjek
 𥳂	qjel
 𪃃	qjer
+𤲄	qjes
 𦨪	qjfi
 𥵘	qjfm
 𨘖	qjfp
@@ -55415,6 +55419,7 @@ columns:
 𥏸	qjfu
 𦩴	qjfu
 𥎽	qjgd
+𠂽	qjgf
 𥯜	qjgf
 𥴵	qjgk
 𥰻	qjgl
@@ -55427,6 +55432,7 @@ columns:
 𥲺	qjjd
 𠘧	qjjj
 𠘨	qjjj
+𣬖	qjjr
 𥷍	qjjw
 𪚳	qjks
 𥲑	qjmb
@@ -55435,14 +55441,24 @@ columns:
 𥵀	qjmw
 𥸒	qjor
 𥶩	qjot
+𠖡	qjqa
+𣁽	qjqd
+𩴫	qjqd
+𨡛	qjqg
 𩈠	qjqg
 𩳊	qjql
 𥯭	qjqm
+𩴰	qjqq
+𠃁	qjqr
+𤱮	qjqr
+𩲆	qjqt
+𩲇	qjqv
 𥎭	qjri
 𦨙	qjro
 𥯡	qjrr
 𪓝	qjsb
 𠘳	qjsj
+𢍉	qjsj
 𥏓	qjsj
 𥲏	qjsq
 𡴸	qjsr
@@ -56042,11 +56058,11 @@ columns:
 𡉼	qsht
 𣱖	qsiq
 𥱹	qsjg
+𥲍	qsjj
 𥫠	qsjk
 𥵵	qsjm
 𥱏	qskh
 𦩷	qskh
-𥲍	qskj
 𦪗	qskt
 𠮮	qslv
 𥬡	qslv
@@ -57180,7 +57196,6 @@ columns:
 𧗥	rhah
 𤟔	rhaq
 𪃝	rhar
-𤱖	rhav
 𥛤	rhbm
 𤠚	rhbs
 𩘣	rhbs
@@ -57188,20 +57203,16 @@ columns:
 𨛻	rhcj
 𢓧	rhcy
 𥜂	rhde
-𧱋	rhds
 𢓛	rhec
 𥞊	rheh
 𤡏	rheh
 𥟀	rheh
 𥠽	rheh
 𣢾	rhei
-𤰲	rhek
 𣭐	rhem
-𤲄	rhes
 𣤃	rhev
 𥠓	rhfv
 𩘏	rhfv
-𠂽	rhgf
 𥝝	rhgh
 𩾝	rhgo
 𢕥	rhha
@@ -57213,7 +57224,6 @@ columns:
 𤎇	rhhu
 𢖋	rhja
 𢔪	rhjr
-𣬖	rhjr
 𪃲	rhjr
 𥣢	rhjt
 𪀒	rhko
@@ -57231,20 +57241,10 @@ columns:
 𣰬	rhmm
 𩗂	rhof
 𦥦	rhoj
-𠖡	rhqa
-𣁽	rhqd
-𩴫	rhqd
-𨡛	rhqg
 𣪑	rhqh
-𩴰	rhqq
-𠃁	rhqr
-𤱮	rhqr
-𩲆	rhqt
-𩲇	rhqv
 𥞠	rhri
 𥞆	rhsh
 𥘈	rhsi
-𢍉	rhsj
 𤞿	rhsq
 𢓂	rhtc
 𢔁	rhte
@@ -57792,6 +57792,7 @@ columns:
 𤞵	rofh
 𥟐	rofn
 𩠆	rofn
+𤠠	rofr
 𩖫	rogf
 𢕗	rogl
 𤢸	rogm
@@ -57810,7 +57811,6 @@ columns:
 𩘎	roll
 𣯖	rolm
 𤠖	rolq
-𤠠	rolr
 𣮘	roma
 𩗬	roma
 𥞑	romv
@@ -58293,6 +58293,9 @@ columns:
 𨞒	rsjc
 𩐖	rsjf
 𥡸	rsjg
+𤡐	rsjj
+𩘳	rsjj
+𩠎	rsjj
 𠂥	rsjn
 𠂨	rsjn
 𥣘	rsjs
@@ -58311,9 +58314,6 @@ columns:
 𤠰	rskh
 𥠾	rskh
 𡽬	rskj
-𤡐	rskj
-𩘳	rskj
-𩠎	rskj
 𨷶	rskk
 𧸧	rskm
 𢣟	rsko
@@ -60156,6 +60156,7 @@ columns:
 𦯹	siyi
 𦮛	siyo
 𦻂	siys
+𡬭	sjac
 𢿯	sjae
 𠝖	sjbd
 𦿡	sjbg
@@ -60189,6 +60190,7 @@ columns:
 𩔷	sjgm
 𧅌	sjgn
 𦻒	sjgo
+𨠷	sjgo
 𡖶	sjgr
 𣯳	sjgr
 𥡡	sjgr
@@ -60207,6 +60209,10 @@ columns:
 𦸋	sjjh
 𠀎	sjjj
 𡿉	sjjj
+𣊛	sjjj
+𣍖	sjjj
+𧕐	sjjk
+𡮦	sjjq
 𦵆	sjjt
 𦹸	sjjt
 𧀄	sjjt
@@ -60276,7 +60282,6 @@ columns:
 𠪷	sjyg
 𦾥	sjyg
 𧅿	sjyr
-𡬭	skac
 𦽅	skal
 𣀺	skbb
 𧅶	skbk
@@ -60295,7 +60300,6 @@ columns:
 𠝟	skgm
 𦿴	skgm
 𦻺	skgn
-𨠷	skgo
 𩘕	skgr
 𪃳	skgr
 𦰈	skgs
@@ -60306,11 +60310,7 @@ columns:
 𠢉	skhx
 𠖹	skji
 𦭖	skjj
-𣊛	skjj
-𣍖	skjj
-𧕐	skjk
 𨙗	skjp
-𡮦	skjq
 𦿄	skjt
 𧅸	skjv
 𧄱	skjx
@@ -60848,6 +60848,8 @@ columns:
 𠨻	sqhh
 𥎦	sqih
 𠙉	sqjc
+𦼄	sqjd
+𦶃	sqjr
 𣠿	sqkf
 𠘦	sqkm
 𣱄	sqkr
@@ -60932,11 +60934,9 @@ columns:
 𦰔	srfv
 𦸒	srgl
 𦷈	srgt
-𦼄	srhd
 𦽂	srhh
 𦿀	srhj
 𧂐	srhm
-𦶃	srhr
 𦵐	srht
 𦹤	srhw
 𦷏	srid
@@ -61139,6 +61139,7 @@ columns:
 𦬇	ssjj
 𦬢	ssjj
 𠪿	ssjk
+𦿩	ssjs
 𠪄	ssjt
 𪎳	sskb
 𧊝	sskc
@@ -61154,7 +61155,6 @@ columns:
 𤯐	sskr
 𧃂	sskr
 𤡜	ssks
-𦿩	ssks
 𪏃	ssku
 𪏄	ssku
 𢤍	ssky
@@ -61554,9 +61554,9 @@ columns:
 𦱁	svov
 𦼅	svqc
 𦭚	svqd
+𦹽	svqd
 𦮸	svqi
 𠩯	svqk
-𦹽	svrd
 𠞝	svrm
 𦱝	svrm
 𩿅	svro
@@ -62854,13 +62854,13 @@ columns:
 𢌯	tsje
 𩻧	tsjf
 𩻁	tsjg
+𤗰	tsjj
 𢍂	tsjk
 𦤨	tsjm
 𦤦	tsjx
 𩼙	tsjx
 𩹅	tskg
 𢲱	tskh
-𤗰	tskj
 𠉙	tsks
 𤗶	tskt
 𠌑	tslc
@@ -65903,9 +65903,9 @@ columns:
 𢎥	vsig
 𠂐	vsij
 𡤾	vsik
+𥀛	vsjj
 𤿸	vsjr
 𢐖	vsjs
-𥀛	vskj
 𢐳	vskw
 𢑆	vslw
 𥀯	vsmo
@@ -67611,6 +67611,7 @@ columns:
 𠣴	wqje
 𠘮	wqjl
 𠓀	wqjl
+𦉀	wqjs
 𨰝	wqkj
 𦞇	wqkk
 𨬎	wqkl
@@ -67705,7 +67706,6 @@ columns:
 𦦕	wrgt
 𤚟	wrha
 𦞒	wrha
-𦉀	wrhs
 𦞆	wrht
 𩲷	wrhu
 𣍩	wrhy
@@ -70334,6 +70334,7 @@ columns:
 𩛹	yqht
 𢥆	yqik
 𠙋	yqjd
+𢡨	yqjd
 𩜲	yqje
 𢖯	yqji
 𪂨	yqjr
@@ -70396,7 +70397,6 @@ columns:
 𢝘	yrfo
 𩝂	yrfs
 𢚯	yrgn
-𢡨	yrhd
 𢖬	yrii
 𠍗	yrje
 𧳈	yrjk
@@ -70494,12 +70494,12 @@ columns:
 𢣅	ysil
 𢥉	ysit
 𢠍	ysja
+𩞄	ysjj
 𧕤	ysjk
 𩜅	ysjr
 𩚇	ysjs
 𢢖	ysjx
 𢞡	yskh
-𩞄	yskj
 𩞩	yskt
 𢦂	ysku
 𢢺	yslm
@@ -71409,6 +71409,7 @@ columns:
 𫔻	cpwj
 𫕂	cpyf
 𪿆	cqej
+𪦁	cqjs
 𪦴	cqkj
 𪿇	cqlw
 𪽡	cqpj
@@ -71416,7 +71417,6 @@ columns:
 𪥲	cqso
 𪥥	cqvi
 𫕏	crbs
-𪦁	crhs
 𪦪	crqs
 𪦂	crwg
 𪦬	csbm
@@ -71942,7 +71942,7 @@ columns:
 𪵁	frxb
 𪱺	fsfo
 𪳰	fsjf
-𪴊	fsku
+𪴊	fsju
 𪲲	fslc
 𪲴	fslf
 𪜅	fsst
@@ -72143,6 +72143,7 @@ columns:
 𫑝	gqcj
 𫏿	gqdg
 𪯘	gqge
+𪭎	gqjt
 𫑻	gqll
 𫋫	gqmn
 𪼪	gqqd
@@ -72151,7 +72152,6 @@ columns:
 𪻏	gqvb
 𪼊	grdk
 𫀜	grhs
-𪭎	grht
 𪼣	grqg
 𪼰	grst
 𪻸	gsal
@@ -72623,13 +72623,13 @@ columns:
 𪶉	ipxk
 𪷔	iqer
 𪵳	iqis
+𪶣	iqjs
 𫁬	iqjt
 𪵴	iqmv
 𪶟	iqqg
 𪵬	iqqj
 𫁧	irha
 𪷿	irhm
-𪶣	irhs
 𪶿	irqe
 𪶵	irqg
 𪵻	irte
@@ -73715,6 +73715,7 @@ columns:
 𫚝	qjfv
 𫂁	qjgd
 𫇞	qjmb
+𪽐	qjtt
 𫚐	qkgd
 𫁺	qkgk
 𫂍	qljd
@@ -73754,7 +73755,7 @@ columns:
 𫚈	qsfi
 𫖼	qsho
 𫗀	qsib
-𫚧	qskj
+𫚧	qsjj
 𫇡	qspu
 𫖽	qsrv
 𫑜	qssc
@@ -73851,7 +73852,6 @@ columns:
 𪻊	rhjv
 𫋮	rhla
 𫁆	rhtm
-𪽐	rhtt
 𫆔	rhxa
 𪫍	rhyi
 𫁈	rijy
@@ -73917,7 +73917,7 @@ columns:
 𫋰	rqla
 𫗢	rqmo
 𫐰	rqpd
-𫒀	rqpx
+𫒀	rqps
 𫀰	rqss
 𪫔	rqte
 𪤺	rrax
@@ -74111,6 +74111,7 @@ columns:
 𫉻	sjfa
 𪠊	sjgd
 𪷂	sjgk
+𪯓	sjje
 𫊜	sjjm
 𫈧	sjkv
 𫉧	sjqu
@@ -74123,7 +74124,6 @@ columns:
 𪞰	skdm
 𫊅	skdt
 𫉑	skhg
-𪯓	skje
 𪵒	skqh
 𫈂	skrh
 𪞗	skru
@@ -75129,11 +75129,11 @@ columns:
 𪞔	yqab
 𫖫	yqdk
 𪳨	yqjf
+𪬀	yqjx
 𪬻	yqkd
 𫗘	yqlm
 𪬣	yqpl
 𫚲	yqro
-𪬀	yrhx
 𪬏	yrjr
 𪞏	yrvi
 𫎍	ysfc
@@ -76302,8 +76302,8 @@ columns:
 𫢹	eodq
 𫢝	eofa
 𫣡	eofj
+𫣐	eofr
 𬷗	eogr
-𫣐	eolr
 𬋧	eory
 𫣷	eoso
 𫢦	eosv
@@ -76603,6 +76603,7 @@ columns:
 𬄃	fqgb
 𬅚	fqim
 𫶬	fqio
+𬂯	fqjt
 𬄒	fqjv
 𬨆	fqoh
 𫻐	fqox
@@ -76614,7 +76615,6 @@ columns:
 𬄀	frfg
 𬡲	frfr
 𬆑	frhi
-𬂯	frht
 𬄵	frjx
 𬅊	frkt
 𬃜	frmb
@@ -79033,8 +79033,12 @@ columns:
 𬕺	qiyn
 𬀷	qjft
 𬕑	qjjr
+𬏅	qjlw
 𬶩	qjoc
 𬶱	qjom
+𬵀	qjqg
+𬴾	qjqk
+𬵙	qjqt
 𬶘	qjtm
 𬶒	qjtv
 𬶢	qjwg
@@ -79254,12 +79258,8 @@ columns:
 𬍎	rhjs
 𫹧	rhlm
 𫹙	rhlu
-𬏅	rhlw
 𬔃	rhmm
 𬌵	rhpd
-𬵀	rhqg
-𬴾	rhqk
-𬵙	rhqt
 𬇂	rijr
 𫹢	rile
 𬅵	rine
@@ -79672,6 +79672,7 @@ columns:
 𬟊	spyi
 𬆶	sqbm
 𬝀	sqdd
+𬝕	sqjs
 𬐱	sqlm
 𬜱	sqmd
 𫨕	sqqh
@@ -79682,7 +79683,6 @@ columns:
 𬞅	srgp
 𬟘	srgy
 𬝺	srhe
-𬝕	srhs
 𫥉	srjr
 𬟞	srjx
 𬝣	srkg
@@ -80444,7 +80444,7 @@ columns:
 𬘰	vsgd
 𬙅	vshj
 𫸦	vsjg
-𬘿	vskj
+𬘿	vsjj
 𫲴	vsku
 𫸫	vslv
 𬘠	vswy
@@ -80627,9 +80627,9 @@ columns:
 𬂔	wnud
 𬛜	wobm
 𫨳	wobu
+𬧭	wofr
 𬬄	wogl
 𬆰	wohq
-𬧭	wolr
 𬬟	wonk
 𬫫	wonl
 𬫽	woqr
@@ -81422,6 +81422,7 @@ columns:
 𮉞	bpxw
 𮈔	bqbs
 𭂶	bqgl
+𭕩	bqjv
 𮈚	bqlv
 𮉌	bqqx
 𭕯	bqsa
@@ -81432,7 +81433,6 @@ columns:
 𭶵	breb
 𭕱	breg
 𭕨	brel
-𭕩	brhv
 𭉖	brlr
 𭕞	brmb
 𭕜	brnh
@@ -81890,6 +81890,7 @@ columns:
 𮪠	dprb
 𬻓	dqak
 𭝢	dqdy
+𮗆	dqjd
 𭅠	dqji
 𮪗	dqll
 𬻃	dqns
@@ -81900,7 +81901,6 @@ columns:
 𮀖	drah
 𮗃	drdo
 𮗊	dree
-𮗆	drhd
 𮩲	drim
 𮦦	drkk
 𮁕	drkt
@@ -82209,6 +82209,7 @@ columns:
 𭽉	eqai
 𬽲	eqcy
 𭤢	eqgu
+𭶲	eqjd
 𬾓	eqkc
 𭾩	eqmf
 𬾑	eqmm
@@ -82218,7 +82219,6 @@ columns:
 𬿉	eqsj
 𭽓	eqso
 𮨚	erdm
-𭶲	erhd
 𬿘	ermf
 𬿪	erpg
 𬾒	erqj
@@ -82228,7 +82228,7 @@ columns:
 𭏀	esfg
 𭽐	esfo
 𬼓	esha
-𬿽	eskm
+𬿽	esjm
 𬿻	esla
 𬾿	esll
 𭀓	esqm
@@ -82335,8 +82335,8 @@ columns:
 𭫓	fdjf
 𭬕	fdjf
 𭭃	fdmt
+𭬞	fdqd
 𭬜	fdqp
-𭬞	fdrd
 𮬫	fdro
 𭪷	fdsf
 𭫏	fdsf
@@ -83184,9 +83184,9 @@ columns:
 𮫂	hoan
 𭀖	hodw
 𭏧	hoef
+𭏗	hofr
 𭎥	hofv
 𮁷	hois
-𭏗	holr
 𮂔	honj
 𭏆	hoqs
 𮝳	hoti
@@ -84884,7 +84884,7 @@ columns:
 𮚉	mofh
 𮚪	mofm
 𮪬	mofr
-𮯐	molr
+𮯐	mofr
 𭿯	momr
 𭿜	momt
 𭾷	mope
@@ -84908,18 +84908,18 @@ columns:
 𭎇	mqho
 𭻂	mqjt
 𮓙	mqju
+𮗙	mqjv
 𮙷	mqmb
 𮚤	mqpj
 𮈀	mqpm
 𮓟	mqqj
-𮫝	mqrv
+𮫝	mqqv
 𮙯	mqte
 𮀜	mrbd
 𮠯	mrbg
 𮁹	mrbh
 𮬞	mrbq
 𮪭	mrcn
-𮗙	mrhv
 𮓘	mriu
 𮯄	mrnc
 𮓝	mrnf
@@ -84933,7 +84933,7 @@ columns:
 𭿫	mshm
 𭘲	mshs
 𮯖	mshw
-𭿕	mskj
+𭿕	msjj
 𭿣	mslm
 𮉿	msqw
 𭾧	mssi
@@ -85415,6 +85415,7 @@ columns:
 𮄇	oqih
 𭥃	oqiv
 𮄍	oqjs
+𭔉	oqjv
 𭤨	oqkg
 𮃽	oqlh
 𮄅	oqlk
@@ -85450,7 +85451,6 @@ columns:
 𮨖	ordm
 𭓯	oreb
 𭓦	orhb
-𭔉	orhv
 𮕺	orkl
 𭺏	orko
 𬽇	orri
@@ -85710,6 +85710,7 @@ columns:
 𭼤	ppvp
 𮨔	pqdm
 𮖴	pqha
+𮫩	pqjh
 𮕶	pqmv
 𭼳	pqsa
 𮕭	pqsj
@@ -85718,7 +85719,6 @@ columns:
 𮕾	pqwf
 𭼯	pqwi
 𭼼	prfn
-𮫩	prhh
 𮇖	prjr
 𭼛	prkc
 𮇣	prkm
@@ -85931,12 +85931,24 @@ columns:
 𮅾	qjgj
 𮆣	qjgu
 𭅤	qjqc
+𮫜	qjqe
+𮫦	qjqf
+𮫨	qjqj
+𮫫	qjqk
+𮫥	qjqm
+𮞱	qjqp
+𭀯	qjqt
+𮫣	qjqu
+𭀸	qjqw
+𮫪	qjqy
 𭥍	qjrk
 𮬝	qjrk
 𮆷	qjsb
+𮠁	qjsc
 𮆭	qjsk
 𮀅	qjsr
 𮫯	qjuo
+𭅡	qjwk
 𮕅	qkbc
 𮔽	qkcj
 𮔸	qkdb
@@ -86214,26 +86226,14 @@ columns:
 𭪖	rhmf
 𮞋	rhpd
 𮞴	rhpd
-𮫜	rhqe
-𮫦	rhqf
-𮫨	rhqj
-𮫫	rhqk
-𮫥	rhqm
-𮞱	rhqp
-𭀯	rhqt
-𮫣	rhqu
-𭀸	rhqw
-𮫪	rhqy
 𮬰	rhro
 𮭇	rhro
-𮠁	rhsc
 𮂄	rhtr
 𭍺	rhtu
 𭛩	rhuf
 𭛰	rhva
 𭀼	rhvv
 𭛟	rhvv
-𭅡	rhwk
 𮬦	rhwo
 𭛯	rhwy
 𮩞	rhyu
@@ -87702,6 +87702,7 @@ columns:
 𭽤	vqcy
 𮉢	vqgu
 𭚧	vqhg
+𭚽	vqjd
 𭚸	vqkc
 𭚳	vqkh
 𮞀	vqks
@@ -87716,7 +87717,6 @@ columns:
 𭩲	vqvf
 𭅼	vqxx
 𮉫	vrcn
-𭚽	vrhd
 𭚮	vrlv
 𮬪	vrok
 𭆝	vrvv
@@ -88433,7 +88433,7 @@ columns:
 𭞒	ysin
 𭚖	ysjd
 𭟒	ysjj
-𭟆	yskm
+𭟆	ysjm
 𭟈	ysko
 𭞩	yslw
 𭟤	ysmm
@@ -88588,7 +88588,7 @@ columns:
 𰓿	anrs
 𰓋	anxl
 𰓣	aobo
-𰔜	aolr
+𰔜	aofr
 𰀁	aooo
 𰓤	aoqd
 𰞠	aoqu
@@ -89503,7 +89503,7 @@ columns:
 𰘹	fsem
 𰘖	fsfk
 𱌿	fsim
-𰘻	fskg
+𰘻	fsjg
 𰏋	fslv
 𰘙	fsrk
 𰘈	fsth
@@ -91020,6 +91020,7 @@ columns:
 𰗘	nqfv
 𱋺	nqha
 𰹾	nqhc
+𰣈	nqjt
 𰀢	nqks
 𰚪	nqmr
 𰸩	nqsp
@@ -91027,7 +91028,6 @@ columns:
 𰸲	nqxx
 𰙥	nreb
 𰘐	nrfp
-𰣈	nrht
 𰸪	nrja
 𰸴	nrqn
 𰀠	nsis
@@ -91587,6 +91587,7 @@ columns:
 𰻇	qjep
 𱊔	qjey
 𱇞	qjfi
+𰡸	qjgn
 𰩭	qjsk
 𰢸	qjtc
 𱈃	qjwy
@@ -91813,7 +91814,6 @@ columns:
 𰡃	rheq
 𰔶	rhft
 𰃜	rhfv
-𰡸	rhgn
 𱃸	rhks
 𱄆	rhll
 𰡜	rhry
@@ -92105,11 +92105,11 @@ columns:
 𰕦	sjge
 𰲀	sjgh
 𰲍	sjgj
+𰅕	sjjx
 𰱰	sjmq
 𰆝	sjog
 𱂴	skhk
 𰊶	skht
-𰅕	skjx
 𰆜	skmb
 𱋴	sktd
 𰱤	sktg
@@ -94406,8 +94406,8 @@ columns:
 𲊟	gsey
 𱘱	gsgd
 𲎚	gshb
+𱯞	gsjj
 𱝔	gsju
-𱯞	gskj
 𲆽	gsky
 𲄳	gsqc
 𱑌	gssy
@@ -95195,8 +95195,8 @@ columns:
 𱢋	jrvk
 𱛼	jrxa
 𱛇	jsfi
+𱜅	jsjj
 𱛻	jskg
-𱜅	jskj
 𱢊	jsmo
 𱛕	jsmv
 𱛜	jsnh
@@ -95809,7 +95809,7 @@ columns:
 𱦻	nnnf
 𱧙	nnnx
 𱥄	noan
-𲃿	nolr
+𲃿	nofr
 𲄎	noqj
 𲃠	nory
 𲃭	nosg
@@ -95974,7 +95974,7 @@ columns:
 𱷖	oqxo
 𱷚	oqxu
 𱚔	orbu
-𲂓	oskj
+𲂓	osjj
 𱡴	osqs
 𲂈	osra
 𲂙	osvl
@@ -96668,6 +96668,7 @@ columns:
 𱽬	siwv
 𱥕	sjgr
 𱰠	sjgt
+𱐽	sjjo
 𱾟	sjma
 𱾶	sjne
 𱿉	sjor
@@ -96683,7 +96684,6 @@ columns:
 𱑕	skdp
 𱽖	skej
 𲎀	skgy
-𱐽	skjo
 𲇩	skrw
 𱾧	sksu
 𱽠	sktt
@@ -97068,7 +97068,7 @@ columns:
 𱫉	unvo
 𱫗	unwy
 𲍫	unya
-𲁳	uolr
+𲁳	uofr
 𱬊	uoqn
 𱫏	uosa
 𱬎	uovd

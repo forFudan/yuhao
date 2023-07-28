@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230717
+# 版本: 20230729
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.quick"
-version: "20230717"
+version: "20230729"
 sort: original
 columns:
   - text
@@ -64,6 +64,7 @@ columns:
 有的	s
 人们	t
 应该	u
+了解	v
 然后	w
 出来	x
 心情	y
@@ -736,7 +737,9 @@ columns:
 丑陋	bc
 居住	bd
 欢乐	be
+劲头	bf
 戏曲	bg
+圣人	bh
 已经	bi
 己见	bj
 观察	bk
@@ -816,6 +819,7 @@ columns:
 作用	eq
 化学	er
 传统	es
+低头	et
 信息	eu
 仍然	ev
 遥远	ew
@@ -853,6 +857,7 @@ columns:
 替代	gg
 鞋子	gh
 面前	gi
+春天	gj
 现在	gk
 或者	gl
 划分	gm
@@ -889,6 +894,7 @@ columns:
 土地	ht
 平静	hu
 却是	hv
+青年	hw
 礼物	hx
 轨迹	hy
 河流	ia
@@ -908,6 +914,7 @@ columns:
 产生	iq
 活动	ir
 满足	is
+兴趣	it
 淡淡	iu
 治疗	iv
 洗澡	iw
@@ -936,6 +943,7 @@ columns:
 思想	jy
 财产	ka
 贝壳	kb
+野兽	kc
 电子	kd
 同时	kf
 业务	kg
@@ -949,6 +957,7 @@ columns:
 遇到	kp
 蜘蛛	kq
 蝌蚪	kr
+曲线	ks
 内容	kt
 赚钱	ku
 水平	kv
@@ -962,6 +971,7 @@ columns:
 呈现	lg
 味道	lh
 非常	li
+喝酒	lj
 虽然	lk
 品种	ll
 吵架	lm
@@ -981,9 +991,11 @@ columns:
 置换	md
 睡觉	me
 目前	mf
+骨头	mg
 光线	mh
 小学生	mi
 桌子	mj
+虚伪	mk
 战争	ml
 帖子	mm
 罚款	mo
@@ -1021,6 +1033,7 @@ columns:
 记者	ob
 安排	oc
 家庭	od
+放在	oe
 语言	of
 方法	og
 谚语	oi
@@ -1038,6 +1051,7 @@ columns:
 调整	ow
 辛苦	ox
 密切	oy
+闻名	pa
 变化	pb
 数字	pc
 糊涂	pd
@@ -1111,7 +1125,9 @@ columns:
 饱和	rw
 律师	rx
 称为	ry
+友谊	sb
 斗争	sd
+次數	se
 左右	sf
 头上	sg
 压力	sh
@@ -1133,9 +1149,11 @@ columns:
 带来	sy
 昏迷	ta
 分析	tb
+针对	td
 途径	tf
 全部	tg
 长期	th
+八月	ti
 留下	tj
 自己	tk
 钟头	tl
@@ -1157,6 +1175,9 @@ columns:
 序列	uc
 烦恼	ud
 腐朽	ue
+师父	uf
+美丽	ug
+装备	uh
 应该	ui
 单位	uj
 普通	uk
@@ -1171,6 +1192,7 @@ columns:
 广大	uu
 弟弟	uv
 前面	uw
+唐代	ux
 忘记	uy
 那么	va
 经济	vb
@@ -1216,6 +1238,7 @@ columns:
 脂肪	wr
 希望	ws
 忽然	wt
+腿上	wv
 物体	ww
 服务	wx
 月亮	wy
@@ -1227,6 +1250,7 @@ columns:
 卫生	xf
 骑车	xg
 以至于	xh
+习惯	xi
 力量	xk
 加强	xl
 马上	xm
@@ -1236,6 +1260,7 @@ columns:
 群体	xq
 出租车	xr
 办法	xt
+灵魂	xu
 即使	xv
 驳斥	xw
 出发	xx
@@ -1256,11 +1281,13 @@ columns:
 惊人	yo
 追求	yp
 必须	yq
+农业	yr
 写字	ys
 解决	yt
 忙碌	yu
 惨痛	yv
 性格	yw
+命令	yx
 恰当	yy
 ，	dh
 ；	fh
@@ -3814,8 +3841,8 @@ columns:
 嗬	lse
 嘆	lsf
 嘩	lsh
-喵	lsj
-嘈	lsk
+嘈	lsj
+喱	lsk
 饕	lsm
 嚆	lso
 吠	lsq
@@ -4225,6 +4252,7 @@ columns:
 賓	ofm
 证	ofn
 讧	ofo
+衰	ofr
 诬	oft
 宋	ofv
 寄	oga
@@ -4527,7 +4555,7 @@ columns:
 粝	psf
 痲	psi
 弈	psj
-糟	psk
+癘	psk
 襪	psm
 襤	psq
 斋	psr
@@ -5150,7 +5178,6 @@ columns:
 茼	skf
 英	skg
 苒	skh
-曹	skj
 苘	skl
 厕	skm
 繭	skn

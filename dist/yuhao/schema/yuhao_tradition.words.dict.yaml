@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230716
+# 版本: 20230729
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tradition.words"
-version: "20230716"
+version: "20230729"
 sort: original
 columns:
   - text
@@ -1691,7 +1691,7 @@ columns:
 儘量	exjf
 發起	bvdb
 失望	qguw
-遭遇	skkp
+遭遇	sjkp
 趕緊	djsb
 帝國主義	onou
 信號	euls
@@ -2825,7 +2825,7 @@ columns:
 壓抑	sjat
 肉體	ktmk
 天子	fgvk
-衰退	olvp
+衰退	ofvp
 公子	tvvk
 星星	jwjw
 監視	sqhm
@@ -3329,7 +3329,7 @@ columns:
 彙報	byhu
 輿論	rgut
 階級	crbv
-遭到	skhm
+遭到	sjhm
 手術	turf
 奧運會	rytf
 障礙	cidr
@@ -4184,7 +4184,7 @@ columns:
 覺醒	rwgj
 近似	epex
 歸屬	ynbk
-衰老	olhr
+衰老	ofhr
 環繞	gmbh
 激戰	iell
 非但	liej
@@ -4983,7 +4983,7 @@ columns:
 專題	gajf
 沿着	iqum
 年底	qaut
-遭受	skey
+遭受	sjey
 審美	oqug
 頒佈	tbes
 外來	rmdl
@@ -6313,7 +6313,7 @@ columns:
 靈巧	dlfs
 弊病	umpf
 變法	ubih
-衰弱	olvs
+衰弱	ofvs
 離别	pxlx
 壞蛋	hovn
 有朝一日	sdfj
@@ -7897,7 +7897,7 @@ columns:
 單薄	llsi
 全盤	tgqq
 悦耳	yuar
-衰落	olsi
+衰落	ofsi
 寺院	haco
 臺詞	hluv
 包容	wcpt
@@ -12544,7 +12544,7 @@ columns:
 雙親	wwif
 鮮嫩	tucf
 預謀	cdus
-遭殃	skfr
+遭殃	sjfr
 作廢	equb
 翻新	qpif
 貴賤	lkmg
@@ -15508,7 +15508,7 @@ columns:
 髒話	msur
 筆挺	qxae
 歸順	ynqd
-衰變	olub
+衰變	ofub
 天籟	fgqf
 兇險	wxcr
 初學	pbrw
@@ -16432,7 +16432,7 @@ columns:
 一來	fidl
 不願	duse
 不問	dukl
-曹操	skal
+曹操	sjal
 一句話	fwur
 珠海	gwiq
 玻利維亞	grbf
@@ -17037,7 +17037,7 @@ columns:
 失控	qgap
 幌子	mjvk
 薪水	sikv
-興衰	rkol
+興衰	rkof
 自居	tkbd
 徑直	rfdm
 耽擱	ayak
@@ -17419,7 +17419,7 @@ columns:
 作怪	eqyb
 初春	pbgj
 髮卡	hskm
-衰竭	olij
+衰竭	ofij
 文言	pwua
 異化	jser
 短褲	qfpu
@@ -18143,7 +18143,7 @@ columns:
 流竄	iopr
 輕浮	gfie
 秋水	rukv
-衰減	olid
+衰減	ofid
 雲海	dsiq
 波紋	ivbp
 柴火	nruo
@@ -20171,7 +20171,7 @@ columns:
 轟炸機	gufv
 明信片	jetp
 大合唱	gylj
-衰敗	olme
+衰敗	ofme
 黃牌	sstw
 泊位	ieei
 不外乎	drqu
@@ -20593,7 +20593,7 @@ columns:
 功過	fxnp
 貨船	erqq
 吉普	hluk
-衰亡	oluw
+衰亡	ofuw
 中衛	lnrc
 估摸	edas
 開票	kfdh
@@ -22325,7 +22325,7 @@ columns:
 堵截	hhdg
 書報	xhhu
 制動	wkwk
-慘遭	yvsk
+慘遭	yvsj
 供暖	esje
 靈性	dlyw
 食宿	ysoe
@@ -23650,7 +23650,7 @@ columns:
 爵位	emei
 簽收	qrxe
 迎頭痛擊	tfpg
-遭劫	skhv
+遭劫	sjhv
 獨角戲	rymf
 封皮	hhvp
 後年	rvqa
@@ -24948,7 +24948,7 @@ columns:
 柴草	nrsj
 典當	ksnj
 附中	celn
-免遭	ylsk
+免遭	ylsj
 班機	gufv
 暴漲	jsiv
 秃頭	rqfl
@@ -27556,7 +27556,7 @@ columns:
 拔節	asqe
 地磁	hcdu
 上菜	ksse
-衰微	olrf
+衰微	ofrf
 秃頂	rqad
 藏語	sguf
 轉錄	ggwb
@@ -27946,11 +27946,11 @@ columns:
 盛譽	dvrs
 甜食	rsys
 有生	swwg
-周遭	whsk
+周遭	whsj
 輪空	gtpf
 逆子	uxvk
 世風	hirf
-早衰	jdol
+早衰	jdof
 定情	ofyh
 對角	kuyt
 立誓	idae
@@ -28029,7 +28029,7 @@ columns:
 水藻	kvsi
 驗屍	drbf
 魚肝油	twik
-遭逢	sked
+遭逢	sjed
 捉姦	ancc
 初犯	pbrv
 腹稿	wqro
@@ -29250,7 +29250,7 @@ columns:
 臟器	wsll
 反哺	eblf
 幕府	sjue
-盛衰	dvol
+盛衰	dvof
 打翻	aaqp
 風蝕	rfyk
 解憂	ytdw
@@ -29712,7 +29712,7 @@ columns:
 十二指腸	dsaw
 填詞	hduv
 英傑	sker
-遭罪	skml
+遭罪	sjml
 方劑	ogou
 規約	gmbw
 男聲	jxhb
@@ -32818,7 +32818,7 @@ columns:
 吮吸	lvlv
 砸碎	dgdo
 忠孝	lnhv
-屢遭	blsk
+屢遭	blsj
 術士	rfhf
 舞獅	qsry
 營壘	uujj
@@ -35608,7 +35608,7 @@ columns:
 吾輩	fclg
 畫出	xhxx
 畫作	xheq
-遭際	skcw
+遭際	sjcw
 兩漢	fmis
 兩次	fmse
 來此	dlnr
@@ -36686,7 +36686,7 @@ columns:
 課税	ujru
 戎馬倥傯	gdee
 燒鹼	uhkr
-險遭	crsk
+險遭	crsj
 相許	fmuq
 眼眉	mvbm
 城廂	hduf
@@ -38125,7 +38125,7 @@ columns:
 隊旗	cuoq
 故知	deql
 問訊	kluv
-陰曹	ctsk
+陰曹	ctsj
 海景	iqjo
 歡唱	sllj
 喧騰	lowu
@@ -38892,7 +38892,7 @@ columns:
 轉敗爲勝	gmew
 思科	jyrs
 回收站	nxim
-連遭	gpsk
+連遭	gpsj
 羅斯	mbde
 羅布	mbsm
 羅刹	mbwf
@@ -39515,7 +39515,7 @@ columns:
 方術	ogrf
 考級	hsbv
 消減	imid
-遭災	skvu
+遭災	sjvu
 家道	odut
 像章	eyij
 哀憐	oryp
@@ -41157,7 +41157,7 @@ columns:
 故址	dehn
 戀舊	ubsw
 樹倒猢猻散	fers
-衰朽	olfs
+衰朽	offs
 蓄勢	soht
 譯製	umwk
 嘴笨	lnqf
@@ -44857,7 +44857,7 @@ columns:
 鈣質	waee
 清油	ihik
 送風	ugrf
-橫遭	fssk
+橫遭	fssj
 肉鋪	ktwf
 瑣細	gmbj
 交公	ottv
@@ -45948,7 +45948,7 @@ columns:
 蠢話	gjur
 棄學	ovrw
 人前人後	tutr
-衰草	olsj
+衰草	ofsj
 通性	btyw
 安寢	ocox
 餞别	yglx
@@ -49533,7 +49533,7 @@ columns:
 竊奪	pqgw
 窗縫	prbe
 錯碼	wsdd
-色衰	ycol
+色衰	ycof
 餚饌	ywyc
 解鬱	ytfw
 蟹殼	ythf
@@ -51918,7 +51918,7 @@ columns:
 富比	ofrr
 穿山越嶺	pjdj
 農林牧副漁	kfwi
-爾曹	ftsk
+爾曹	ftsj
 餿味	yrlh
 鍵名	wxrl
 拒繳	agbe
@@ -53903,7 +53903,7 @@ columns:
 偷竊	etoq
 反撲	sbak
 內燃機	kufv
-衰變	olbu
+衰變	ofbu
 爐灶	umuh
 看穿	tmoq
 滾蛋	iovn
