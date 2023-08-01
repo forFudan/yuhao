@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·華夫餅
-# 版本: 20230801
+# 版本: 20230802
 #
 # 發明人 朱宇浩
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -19,7 +19,7 @@
 # - 用户自定義詞庫
 ---
 name: "yuhao_wafel_trad"
-version: "20230801"
+version: "20230802"
 sort: original
 import_tables:
   - yuhao.extended
@@ -64,10 +64,10 @@ encoder:
 了	k
 中	l
 自	m
-平	n
-就	o
-麼	p
-來	q
+被	n
+好	o
+看	p
+道	q
 人	r
 在	s
 大	t
@@ -78,7 +78,7 @@ encoder:
 心	y
 要	z
 授	a
-監	b
+臨	b
 降	c
 顛	d
 便	e
@@ -91,7 +91,7 @@ encoder:
 品	l
 敗	m
 近	n
-好	o
+衣	o
 式	p
 習	q
 領	r
@@ -103,6 +103,34 @@ encoder:
 續	x
 觸	y
 集	z
+可以	a
+不是	b
+還是	c
+的確	d
+他們	e
+一個	f
+地上	g
+到了	h
+没有	i
+是的	j
+上面	k
+中午	l
+自己	m
+被動	n
+好的	o
+看見	p
+道理	q
+今天	r
+有些	s
+大家	t
+這裏	u
+得到	v
+我們	w
+出來	x
+心中	y
+要麽	z
+什麼	ed
+你們	ey
 的	dho
 不	bi
 我	wap

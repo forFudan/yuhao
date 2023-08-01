@@ -122,13 +122,13 @@ speller:
   max_code_length: 3
   auto_select: true
   algebra:
-    - "derive/^([a-y])[a-y]([a-y]*)$/$1z$2/" # Az AzC AzCD
-    - "derive/^([a-y]+)[a-y]([a-y]*)$/$1z$2/" # ABz ABzD ABCz AzC AzCD
-    - "derive/^([a-y]+)[a-y]$/$1z/" # ABz ABCz
-    # - "derive/^([a-y]+)[a-y]{2}$/$1zz/" # ABzz Azz
-    # - "derive/^([a-y])[a-y]{2}([a-y])$/$1zz$2/" # AzzD
-    # - "derive/^([a-y])[a-y]{3}$/$1zzz/" # Azzz
-    # - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
+    # - "derive/^([a-y])[a-y]([a-y]*)$/$1z$2/" # Az AzC AzCD
+    # - "derive/^([a-y]+)[a-y]([a-y]*)$/$1z$2/" # ABz ABzD ABCz AzC AzCD
+    # - "derive/^([a-y]+)[a-y]$/$1z/" # ABz ABCz
+    # # - "derive/^([a-y]+)[a-y]{2}$/$1zz/" # ABzz Azz
+    # # - "derive/^([a-y])[a-y]{2}([a-y])$/$1zz$2/" # AzzD
+    # # - "derive/^([a-y])[a-y]{3}$/$1zzz/" # Azzz
+    # # - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
 
 translator:
   dictionary: yuhao_wafel_trad
@@ -143,8 +143,6 @@ translator:
   preedit_format: []
   comment_format:
     - "xform/^~/ /"
-  disable_user_dict_for_patterns:
-    - "^z.*$"
 
 zaoci:
   __include: translator
@@ -163,7 +161,7 @@ fixed:
   initial_quality: 1000000
 
 history:
-  input: z
+  input: /
   size: 1
   initial_quality: 1
 
@@ -226,7 +224,7 @@ recognizer:
   patterns:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
     reverse_lookup: "^/([a-z]+?)*$"
-    zaoci: "^[a-y]*`[a-y`]*$"
+    zaoci: "^[a-z]*`[a-z`]*$"
 
 style:
   horizontal: false
