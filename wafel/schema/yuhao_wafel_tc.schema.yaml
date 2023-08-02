@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: yuhao_wafel_trad
+  schema_id: yuhao_wafel_tc
   name: 宇浩·華夫餅
   version: 20230801
   author:
@@ -107,7 +107,7 @@ yuhao_postpone_full_code:
     max_index: 3 # 最大後置位置，默認爲 3
 
 schema_name:
-  code: yuhao_wafel_trad
+  code: yuhao_wafel_tc
   spelling: yuhao_wafel_chaifen
 
 yuhao_chaifen:
@@ -131,8 +131,8 @@ speller:
     # # - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
 
 translator:
-  dictionary: yuhao_wafel_trad
-  prism: yuhao_wafel_trad
+  dictionary: yuhao_wafel_tc
+  prism: yuhao_wafel_tc
   db_class: tabledb
   enable_completion: true
   enable_sentence: false

@@ -18,7 +18,7 @@
 # - 臺灣、香港、大陸古籍繁體字形兼容補充
 # - 用户自定義詞庫
 ---
-name: "yuhao_wafel_trad"
+name: "yuhao_wafel_tc"
 version: "20230802"
 sort: original
 import_tables:
@@ -64,7 +64,7 @@ encoder:
 了	k
 中	l
 自	m
-被	n
+平	n
 好	o
 看	p
 道	q
@@ -77,32 +77,6 @@ encoder:
 出	x
 心	y
 要	z
-授	a
-臨	b
-降	c
-顛	d
-便	e
-頭	f
-嘉	g
-宗	h
-遊	i
-題	j
-敞	k
-品	l
-敗	m
-近	n
-衣	o
-式	p
-習	q
-領	r
-散	s
-鈴	t
-硬	u
-委	v
-等	w
-續	x
-觸	y
-集	z
 可以	a
 不是	b
 還是	c
@@ -112,23 +86,79 @@ encoder:
 地上	g
 到了	h
 没有	i
-是的	j
+時候	j
 上面	k
 中午	l
 自己	m
-被動	n
+平靜	n
 好的	o
 看見	p
 道理	q
 今天	r
 有些	s
 大家	t
-這裏	u
-得到	v
+這個	u
+爲什麼	v
 我們	w
 出來	x
 心中	y
 要麽	z
+可能	a
+不過	b
+還有	c
+一下	f
+時間	j
+中間	l
+有人	s
+大槪	t
+這麽	u
+我的	w
+出去	x
+搶	ar
+授	av
+臨	bw
+附	ce
+什	ed
+便	ef
+個	ex
+你	ey
+查	fj
+速	fl
+型	fs
+椅	ft
+烈	fu
+喜	gl
+境	go
+赫	gu
+宗	hg
+寬	hs
+遊	iw
+題	jf
+敞	ke
+品	ll
+敗	me
+近	nd
+質	nn
+交	ou
+衣	ow
+式	pp
+習	qq
+途	rf
+領	ro
+藍	sb
+散	sh
+鐘	so
+鋼	sz
+譯	uc
+貧	ud
+硬	uf
+委	vo
+等	wg
+箇	wx
+續	xg
+觸	yc
+觸	yh
+集	zf
 什麼	ed
 你們	ey
 的	dho
@@ -312,7 +342,7 @@ encoder:
 性	yes
 媽	ojk
 親	ofm
-打	aag
+打	aae
 向	ra
 少	kw
 色	yaj
@@ -382,7 +412,7 @@ encoder:
 次	pna
 觀	slm
 資	pnm
-神	gnm
+神	gnc
 字	hkz
 才	jw
 像	eye
@@ -491,7 +521,7 @@ encoder:
 步	ckj
 火	ms
 喜	gll
-五	foe
+五	fjv
 辦	owo
 育	okh
 陽	cjs
@@ -932,7 +962,7 @@ encoder:
 唱	ljj
 負	ymb
 沙	ikw
-圍	xoe
+圍	xjv
 鐘	son
 睛	mgh
 旁	oqi
@@ -1007,7 +1037,7 @@ encoder:
 階	cid
 田	nt
 卡	kco
-衛	vou
+衛	vju
 夠	uul
 畢	jsa
 庭	pct
@@ -1076,7 +1106,7 @@ encoder:
 宋	hfk
 奶	orn
 短	qfq
-竹	wd
+竹	we
 廳	pty
 趕	rjn
 貨	eim
@@ -1157,7 +1187,7 @@ encoder:
 努	obw
 宜	hmq
 宮	hlr
-伸	enm
+伸	enc
 嘆	lsl
 購	msg
 植	fdm
@@ -1270,7 +1300,7 @@ encoder:
 付	ean
 隆	cee
 蛋	vcp
-韓	djo
+韓	djj
 哭	llx
 途	rfd
 兵	nfu
@@ -1328,7 +1358,7 @@ encoder:
 寬	hso
 誤	ult
 針	sdi
-訂	uag
+訂	uae
 椅	ftl
 潛	ikj
 胸	hhx
@@ -1376,7 +1406,7 @@ encoder:
 圈	xqv
 盒	rcm
 伴	eqa
-申	nm
+申	nc
 聚	tbp
 載	dpc
 攝	att
@@ -1440,7 +1470,7 @@ encoder:
 啦	lao
 伊	exw
 肥	haj
-偉	eoe
+偉	ejv
 賓	hfm
 雷	dnt
 潔	izx
@@ -1509,7 +1539,7 @@ encoder:
 浮	ivk
 愈	rfy
 怨	uvy
-丁	ag
+丁	ae
 泉	dvs
 恩	xty
 稿	vog
@@ -1876,7 +1906,7 @@ encoder:
 盆	udc
 采	vfk
 埃	gkq
-亭	oag
+亭	oae
 叢	yqb
 綿	xdr
 貸	epm
@@ -1921,7 +1951,7 @@ encoder:
 辨	oqo
 籌	wga
 菌	sxv
-吾	fol
+吾	fjl
 抬	akl
 袖	nnv
 鴨	ntn
@@ -2069,7 +2099,7 @@ encoder:
 渾	iyc
 汁	idi
 糕	kum
-違	odc
+違	jdc
 漁	itj
 氏	iak
 浦	ird
@@ -2088,7 +2118,7 @@ encoder:
 陌	cuj
 尹	xw
 斑	mxm
-釘	sag
+釘	sae
 掘	abx
 餅	qqs
 憐	yka
@@ -2106,7 +2136,7 @@ encoder:
 蒸	svm
 扔	arn
 錶	sgw
-伍	efo
+伍	efj
 摺	aqd
 恭	suo
 緻	xhe
@@ -2207,7 +2237,7 @@ encoder:
 煮	gjm
 扯	acz
 寞	hst
-坤	gnm
+坤	gnc
 躱	qrf
 奬	cht
 芽	sma
@@ -2222,7 +2252,7 @@ encoder:
 屁	bii
 澡	ilf
 填	gdu
-舟	jt
+舟	jz
 譽	huu
 爽	tcc
 悔	ywr
@@ -2259,7 +2289,7 @@ encoder:
 妥	voh
 恆	yff
 摘	aob
-叮	lag
+叮	lae
 崩	jhh
 碟	uyf
 軸	cnv
@@ -2287,7 +2317,7 @@ encoder:
 淑	ikb
 糾	xx
 欠	na
-盯	mag
+盯	mae
 瞪	mbq
 玫	meu
 蕩	sis
@@ -2424,7 +2454,7 @@ encoder:
 頃	ium
 惹	ssy
 碌	uxv
-夷	tnf
+夷	tns
 賭	mgj
 辱	pan
 巢	pjf
@@ -2685,7 +2715,7 @@ encoder:
 絨	xps
 匾	kqo
 御	vwx
-躬	qnf
+躬	qns
 鑲	sow
 歧	cdb
 剎	cfx
@@ -2962,7 +2992,7 @@ encoder:
 窟	hbx
 琅	moy
 滯	isr
-弓	nf
+弓	ns
 屢	blo
 艙	jrl
 屠	bgj
@@ -3024,7 +3054,7 @@ encoder:
 膊	hra
 耽	tyq
 稽	vbj
-汀	iag
+汀	iae
 蕃	swn
 瘤	pin
 篤	wjk
@@ -3125,7 +3155,7 @@ encoder:
 鸚	mmt
 妖	ozy
 闡	rld
-于	fj
+于	fjt
 徊	vxl
 骸	vah
 厄	kvi
@@ -3180,7 +3210,7 @@ encoder:
 嶽	jxx
 懈	yyt
 謊	usq
-韌	odo
+韌	jdo
 祠	gvl
 郝	guc
 蜀	chp
@@ -3194,7 +3224,7 @@ encoder:
 狸	xni
 匕	ib
 裔	owl
-諱	uoe
+諱	ujv
 絆	xqa
 杰	fms
 丑	lk
@@ -3283,7 +3313,7 @@ encoder:
 螂	poc
 蟑	poj
 哺	lrd
-紳	xnm
+紳	xnc
 瀆	igm
 丢	ckf
 劈	bld
@@ -3361,7 +3391,7 @@ encoder:
 褪	nyd
 諭	urx
 絃	xou
-呻	lnm
+呻	lnc
 迢	dld
 憫	yrx
 扒	aub
@@ -3446,7 +3476,7 @@ encoder:
 筐	wkm
 褂	ngc
 盎	ztc
-葦	soe
+葦	sjv
 嶇	jkl
 籮	wcz
 拽	anw
@@ -3591,7 +3621,7 @@ encoder:
 笠	woi
 蜓	pct
 恣	pny
-韋	oe
+韋	jv
 醞	zxc
 岔	udj
 嘎	lup
@@ -3615,7 +3645,7 @@ encoder:
 曙	jcj
 吠	lxo
 硫	uoq
-町	nag
+町	nae
 皿	cm
 蚤	bop
 鐲	scp
@@ -3945,7 +3975,7 @@ encoder:
 儷	efp
 騫	hsj
 唬	lkv
-穹	hnf
+穹	hns
 捱	akg
 廿	sf
 挹	ala
@@ -4032,7 +4062,7 @@ encoder:
 倣	eie
 痙	pfp
 濘	iha
-緯	xoe
+緯	xjv
 囌	lsv
 囪	rso
 鴣	btn
@@ -4254,7 +4284,7 @@ encoder:
 揶	atc
 冗	yqv
 擢	aqz
-闈	roe
+闈	rjv
 駙	jea
 鑊	ssb
 鞘	rkh
@@ -4612,7 +4642,7 @@ encoder:
 櫛	fwx
 嚓	lhg
 豸	kd
-瑋	moe
+瑋	mjv
 臻	hev
 啷	loc
 臆	hoy
@@ -4758,7 +4788,7 @@ encoder:
 篡	wmk
 膻	hof
 剷	owx
-韜	ovh
+韜	jvh
 荆	sfx
 厦	kue
 兑	qlq
@@ -5185,10 +5215,10 @@ encoder:
 皈	dnb
 邈	kdd
 酩	zul
-仃	eag
+仃	eae
 蠡	rep
 潞	ibl
-酊	zag
+酊	zae
 羯	uje
 箸	wgj
 罄	gbq
@@ -5365,7 +5395,7 @@ encoder:
 饔	onq
 氪	wbq
 矞	cwl
-煒	moe
+煒	mjv
 惊	yok
 确	uyc
 虫	pc
@@ -5558,7 +5588,7 @@ encoder:
 溲	ihb
 匏	tfa
 舨	jnb
-疋	vci
+疋	vcz
 榧	fkw
 螈	pkk
 麈	pom
@@ -5996,7 +6026,7 @@ encoder:
 职	tlu
 飘	zgc
 养	qlu
-宁	hag
+宁	hae
 吓	lli
 兽	qnl
 读	ddt
@@ -6007,12 +6037,12 @@ encoder:
 赛	hsz
 墙	gdl
 环	mbi
-厅	kag
+厅	kae
 适	ldc
 拥	acg
 释	wka
 闹	yor
-灯	mag
+灯	mae
 验	uri
 凤	qbj
 鱼	qy
@@ -6215,7 +6245,7 @@ encoder:
 钻	tcl
 玛	mum
 减	ppl
-弯	rnf
+弯	rns
 夹	lqk
 辞	lox
 岂	jai
@@ -6258,7 +6288,7 @@ encoder:
 络	nel
 键	txt
 湿	ijy
-审	hnm
+审	hnc
 献	dzx
 贤	zbz
 湾	irn
@@ -6380,7 +6410,7 @@ encoder:
 韵	ojp
 谦	dqu
 档	fkx
-订	dag
+订	dae
 肠	hvs
 迁	cdc
 镖	tzg
@@ -6467,7 +6497,7 @@ encoder:
 舱	jrv
 鸭	nhn
 债	egz
-钉	tag
+钉	tae
 缕	nko
 隶	xvs
 践	bfp
@@ -6636,7 +6666,7 @@ encoder:
 诵	dbc
 箫	wxu
 颅	cbz
-绅	nnm
+绅	nnc
 讥	dqv
 觅	vzj
 娴	oyf
@@ -7005,7 +7035,7 @@ encoder:
 垦	ygt
 滢	iso
 邬	hcf
-珅	mnm
+珅	mnc
 泞	iha
 赣	ojz
 鹦	zzh
@@ -7256,7 +7286,7 @@ encoder:
 锺	tcn
 琨	mji
 棂	fxm
-抻	anm
+抻	anc
 俪	efz
 铉	tou
 膘	hzg
@@ -7607,7 +7637,7 @@ encoder:
 骝	uin
 祧	gqp
 苎	shf
-玎	mag
+玎	mae
 犴	xng
 侉	etu
 馐	kul
@@ -7895,14 +7925,14 @@ encoder:
 笮	wwc
 洺	iul
 嬛	ocw
-砷	unm
+砷	unc
 剀	jax
 餍	kxq
 疴	pal
 锱	tpn
 寤	hcl
 糍	kqu
-芎	snf
+芎	sns
 蹼	byl
 缡	nxk
 鳕	qdx
@@ -8410,7 +8440,7 @@ encoder:
 觖	ycr
 圬	gfu
 禊	gzt
-疔	pag
+疔	pae
 茌	seg
 虿	fhp
 蝤	pqz
@@ -8718,7 +8748,7 @@ encoder:
 墚	gif
 甏	glp
 穸	hue
-饣	ks
+饣	k
 苘	szl
 钬	tms
 翛	ezq
@@ -8750,7 +8780,7 @@ encoder:
 酐	zng
 潵	ise
 躜	btz
-胂	hnm
+胂	hnc
 匚	k
 铪	trh
 贶	zlq
@@ -8759,7 +8789,7 @@ encoder:
 泺	iik
 嵴	jph
 锊	tva
-犭	xq
+犭	xo
 摛	axk
 孖	kkz
 玱	mrv
@@ -9013,7 +9043,7 @@ encoder:
 碃	ugh
 衒	vou
 簃	wvu
-宀	hb
+宀	h
 廒	pge
 挓	aha
 襜	nyu
@@ -9102,7 +9132,7 @@ encoder:
 胠	hgk
 涴	ihv
 漼	ijz
-辀	mjt
+辀	mjz
 鱽	qdk
 畬	rfn
 萳	sdd
@@ -9154,7 +9184,7 @@ encoder:
 厖	kbs
 膦	hka
 粞	kzk
-耵	tag
+耵	tae
 镅	tbm
 扺	aia
 棬	fqv
@@ -9568,7 +9598,7 @@ encoder:
 煃	mtg
 琲	mwi
 纴	ncr
-褘	noe
+褘	njv
 庱	pge
 虷	png
 扊	qmm
@@ -9601,9 +9631,9 @@ encoder:
 偺	eej
 倴	ets
 邘	fjc
+郚	fjc
+敔	fje
 梣	fjv
-郚	foc
-敔	foe
 梴	fwt
 祾	gge
 耇	ghl
@@ -9684,8 +9714,8 @@ encoder:
 邿	gac
 堽	gcc
 祊	git
+禕	gjv
 弆	gks
-禕	goe
 堿	gpl
 墐	grp
 垺	gvk
@@ -9699,10 +9729,10 @@ encoder:
 汋	iho
 坒	iig
 泜	iio
+湋	ijv
 沇	ikq
 洣	iks
 溵	inq
-湋	ioe
 湴	iqy
 湑	ivh
 涐	iwp
@@ -9912,7 +9942,7 @@ encoder:
 䴕	fuh
 枍	fuu
 㭎	fzc
-圢	gag
+圢	gae
 堾	gej
 垎	gel
 墕	gfm
@@ -9965,6 +9995,7 @@ encoder:
 峿	jfl
 崶	jga
 屾	jjc
+韞	jjc
 嵅	jpl
 嶟	jqa
 昈	jqh
@@ -10009,7 +10040,6 @@ encoder:
 頎	num
 袯	nxo
 乀	o
-韞	ojc
 婫	oji
 媆	oot
 嬥	oqz
@@ -10144,7 +10174,7 @@ encoder:
 冔	zpj
 醾	zpk
 酦	zxo
-龰	ci
+龰	cz
 鿍	gea
 鿏	tge
 鿎	utd
@@ -10372,8 +10402,8 @@ encoder:
 𬭛	tig
 𬭸	tka
 𬬮	tlc
+𬬹	tnc
 𬬱	tne
-𬬹	tnm
 𬭚	tok
 𬬩	tpi
 𬭼	tqd
@@ -10400,7 +10430,7 @@ encoder:
 𬱟	ykz
 𬮱	yzg
 𬪩	zyw
-𬺰	j
+𬺰	jt
 起	ras
 全	smk
 今	rfv
@@ -10724,7 +10754,7 @@ encoder:
 鏝	szb
 鏵	ssa
 闞	rle
-韞	oxc
+韞	jxc
 黇	spl
 堲	dig
 𬶨	diq
@@ -10978,7 +11008,7 @@ encoder:
 檮	fga
 檥	fup
 鶹	int
-韙	jfo
+韙	jfj
 艫	jkc
 癇	prh
 鬩	rhq
@@ -11033,7 +11063,7 @@ encoder:
 庴	psj
 癤	pwx
 鶼	qxt
-幃	roe
+幃	rjv
 韉	rsm
 鑴	sjl
 糴	skz
@@ -11423,7 +11453,7 @@ encoder:
 斲	kbn
 喛	lvb
 漥	ihg
-暐	joe
+暐	jjv
 亊	jqx
 琝	mjx
 癋	pfy
@@ -11437,7 +11467,7 @@ encoder:
 巻	qla
 籓	win
 觽	ycz
-忄	yv
+忄	yb
 踼	bjs
 佢	ekb
 玧	mkq
@@ -11703,7 +11733,7 @@ encoder:
 儛	ewa
 槻	flm
 窾	hgn
-宆	hnf
+宆	hns
 戦	ijp
 泆	iwl
 昞	jfr
@@ -11789,7 +11819,7 @@ encoder:
 玆	ouu
 効	ouw
 廞	psn
-靪	rag
+靪	rae
 雚	slz
 薆	sve
 徴	vmk
@@ -12392,7 +12422,8 @@ encoder:
 巚	jkx
 巃	joc
 騂	jox
-饤	kag
+韡	jss
+饤	kae
 粃	kii
 馂	kke
 粫	kor
@@ -12414,7 +12445,6 @@ encoder:
 袊	nrb
 褀	nxj
 龑	oht
-韡	oss
 孉	osz
 嫿	oxf
 媢	ozm
@@ -12577,7 +12607,7 @@ encoder:
 奤	toa
 耹	trv
 卼	tyv
-矴	uag
+矴	uae
 磥	unx
 詥	urh
 寽	van
@@ -12924,7 +12954,7 @@ encoder:
 娳	ovx
 娫	owt
 姌	ozg
-虰	pag
+虰	pae
 瘣	pcv
 庝	pep
 凚	pfg
@@ -13231,7 +13261,7 @@ encoder:
 卭	pxi
 餟	qbb
 餲	qje
-韏	qlo
+韏	qlj
 飬	qly
 饟	qow
 缻	qpd
@@ -13453,7 +13483,7 @@ encoder:
 夆	ezn
 倎	ezu
 仸	ezy
-朾	fag
+朾	fae
 柅	fbi
 桮	fbl
 枮	fcl
@@ -13463,8 +13493,8 @@ encoder:
 棈	fgh
 枆	fgo
 鸉	fjt
-柛	fnm
-椲	foe
+椲	fjv
+柛	fnc
 椄	foo
 枟	fpk
 桭	fpn
@@ -13548,6 +13578,8 @@ encoder:
 峐	jah
 旽	jax
 駓	jbf
+郼	jcf
+韖	jcf
 尟	jfw
 褁	jfw
 岥	jgp
@@ -13624,9 +13656,7 @@ encoder:
 甹	nu
 郷	nwc
 袦	nxx
-奵	oag
-郼	ocf
-韖	ocf
+奵	oae
 顡	oem
 婭	ofd
 槀	ofk
@@ -13751,11 +13781,11 @@ encoder:
 稯	vce
 秥	vcl
 乁	vi
+衞	vju
 馡	vjw
 鶏	vlt
 覣	vom
 秔	voq
-衞	vou
 剰	vsx
 黤	vtn
 秼	vtu
@@ -14451,12 +14481,12 @@ encoder:
 鑬	sbm
 蓴	sca
 蕋	scc
-辵	sci
 蔪	scn
 薥	scp
 鴱	sct
 鐶	scw
 藅	scx
+辵	scz
 茘	sdd
 蘤	sdd
 鉊	sdl
@@ -14852,7 +14882,7 @@ encoder:
 祡	cig
 阰	cii
 鴜	cit
-輈	cjt
+輈	cjz
 軭	ckm
 覑	cmj
 濌	cnj
@@ -15012,10 +15042,10 @@ encoder:
 櫋	fmi
 櫿	fml
 専	fna
-杛	fnf
 曺	fnj
 櫍	fnm
 櫑	fnn
+杛	fns
 梬	fnu
 樏	fnx
 恵	fny
@@ -15275,6 +15305,7 @@ encoder:
 駏	jkb
 駆	jkc
 巁	jkf
+韒	jkh
 馻	jkq
 峅	jks
 嵓	jll
@@ -15285,6 +15316,7 @@ encoder:
 巄	joc
 峏	jor
 峷	jox
+舝	jpa
 騼	jpv
 騽	jqd
 舤	jqo
@@ -15293,10 +15325,12 @@ encoder:
 螌	jqp
 駾	jqq
 晑	jra
+韔	jrc
 峑	jrm
 馺	jro
 艌	jry
 嶱	jse
+韝	jsg
 曣	jsm
 驑	jsn
 曅	jss
@@ -15310,6 +15344,7 @@ encoder:
 暣	jwk
 騏	jxj
 旼	jxp
+韗	jyc
 艓	jyf
 顕	jym
 峞	jyv
@@ -15370,6 +15405,7 @@ encoder:
 嚽	lgm
 啘	lhv
 嘙	lio
+喡	ljv
 噒	lka
 嘑	lkj
 嘇	lks
@@ -15381,7 +15417,6 @@ encoder:
 鶚	llt
 呮	llu
 嚊	lms
-喡	loe
 翤	loq
 嗈	lpa
 叿	lpj
@@ -15426,7 +15461,7 @@ encoder:
 珱	mio
 熚	mja
 睗	mjs
-珘	mjt
+珘	mjz
 矑	mkc
 賐	mke
 琑	mkh
@@ -15444,8 +15479,8 @@ encoder:
 煛	mmm
 鷪	mmt
 鸜	mmt
+眒	mnc
 齃	mne
-眒	mnm
 炞	moc
 贚	moc
 賥	mod
@@ -15556,7 +15591,6 @@ encoder:
 婸	ojs
 鷾	ojt
 墪	okg
-韒	okh
 嫟	okl
 嬺	oky
 嬇	olm
@@ -15565,7 +15599,6 @@ encoder:
 罋	onq
 畒	onr
 辡	oox
-舝	opa
 嬚	opu
 孊	opw
 姅	oqa
@@ -15574,8 +15607,6 @@ encoder:
 娧	oqq
 竌	oqv
 劥	oqw
-韔	orc
-韝	osg
 姺	otq
 鄐	ouc
 嬟	oup
@@ -15583,9 +15614,8 @@ encoder:
 竬	owz
 妏	oxp
 鸇	oxt
-韗	oyc
 嬔	oye
-庁	pag
+庁	pae
 蟤	pau
 瓲	pax
 蜛	pbb
@@ -15739,7 +15769,7 @@ encoder:
 趂	ryk
 靾	rys
 鞽	rzl
-艼	sag
+艼	sae
 萅	saj
 蓷	saz
 錣	sbb
@@ -15963,8 +15993,8 @@ encoder:
 詋	ulq
 羙	ums
 顨	ums
+訷	unc
 謖	une
-訷	unm
 詉	uob
 譠	uof
 譲	uow
@@ -16185,12 +16215,12 @@ encoder:
 惿	yjc
 覭	yjm
 亀	yjn
+愇	yjv
 懅	yke
 冞	yks
 悜	ylm
 毚	ylo
 惤	ynu
-愇	yoe
 懠	yop
 冘	yq
 丵	yqd
@@ -16485,11 +16515,11 @@ encoder:
 歮	ccc
 轋	ccd
 塦	ccg
-歨	cci
 盀	ccm
 歱	ccn
 軠	ccr
 奰	cct
+歨	ccz
 鬾	cdb
 牊	cdl
 軺	cdl
@@ -16539,7 +16569,7 @@ encoder:
 輲	cjo
 隑	cjq
 輰	cjs
-歬	cjt
+歬	cjz
 隣	cka
 歫	ckb
 陖	cke
@@ -16791,10 +16821,11 @@ encoder:
 儶	ejl
 儑	ejm
 傝	ejq
-侜	ejt
 侺	ejv
 儤	ejv
+颹	ejv
 倳	ejx
+侜	ejz
 儮	ekc
 僘	eke
 仩	ekg
@@ -16835,7 +16866,6 @@ encoder:
 伄	enz
 儱	eoc
 儫	eoe
-颹	eoe
 俼	eoh
 偣	eoj
 傽	eoj
@@ -17023,11 +17053,13 @@ encoder:
 杣	fjc
 郠	fjc
 梤	fjd
+逜	fjd
 皶	fjg
 榪	fjk
 欈	fjl
 榿	fjq
 刯	fjx
+忢	fjy
 櫨	fkc
 桳	fkd
 櫔	fkf
@@ -17081,7 +17113,6 @@ encoder:
 惁	fny
 橀	foc
 櫳	foc
-逜	fod
 檺	foe
 棛	foh
 棭	foo
@@ -17095,7 +17126,6 @@ encoder:
 橠	fow
 櫰	fow
 欀	fow
-忢	foy
 怷	foy
 怸	foy
 椨	fpa
@@ -17791,9 +17821,9 @@ encoder:
 湠	ijm
 灦	ijm
 涆	ijn
-洀	ijt
 鴲	ijt
 潂	ijy
+洀	ijz
 桬	ikf
 旀	ikk
 溑	ikm
@@ -17943,8 +17973,8 @@ encoder:
 漍	ixf
 澅	ixf
 堻	ixg
+潿	ixj
 顈	ixm
-潿	ixo
 旔	ixt
 湕	ixt
 濝	ixx
@@ -17982,10 +18012,13 @@ encoder:
 騥	jcf
 岾	jcl
 嶃	jcn
+韣	jcp
 崜	jcs
 嶵	jcw
+韢	jcy
 馶	jdb
 遤	jdc
+韟	jdd
 旪	jdi
 旫	jdk
 岹	jdl
@@ -18028,6 +18061,7 @@ encoder:
 崝	jgh
 峔	jgi
 艢	jgl
+韥	jgm
 嶭	jgo
 圼	jgt
 嶢	jgt
@@ -18060,6 +18094,7 @@ encoder:
 暆	jis
 昘	jit
 駲	jiv
+韠	jja
 驆	jja
 崼	jjc
 騍	jjf
@@ -18131,6 +18166,7 @@ encoder:
 騯	joi
 峕	joj
 騿	joj
+韕	jok
 艩	jop
 艈	joq
 崹	jor
@@ -18163,7 +18199,9 @@ encoder:
 崷	jqz
 駖	jrb
 峜	jrc
+韚	jre
 峆	jrh
+韐	jrh
 驧	jrk
 嵢	jrl
 騇	jrl
@@ -18179,12 +18217,16 @@ encoder:
 驄	jry
 艧	jsb
 駵	jsb
+韛	jsc
 曔	jse
 嶆	jsj
 騲	jsj
 馵	jsk
+韎	jsm
 驠	jsm
 崯	jsn
+韍	jso
+韤	jso
 嵽	jsr
 艜	jsr
 暯	jst
@@ -18242,6 +18284,7 @@ encoder:
 駰	jxt
 昢	jxx
 嶑	jye
+韘	jyf
 艬	jyo
 馾	jyq
 嶪	jyu
@@ -18310,8 +18353,8 @@ encoder:
 厴	kjn
 嬮	kjo
 糃	kjs
-貈	kjt
 懕	kjy
+貈	kjz
 遪	kkd
 厸	kkf
 糲	kkf
@@ -18400,11 +18443,11 @@ encoder:
 軬	ktc
 䱷	kte
 尡	kti
+韑	ktj
 匲	ktl
 貵	ktm
 奙	ktn
 鳫	ktn
-韑	kto
 匧	ktr
 劺	ktw
 亃	kue
@@ -18655,8 +18698,8 @@ encoder:
 焬	mjs
 焺	mjs
 爗	mjs
-烐	mjt
 熀	mjt
+烐	mjz
 爏	mkc
 瓑	mkc
 瞘	mkl
@@ -18867,7 +18910,7 @@ encoder:
 燶	mzp
 琠	mzu
 睓	mzu
-甼	nag
+甼	nae
 畡	nah
 弝	naj
 彁	nal
@@ -18925,12 +18968,12 @@ encoder:
 襣	nms
 弞	nna
 斦	nne
-弜	nnf
 櫐	nnf
 壨	nng
 衦	nng
 啠	nnl
 疉	nnr
+弜	nns
 畕	nnt
 䌷	nnv
 劕	nnx
@@ -19015,11 +19058,8 @@ encoder:
 嫷	och
 竨	ocj
 媑	ocn
-韣	ocp
 娷	ocs
 嬽	oct
-韢	ocy
-韟	odd
 嬓	ode
 竍	odi
 姙	oec
@@ -19037,7 +19077,6 @@ encoder:
 媎	ogj
 嬙	ogl
 嫧	ogm
-韥	ogm
 竓	ogo
 嬄	ogq
 媴	ogw
@@ -19062,7 +19101,6 @@ encoder:
 褏	oiw
 襃	oiw
 嬼	oix
-韠	oja
 奾	ojc
 遧	ojd
 韼	ojd
@@ -19077,6 +19115,7 @@ encoder:
 髜	ojs
 韺	ojt
 鶕	ojt
+媁	ojv
 戅	ojy
 韸	ojz
 蹵	okb
@@ -19105,9 +19144,9 @@ encoder:
 殶	omq
 嬶	oms
 歊	ona
+妽	onc
 妡	one
 畆	onk
-妽	onm
 畗	ont
 娦	onu
 娹	onu
@@ -19115,13 +19154,11 @@ encoder:
 裏	onw
 媤	ony
 媯	ood
-媁	ooe
 媇	oof
 奻	ooh
 嫎	ooi
 暜	ooj
 婛	ook
-韕	ook
 姧	oon
 嬂	oop
 髚	ooq
@@ -19141,8 +19178,6 @@ encoder:
 嬨	oqy
 媨	oqz
 竛	orb
-韚	ore
-韐	orh
 嬒	orj
 娢	orl
 姾	orm
@@ -19152,16 +19187,12 @@ encoder:
 孄	orq
 妎	oru
 嬳	osb
-韛	osc
 姷	osh
 媠	osh
 亣	osj
 竎	osk
 嫨	osl
-韎	osm
 嬞	osn
-韍	oso
-韤	oso
 姏	osp
 婾	osp
 孏	osq
@@ -19210,7 +19241,6 @@ encoder:
 剆	oxx
 媈	oyc
 郎	oyc
-韘	oyf
 嫓	oyi
 媍	oym
 婏	oyo
@@ -19476,7 +19506,7 @@ encoder:
 蚦	pzp
 痶	pzu
 緳	pzx
-飣	qag
+飣	qae
 鲄	qal
 焈	qam
 頖	qam
@@ -19510,7 +19540,7 @@ encoder:
 饂	qjc
 躶	qjf
 朆	qjs
-矪	qjt
+矪	qjz
 餕	qke
 饓	qkf
 饄	qkg
@@ -19606,8 +19636,8 @@ encoder:
 罁	qzj
 餇	qzl
 軆	qzq
-帄	rag
-閅	rag
+帄	rae
+閅	rae
 閜	ral
 髬	rbf
 夃	rbj
@@ -20066,6 +20096,7 @@ encoder:
 鈤	sjr
 銟	sjr
 鎤	sjt
+鍏	sjv
 釮	sjw
 剒	sjx
 鎽	sjz
@@ -20142,6 +20173,7 @@ encoder:
 鎴	smy
 鑺	smz
 釒	sn
+鉮	snc
 菦	snd
 茊	snf
 蘽	snf
@@ -20153,7 +20185,6 @@ encoder:
 苰	snk
 鍡	snk
 銗	snl
-鉮	snm
 鍎	snm
 鐨	snm
 黈	snm
@@ -20173,7 +20204,6 @@ encoder:
 蓈	soc
 藡	sod
 錊	sod
-鍏	soe
 鐓	soe
 錥	soh
 薧	soi
@@ -21032,6 +21062,8 @@ encoder:
 ⺄	vi
 濷	vis
 穝	vjb
+躗	vjb
+躛	vjb
 馚	vjd
 馤	vje
 馜	vji
@@ -21042,8 +21074,12 @@ encoder:
 馣	vjn
 馛	vjo
 馢	vjp
+讆	vju
+讏	vju
 馦	vju
+徫	vjv
 忁	vjv
+稦	vjv
 戼	vkb
 黸	vkc
 稄	vke
@@ -21065,11 +21101,7 @@ encoder:
 鶢	vnt
 穓	vnu
 秞	vnv
-躗	vob
-躛	vob
 徿	voc
-徫	voe
-稦	voe
 髇	vog
 稤	vok
 稖	vol
@@ -21077,8 +21109,6 @@ encoder:
 穧	vop
 犩	vot
 鵎	vot
-讆	vou
-讏	vou
 勶	vow
 忀	vow
 穣	vow
@@ -21166,11 +21196,11 @@ encoder:
 箽	wcn
 簐	wcn
 衈	wct
-𠂉	wd
-𥫗	wd
 籖	wdf
 啎	wdl
 籱	wdz
+𠂉	we
+𥫗	we
 箯	wec
 筿	wef
 劜	wei
@@ -21233,8 +21263,8 @@ encoder:
 笡	wmq
 篎	wmw
 簩	wmw
+氠	wnc
 笚	wnj
-氠	wnm
 甶	wnt
 笰	wnu
 笇	woc
@@ -21304,7 +21334,7 @@ encoder:
 丱	x
 囻	xaa
 衋	xac
-糽	xag
+糽	xae
 緡	xaj
 狾	xan
 猳	xbb
@@ -21522,7 +21552,7 @@ encoder:
 綇	xzo
 紻	xzt
 猠	xzu
-忊	yag
+忊	yae
 怌	ybf
 懌	ycd
 觶	ycd
@@ -21796,7 +21826,7 @@ encoder:
 鿁	usu
 龻	uxx
 鿈	vbo
-鿉	vfo
+鿉	vfj
 鿠	vxc
 鿟	vxk
 鿫	wrt
@@ -21891,7 +21921,6 @@ encoder:
 㩞	amf
 㩴	amz
 㰝	ana
-㧈	anf
 㩸	anf
 㿱	ang
 㧨	anl
@@ -21900,6 +21929,7 @@ encoder:
 㩹	anm
 䀸	anm
 䭁	anq
+㧈	ans
 䋢	anx
 㩆	aob
 㨯	aoc
@@ -21994,8 +22024,8 @@ encoder:
 㩨	azy
 䟨	baa
 䟙	bad
+䟓	bae
 䂋	baf
-䟓	bag
 㞎	baj
 䟷	ban
 䠣	bau
@@ -22177,7 +22207,7 @@ encoder:
 䟜	bzr
 䠄	bzu
 䡑	caa
-䦺	cag
+䦺	cae
 㱒	cal
 䡦	cbf
 䰨	cbm
@@ -22283,11 +22313,11 @@ encoder:
 㱗	cmx
 㸝	cna
 䡊	cnb
+䰠	cnc
 䍐	cng
 䧉	cni
 㟻	cnj
 䡏	cnk
-䰠	cnm
 㜞	cno
 㨻	cnp
 䭕	cnq
@@ -22859,11 +22889,14 @@ encoder:
 㮛	fjc
 䰤	fjc
 䢚	fjd
+䢩	fjd
 㪀	fje
 㯥	fjj
 㪽	fjn
 㼯	fjp
 㮽	fjq
+㐏	fjv
+㐚	fjv
 㭿	fjx
 㰎	fjz
 㯫	fke
@@ -22918,14 +22951,11 @@ encoder:
 㝳	fo
 㮌	foa
 㰅	fod
-䢩	fod
 㯆	foe
 㯙	foe
 㮄	foi
 㮕	fot
 㯠	fot
-㐏	fov
-㐚	fov
 㯿	fpb
 㰗	fpb
 䣆	fpc
@@ -23178,6 +23208,7 @@ encoder:
 㙐	gjo
 䘄	gjp
 㲩	gjq
+㙔	gjv
 䎞	gjv
 㙤	gkj
 䖔	gkk
@@ -23216,7 +23247,6 @@ encoder:
 䤰	gns
 㙃	gnu
 䄂	gnv
-㙔	goe
 䄠	gof
 㙵	gog
 㙟	goh
@@ -23317,7 +23347,7 @@ encoder:
 㙉	gzu
 㿾	hac
 䢘	had
-䆑	hag
+䆑	hae
 䏳	han
 䆢	har
 䶈	hba
@@ -23897,6 +23927,7 @@ encoder:
 㬆	jaj
 㞹	jal
 㟛	jap
+䪗	jbb
 䮕	jbb
 䮆	jbd
 䮣	jbf
@@ -23918,6 +23949,7 @@ encoder:
 䮓	jcj
 䑰	jck
 䮹	jck
+䪓	jcl
 䮷	jcp
 㟅	jcq
 㟓	jcr
@@ -23987,8 +24019,10 @@ encoder:
 䣙	jhc
 㿢	jhd
 䑸	jhg
+䪑	jhi
 㫬	jhj
 䑿	jhj
+䪕	jhk
 㟘	jhl
 㟯	jhl
 䑦	jhl
@@ -24018,6 +24052,7 @@ encoder:
 㬁	jir
 䭹	jix
 㬈	jjc
+䪘	jjc
 㬞	jje
 㫜	jjf
 䯂	jjf
@@ -24028,6 +24063,7 @@ encoder:
 㟨	jjo
 㠦	jjq
 䑽	jjq
+䪚	jjq
 㞱	jjr
 㬪	jjr
 㫯	jjt
@@ -24083,6 +24119,7 @@ encoder:
 㬀	jok
 㬌	jok
 㟝	jol
+䪒	jom
 㠉	jon
 䮵	jon
 䯫	joo
@@ -24131,6 +24168,8 @@ encoder:
 㟡	jqv
 䑯	jqw
 㬍	jra
+䪙	jra
+䪔	jrd
 䮒	jrd
 䑮	jrf
 㟇	jrg
@@ -24153,6 +24192,7 @@ encoder:
 㟟	jsa
 㠛	jsb
 㬦	jsb
+䪝	jsb
 㞥	jsd
 㟐	jse
 㪤	jse
@@ -24204,10 +24244,12 @@ encoder:
 䒀	jwa
 䒉	jwa
 㞰	jwd
+䪖	jwe
 䮡	jwe
 㫵	jwi
 㫑	jwk
 䭿	jwl
+䪛	jwn
 䮳	jwn
 䑨	jws
 㫓	jwv
@@ -24236,6 +24278,8 @@ encoder:
 㞮	jyo
 㬇	jyt
 㟰	jyu
+䪜	jyu
+䪐	jyw
 䮤	jyz
 䑾	jzb
 㟳	jzf
@@ -24249,6 +24293,7 @@ encoder:
 㟠	jzj
 㠐	jzl
 䮐	jzl
+䪏	jzr
 䳽	jzt
 㔒	jzx
 㠒	jzx
@@ -24496,9 +24541,9 @@ encoder:
 㕽	ler
 㖓	lez
 㘄	lfi
+㕶	lfj
 㖦	lfj
 㕲	lfk
-㕶	lfo
 㖭	lfo
 㗺	lfw
 㗓	lgd
@@ -25140,8 +25185,8 @@ encoder:
 䘰	nwt
 㢳	nww
 䘲	nxb
+䙟	nxj
 㢴	nxo
-䙟	nxo
 㐆	nxv
 䘵	nxv
 䙰	nxz
@@ -25155,7 +25200,6 @@ encoder:
 䯩	oaj
 䇃	oas
 㚶	obb
-䪗	obb
 㜮	obc
 㚰	obf
 䇈	obg
@@ -25172,7 +25216,6 @@ encoder:
 㛼	och
 㚲	ocl
 䩇	ocl
-䪓	ocl
 㜥	ocm
 㜛	ocn
 㸤	oco
@@ -25212,10 +25255,8 @@ encoder:
 㛮	ohb
 㰍	ohf
 㫄	ohi
-䪑	ohi
 㜚	ohj
 㛽	ohk
-䪕	ohk
 㜣	ohm
 㚬	ohp
 㜒	ohs
@@ -25225,7 +25266,6 @@ encoder:
 䩃	oii
 㵷	oio
 䀍	ojc
-䪘	ojc
 㚆	oje
 㪟	oje
 䪭	ojj
@@ -25235,7 +25275,6 @@ encoder:
 䪦	ojp
 䪫	ojp
 㜐	ojq
-䪚	ojq
 㛫	ojs
 䪧	ojs
 㛧	oju
@@ -25297,7 +25336,6 @@ encoder:
 㛩	ooh
 㛺	ooj
 䇏	ook
-䪒	oom
 䫱	oom
 㜅	oon
 㜔	ooq
@@ -25332,9 +25370,7 @@ encoder:
 㼚	oqp
 䐡	oqr
 䲳	oqt
-䪙	ora
 䩉	ord
-䪔	ord
 㛆	orf
 㛗	org
 㲞	org
@@ -25347,7 +25383,6 @@ encoder:
 䩂	orv
 䩎	orv
 㜝	orz
-䪝	osb
 㚦	osj
 㛭	osj
 㜖	osj
@@ -25391,10 +25426,8 @@ encoder:
 㐧	ovw
 䩆	owc
 䘚	owd
-䪖	owe
 㚳	owl
 䶯	owl
-䪛	own
 䩈	owr
 䥆	ows
 䇄	owv
@@ -25411,9 +25444,7 @@ encoder:
 㚮	oyq
 㛟	oyt
 㜬	oyu
-䪜	oyu
 㛯	oyw
-䪐	oyw
 㛀	oyx
 㜤	ozj
 䩄	ozj
@@ -25422,9 +25453,8 @@ encoder:
 䩌	ozm
 䇂	ozn
 㚩	ozp
-䪏	ozr
+㓅	pae
 㭍	paf
-㓅	pag
 㽶	pai
 䖞	pan
 㓒	pao
@@ -26102,13 +26132,13 @@ encoder:
 䯶	rmq
 䦳	rnc
 㠼	rne
-䩑	rnf
 㡗	rnk
 䞾	rnk
 䞧	rnl
 㡒	rnm
 䞺	rnm
 䞣	rno
+䩑	rns
 㡉	rnu
 䞞	rnu
 䩜	rnv
@@ -26660,8 +26690,8 @@ encoder:
 䖆	szw
 䥛	szx
 䥮	szx
+䰳	tae
 㿲	tag
-䰳	tag
 㸭	taj
 䰾	taj
 㚡	tal
@@ -26770,6 +26800,7 @@ encoder:
 䱉	tmq
 䲏	tmw
 㪑	tnb
+䎶	tnc
 䣍	tnc
 㸫	tne
 㹄	tne
@@ -26777,7 +26808,6 @@ encoder:
 㸩	tng
 䥿	tnh
 㸸	tnl
-䎶	tnm
 㚕	tnu
 㹎	tnx
 㹍	tob
@@ -27021,6 +27051,7 @@ encoder:
 䛞	ujn
 㼣	ujp
 䃑	ujq
+䍷	ujv
 㓦	ujx
 䜅	ujz
 䍽	ukc
@@ -27061,7 +27092,6 @@ encoder:
 䂖	uo
 䂭	uoc
 䃣	uod
-䍷	uoe
 䃪	uof
 䃄	uok
 䃥	uon
@@ -27204,7 +27234,7 @@ encoder:
 䂜	uzn
 䃩	uzp
 䛁	uzp
-㣔	vag
+㣔	vae
 㲕	vag
 䄫	vai
 䄵	vak
@@ -27328,8 +27358,10 @@ encoder:
 䯜	vjs
 䵮	vjs
 䘗	vju
+䘙	vju
 䭱	vju
 䭯	vjx
+㦣	vjy
 䄦	vk
 㲗	vkg
 䅾	vkj
@@ -27373,9 +27405,7 @@ encoder:
 䅫	vok
 䫋	vom
 䘕	vou
-䘙	vou
 㼏	vov
-㦣	voy
 䯖	voy
 䅊	vpa
 䅶	vpa
@@ -28737,6 +28767,7 @@ encoder:
 𢰠	aju
 𢹴	aju
 𢭞	ajv
+𢯷	ajv
 𢩱	ajw
 𢷭	ajw
 𢺖	ajw
@@ -28918,7 +28949,6 @@ encoder:
 𢯐	aob
 𢲲	aoc
 𢷢	aoc
-𢯷	aoe
 𢷒	aoe
 𢸑	aoe
 𢭒	aof
@@ -29478,7 +29508,7 @@ encoder:
 𢶏	azx
 𨁩	baa
 𨃌	baa
-𡰨	bag
+𡰨	bae
 𡱍	bah
 𨀖	bah
 𠬤	bak
@@ -30149,7 +30179,6 @@ encoder:
 𣂜	bne
 𤼲	bne
 𧿧	bne
-𡰬	bnf
 𡏐	bng
 𡯋	bng
 𧿂	bng
@@ -30168,6 +30197,7 @@ encoder:
 𨀇	bnr
 𨄪	bnr
 𨄰	bnr
+𡰬	bns
 𤱡	bns
 𤰺	bnt
 𧿳	bnu
@@ -30809,10 +30839,10 @@ encoder:
 𡲓	bzz
 𦌻	cad
 𨖇	cad
+𦉬	cae
+𨊡	cae
 𨼼	cae
 𤗣	caf
-𦉬	cag
-𨊡	cag
 𨊲	cai
 𣥘	caj
 𨊹	caj
@@ -30915,7 +30945,6 @@ encoder:
 𤿓	ccg
 𨌳	cch
 𩳛	cch
-𤴛	cci
 𨹀	cci
 𣇓	ccj
 𤽠	ccj
@@ -30976,6 +31005,7 @@ encoder:
 𣥖	ccz
 𣥗	ccz
 𣥠	ccz
+𤴛	ccz
 𦊆	ccz
 𨊺	ccz
 𩵇	ccz
@@ -31437,6 +31467,7 @@ encoder:
 𨺁	cjf
 𩐃	cjf
 𤿪	cjg
+𦌋	cjg
 𨻱	cjh
 𠧢	cji
 𨹎	cji
@@ -31490,8 +31521,8 @@ encoder:
 𩳪	cjs
 𢌧	cjt
 𨻙	cjt
-𩳉	cjt
 𦌹	cju
+𩳷	cjv
 𠜕	cjx
 𠜷	cjx
 𠝣	cjx
@@ -31504,6 +31535,7 @@ encoder:
 𦌭	cjz
 𨻵	cjz
 𨿧	cjz
+𩳉	cjz
 𤗷	cka
 𨍼	cka
 𩴠	cka
@@ -31703,8 +31735,10 @@ encoder:
 𣢃	cna
 𨌌	cna
 𩲟	cna
+𨋙	cnc
 𨎉	cnc
 𨤴	cnc
+𨸬	cnc
 𩴕	cnc
 𨌦	cnd
 𨔝	cnd
@@ -31731,10 +31765,8 @@ encoder:
 𨤯	cnl
 𨻞	cnl
 𤋱	cnm
-𨋙	cnm
 𨏑	cnm
 𨐁	cnm
-𨸬	cnm
 𨺠	cnm
 𣥭	cnn
 𦌵	cnn
@@ -31794,9 +31826,7 @@ encoder:
 𢽋	coe
 𨎙	coe
 𨏁	coe
-𩳷	coe
 𣯱	cog
-𦌋	cog
 𨎺	cog
 𨏸	cog
 𩵃	cog
@@ -32748,9 +32778,9 @@ encoder:
 𣥑	czz
 𩃧	daa
 𩃑	dac
+𩁷	dae
 𩃂	dae
 𩄔	daf
-𩁷	dag
 𤾷	dal
 𠜭	daq
 𩆋	daq
@@ -33028,13 +33058,13 @@ encoder:
 𣉙	djj
 𦩻	djj
 𩅟	djj
+𩏑	djj
 𩡪	djk
 𣙈	djl
 𤌹	djm
 𤎘	djm
 𥉏	djm
 𩃟	djn
-𩏑	djo
 𢧢	djp
 𩆉	djp
 𦒋	djq
@@ -33044,7 +33074,6 @@ encoder:
 𤾉	djs
 𧂽	djs
 𩃮	djs
-𩂤	djt
 𩹼	djt
 𪂂	djt
 𪆘	djt
@@ -33058,6 +33087,7 @@ encoder:
 𩇍	djx
 𨢈	djz
 𨿨	djz
+𩂤	djz
 𤽀	dk
 𩂒	dka
 𢿉	dkb
@@ -33198,7 +33228,6 @@ encoder:
 𨙝	dnd
 𠦉	dne
 𩂋	dne
-𩁽	dnf
 𩂬	dnf
 𤽂	dng
 𩂀	dng
@@ -33214,6 +33243,7 @@ encoder:
 𧒜	dnp
 𤾒	dnq
 𤱑	dnr
+𩁽	dns
 𩃙	dnt
 𩆳	dnt
 𪆼	dnt
@@ -33596,9 +33626,9 @@ encoder:
 𤾛	dzg
 𥀇	dzg
 𤽼	dzi
+𠄼	dzj
 𠱛	dzl
 𤼽	dzn
-𠄼	dzo
 𤽛	dzp
 𩅽	dzp
 𩆙	dzp
@@ -33615,7 +33645,7 @@ encoder:
 𨒕	ead
 𨔐	ead
 𠎹	eae
-𧰩	eag
+𧰩	eae
 𠇕	eaj
 𠊽	eaj
 𠉝	eak
@@ -33702,6 +33732,7 @@ encoder:
 𦚅	ech
 𩙇	ech
 𠐌	eci
+𠄶	ecj
 𠏲	ecj
 𩘀	ecj
 𠇻	eck
@@ -33720,7 +33751,6 @@ encoder:
 𠍫	ecn
 𣣸	ecn
 𣤦	ecn
-𠄶	eco
 𠌁	eco
 𠧱	eco
 𠨅	eco
@@ -34045,6 +34075,7 @@ encoder:
 𠊂	eje
 𠋍	eje
 𠌝	eje
+𠑒	eje
 𢾜	eje
 𣕮	ejf
 𢧠	ejh
@@ -34072,8 +34103,8 @@ encoder:
 𠏑	ejs
 𣆄	ejs
 𩗺	ejs
+𠋋	ejt
 𠏥	ejt
-𩗋	ejt
 𪂹	ejt
 𪃣	ejt
 𠊵	eju
@@ -34085,6 +34116,7 @@ encoder:
 𢞫	ejy
 𢥤	ejy
 𧲑	ejz
+𩗋	ejz
 𠆨	ek
 𧰨	ek
 𧲂	eka
@@ -34231,13 +34263,13 @@ encoder:
 𡌅	eng
 𠈁	eni
 𠇺	enj
+𩎵	enj
 𧱨	enk
 𠍻	enl
 𩗇	enl
 𩘿	enl
 𠐀	enn
 𢏩	eno
-𩎵	eno
 𠎦	enp
 𠈩	enr
 𠉶	ens
@@ -34267,7 +34299,6 @@ encoder:
 𠋩	eoe
 𠎄	eoe
 𠎵	eoe
-𠑒	eoe
 𢽴	eoe
 𠇸	eof
 𠋆	eof
@@ -34291,7 +34322,6 @@ encoder:
 𢒔	eos
 𧱦	eos
 𧱱	eos
-𠋋	eot
 𠍉	eot
 𧲀	eot
 𠆾	eou
@@ -35000,11 +35030,9 @@ encoder:
 𣔨	fch
 𦟆	fch
 𠀢	fci
-𣏡	fci
 𣐑	fci
 𣔪	fci
 𣞻	fci
-𤴓	fci
 𣇮	fcj
 𣙒	fcj
 𣞍	fcj
@@ -35063,8 +35091,10 @@ encoder:
 𢙂	fcy
 𢜣	fcy
 𢡟	fcy
+𣏡	fcz
 𣜁	fcz
 𣥄	fcz
+𤴓	fcz
 𨾖	fcz
 𣑗	fda
 𣚟	fdc
@@ -35381,14 +35411,19 @@ encoder:
 𣜮	fiw
 𣞗	fix
 𣑬	fja
+𢻊	fjb
 𣍇	fjb
+𪕡	fjb
+𣌃	fjc
 𣍛	fjc
 𣜸	fjc
 𥂸	fjc
+𠵦	fjd
 𣛹	fjd
 𣜶	fjd
 𣝤	fjd
 𨓳	fjd
+𨖍	fjd
 𨖚	fjd
 𨗐	fjd
 𨙠	fjd
@@ -35399,6 +35434,7 @@ encoder:
 𣠨	fje
 𠄭	fjf
 𠄵	fjf
+𠄻	fjf
 𡑼	fjg
 𣙩	fjg
 𣔂	fjh
@@ -35408,19 +35444,26 @@ encoder:
 𣍘	fjj
 𣙋	fjj
 𨊢	fjk
+𠵥	fjl
 𣕴	fjm
 𣠢	fjm
 𣡲	fjm
 𤉲	fjm
 𤒖	fjm
+𥄪	fjm
 𧡍	fjm
 𩒢	fjm
+𩒾	fjm
+𠄲	fjn
+𢆖	fjn
 𣛀	fjn
+𣣄	fjn
 𡛎	fjo
 𣗤	fjo
 𤩯	fjo
 𣍏	fjp
 𣒋	fjp
+𤭑	fjp
 𧓕	fjp
 𧖤	fjp
 𦑃	fjq
@@ -35430,7 +35473,7 @@ encoder:
 𣓾	fjs
 𣗨	fjs
 𣙌	fjs
-𣑮	fjt
+𪁙	fjt
 𣍙	fju
 𣠭	fju
 𪏬	fju
@@ -35446,6 +35489,8 @@ encoder:
 𣓊	fjx
 𣔑	fjx
 𣚕	fjx
+𢛤	fjy
+𣑮	fjz
 𣗏	fjz
 𨣹	fjz
 𨤈	fjz
@@ -35783,39 +35828,25 @@ encoder:
 𥓊	fnu
 𤰔	fnv
 𣏖	fnz
-𢻊	fob
 𣜐	fob
-𪕡	fob
-𣌃	foc
 𣏣	foc
 𣓱	foc
 𣘙	foc
-𠵦	fod
 𣘚	fod
-𨖍	fod
-𠄻	fof
 𣑭	fof
 𣝩	fof
 𣕛	fog
-𠵥	fol
 𣚌	fol
 𣚍	fol
 𣞀	fom
 𤇍	fom
-𥄪	fom
-𩒾	fom
-𠄲	fon
-𢆖	fon
-𣣄	fon
 𣒏	foo
 𣚊	foo
 𣖹	fop
-𤭑	fop
 𣑁	foq
 𣐨	for
 𣙆	fos
 𩿯	fot
-𪁙	fot
 𣏥	fou
 𣐙	fou
 𣔧	fou
@@ -35829,7 +35860,6 @@ encoder:
 𣟎	fow
 𠁿	fox
 𣒂	fox
-𢛤	foy
 𢠖	foy
 𣟥	foy
 𣟻	foy
@@ -35908,6 +35938,7 @@ encoder:
 𣃪	fqi
 𣕗	fqi
 𣚴	fqj
+𩏴	fqj
 𡯀	fqk
 𣕄	fql
 𦉚	fql
@@ -35922,7 +35953,6 @@ encoder:
 𣖬	fqn
 𣣂	fqn
 𣚉	fqo
-𩏴	fqo
 𣑯	fqp
 𠘲	fqq
 𣓠	fqq
@@ -36296,6 +36326,7 @@ encoder:
 𣩒	fuj
 𣩮	fuj
 𣩳	fuj
+𩎳	fuj
 𩢾	fuj
 𣘎	fuk
 𣧓	fuk
@@ -36359,7 +36390,6 @@ encoder:
 𣨜	fuo
 𣩀	fuo
 𣩅	fuo
-𩎳	fuo
 𢱵	fup
 𣧆	fup
 𣧌	fup
@@ -36759,8 +36789,8 @@ encoder:
 𡐾	gac
 𡊈	gad
 𡊓	gad
-𤿆	gag
-𦒱	gag
+𤿆	gae
+𦒱	gae
 𣬶	gaj
 𥙸	gak
 𡏥	gal
@@ -36805,6 +36835,7 @@ encoder:
 𡒸	gbj
 𣍆	gbj
 𣫜	gbj
+𩏜	gbj
 𥼆	gbk
 𡄈	gbl
 𡄒	gbl
@@ -36822,7 +36853,6 @@ encoder:
 𡓹	gbo
 𣫘	gbo
 𥘓	gbo
-𩏜	gbo
 𡋤	gbp
 𣫒	gbp
 𣫝	gbp
@@ -37375,6 +37405,7 @@ encoder:
 𪇚	gjt
 𡗀	gju
 𧺂	gju
+𥀊	gjv
 𡔒	gjw
 𤿋	gjw
 𥘔	gjw
@@ -37683,7 +37714,6 @@ encoder:
 𠭔	gnb
 𡌨	gnd
 𨕫	gnd
-𡉖	gnf
 𡉶	gnf
 𥙂	gnf
 𡔁	gng
@@ -37709,6 +37739,7 @@ encoder:
 𡎭	gnq
 𥘴	gnq
 𥛕	gnr
+𡉖	gns
 𡌸	gns
 𡌹	gns
 𥚈	gns
@@ -37730,7 +37761,6 @@ encoder:
 𡏿	goc
 𣰵	goc
 𡓣	god
-𥀊	goe
 𡍠	gof
 𡐒	gog
 𡒄	gog
@@ -38050,6 +38080,7 @@ encoder:
 𥙟	gti
 𡐚	gtj
 𡓇	gtj
+𩏻	gtj
 𥛰	gtk
 𡌃	gtl
 𣫀	gtl
@@ -38059,7 +38090,6 @@ encoder:
 𩿷	gtn
 𪃟	gtn
 𡊀	gto
-𩏻	gto
 𡊌	gtp
 𡒜	gtp
 𥙝	gtq
@@ -38391,6 +38421,7 @@ encoder:
 𦤼	gyh
 𣨑	gyi
 𡔻	gyj
+𩎲	gyj
 𡊑	gyk
 𡄻	gyl
 𥙻	gyl
@@ -38409,7 +38440,6 @@ encoder:
 𡤜	gyo
 𢣞	gyo
 𣬨	gyo
-𩎲	gyo
 𢧣	gyp
 𢧺	gyp
 𡎇	gyq
@@ -38482,8 +38512,8 @@ encoder:
 𨚔	hac
 𦝊	had
 𥦄	hae
+𦘭	hae
 𣭀	hag
-𦘭	hag
 𡪄	haj
 𦝮	haj
 𡨸	hak
@@ -38916,6 +38946,7 @@ encoder:
 𥥱	hfi
 𥧆	hfi
 𡷊	hfj
+𦙗	hfj
 𩤡	hfj
 𡨭	hfk
 𦙣	hfk
@@ -38935,7 +38966,6 @@ encoder:
 𣍲	hfo
 𥥇	hfo
 𥥽	hfo
-𦙗	hfo
 𤮘	hfp
 𥥻	hfp
 𡨓	hfq
@@ -39174,6 +39204,7 @@ encoder:
 𦥑	hj
 𦜧	hja
 𡪻	hjb
+𥥞	hjb
 𥦦	hjb
 𥧭	hjb
 𥨢	hjb
@@ -39224,9 +39255,7 @@ encoder:
 𦛭	hjr
 𦝈	hjr
 𥦍	hjs
-𠣘	hjt
 𡘬	hjt
-𥥳	hjt
 𥦏	hjt
 𥧤	hjt
 𦜃	hjt
@@ -39236,6 +39265,7 @@ encoder:
 𠣬	hju
 𡨕	hju
 𦙏	hjv
+𦝛	hjv
 𦢊	hjv
 𦢜	hjv
 𡧚	hjw
@@ -39243,6 +39273,8 @@ encoder:
 𣱡	hjw
 𦣙	hjw
 𥦧	hjx
+𠣘	hjz
+𥥳	hjz
 𦢥	hjz
 𥤣	hk
 𦥀	hkb
@@ -39476,7 +39508,6 @@ encoder:
 𡨴	hoa
 𦝞	hoa
 𢻭	hob
-𥥞	hob
 𥧮	hob
 𦠢	hob
 𥧫	hoc
@@ -39488,7 +39519,6 @@ encoder:
 𠂄	hoe
 𠣸	hoe
 𦙱	hoe
-𦝛	hoe
 𦟨	hoe
 𦠣	hoe
 𡩁	hof
@@ -40418,6 +40448,7 @@ encoder:
 𨾽	hzi
 𨿀	hzi
 𥨎	hzj
+𩏓	hzj
 𡧳	hzk
 𦚵	hzk
 𦝓	hzk
@@ -40442,7 +40473,6 @@ encoder:
 𡝨	hzo
 𡡋	hzo
 𡫊	hzo
-𩏓	hzo
 𢸁	hzp
 𦙇	hzp
 𧒡	hzp
@@ -40624,7 +40654,6 @@ encoder:
 𣶣	ich
 𣹝	ich
 𣿂	ich
-𣲓	ici
 𣵻	ici
 𣸤	ici
 𤁣	ici
@@ -40674,6 +40703,7 @@ encoder:
 𣶍	icx
 𣾅	icx
 𢣣	icy
+𣲓	icz
 𤄛	icz
 𤄷	icz
 𣽡	ida
@@ -41323,6 +41353,7 @@ encoder:
 𣺣	ina
 𣻞	ina
 𣽠	inb
+𣳑	inc
 𣼫	inc
 𣴪	ind
 𣷯	ind
@@ -41337,7 +41368,6 @@ encoder:
 𠲻	inl
 𣾭	inl
 𪓸	inl
-𣳑	inm
 𣷒	inm
 𣸩	inm
 𣽥	inm
@@ -42116,12 +42146,12 @@ encoder:
 𤄨	izx
 𢞉	izy
 𡶗	jaa
+𡴵	jae
+𣄿	jae
+𦨍	jae
+𩡯	jae
 𡊽	jag
-𡴵	jag
-𣄿	jag
 𣈓	jag
-𦨍	jag
-𩡯	jag
 𣅗	jai
 𡵟	jaj
 𡵄	jak
@@ -42155,6 +42185,7 @@ encoder:
 𪌨	jbe
 𣆏	jbf
 𣉕	jbf
+𩎜	jbf
 𡷕	jbg
 𡷱	jbg
 𩤗	jbg
@@ -42176,6 +42207,7 @@ encoder:
 𣋙	jbq
 𣋢	jbq
 𦪑	jbq
+𩏠	jbq
 𣅡	jbr
 𣈩	jbr
 𦩯	jbs
@@ -42197,14 +42229,18 @@ encoder:
 𩧜	jca
 𡵨	jcb
 𡹉	jcb
+𢾁	jcb
 𢿕	jcb
 𣆐	jcb
 𦨗	jcb
 𩢚	jcb
 𩢬	jcb
 𨜵	jcc
+𩎔	jcc
 𦩖	jcd
 𨓒	jcd
+𩏂	jcd
+𩏪	jcd
 𩦯	jcd
 𡸗	jce
 𡸲	jce
@@ -42228,6 +42264,7 @@ encoder:
 𥀗	jcg
 𡷖	jch
 𦩿	jch
+𩎼	jci
 𩢭	jci
 𩣙	jcj
 𡦣	jck
@@ -42263,6 +42300,7 @@ encoder:
 𡵊	jcv
 𡵋	jcv
 𣉨	jcv
+𩏐	jcv
 𠢝	jcw
 𡺱	jcw
 𣋖	jcw
@@ -42284,6 +42322,7 @@ encoder:
 𦪩	jdb
 𩣬	jdb
 𨑨	jdc
+𩏳	jdc
 𡴙	jdd
 𨔲	jdd
 𩣒	jdd
@@ -42302,6 +42341,7 @@ encoder:
 𣈻	jdl
 𦨣	jdl
 𦫃	jdl
+𩎣	jdl
 𡸜	jdm
 𡸽	jdm
 𡼝	jdm
@@ -42336,6 +42376,7 @@ encoder:
 𩧏	jdz
 𡶶	jea
 𣈖	jea
+𩎠	jea
 𩧣	jea
 𩢇	jeb
 𩤨	jeb
@@ -42355,12 +42396,17 @@ encoder:
 𧰮	jek
 𠷳	jel
 𡻓	jel
+𩎬	jel
 𡸌	jem
 𡾆	jem
 𣌌	jem
 𧡶	jem
+𩎷	jem
+𩏦	jem
 𡺤	jen
 𣈼	jen
+𩏄	jen
+𩘚	jen
 𡸏	jeo
 𡶞	jep
 𡾑	jep
@@ -42370,6 +42416,7 @@ encoder:
 𩢦	jep
 𡹵	jeq
 𣆖	jeq
+𩏇	jeq
 𩣇	jeq
 𩤣	jeq
 𩥗	jer
@@ -42378,9 +42425,11 @@ encoder:
 𣅔	jet
 𣉅	jet
 𡵲	jeu
+𢾝	jeu
 𣋌	jeu
 𣋓	jeu
 𣋮	jeu
+𩏬	jeu
 𩦰	jeu
 𡻈	jev
 𣆬	jev
@@ -42391,6 +42440,7 @@ encoder:
 𣅖	jew
 𠝦	jex
 𣈙	jex
+𩎧	jex
 𩢰	jex
 𩣍	jex
 𡷢	jey
@@ -42409,6 +42459,7 @@ encoder:
 𢻖	jfb
 𢾙	jfb
 𣌏	jfb
+𩏏	jfb
 𩤳	jfb
 𡹈	jfc
 𣅐	jfc
@@ -42439,6 +42490,7 @@ encoder:
 𢾷	jfe
 𣈕	jfe
 𦩚	jfe
+𩎩	jfe
 𩥹	jfe
 𪑛	jfe
 𡹇	jff
@@ -42451,11 +42503,13 @@ encoder:
 𣜢	jff
 𣡗	jff
 𣡾	jff
+𩎨	jff
 𩢕	jff
 𣉓	jfg
 𣋜	jfg
 𣮊	jfg
 𣮔	jfg
+𩏎	jfg
 𣉴	jfh
 𡺥	jfi
 𡽲	jfi
@@ -42478,6 +42532,7 @@ encoder:
 𣉺	jfl
 𦧪	jfl
 𧯶	jfl
+𩎯	jfl
 𩤬	jfl
 𩥲	jfl
 𡾣	jfm
@@ -42497,6 +42552,7 @@ encoder:
 𣇎	jfn
 𦩡	jfn
 𨤱	jfn
+𩎴	jfn
 𣈡	jfo
 𡷨	jfp
 𡺄	jfp
@@ -42567,6 +42623,7 @@ encoder:
 𣇾	jge
 𡾹	jgf
 𣊝	jgf
+𩏮	jgf
 𡷅	jgg
 𣆷	jgg
 𣈹	jgg
@@ -42587,6 +42644,7 @@ encoder:
 𩢧	jgk
 𡼎	jgl
 𣌐	jgl
+𩏫	jgl
 𩢴	jgl
 𩦇	jgl
 𡽠	jgm
@@ -42618,6 +42676,7 @@ encoder:
 𡶄	jha
 𣋇	jha
 𣌒	jha
+𩎘	jha
 𩢵	jha
 𡻁	jhb
 𡾰	jhb
@@ -42636,6 +42695,7 @@ encoder:
 𩢛	jhe
 𡺟	jhf
 𣇆	jhf
+𩏆	jhf
 𡑅	jhg
 𡸶	jhg
 𡻰	jhg
@@ -42723,6 +42783,7 @@ encoder:
 𣋱	jhu
 𡸥	jhv
 𡼌	jhv
+𩎺	jhv
 𩣵	jhv
 𪒞	jhv
 𣌰	jhw
@@ -42788,6 +42849,7 @@ encoder:
 𨙘	jjd
 𦩠	jje
 𦩥	jje
+𩏌	jje
 𩤵	jje
 𩥘	jje
 𩦏	jje
@@ -42813,6 +42875,7 @@ encoder:
 𣊫	jjj
 𣊭	jjj
 𣋎	jjj
+𩎿	jjj
 𩧢	jjj
 𡦙	jjk
 𡼩	jjk
@@ -42824,6 +42887,7 @@ encoder:
 𡽽	jjm
 𤏒	jjm
 𤦉	jjm
+𩏰	jjm
 𩤧	jjm
 𡷛	jjn
 𡽙	jjn
@@ -42852,9 +42916,7 @@ encoder:
 𩤟	jjs
 𡷪	jjt
 𡾗	jjt
-𣆔	jjt
 𣊖	jjt
-𩢸	jjt
 𪂇	jjt
 𠔞	jju
 𡷬	jju
@@ -42865,12 +42927,14 @@ encoder:
 𣌈	jju
 𠨤	jjv
 𡷴	jjv
+𡺨	jjv
 𡼘	jjv
 𣇂	jjv
 𤬆	jjv
 𥣷	jjv
 𥤡	jjv
 𦨽	jjv
+𩤮	jjv
 𩩪	jjv
 𣌝	jjw
 𦨑	jjw
@@ -42878,7 +42942,10 @@ encoder:
 𡹋	jjx
 𢛝	jjy
 𡻀	jjz
+𣆔	jjz
 𤰶	jjz
+𩏘	jjz
+𩢸	jjz
 𩥪	jjz
 𩧎	jjz
 𡺮	jka
@@ -42898,6 +42965,7 @@ encoder:
 𩥸	jke
 𡹪	jkf
 𡿛	jkf
+𩏊	jkf
 𩧃	jkf
 𡓚	jkg
 𣆺	jkh
@@ -42916,6 +42984,7 @@ encoder:
 𩢘	jkl
 𡷜	jkm
 𣊥	jkm
+𩏱	jkm
 𩓤	jkm
 𩢼	jkm
 𡺉	jkn
@@ -42969,6 +43038,7 @@ encoder:
 𡵇	jkz
 𠺎	jla
 𣅊	jla
+𨜢	jla
 𩡳	jla
 𣚤	jlb
 𡶈	jlc
@@ -42976,6 +43046,8 @@ encoder:
 𡼤	jld
 𣆉	jld
 𦪢	jld
+𨔻	jld
+𩏥	jld
 𡾄	jle
 𠄜	jlf
 𡷵	jlf
@@ -42985,6 +43057,7 @@ encoder:
 𡸆	jlj
 𡸿	jlj
 𡼫	jlj
+𩏍	jlj
 𣅴	jlk
 𠻭	jll
 𦩙	jll
@@ -42992,11 +43065,13 @@ encoder:
 𡻖	jlm
 𦪒	jlm
 𦪸	jlm
+𩏡	jlm
 𡸾	jln
 𡽑	jln
 𣈣	jln
 𣋋	jln
 𩥺	jln
+𩏝	jlo
 𩦤	jlp
 𡶢	jlq
 𣅷	jlq
@@ -43021,9 +43096,11 @@ encoder:
 𣌗	jmb
 𦫇	jmb
 𧴴	jmb
+𩏺	jmb
 𡻆	jmd
 𡼗	jmd
 𨓏	jmd
+𩏤	jmd
 𡺼	jmf
 𣉖	jmf
 𣊊	jmf
@@ -43067,6 +43144,7 @@ encoder:
 𣊕	jmy
 𡻇	jmz
 𩧘	jmz
+𩎗	jna
 𡾱	jnc
 𨛎	jnc
 𡹢	jnd
@@ -43079,6 +43157,7 @@ encoder:
 𣭸	jng
 𤿣	jng
 𤿧	jng
+𩎒	jng
 𣉌	jnh
 𦩝	jnh
 𩤸	jnh
@@ -43088,12 +43167,14 @@ encoder:
 𩤽	jnk
 𣊋	jnl
 𩦑	jnl
+𩏋	jnm
 𩓻	jnm
 𩧄	jnm
 𡾊	jnn
 𡾋	jnn
 𡝎	jno
 𡶜	jno
+𩎚	jno
 𢧀	jnp
 𣍑	jnp
 𦩸	jnp
@@ -43106,10 +43187,13 @@ encoder:
 𣉡	jnt
 𡶒	jnu
 𦨡	jnu
+𩎛	jnu
+𩎥	jnw
 𡻭	jnx
 𡻱	jnx
 𡿔	jnx
 𡿜	jnx
+𩏞	jnx
 𢙶	jny
 𦩭	jny
 𨿑	jnz
@@ -43125,6 +43209,7 @@ encoder:
 𡻳	joc
 𣍉	joc
 𦪽	joc
+𩎦	joc
 𩡼	joc
 𡸝	jod
 𡾘	jod
@@ -43132,11 +43217,9 @@ encoder:
 𨗈	jod
 𩣰	jod
 𩤏	jod
-𡺨	joe
 𡽫	joe
 𦪔	joe
 𦪳	joe
-𩤮	joe
 𩥮	joe
 𩦳	joe
 𡷌	jof
@@ -43175,6 +43258,7 @@ encoder:
 𧒛	jop
 𡵻	joq
 𡽏	joq
+𩏈	joq
 𣆝	jor
 𣊂	jor
 𦓞	jor
@@ -43195,7 +43279,11 @@ encoder:
 𩧝	jow
 𣇛	jox
 𤟮	jox
+𩏨	joz
 𩥤	joz
+𤛉	jpa
+𩎾	jpa
+𩏔	jpa
 𡽴	jpb
 𡾻	jpb
 𢻣	jpb
@@ -43205,18 +43293,25 @@ encoder:
 𡿯	jpc
 𣆣	jpc
 𦨰	jpc
+𩏀	jpc
 𩤘	jpc
 𩦝	jpc
 𤭂	jpd
+𨘇	jpd
 𦨜	jpe
 𦪴	jpe
+𩎙	jpe
 𩢅	jpe
 𡻝	jpf
 𦩺	jpf
+𩎹	jpf
+𩏁	jpf
+𩏙	jpf
 𩣊	jpf
 𡻕	jpg
 𣆮	jpg
 𣈐	jpg
+𩏟	jpg
 𩥻	jph
 𦨒	jpi
 𣇖	jpj
@@ -43256,6 +43351,8 @@ encoder:
 𦩬	jpo
 𡸚	jpp
 𡾉	jpp
+𢮟	jpp
+𧕱	jpp
 𩤊	jpp
 𡷯	jpr
 𣄾	jpr
@@ -43305,11 +43402,13 @@ encoder:
 𡷔	jqf
 𣊏	jqf
 𣚗	jqf
+𩎫	jqf
 𡸔	jqg
 𦩱	jqg
 𡵘	jqh
 𡸰	jqi
 𣌫	jqi
+𣪡	jqi
 𡼳	jqj
 𥃛	jqj
 𥎻	jqj
@@ -43336,7 +43435,9 @@ encoder:
 𤓅	jqq
 𦏿	jqq
 𦐇	jqq
+𦑻	jqq
 𦩃	jqq
+𩎰	jqq
 𩟜	jqq
 𡶺	jqr
 𣈰	jqr
@@ -43359,6 +43460,7 @@ encoder:
 𡸩	jqv
 𣽨	jqv
 𨾄	jqv
+𩎸	jqv
 𩥱	jqv
 𪒀	jqv
 𠢧	jqw
@@ -43399,6 +43501,7 @@ encoder:
 𡼾	jrj
 𣊺	jrj
 𣋘	jrj
+𩎭	jrj
 𩦱	jrj
 𡥏	jrk
 𡥐	jrk
@@ -43413,6 +43516,7 @@ encoder:
 𣢧	jrn
 𣢽	jrn
 𦨋	jrn
+𩎕	jro
 𩤇	jro
 𡽥	jrp
 𦪮	jrp
@@ -43442,6 +43546,8 @@ encoder:
 𩡺	jru
 𩧛	jru
 𡽗	jrv
+𩎖	jrv
+𩏩	jrv
 𩧤	jrv
 𣅁	jrw
 𦨈	jrw
@@ -43458,6 +43564,8 @@ encoder:
 𦪐	jry
 𡷉	jrz
 𡻡	jrz
+𩏯	jsa
+𩏵	jsa
 𡵢	jsb
 𡿄	jsb
 𢾋	jsb
@@ -43466,6 +43574,7 @@ encoder:
 𡾾	jsc
 𣋞	jsc
 𨍯	jsc
+𩏕	jsc
 𣊴	jsd
 𨓙	jsd
 𩦗	jsd
@@ -43473,12 +43582,14 @@ encoder:
 𡿟	jse
 𢾡	jse
 𣀠	jse
+𩎟	jse
 𩙕	jse
 𩦞	jse
 𩦺	jse
 𡽇	jsf
 𡿗	jsf
 𣋑	jsf
+𩏭	jsf
 𩢩	jsf
 𩦭	jsf
 𩧓	jsf
@@ -43533,6 +43644,7 @@ encoder:
 𩥒	jsq
 𡻺	jsr
 𣋭	jsr
+𩏒	jsr
 𩥠	jsr
 𦪠	jss
 𩦦	jss
@@ -43572,6 +43684,7 @@ encoder:
 𡵉	jtk
 𦪕	jtk
 𩦚	jtk
+𩏖	jtl
 𡿍	jtm
 𦫅	jtm
 𩓌	jtm
@@ -43586,6 +43699,7 @@ encoder:
 𡹿	jtq
 𣇍	jtr
 𦩀	jtr
+𩎱	jtr
 𩧁	jtr
 𡷓	jts
 𩣺	jts
@@ -43672,6 +43786,7 @@ encoder:
 𡶟	juv
 𣉤	juv
 𦨨	juv
+𩎝	juv
 𣅺	juw
 𩢒	juw
 𠠁	jux
@@ -43683,6 +43798,7 @@ encoder:
 𩧞	jva
 𣆻	jvb
 𦩮	jvb
+𩏅	jvb
 𡷙	jvc
 𨔯	jvd
 𩡰	jvd
@@ -43701,6 +43817,7 @@ encoder:
 𡻋	jvg
 𣉁	jvg
 𦪷	jvg
+𩏃	jvg
 𡹲	jvh
 𡺫	jvh
 𦩹	jvh
@@ -43714,6 +43831,7 @@ encoder:
 𦨇	jvi
 𦨌	jvi
 𦪼	jvj
+𩎽	jvj
 𩣯	jvj
 𩤹	jvj
 𡼡	jvk
@@ -43732,6 +43850,7 @@ encoder:
 𩣧	jvo
 𡺯	jvq
 𦩾	jvq
+𩎶	jvq
 𩥣	jvq
 𦪂	jvr
 𡵰	jvs
@@ -43767,6 +43886,7 @@ encoder:
 𩣓	jwb
 𦩂	jwc
 𨙴	jwc
+𩏛	jwc
 𩢐	jwc
 𩣜	jwc
 𡶉	jwd
@@ -43779,6 +43899,7 @@ encoder:
 𦩪	jwf
 𡼺	jwg
 𦩋	jwi
+𩎻	jwi
 𩣛	jwi
 𡾬	jwj
 𣅠	jwj
@@ -43824,6 +43945,7 @@ encoder:
 𦩐	jxa
 𣆲	jxb
 𦨕	jxb
+𩎢	jxb
 𩤿	jxb
 𥂐	jxc
 𡸐	jxd
@@ -43842,6 +43964,7 @@ encoder:
 𦪆	jxg
 𡴹	jxi
 𡸷	jxj
+𡼱	jxj
 𡾽	jxj
 𣇳	jxj
 𣈒	jxj
@@ -43852,10 +43975,10 @@ encoder:
 𩢱	jxl
 𩣖	jxl
 𡹎	jxm
-𡼱	jxo
 𡾦	jxo
 𣅤	jxo
 𦨚	jxo
+𩎓	jxo
 𡹕	jxq
 𡸋	jxr
 𡹙	jxr
@@ -43865,6 +43988,7 @@ encoder:
 𦩦	jxs
 𡹯	jxt
 𡺅	jxt
+𩎪	jxt
 𪈚	jxt
 𪈡	jxt
 𡹱	jxu
@@ -43915,6 +44039,7 @@ encoder:
 𡸞	jyh
 𩤂	jyh
 𡷐	jyi
+𩎤	jyi
 𣊪	jyl
 𦫉	jyl
 𣆹	jym
@@ -43970,6 +44095,7 @@ encoder:
 𪛂	jzl
 𣊠	jzm
 𧢧	jzm
+𩏢	jzm
 𩓷	jzm
 𩦈	jzm
 𡵞	jzn
@@ -43989,7 +44115,9 @@ encoder:
 𦩣	jzt
 𪈥	jzt
 𩣲	jzu
+𩏚	jzx
 𩦠	jzx
+𩏲	jzy
 𩡻	jzy
 𠁳	jzz
 𡼕	jzz
@@ -43998,8 +44126,8 @@ encoder:
 𠥓	k
 𥺕	kaa
 𥻣	kaa
+𥸧	kae
 𠪧	kaf
-𥸧	kag
 𥺸	kaj
 𧲧	kaj
 𩠀	kaj
@@ -44538,6 +44666,9 @@ encoder:
 𠫆	kjl
 𠥆	kjm
 𥌅	kjm
+𩏶	kjm
+𩏷	kjm
+𩏸	kjm
 𠥜	kjn
 𤳪	kjn
 𥺺	kjo
@@ -44552,6 +44683,7 @@ encoder:
 𧲥	kjr
 𩼴	kjt
 𪃱	kjt
+𠥎	kjv
 𠪋	kjv
 𠡱	kjw
 𧆯	kjw
@@ -44717,6 +44849,7 @@ encoder:
 𠧗	kli
 𡸡	klj
 𥻍	klj
+𩎞	klj
 𩢠	klj
 𠥡	kll
 𠥺	kll
@@ -44749,7 +44882,6 @@ encoder:
 𡜛	klo
 𣝜	klo
 𨐠	klo
-𩎞	klo
 𠄩	klp
 𠳙	klp
 𢦯	klp
@@ -44848,7 +44980,6 @@ encoder:
 𩴛	knc
 𠩶	knd
 𥺛	knd
-𥸲	knf
 𧲰	knf
 𠪨	kng
 𥀵	kng
@@ -44871,6 +45002,7 @@ encoder:
 𠥃	knr
 𠩿	kns
 𡮁	kns
+𥸲	kns
 𧳠	kns
 𧆨	knt
 𩿫	knt
@@ -44899,7 +45031,6 @@ encoder:
 𥼁	kod
 𧳚	kod
 𪘧	kod
-𠥎	koe
 𢖖	koe
 𪙞	koe
 𥹣	kof
@@ -44919,9 +45050,6 @@ encoder:
 𡦤	kok
 𡢐	kol
 𠩈	kom
-𩏶	kom
-𩏷	kom
-𩏸	kom
 𩔗	kom
 𡦜	kon
 𡦘	koo
@@ -45678,12 +45806,12 @@ encoder:
 𧴀	kyi
 𧇅	kyj
 𧈘	kyj
+𩏣	kyj
 𥼜	kyl
 𧴌	kyl
 𡥼	kym
 𠩦	kyn
 𥺍	kyn
-𩏣	kyo
 𪚃	kyo
 𤮆	kyp
 𤮝	kyp
@@ -45890,7 +46018,6 @@ encoder:
 𣭂	lcg
 𠴳	lch
 𠽏	lch
-𠯬	lci
 𦥼	lci
 𠵄	lcj
 𠼂	lcj
@@ -45930,6 +46057,7 @@ encoder:
 𠴷	lcx
 𡁪	lcx
 𠽡	lcy
+𠯬	lcz
 𠯽	lcz
 𠽢	lda
 𠿙	lda
@@ -47794,6 +47922,7 @@ encoder:
 𤓗	mfj
 𤦪	mfj
 𥄝	mfj
+𥄬	mfj
 𥅏	mfj
 𣏦	mfk
 𣐥	mfk
@@ -47812,7 +47941,6 @@ encoder:
 𩓮	mfm
 𤩾	mfn
 𥇦	mfn
-𥄬	mfo
 𥄵	mfo
 𥆿	mfo
 𢰣	mfp
@@ -48083,7 +48211,9 @@ encoder:
 𥌐	miy
 𤊢	mja
 𤨅	mja
+𤪍	mja
 𥇹	mja
+𤘎	mjb
 𤩛	mjb
 𥊑	mjb
 𥊴	mjb
@@ -48595,11 +48725,9 @@ encoder:
 𤤵	mnz
 𪖿	mnz
 𤧟	moa
-𤪍	moa
 𥈅	moa
 𧶺	moa
 𤏻	mob
-𤘎	mob
 𤥥	mob
 𤨬	mob
 𥌍	mob
@@ -49688,8 +49816,6 @@ encoder:
 𧚋	nez
 𩱡	nez
 𠂋	nf
-𢎗	nf
-𢎜	nf
 𡭐	nfa
 𨚬	nfa
 𠬿	nfb
@@ -49963,6 +50089,7 @@ encoder:
 𤴉	nna
 𤴍	nna
 𣀜	nnb
+𤱓	nnc
 𥃇	nnc
 𨞽	nnc
 𨟊	nnc
@@ -49976,7 +50103,6 @@ encoder:
 𤳣	nnf
 𤳥	nnf
 𤴁	nnf
-𧘏	nnf
 𧟂	nnf
 𧟕	nnf
 𣰭	nng
@@ -49994,7 +50120,6 @@ encoder:
 𨤷	nnl
 𣣛	nnm
 𤊑	nnm
-𤱓	nnm
 𧝇	nnm
 𧷩	nnm
 𩔛	nnm
@@ -50032,6 +50157,7 @@ encoder:
 𧚜	nnr
 𧜑	nnr
 𤲦	nns
+𧘏	nns
 𨯔	nns
 𤳦	nnt
 𤴀	nnt
@@ -50227,6 +50353,8 @@ encoder:
 𧛋	nry
 𧜢	nry
 𢐴	nrz
+𢎗	ns
+𢎜	ns
 𧞤	nsb
 𧟝	nsb
 𢐳	nsc
@@ -50318,6 +50446,7 @@ encoder:
 𣭘	nug
 𧜲	nuh
 𢐤	nuj
+𩎡	nuj
 𠔘	nuk
 𧝨	nul
 𤇝	num
@@ -50328,7 +50457,6 @@ encoder:
 𢏇	nun
 𢑌	nun
 𢎬	nuo
-𩎡	nuo
 𢐵	nup
 𧕒	nup
 𦐡	nuq
@@ -50578,7 +50706,6 @@ encoder:
 𡟁	obe
 𡠏	obf
 𩈓	obf
-𩎜	obf
 𡌰	obg
 𡎿	obg
 𡠩	obg
@@ -50597,7 +50724,6 @@ encoder:
 𩈽	obo
 𧉭	obp
 𨐸	obq
-𩏠	obq
 𢂬	obr
 𢃂	obr
 𡟛	obs
@@ -50622,14 +50748,10 @@ encoder:
 𩈤	obz
 𠅵	oca
 𡤛	oca
-𢾁	ocb
 𣀤	ocb
 𡢋	occ
 𥃐	occ
-𩎔	occ
 𨐜	ocd
-𩏂	ocd
-𩏪	ocd
 𩫝	ocd
 𡞧	oce
 𡡦	oce
@@ -50645,7 +50767,6 @@ encoder:
 𡞍	och
 𡞚	och
 𥪹	och
-𩎼	oci
 𡣈	ocj
 𡤊	ocj
 𡝃	ock
@@ -50663,7 +50784,6 @@ encoder:
 𠂫	ocr
 𡢊	oct
 𡣬	oct
-𩏐	ocv
 𡣱	ocw
 𡤂	ocw
 𧚌	ocw
@@ -50682,7 +50802,6 @@ encoder:
 𡡟	odc
 𨒩	odc
 𨕂	odc
-𩏳	odc
 𡟷	odd
 𡣳	odf
 𡡲	odh
@@ -50690,7 +50809,6 @@ encoder:
 𡢅	odk
 𥩾	odk
 𨐟	odl
-𩎣	odl
 𡢽	odn
 𩈄	odo
 𡤴	odp
@@ -50707,7 +50825,6 @@ encoder:
 𠕁	oe
 𡜠	oea
 𡞗	oea
-𩎠	oea
 𠅚	oec
 𥂚	oec
 𩈞	oec
@@ -50724,45 +50841,35 @@ encoder:
 𩫕	oek
 𡖵	oel
 𧱳	oel
-𩎬	oel
 𡞙	oem
 𡟤	oem
 𡢻	oem
-𩎷	oem
-𩏦	oem
 𩕺	oem
 𡞕	oen
 𨐦	oen
-𩏄	oen
-𩘚	oen
 𡛲	oep
 𥩦	oep
 𥩱	oep
 𡜋	oeq
 𡟑	oeq
 𣫖	oeq
-𩏇	oeq
 𡛆	oes
 𡟞	oes
 𩫍	oes
 𩫀	oet
 𡛇	oeu
-𢾝	oeu
 𧱘	oeu
-𩏬	oeu
 𡤥	oev
 𡜬	oew
 𧚤	oew
 𧝥	oew
 𠅜	oex
-𩎧	oex
 𢜖	oey
 𨿤	oez
 𠕋	of
 𡆪	of
 𡬬	ofa
 𨃢	ofb
-𩏏	ofb
 𡢟	ofc
 𤗟	ofc
 𨚿	ofc
@@ -50770,17 +50877,14 @@ encoder:
 𠆊	ofd
 𢾉	ofe
 𨐻	ofe
-𩎩	ofe
 𡝥	off
 𣕟	off
-𩎨	off
 𩫡	off
 𡌎	ofg
 𡞫	ofg
 𡢾	ofg
 𣮭	ofg
 𩈶	ofg
-𩏎	ofg
 𣨻	ofi
 𩫓	ofi
 𣆩	ofj
@@ -50791,10 +50895,8 @@ encoder:
 𡢓	ofl
 𡣒	ofl
 𥩭	ofl
-𩎯	ofl
 𡢲	ofm
 𩠶	ofm
-𩎴	ofn
 𡝋	ofo
 𥪆	ofo
 𥪌	ofo
@@ -50832,7 +50934,6 @@ encoder:
 𡠯	oge
 𡡵	oge
 𣕁	ogf
-𩏮	ogf
 𠅰	ogi
 𠅸	ogi
 𡛭	ogi
@@ -50840,7 +50941,6 @@ encoder:
 𥪤	ogj
 𡛠	ogk
 𡣗	ogl
-𩏫	ogl
 𡟌	ogo
 𣮿	ogo
 𩫁	ogo
@@ -50858,7 +50958,6 @@ encoder:
 𡤒	oha
 𥩽	oha
 𦫣	oha
-𩎘	oha
 𡢷	ohb
 𨇘	ohb
 𩈬	ohb
@@ -50876,7 +50975,6 @@ encoder:
 𡜻	ohf
 𣡥	ohf
 𥩟	ohf
-𩏆	ohf
 𥪗	ohg
 𩉐	ohg
 𡞇	ohh
@@ -50941,7 +51039,6 @@ encoder:
 𡢌	ohu
 𧮩	ohu
 𡝏	ohv
-𩎺	ohv
 𥫄	ohw
 𧙎	ohw
 𧜈	ohw
@@ -51005,7 +51102,6 @@ encoder:
 𢥭	oje
 𢾚	oje
 𥫏	oje
-𩏌	oje
 𩈍	ojf
 𩐱	ojf
 𩐷	ojf
@@ -51019,7 +51115,6 @@ encoder:
 𩐯	ojh
 𩐽	ojh
 𡠰	oji
-𩎿	ojj
 𩐼	ojj
 𩡑	ojj
 𡛢	ojk
@@ -51040,7 +51135,6 @@ encoder:
 𧡱	ojm
 𧹄	ojm
 𧹉	ojm
-𩏰	ojm
 𩐬	ojm
 𩐲	ojm
 𩐳	ojm
@@ -51115,7 +51209,6 @@ encoder:
 𩑉	ojy
 𡣸	ojz
 𩁈	ojz
-𩏘	ojz
 𡢙	oka
 𡬱	oka
 𡭅	oka
@@ -51152,7 +51245,6 @@ encoder:
 𡡢	okf
 𢨊	okf
 𨐣	okf
-𩏊	okf
 𡠠	okg
 𣮢	okg
 𤰎	okh
@@ -51177,7 +51269,6 @@ encoder:
 𤍨	okm
 𤎼	okm
 𤏅	okm
-𩏱	okm
 𩒘	okm
 𩓗	okm
 𡞀	okn
@@ -51238,7 +51329,6 @@ encoder:
 𨿾	okz
 𩀻	okz
 𠅔	ola
-𨜢	ola
 𩫩	ola
 𩫯	ola
 𡯶	olb
@@ -51251,10 +51341,8 @@ encoder:
 𩴿	olc
 𠅖	old
 𠅷	old
-𨔻	old
 𨘿	old
 𩉁	old
-𩏥	old
 𩫏	old
 𩫪	old
 𩫫	old
@@ -51272,7 +51360,6 @@ encoder:
 𡛱	olh
 𩫘	olh
 𩫱	olh
-𩏍	olj
 𩣉	olj
 𩫭	olj
 𥹡	olk
@@ -51292,7 +51379,6 @@ encoder:
 𤒆	olm
 𥪩	olm
 𥪾	olm
-𩏡	olm
 𩫣	olm
 𠆆	oln
 𡢘	oln
@@ -51304,7 +51390,6 @@ encoder:
 𡝈	olo
 𡡎	olo
 𤥏	olo
-𩏝	olo
 𩫰	olo
 𡟎	olp
 𥪇	olp
@@ -51344,10 +51429,8 @@ encoder:
 𩫖	olz
 𡤬	omb
 𧴨	omb
-𩏺	omb
 𡠖	omd
 𤽞	omd
-𩏤	omd
 𡝺	ome
 𣚏	omf
 𠆚	omi
@@ -51389,7 +51472,6 @@ encoder:
 𤣥	on
 𡜮	ona
 𣢦	ona
-𩎗	ona
 𠭇	onb
 𡝜	onb
 𤱈	onc
@@ -51401,7 +51483,6 @@ encoder:
 𡋖	ong
 𣯡	ong
 𩈅	ong
-𩎒	ong
 𠅥	onh
 𤄯	onh
 𦡚	onh
@@ -51413,14 +51494,12 @@ encoder:
 𥉩	onm
 𥫎	onm
 𨐿	onm
-𩏋	onm
 𩕉	onm
 𣢿	onn
 𠂅	ono
 𠙰	ono
 𡛣	ono
 𡛴	ono
-𩎚	ono
 𡠤	onp
 𢨒	onp
 𢶜	onp
@@ -51435,7 +51514,6 @@ encoder:
 𡠲	onu
 𥪁	onu
 𥪢	onu
-𩎛	onu
 𠆁	onv
 𡜄	onw
 𡣡	onw
@@ -51444,11 +51522,9 @@ encoder:
 𧙏	onw
 𧚽	onw
 𩈛	onw
-𩎥	onw
 𠟍	onx
 𡤯	onx
 𤱶	onx
-𩏞	onx
 𡛅	onz
 𥪝	onz
 𡚦	oo
@@ -51458,7 +51534,6 @@ encoder:
 𡰗	oob
 𡰜	oob
 𨃱	oob
-𩎦	ooc
 𡝵	ood
 𡣪	ood
 𤾕	ood
@@ -51492,7 +51567,6 @@ encoder:
 𩉖	ooo
 𡣙	oop
 𥪰	ooq
-𩏈	ooq
 𡜚	oor
 𥪟	oor
 𦓔	oor
@@ -51508,29 +51582,18 @@ encoder:
 𢡵	ooy
 𢣑	ooy
 𩁃	ooz
-𩏨	ooz
-𤛉	opa
-𩎾	opa
-𩏔	opa
 𡜾	opc
 𡡛	opc
-𩏀	opc
 𤭃	opd
-𨘇	opd
 𩫄	opd
 𡛏	ope
 𡛟	ope
 𥩡	ope
-𩎙	ope
 𩫅	ope
 𡡊	opf
 𡤪	opf
-𩎹	opf
-𩏁	opf
-𩏙	opf
 𡏵	opg
 𢨀	opg
-𩏟	opg
 𡜪	opj
 𡠽	opk
 𡟔	opl
@@ -51546,10 +51609,8 @@ encoder:
 𡞖	opo
 𡣥	opo
 𡜣	opp
-𢮟	opp
 𧓂	opp
 𧕔	opp
-𧕱	opp
 𩉑	opp
 𩫲	opp
 𥏛	opq
@@ -51606,7 +51667,6 @@ encoder:
 𪗒	oqe
 𪗓	oqe
 𡢥	oqf
-𩎫	oqf
 𩐐	oqf
 𩐓	oqf
 𡒱	oqg
@@ -51616,7 +51676,6 @@ encoder:
 𦦏	oqh
 𪗇	oqh
 𡚾	oqi
-𣪡	oqi
 𡡑	oqj
 𡡝	oqj
 𡡧	oqj
@@ -51650,8 +51709,6 @@ encoder:
 𧖊	oqp
 𠅭	oqq
 𦐄	oqq
-𦑻	oqq
-𩎰	oqq
 𩝦	oqq
 𠆋	oqr
 𠆗	oqr
@@ -51673,7 +51730,6 @@ encoder:
 𡚫	oqv
 𡦹	oqv
 𥩕	oqv
-𩎸	oqv
 𪗉	oqv
 𠆘	oqw
 𠢗	oqw
@@ -51717,7 +51773,6 @@ encoder:
 𡢃	orj
 𥪶	orj
 𥫁	orj
-𩎭	orj
 𡮇	ork
 𣦮	ork
 𥩯	ork
@@ -51727,7 +51782,6 @@ encoder:
 𨤫	orn
 𡟼	oro
 𡣼	oro
-𩎕	oro
 𤭢	orp
 𡟉	orq
 𦑋	orq
@@ -51749,8 +51803,6 @@ encoder:
 𩈋	oru
 𡤲	orv
 𥪬	orv
-𩎖	orv
-𩏩	orv
 𡠳	orw
 𧘭	orw
 𧙙	orw
@@ -51763,8 +51815,6 @@ encoder:
 𨿼	orz
 𨐮	osa
 𩈷	osa
-𩏯	osa
-𩏵	osa
 𡛀	osb
 𡝄	osb
 𡞯	osb
@@ -51772,7 +51822,6 @@ encoder:
 𨐡	osb
 𡣨	osc
 𢒲	osc
-𩏕	osc
 𡝱	osd
 𡝳	osd
 𡣻	osd
@@ -51780,13 +51829,11 @@ encoder:
 𡡷	ose
 𣐽	ose
 𩈐	ose
-𩎟	ose
 𡢪	osf
 𡢬	osf
 𡣾	osf
 𡤄	osf
 𡤤	osf
-𩏭	osf
 𡟽	osg
 𡣮	osg
 𥫍	osg
@@ -51823,7 +51870,6 @@ encoder:
 𡡄	osq
 𡠹	osr
 𡢼	osr
-𩏒	osr
 𡠪	oss
 𡝴	ost
 𡟻	ost
@@ -51856,7 +51902,6 @@ encoder:
 𡚲	otk
 𥩗	otk
 𡜲	otl
-𩏖	otl
 𡢨	otm
 𡢴	otm
 𤐱	otm
@@ -51869,7 +51914,6 @@ encoder:
 𤮵	otq
 𦒭	otq
 𥪂	otr
-𩎱	otr
 𡤙	ott
 𦖩	ott
 𩼭	ott
@@ -51943,7 +51987,6 @@ encoder:
 𥫌	ouu
 𡡂	ouv
 𤫹	ouv
-𩎝	ouv
 𠡆	ouw
 𠢖	ouw
 𡛙	ouw
@@ -51965,7 +52008,6 @@ encoder:
 𡡞	ova
 𠮈	ovb
 𡡗	ovb
-𩏅	ovb
 𡛫	ovc
 𡝟	ovc
 𥂡	ovc
@@ -51976,13 +52018,11 @@ encoder:
 𣕓	ovf
 𡝇	ovg
 𡣫	ovg
-𩏃	ovg
 𩈒	ovh
 𠅁	ovi
 𣉣	ovj
 𦨤	ovj
 𦨺	ovj
-𩎽	ovj
 𠰦	ovl
 𡞈	ovl
 𡣰	ovl
@@ -51995,7 +52035,6 @@ encoder:
 𤀲	ovo
 𥪍	ovo
 𧊯	ovp
-𩎶	ovq
 𢒋	ovs
 𣱵	ovs
 𥪦	ovt
@@ -52019,7 +52058,6 @@ encoder:
 𥩧	owc
 𥩹	owc
 𧙚	owc
-𩏛	owc
 𩫔	owc
 𨘆	owd
 𡛋	owe
@@ -52030,7 +52068,6 @@ encoder:
 𡤷	owf
 𧘯	owh
 𡜞	owi
-𩎻	owi
 𡛚	owj
 𧜊	owj
 𡚸	owk
@@ -52078,7 +52115,6 @@ encoder:
 𠆎	oxb
 𡛸	oxb
 𢀮	oxb
-𩎢	oxb
 𥃂	oxc
 𨚃	oxc
 𨞥	oxc
@@ -52110,7 +52146,6 @@ encoder:
 𡡒	oxn
 𣂞	oxn
 𡟅	oxo
-𩎓	oxo
 𩫈	oxo
 𠅆	oxp
 𡜼	oxp
@@ -52126,7 +52161,6 @@ encoder:
 𦫏	oxs
 𠅑	oxt
 𡞹	oxt
-𩎪	oxt
 𪁜	oxt
 𡗋	oxu
 𡢡	oxu
@@ -52155,7 +52189,6 @@ encoder:
 𢘼	oyb
 𥪠	oyc
 𡝒	oye
-𩎤	oyi
 𡡐	oyl
 𡤞	oyl
 𢟄	oyl
@@ -52192,7 +52225,6 @@ encoder:
 𨐗	ozl
 𩫌	ozl
 𩉈	ozm
-𩏢	ozm
 𩈈	ozn
 𠅶	ozo
 𡜳	ozo
@@ -52211,11 +52243,9 @@ encoder:
 𧚞	ozw
 𡢱	ozx
 𥪲	ozx
-𩏚	ozx
 𡠇	ozy
 𡣺	ozy
 𢛫	ozy
-𩏲	ozy
 𤵤	paa
 𤸟	paa
 𧉬	paa
@@ -52365,7 +52395,6 @@ encoder:
 𤷤	pch
 𪋀	pch
 𤴧	pci
-𧉆	pci
 𤷘	pcj
 𧌸	pcj
 𧔜	pcj
@@ -52429,6 +52458,7 @@ encoder:
 𧎙	pcx
 𤵁	pcz
 𧉀	pcz
+𧉆	pcz
 𢫗	pda
 𣁻	pda
 𧕖	pdb
@@ -53001,7 +53031,6 @@ encoder:
 𤻈	pjs
 𪎥	pjs
 𪎧	pjs
-𧊓	pjt
 𪅕	pjt
 𪅯	pjt
 𢉾	pju
@@ -53010,12 +53039,15 @@ encoder:
 𧍘	pju
 𪋎	pju
 𠄋	pjv
+𤸆	pjv
 𤺁	pjv
+𧍫	pjv
 𧔙	pjv
 𠘔	pjw
 𢣽	pjy
 𤼔	pjy
 𢊛	pjz
+𧊓	pjz
 𧏢	pjz
 𧔍	pjz
 𠖭	pk
@@ -53323,6 +53355,7 @@ encoder:
 𢇪	pnb
 𤳲	pnc
 𤴅	pnc
+𧊋	pnc
 𤷒	pnd
 𤻾	pnd
 𨒮	pnd
@@ -53332,7 +53365,6 @@ encoder:
 𧏧	pne
 𢇹	pnf
 𤵢	pnf
-𪎔	pnf
 𡋈	png
 𢇛	png
 𢦡	png
@@ -53361,7 +53393,6 @@ encoder:
 𠘖	pnm
 𤳯	pnm
 𤺕	pnm
-𧊋	pnm
 𧑈	pnm
 𧓳	pnm
 𤳊	pnn
@@ -53386,6 +53417,7 @@ encoder:
 𧐊	pnr
 𢈷	pns
 𨦠	pns
+𪎔	pns
 𢇶	pnt
 𤰭	pnt
 𤳤	pnt
@@ -53425,8 +53457,6 @@ encoder:
 𠗚	pod
 𢈼	pod
 𪋌	pod
-𤸆	poe
-𧍫	poe
 𧏹	poe
 𧐛	poe
 𧑒	poe
@@ -54254,13 +54284,13 @@ encoder:
 𢇥	pwd
 𢇫	pwd
 𢈑	pwd
-𢎉	pwd
 𢦩	pwd
 𤵍	pwd
 𤶒	pwd
 𤸕	pwd
 𧊉	pwd
 𢉓	pwe
+𢎉	pwe
 𤸑	pwe
 𤹫	pwe
 𢉤	pwf
@@ -54354,6 +54384,7 @@ encoder:
 𢉼	pxh
 𧒞	pxh
 𦄐	pxi
+𠄿	pxj
 𤷍	pxj
 𧒇	pxj
 𩢗	pxj
@@ -54373,7 +54404,6 @@ encoder:
 𧒪	pxm
 𤺊	pxn
 𪊼	pxn
-𠄿	pxo
 𢋖	pxo
 𤴻	pxo
 𤵵	pxo
@@ -55066,6 +55096,7 @@ encoder:
 𣉻	qlj
 𥎿	qlj
 𥏯	qlj
+𩏗	qlj
 𩞲	qlj
 𩚖	qlk
 𠕧	qll
@@ -55080,7 +55111,6 @@ encoder:
 𤱵	qln
 𨐙	qlo
 𨐳	qlo
-𩏗	qlo
 𠶶	qlp
 𢨄	qlp
 𧌲	qlp
@@ -55169,13 +55199,13 @@ encoder:
 𥎯	qna
 𥎮	qnb
 𩛶	qnb
+𨈮	qnc
 𩜞	qnc
 𨉘	qnd
 𨈬	qnf
 𩚨	qnf
 𩚲	qnj
 𪘷	qnk
-𨈮	qnm
 𩓂	qnm
 𤭌	qnp
 𨉱	qnp
@@ -55949,10 +55979,8 @@ encoder:
 𣬈	rci
 𣬉	rci
 𧺼	rci
-𧿍	rci
 𨱲	rci
 𨵞	rci
-𩬄	rci
 𩮒	rci
 𧼟	rcj
 𩭟	rcj
@@ -56021,8 +56049,10 @@ encoder:
 𢅾	rcz
 𢇆	rcz
 𧺠	rcz
+𧿍	rcz
 𩉮	rcz
 𩎊	rcz
+𩬄	rcz
 𩊀	rda
 𢻆	rdb
 𢿒	rdb
@@ -56610,6 +56640,7 @@ encoder:
 𢁯	rjr
 𣌭	rjr
 𧺝	rjr
+𨵾	rjr
 𢃡	rjs
 𧼮	rjs
 𨲎	rjs
@@ -56618,11 +56649,11 @@ encoder:
 𨷒	rjs
 𩋌	rjs
 𩋬	rjs
-𧻖	rjt
 𠋔	rju
 𧼗	rju
 𧽰	rju
 𧽱	rjv
+𩋾	rjv
 𩯱	rjv
 𪉷	rjv
 𡮩	rjw
@@ -56630,6 +56661,7 @@ encoder:
 𨲞	rjx
 𨷜	rjx
 𩮜	rjx
+𧻖	rjz
 𧽠	rjz
 𩌩	rjz
 𩍺	rjz
@@ -56844,12 +56876,12 @@ encoder:
 𩍌	rna
 𥂜	rnc
 𨛭	rnc
+𨴁	rnc
+𩉼	rnc
 𢄛	rnd
 𨴄	rnd
 𨳜	rne
 𠇯	rnf
-𢁠	rnf
-𢎦	rnf
 𧻁	rnf
 𩬡	rnf
 𡌫	rng
@@ -56870,8 +56902,6 @@ encoder:
 𤒡	rnm
 𨲢	rnm
 𨲣	rnm
-𨴁	rnm
-𩉼	rnm
 𩍵	rnm
 𩓱	rnm
 𩯃	rnm
@@ -56880,6 +56910,8 @@ encoder:
 𩌾	rnp
 𧻈	rnq
 𩮟	rnr
+𢁠	rns
+𢎦	rns
 𨳸	rnt
 𨶥	rnt
 𨷊	rnt
@@ -56934,7 +56966,6 @@ encoder:
 𢃒	rod
 𨗜	rod
 𨲨	roe
-𩋾	roe
 𩍒	roe
 𩙳	roe
 𩮲	roe
@@ -57000,7 +57031,6 @@ encoder:
 𢂂	ror
 𢄕	ror
 𨴎	ror
-𨵾	ror
 𩋣	ror
 𨥷	ros
 𢃾	rot
@@ -58282,6 +58312,7 @@ encoder:
 𨨇	sdi
 𨪠	sdi
 𦲸	sdj
+𧃙	sdj
 𧅷	sdk
 𦳦	sdl
 𨭓	sdl
@@ -58293,7 +58324,6 @@ encoder:
 𧂉	sdn
 𨭱	sdn
 𦬄	sdo
-𧃙	sdo
 𨧬	sdo
 𦻝	sdp
 𧖡	sdp
@@ -59100,11 +59130,13 @@ encoder:
 𦮆	sjb
 𦹵	sjb
 𦻉	sjb
+𦼽	sjb
 𥃅	sjc
 𦳚	sjc
 𦺏	sjc
 𦾥	sjc
 𧀞	sjc
+𧄧	sjc
 𨛳	sjc
 𨝥	sjc
 𨞛	sjc
@@ -59114,7 +59146,9 @@ encoder:
 𨨌	sjc
 𠝖	sjd
 𦸩	sjd
+𦻪	sjd
 𨕡	sjd
+𨗨	sjd
 𨗪	sjd
 𨬵	sjd
 𢾳	sje
@@ -59143,6 +59177,7 @@ encoder:
 𣍖	sjj
 𦷤	sjj
 𦼎	sjj
+𦾛	sjj
 𦾧	sjj
 𢒬	sjk
 𣋄	sjk
@@ -59168,7 +59203,6 @@ encoder:
 𦵓	sjo
 𦻒	sjo
 𦽮	sjo
-𦾛	sjo
 𨧉	sjo
 𨩄	sjo
 𨪶	sjo
@@ -59193,13 +59227,12 @@ encoder:
 𧁆	sjs
 𨨊	sjs
 𨯮	sjs
-𦭸	sjt
 𦴤	sjt
 𦵽	sjt
+𦽞	sjt
 𦿡	sjt
 𧁢	sjt
 𧅿	sjt
-𨦞	sjt
 𪅐	sjt
 𪆰	sjt
 𡖶	sju
@@ -59220,8 +59253,10 @@ encoder:
 𢟽	sjy
 𢡗	sjy
 𦿉	sjy
+𦭸	sjz
 𦸏	sjz
 𨠷	sjz
+𨦞	sjz
 𨰁	sjz
 𠀎	sk
 𦫼	sk
@@ -59590,6 +59625,7 @@ encoder:
 𪏛	sni
 𡿉	snj
 𦭖	snj
+𩏧	snj
 𪏈	snj
 𦰴	snk
 𦱨	snk
@@ -59619,7 +59655,6 @@ encoder:
 𦮖	sno
 𦴛	sno
 𨥝	sno
-𩏧	sno
 𪎺	sno
 𪎿	sno
 𪏖	sno
@@ -59684,19 +59719,15 @@ encoder:
 𦬻	sob
 𦶞	sob
 𦺋	sob
-𦼽	sob
 𧂨	sob
 𨰮	sob
 𦶦	soc
 𦹐	soc
 𦼙	soc
-𧄧	soc
 𨚢	soc
 𣖢	sod
-𦻪	sod
 𦿣	sod
 𦿤	sod
-𨗨	sod
 𨪟	sod
 𨫏	sod
 𨭫	sod
@@ -59780,7 +59811,6 @@ encoder:
 𦳨	sos
 𨨓	sos
 𨩱	sos
-𦽞	sot
 𨨰	sot
 𨩏	sot
 𦬩	sou
@@ -60965,8 +60995,8 @@ encoder:
 𨓾	tad
 𩻔	tad
 𢽽	tae
+𤘖	tae
 𤯱	tae
-𤘖	tag
 𩸉	tag
 𩾩	tai
 𡗢	tak
@@ -61064,7 +61094,6 @@ encoder:
 𤚆	tcg
 𦕘	tcg
 𤛩	tch
-𡗱	tci
 𡗼	tci
 𩶆	tci
 𪂊	tci
@@ -61112,6 +61141,7 @@ encoder:
 𩶒	tcw
 𩽞	tcw
 𠞮	tcx
+𡗱	tcz
 𣦑	tcz
 𣦘	tcz
 𩽰	tcz
@@ -61430,14 +61460,15 @@ encoder:
 𩺣	tjp
 𤚺	tjq
 𩺪	tjq
-𩶣	tjt
 𪈂	tjt
 𤜈	tju
 𩸶	tju
+𦗇	tjv
 𩷒	tjv
 𩵝	tjw
 𩻋	tjw
 𤛍	tjz
+𩶣	tjz
 𩽌	tjz
 𩵌	tk
 𩾒	tk
@@ -61612,9 +61643,7 @@ encoder:
 𡙧	tne
 𢽱	tne
 𦕄	tne
-𡗝	tnf
 𡘄	tnf
-𩾫	tnf
 𩵟	tng
 𩾝	tng
 𩹂	tnh
@@ -61638,6 +61667,8 @@ encoder:
 𩿴	tnp
 𤘾	tnq
 𪁦	tnr
+𡗝	tns
+𩾫	tns
 𦕚	tnu
 𡘊	tnv
 𠜁	tnx
@@ -61660,7 +61691,6 @@ encoder:
 𤚮	tod
 𦖒	tod
 𦖯	tod
-𦗇	toe
 𦗐	toe
 𦘄	toe
 𩺽	toe
@@ -62284,12 +62314,12 @@ encoder:
 𪆭	txf
 𦕱	txi
 𩾓	txi
+𩼀	txj
 𪚀	txk
 𩷎	txm
 𩷗	txm
 𤘲	txo
 𩵥	txo
-𩼀	txo
 𩿁	txo
 𪇷	txo
 𣁓	txp
@@ -62689,6 +62719,7 @@ encoder:
 𦎄	ufi
 𧪓	ufi
 𡵪	ufj
+𥐳	ufj
 𥓝	ufj
 𠔗	ufl
 𥐖	ufl
@@ -62698,7 +62729,6 @@ encoder:
 𩒭	ufm
 𥔁	ufn
 𩧿	ufn
-𥐳	ufo
 𥑗	ufo
 𥑡	ufo
 𥒸	ufo
@@ -62936,12 +62966,10 @@ encoder:
 𥓘	ujs
 𦎪	ujs
 𧩎	ujs
-𥑸	ujt
-𧧔	ujt
 𧨓	ujt
 𧩙	ujt
-𩧳	ujt
 𥗟	uju
+𥔬	ujv
 𥗋	ujv
 𧭤	ujv
 𥗗	ujw
@@ -62950,9 +62978,12 @@ encoder:
 𧪙	ujx
 𢙯	ujy
 𢞘	ujy
+𥑸	ujz
 𥗿	ujz
+𧧔	ujz
 𧮄	ujz
 𧮋	ujz
+𩧳	ujz
 𢆳	uk
 𢆴	uk
 𡭫	uka
@@ -63212,7 +63243,6 @@ encoder:
 𨜰	uoc
 𥖾	uod
 𨖌	uod
-𥔬	uoe
 𦍛	uoe
 𦏫	uog
 𡡭	uoh
@@ -63221,6 +63251,7 @@ encoder:
 𧦰	uoi
 𧩂	uoi
 𩧧	uoi
+𡟿	uoj
 𥕞	uoj
 𧫱	uoj
 𧭘	uoj
@@ -63236,7 +63267,6 @@ encoder:
 𧭫	uon
 𧭺	uon
 𡞅	uoo
-𡟿	uoo
 𥕷	uoo
 𦏌	uoo
 𧦣	uoo
@@ -63961,6 +63991,7 @@ encoder:
 𥾈	uxi
 𧧈	uxi
 𧧱	uxj
+𩏹	uxj
 𥕮	uxk
 𧨡	uxl
 𤓖	uxm
@@ -63975,7 +64006,6 @@ encoder:
 𥒙	uxo
 𦇥	uxo
 𧨐	uxo
-𩏹	uxo
 𩧯	uxo
 𥖘	uxp
 𦍡	uxp
@@ -64094,7 +64124,7 @@ encoder:
 𤓷	vac
 𣁷	vad
 𨑽	vad
-𩨑	vag
+𩨑	vae
 𥞨	vah
 𠌊	vaj
 𣲯	vaj
@@ -64759,12 +64789,14 @@ encoder:
 𢕏	vja
 𩡆	vja
 𩪖	vja
+𢆈	vjb
 𢔕	vjb
 𤔫	vjb
 𤔮	vjb
 𩡁	vjb
 𩡖	vjb
 𪒙	vjb
+𢖁	vjc
 𤬒	vjc
 𥠺	vjc
 𥣌	vjc
@@ -64782,11 +64814,15 @@ encoder:
 𢓴	vje
 𢔃	vje
 𥠀	vje
+𧲔	vje
+𧲝	vje
+𩙃	vje
 𩡘	vje
 𩡡	vje
 𩡣	vje
 𩩲	vje
 𪑦	vje
+𣟉	vjf
 𩠺	vjf
 𩠽	vjf
 𩡦	vjf
@@ -64827,13 +64863,16 @@ encoder:
 𩡓	vjq
 𩪂	vjq
 𪒋	vjq
+𢖨	vjr
 𣄽	vjr
 𥣉	vjr
+𧲞	vjr
 𪐹	vjr
 𥟘	vjs
 𥠜	vjs
 𩠿	vjs
 𩡙	vjs
+𤜂	vjt
 𪂌	vjt
 𪒾	vjt
 𢕅	vju
@@ -64843,6 +64882,7 @@ encoder:
 𧗣	vju
 𧗧	vju
 𧗬	vju
+𧗮	vju
 𧗲	vju
 𧗼	vju
 𧘁	vju
@@ -65049,13 +65089,12 @@ encoder:
 𦫦	vna
 𢓉	vnb
 𩨩	vnb
+𥞁	vnc
 𨛻	vnc
 𥟑	vnd
 𨗽	vnd
 𩩙	vnd
 𥝹	vne
-𥝙	vnf
-𩨙	vnf
 𩨼	vnf
 𥝝	vng
 𥤐	vng
@@ -65064,7 +65103,6 @@ encoder:
 𩨹	vnj
 𥠱	vnk
 𢕀	vnm
-𥞁	vnm
 𥡏	vnm
 𧡩	vnm
 𩔃	vnm
@@ -65076,7 +65114,9 @@ encoder:
 𥞷	vnq
 𢓙	vnr
 𥟄	vnr
+𥝙	vns
 𥟗	vns
+𩨙	vns
 𩩚	vns
 𤔉	vnt
 𤱜	vnt
@@ -65093,11 +65133,9 @@ encoder:
 𩀒	vnz
 𥠣	voa
 𪑬	voa
-𢆈	vob
 𢼻	vob
 𤔀	vob
 𥡦	vob
-𢖁	voc
 𢔙	vod
 𢕑	vod
 𤔡	vod
@@ -65107,14 +65145,10 @@ encoder:
 𢕒	voe
 𢕹	voe
 𢖜	voe
-𧲔	voe
-𧲝	voe
 𩗔	voe
 𩗯	voe
-𩙃	voe
 𪑃	voe
 𢕎	vof
-𣟉	vof
 𣻤	vof
 𩨚	voh
 𩩣	voh
@@ -65155,16 +65189,12 @@ encoder:
 𥡉	voq
 𩩁	voq
 𪐦	voq
-𢖨	vor
 𥞑	vor
 𥠒	vor
-𧲞	vor
 𥟋	vos
 𩩷	vos
-𤜂	vot
 𢓌	vou
 𥠨	vou
-𧗮	vou
 𧗵	vou
 𧗶	vou
 𧗹	vou
@@ -65924,8 +65954,8 @@ encoder:
 𥶷	wad
 𥷐	wad
 𨑞	wad
+𥫙	wae
 𥷪	waf
-𥫙	wag
 𥫟	wai
 𠠾	waj
 𥶪	waj
@@ -66306,6 +66336,7 @@ encoder:
 𥶈	whg
 𥬌	whi
 𥬜	whi
+𥲾	whj
 𥸎	whj
 𥬉	whk
 𥬿	whk
@@ -66323,7 +66354,6 @@ encoder:
 𥫩	who
 𥫼	who
 𥭖	who
-𥲾	who
 𥶧	who
 𥬾	whq
 𥮽	whq
@@ -66391,7 +66421,6 @@ encoder:
 𥳷	wix
 𥲱	wiz
 𥷧	wiz
-𠂌	wj
 𥱯	wja
 𥲑	wjb
 𥳣	wjb
@@ -66421,7 +66450,9 @@ encoder:
 𥯕	wjs
 𥶩	wjs
 𥷍	wjs
+𠂌	wjt
 𪃃	wjt
+𥯤	wjv
 𠄒	wjw
 𥸒	wjw
 𥮙	wjx
@@ -66633,13 +66664,13 @@ encoder:
 𥵑	wmz
 𥵸	wmz
 𠖡	wna
+𥬐	wnc
 𣁽	wnd
 𩴫	wnd
 𣂒	wne
 𥬊	wne
 𥵩	wne
 𧱋	wne
-𥫤	wnf
 𥬨	wnf
 𥴂	wnf
 𣬖	wni
@@ -66650,13 +66681,13 @@ encoder:
 𥯜	wnk
 𩲇	wnk
 𥳂	wnl
-𥬐	wnm
 𠆕	wno
 𠝵	wno
 𤲄	wnp
 𩴰	wnq
 𥰽	wnr
 𢍉	wns
+𥫤	wns
 𩲆	wns
 𣱟	wnt
 𤰗	wnt
@@ -66681,7 +66712,6 @@ encoder:
 𥱳	woc
 𨖺	wod
 𡕞	woe
-𥯤	woe
 𥱙	woe
 𥲰	woe
 𥶄	woe
@@ -67140,6 +67170,7 @@ encoder:
 𥲝	wxg
 𥵹	wxg
 𣉭	wxj
+𥴞	wxj
 𥵤	wxj
 𥭫	wxk
 𥱕	wxk
@@ -67152,7 +67183,6 @@ encoder:
 𥶀	wxn
 𥬇	wxo
 𥳙	wxo
-𥴞	wxo
 𥫾	wxp
 𠒇	wxq
 𠘿	wxq
@@ -67837,11 +67867,12 @@ encoder:
 𦀼	xjr
 𤟍	xjs
 𤟨	xjs
-𥿦	xjt
 𤞃	xju
 𦂣	xju
 𦄡	xjv
 𦆿	xjv
+𧝖	xjw
+𥿦	xjz
 𥾇	xk
 𡬠	xka
 𦫨	xka
@@ -68022,6 +68053,7 @@ encoder:
 𤜹	xna
 𤝆	xna
 𥾵	xnb
+𤝚	xnc
 𤡒	xnc
 𦇯	xnc
 𦁅	xnd
@@ -68030,7 +68062,6 @@ encoder:
 𤠎	xne
 𦃩	xne
 𣚄	xnf
-𥾏	xnf
 𥿤	xnf
 𦇤	xnf
 𥜄	xng
@@ -68039,7 +68070,6 @@ encoder:
 𦂈	xnh
 𢑖	xnj
 𦃇	xnk
-𤝚	xnm
 𤢽	xnm
 𦈅	xnm
 𣤘	xnn
@@ -68051,6 +68081,7 @@ encoder:
 𤭋	xnp
 𤮓	xnp
 𦁟	xnp
+𥾏	xns
 𦁰	xns
 𡇍	xnt
 𤝗	xnt
@@ -68136,7 +68167,6 @@ encoder:
 𤢢	xow
 𦄣	xow
 𦆪	xow
-𧝖	xow
 𦀓	xox
 𢠃	xoy
 𤢛	xoy
@@ -69464,6 +69494,7 @@ encoder:
 𢘏	yjr
 𢛿	yjs
 𢢋	yjs
+𣝖	yjs
 𠖇	yjt
 𢙙	yjt
 𢚹	yju
@@ -69622,18 +69653,18 @@ encoder:
 𢢥	ymy
 𢙆	ymz
 𠖌	yna
+𢘊	ync
 𢠤	ynd
-𢖸	ynf
 𠖜	yng
 𠖦	yng
 𢘉	ynj
 𢘌	ynk
-𢘊	ynm
 𢝺	ynm
 𢘛	yno
 𢚕	yno
 𢠌	ynp
 𢟝	ynq
+𢖸	yns
 𠢴	ynw
 𢘘	ynw
 𢘽	ynw
@@ -69679,7 +69710,6 @@ encoder:
 𢘥	yor
 𢞆	yos
 𢨏	yos
-𣝖	yos
 𢡐	yot
 𠕼	you
 𢜚	you
@@ -70178,7 +70208,6 @@ encoder:
 𨡜	zch
 𦉮	zci
 𦋼	zci
-𧺆	zci
 𨠐	zci
 𡶬	zcj
 𦋇	zcj
@@ -70232,6 +70261,7 @@ encoder:
 𦌱	zcz
 𦌴	zcz
 𦍊	zcz
+𧺆	zcz
 𡬨	zda
 𨜣	zda
 𨠘	zda
@@ -71331,6 +71361,7 @@ encoder:
 𪪂	djn
 𪟵	djo
 𫍱	djo
+𪾃	djv
 𪟺	djx
 𪟓	dki
 𫍹	dkm
@@ -71352,7 +71383,6 @@ encoder:
 𪽽	dnf
 𪾄	dnq
 𫍰	dny
-𪾃	doe
 𫕴	doe
 𫍼	don
 𫍭	doo
@@ -71375,7 +71405,7 @@ encoder:
 𫕧	dsd
 𫀂	dsg
 𫍙	dsi
-𫖐	dso
+𫖐	dsj
 𫍫	dtn
 𫍛	dud
 𪾅	dup
@@ -71576,6 +71606,7 @@ encoder:
 𪳅	fil
 𪳪	fio
 𪬓	fiy
+𫖌	fja
 𫐁	fjc
 𪯍	fje
 𪴂	fjh
@@ -71620,7 +71651,6 @@ encoder:
 𪲀	fnf
 𪳡	fni
 𪲉	fnl
-𫖌	foa
 𪱴	foh
 𪳀	foj
 𫖟	fom
@@ -72403,6 +72433,7 @@ encoder:
 𫛂	jit
 𪰢	jiv
 𫇞	jjb
+𫖏	jjb
 𪩃	jjc
 𪱈	jjj
 𪩄	jjl
@@ -72440,6 +72471,7 @@ encoder:
 𪰶	jnz
 𫘏	joa
 𪨨	joc
+𫖍	jor
 𪫉	jos
 𪨬	jou
 𪱒	jow
@@ -72693,7 +72725,7 @@ encoder:
 𫊠	kzn
 𪧀	kzo
 𪢚	lab
-𪥃	lag
+𪥃	lae
 𪢅	lah
 𪠺	lao
 𪡸	lao
@@ -72737,7 +72769,7 @@ encoder:
 𪡥	liu
 𪡓	lji
 𪡩	ljm
-𪠾	ljt
+𪠾	ljz
 𪡂	lka
 𪡊	lkd
 𫑍	lkd
@@ -72800,7 +72832,7 @@ encoder:
 𪢖	lvy
 𪢝	lvy
 𪡎	lwb
-𪠿	lwd
+𪠿	lwe
 𪡾	lwe
 𪢉	lwl
 𪢑	lwl
@@ -72928,6 +72960,8 @@ encoder:
 𪹙	mjq
 𪸮	mjt
 𪼪	mju
+𪾳	mjv
+𫎞	mjv
 𪹷	mjw
 𪸺	mjx
 𪸻	mjx
@@ -72988,8 +73022,6 @@ encoder:
 𪺨	mod
 𪹲	moe
 𪼂	moe
-𪾳	moe
-𫎞	moe
 𪴍	mof
 𪥴	moh
 𫌜	moh
@@ -73170,6 +73202,7 @@ encoder:
 𪠗	njl
 𫄹	njl
 𫌅	njs
+𪫀	njv
 𪽉	nk
 𫋲	nkc
 𫌕	nkc
@@ -73179,13 +73212,12 @@ encoder:
 𫌖	nlc
 𫕛	nlz
 𪽔	nmj
+𫋵	nnc
 𫄯	nne
 𪽤	nnm
-𫋵	nnm
 𫄶	nnp
 𫄝	nnz
 𫄴	nod
-𪫀	noe
 𫄰	noi
 𫖞	nom
 𪽒	noq
@@ -73299,7 +73331,6 @@ encoder:
 𪦜	oij
 𪥭	oja
 𫘷	oja
-𫖏	ojb
 𪦳	ojc
 𫖗	ojd
 𪦩	oje
@@ -73314,6 +73345,7 @@ encoder:
 𫖛	ojs
 𫖜	ojs
 𫖚	oju
+𫁨	ojv
 𪟠	ojw
 𪵦	ojw
 𪭂	ojy
@@ -73321,6 +73353,7 @@ encoder:
 𫎬	ojz
 𫘵	ok
 𫆽	oki
+𫖎	okj
 𪜟	okk
 𪞅	okl
 𪦲	okm
@@ -73329,7 +73362,6 @@ encoder:
 𪧃	okn
 𪦈	oko
 𪦉	oko
-𫖎	oko
 𪦟	okp
 𪥬	okq
 𪺮	okt
@@ -73360,11 +73392,9 @@ encoder:
 𪦮	onn
 𪽞	onn
 𪥛	ont
-𫁨	ooe
 𪦖	oof
 𪦝	ooo
 𫁪	ooo
-𫖍	oor
 𪥹	oos
 𪦅	opc
 𪦃	opl
@@ -73914,13 +73944,13 @@ encoder:
 𫒫	sdo
 𫒩	sea
 𫈾	sec
+𫉔	sej
 𫇱	sek
 𫈆	sel
 𫈈	sel
 𫎜	sem
 𪴳	sen
 𫈘	seo
-𫉔	seo
 𫇹	ser
 𫈄	ser
 𫈪	ses
@@ -73934,6 +73964,7 @@ encoder:
 𫒝	sfc
 𫜱	sfc
 𫈡	sfd
+𫇩	sfj
 𫇿	sfl
 𫈥	sfl
 𫈷	sfl
@@ -73941,7 +73972,6 @@ encoder:
 𫓞	sfl
 𪹸	sfm
 𫉈	sfn
-𫇩	sfo
 𪤱	sfq
 𪵒	sfq
 𫊅	sfu
@@ -74143,8 +74173,8 @@ encoder:
 𫒎	svs
 𫒇	swa
 𫒡	swc
-𫇸	swd
 𫒍	swd
+𫇸	swe
 𫓤	swf
 𫈠	swg
 𫉆	swh
@@ -74905,11 +74935,11 @@ encoder:
 𪫭	ygu
 𪫸	ygx
 𫔵	yhe
+𫌱	yhj
 𪬃	yhm
 𪭄	yhm
 𪬺	yhn
 𪫲	yho
-𫌱	yho
 𫔮	yhr
 𪫻	yht
 𪬚	yhu
@@ -75133,12 +75163,14 @@ encoder:
 𫞢	iyt
 𫞗	iyx
 𫞜	iyz
+𫠄	jah
 𫠉	jf
 𫝝	jke
 𫞂	jmo
-𫝳	jnf
 𫝴	jnl
+𫝳	jns
 𫞃	jql
+𫝀	jv
 𫝵	jza
 𫝕	kap
 𫝗	kdk
@@ -75166,10 +75198,8 @@ encoder:
 𫟄	nhk
 𫞫	now
 𫟇	nps
-𫞻	oag
-𫠄	oah
+𫞻	oae
 𫞟	odw
-𫝀	oe
 𫝫	ofk
 𫝧	oja
 𫝅	okr
@@ -75253,7 +75283,7 @@ encoder:
 𫠌	uzx
 𫞸	vfj
 𫟙	vfu
-𫟘	vou
+𫟘	vju
 𫞷	vrk
 𫞾	wni
 𫞿	wpf
@@ -75931,8 +75961,8 @@ encoder:
 𬣼	doy
 𬤏	dpb
 𬣟	dpd
+𬰫	dpj
 𬰎	dpn
-𬰫	dpo
 𬲏	dpq
 𫻭	dpr
 𬤢	dqa
@@ -76124,11 +76154,11 @@ encoder:
 𫢠	esb
 𫤌	ese
 𫢮	esi
+𫣤	esj
 𫣟	esk
 𫢯	esm
 𫣾	esm
 𫢭	eso
-𫣤	eso
 𫣥	esr
 𫢬	esw
 𬺇	esx
@@ -76215,14 +76245,14 @@ encoder:
 𫿣	ffe
 𬄷	ffg
 𬄰	ffh
+𬂡	ffj
+𬂽	ffj
+𬃂	ffj
 𬃴	ffj
 𬃚	ffk
 𬄜	ffl
 𬄸	ffl
 𫱒	ffo
-𬂡	ffo
-𬂽	ffo
-𬃂	ffo
 𬃕	ffo
 𫽷	ffp
 𬅛	ffp
@@ -76265,14 +76295,20 @@ encoder:
 𫨽	fjb
 𫠱	fjc
 𬅺	fjc
+𫡵	fjd
+𫬮	fjd
 𬨤	fjd
 𬨮	fjd
+𬁶	fjh
 𫨨	fjk
 𬄣	fjk
 𬐟	fjk
+𫡲	fjl
 𬉶	fjm
 𬱀	fjm
 𬅞	fjn
+𫪸	fjq
+𬰜	fjw
 𫣙	fkc
 𬩾	fkc
 𫴺	fke
@@ -76322,20 +76358,14 @@ encoder:
 𬃮	fnz
 𬅏	foa
 𬅘	foa
-𫡵	fod
-𫬮	fod
 𬨳	fod
 𬩋	fod
 𬄪	fof
-𬁶	foh
 𬃬	foj
-𫡲	fol
 𬅀	fol
-𫪸	foq
 𬃪	fov
 𬃌	fow
 𬄓	fow
-𬰜	fow
 𬃎	fox
 𬃩	fpf
 𬄝	fpm
@@ -76996,8 +77026,8 @@ encoder:
 𬈶	icx
 𬪔	idc
 𬇲	idf
+𬉧	idj
 𬈧	idl
-𬉧	ido
 𬉥	idq
 𬉈	idr
 𬉮	idw
@@ -77071,8 +77101,8 @@ encoder:
 𬉪	ina
 𬧁	inb
 𫾷	ine
-𬇗	inf
 𫮏	ing
+𬇗	ins
 𬐼	inw
 𬈕	inz
 𬪁	ioa
@@ -77207,7 +77237,7 @@ encoder:
 𬵼	izt
 𬷯	izt
 𬱼	jac
-𫵲	jag
+𫵲	jae
 𬁟	jan
 𫵶	jav
 𬜒	jay
@@ -77240,11 +77270,13 @@ encoder:
 𬳬	jfc
 𬁔	jfn
 𫴮	jfp
+𬰪	jfr
 𬉨	jfv
 𬀼	jfw
 𬀰	jfx
 𫺄	jfy
 𬤹	jfy
+𬰯	jga
 𬩫	jgd
 𬀻	jgg
 𫶠	jgk
@@ -77287,6 +77319,7 @@ encoder:
 𬐫	jkc
 𫶝	jke
 𫶟	jkl
+𬰬	jkl
 𬀯	jkm
 𫶅	jks
 𬳯	jks
@@ -77294,6 +77327,7 @@ encoder:
 𬀧	jli
 𬳱	jlm
 𬅯	jln
+𬰭	jlr
 𫶑	jmm
 𬅣	jna
 𬀽	jns
@@ -77303,6 +77337,7 @@ encoder:
 𬩗	jod
 𬳮	jok
 𫶏	jop
+𬰰	jow
 𫺍	joy
 𫶜	joz
 𬐿	jpc
@@ -77342,6 +77377,7 @@ encoder:
 𬀲	jut
 𬚩	jut
 𬱮	juz
+𬰮	jvc
 𫶛	jve
 𬁊	jvf
 𫵿	jvr
@@ -77372,7 +77408,7 @@ encoder:
 𬁓	jzj
 𫠼	kab
 𬲸	kad
-𫠢	kag
+𫠢	kae
 𬖘	kba
 𬲳	kba
 𫨒	kbb
@@ -77971,7 +78007,7 @@ encoder:
 𬍦	meb
 𬑓	med
 𬍕	mei
-𬎉	meo
+𬎉	mej
 𬊠	meq
 𬑟	meq
 𬍴	met
@@ -78260,9 +78296,9 @@ encoder:
 𫹂	nmt
 𫸺	nna
 𬏈	nna
-𫸪	nnf
 𬢀	nnm
 𬏍	nnn
+𫸪	nns
 𫷛	nnu
 𬘦	nnw
 𬙉	nof
@@ -78398,17 +78434,15 @@ encoder:
 𫰕	oer
 𬡭	oew
 𫰟	off
+𫰌	ofj
 𬔫	ofm
 𬨛	ofm
 𫱆	ofn
-𫰌	ofo
 𫰬	ofp
-𬰪	ofr
 𬷵	oft
 𬔨	ofu
 𫱹	ofw
 𫰞	ofx
-𬰯	oga
 𫱺	ogb
 𫰣	oge
 𫲁	ogf
@@ -78459,7 +78493,6 @@ encoder:
 𫰇	okf
 𬸫	okh
 𫱪	okk
-𬰬	okl
 𫲐	okm
 𬊧	okm
 𬛠	oko
@@ -78475,7 +78508,6 @@ encoder:
 𫱖	oll
 𫱟	olm
 𬴔	olq
-𬰭	olr
 𬷑	olt
 𬡫	olw
 𫰎	oma
@@ -78505,7 +78537,6 @@ encoder:
 𫱍	ooq
 𫲟	oos
 𬡏	oow
-𬰰	oow
 𫲒	ooz
 𫲋	ops
 𫱝	opy
@@ -78575,7 +78606,6 @@ encoder:
 𬡇	ouw
 𫱛	ouy
 𬚏	ovb
-𬰮	ovc
 𬨣	ovd
 𬩏	ovd
 𬐔	ovg
@@ -80172,6 +80202,7 @@ encoder:
 𬳜	vju
 𬳞	vjv
 𫹗	vjx
+𫹥	vjz
 𬳟	vjz
 𬋯	vkb
 𫡮	vkd
@@ -80204,7 +80235,6 @@ encoder:
 𬔂	vor
 𬠽	vou
 𬋧	vow
-𫹥	voz
 𬲉	vpd
 𬇔	vpj
 𬋭	vpm
@@ -81130,8 +81160,8 @@ encoder:
 𭞓	azy
 𭕙	baa
 𮜢	baa
+𬻚	bae
 𭣧	bae
-𬻚	bag
 𭘍	bai
 𭕣	bal
 𭕷	bal
@@ -81176,7 +81206,7 @@ encoder:
 𮛐	bfc
 𭕕	bff
 𮛵	bfi
-𮛉	bfo
+𮛉	bfj
 𭀭	bfq
 𭕸	bfr
 𭽄	bft
@@ -81639,7 +81669,7 @@ encoder:
 𮝨	czf
 𮥢	czf
 𮝚	czj
-𭽆	dag
+𭽆	dae
 𮙉	dai
 𭃋	daj
 𭃃	dak
@@ -81922,6 +81952,7 @@ encoder:
 𭨀	ejm
 𬿆	ejq
 𬽪	ejr
+𬿭	eju
 𬿖	ekf
 𬽯	ekl
 𬽻	ekm
@@ -81961,7 +81992,6 @@ encoder:
 𬾁	eoq
 𬾗	eoq
 𬾻	eoq
-𬿭	eou
 𮨬	eox
 𬿻	epa
 𬾏	epc
@@ -82161,7 +82191,9 @@ encoder:
 𭪤	fjn
 𭂾	fjo
 𮋆	fjq
+𭘣	fjr
 𭪦	fju
+𭱷	fjw
 𭪟	fjx
 𭜩	fjy
 𭞦	fjy
@@ -82237,11 +82269,9 @@ encoder:
 𭫻	foj
 𭫶	fol
 𭬯	fom
-𭘣	for
 𭫊	fow
 𭫱	fow
 𭫲	fow
-𭱷	fow
 𭝦	foy
 𭬎	foz
 𭬳	foz
@@ -82889,8 +82919,8 @@ encoder:
 𮖊	hmw
 𭓫	hmz
 𮍡	hnb
-𭨧	hnf
 𭨷	hnl
+𭨧	hns
 𭔔	hnw
 𭨱	hnx
 𭓳	hoa
@@ -83195,6 +83225,7 @@ encoder:
 𮣋	ijs
 𮭓	ijt
 𭱒	iju
+𭲸	iju
 𭳃	iju
 𭰨	ika
 𬼏	ikc
@@ -83247,7 +83278,6 @@ encoder:
 𭒐	ioo
 𮋠	ioo
 𮬺	iot
-𭲸	iou
 𭱛	iow
 𭞸	ioy
 𭳩	ioy
@@ -83367,9 +83397,9 @@ encoder:
 𭤸	iwa
 𭰝	iwb
 𭰑	iwc
-𭤨	iwd
 𭤱	iwd
 𭱕	iwd
+𭤨	iwe
 𭲅	iwe
 𭤰	iwf
 𭤻	iwf
@@ -83416,8 +83446,8 @@ encoder:
 𭱪	izv
 𭯸	izx
 𭥮	jaa
+𭥌	jae
 𭦔	jae
-𭥌	jag
 𮪇	jak
 𭗀	jal
 𭧈	jam
@@ -83465,6 +83495,7 @@ encoder:
 𭗚	jea
 𭦎	jec
 𮠓	jec
+𮧳	jec
 𭥶	jef
 𭖥	jeh
 𭥵	jel
@@ -83593,6 +83624,7 @@ encoder:
 𭨓	jkx
 𮪔	jkx
 𭗋	jkz
+𭇁	jla
 𮎆	jlb
 𭗭	jle
 𮪚	jlf
@@ -83606,6 +83638,8 @@ encoder:
 𭧖	jlo
 𭗌	jlp
 𮎎	jlr
+𮧮	jlr
+𮧯	jlr
 𭥹	jls
 𭦱	jlt
 𮩸	jlz
@@ -83738,6 +83772,7 @@ encoder:
 𭦞	jtq
 𭗵	jtt
 𭗴	jtu
+𮧱	jtu
 𮪖	jtu
 𭞮	jty
 𭥸	jua
@@ -83751,6 +83786,7 @@ encoder:
 𮎋	juj
 𭖦	jul
 𮎐	jul
+𮨊	jum
 𭖾	juo
 𭖁	jus
 𭖚	juu
@@ -83766,6 +83802,7 @@ encoder:
 𭧜	jvf
 𭧏	jvh
 𭥋	jvi
+𮧲	jvj
 𭦊	jvk
 𭧪	jvk
 𭖀	jvo
@@ -83785,6 +83822,7 @@ encoder:
 𭪼	jwf
 𭥷	jwj
 𮎇	jwj
+𭄵	jwk
 𮪗	jwl
 𮩳	jwo
 𭦋	jwt
@@ -83800,6 +83838,7 @@ encoder:
 𭦦	jxz
 𭧗	jya
 𮪀	jya
+𭞈	jyb
 𭖿	jyf
 𭦂	jyi
 𭗘	jyl
@@ -83834,8 +83873,8 @@ encoder:
 𭆃	kaa
 𭔱	kaa
 𭓄	kab
+𭒶	kae
 𭣪	kae
-𭒶	kag
 𭒼	kai
 𮨇	kam
 𮮿	kan
@@ -84362,16 +84401,16 @@ encoder:
 𭌙	lmo
 𭍗	lmq
 𭍕	lmt
-𭇂	lnf
 𭌡	lnf
 𭆺	lng
+𭈔	lnj
 𮮣	lnj
 𭇺	lnl
 𭉗	lnl
 𭋖	lnn
 𭇓	lno
-𭈔	lno
 𭉹	lnp
+𭇂	lns
 𭊈	lnu
 𭇀	loc
 𭉺	loc
@@ -84857,11 +84896,11 @@ encoder:
 𮚛	msg
 𭴂	msi
 𭹛	msi
+𭺁	msj
 𭿕	msj
 𭴹	msm
 𭿣	msm
 𭵋	mso
-𭺁	mso
 𭾧	msp
 𭿘	msp
 𮍗	msp
@@ -85192,7 +85231,6 @@ encoder:
 𮮻	odp
 𭒉	odv
 𭐺	oec
-𮧳	oec
 𭎲	oeg
 𭑁	oeh
 𭯑	oei
@@ -85268,7 +85306,6 @@ encoder:
 𬼭	oks
 𮖠	okw
 𭒦	okx
-𭇁	ola
 𭣿	olb
 𬽐	ole
 𭒫	ole
@@ -85280,8 +85317,6 @@ encoder:
 𮨛	olm
 𭚯	oln
 𮝼	olo
-𮧮	olr
-𮧯	olr
 𬼤	olv
 𭄥	olw
 𮕩	olw
@@ -85360,7 +85395,6 @@ encoder:
 𮕱	osw
 𭒅	otc
 𮄲	otl
-𮧱	otu
 𬽠	oub
 𮟮	ouc
 𮟴	ouc
@@ -85373,7 +85407,6 @@ encoder:
 𬽇	oui
 𬽟	oum
 𭒏	oum
-𮨊	oum
 𭭉	oun
 𭒵	ouo
 𬽆	oup
@@ -85389,7 +85422,6 @@ encoder:
 𭯼	ovg
 𬼁	ovi
 𭚥	ovi
-𮧲	ovj
 𮄻	ovk
 𭒧	ovm
 𭻑	ovn
@@ -85397,7 +85429,6 @@ encoder:
 𬼀	ow
 𮪸	owi
 𭛛	owj
-𭄵	owk
 𮕺	owl
 𮨖	owm
 𭞉	owy
@@ -85410,7 +85441,6 @@ encoder:
 𭅺	oxx
 𮄬	oxx
 𬽜	oxz
-𭞈	oyb
 𭒃	oyh
 𭒗	oyn
 𭑸	oyw
@@ -85618,12 +85648,12 @@ encoder:
 𭼻	pmz
 𮕖	pnc
 𭙗	pnf
-𮓶	pnf
 𭚌	png
 𭼤	png
 𭯎	pni
 𮔢	pni
 𭠲	pnp
+𮓶	pns
 𮓿	pnt
 𭁊	pnu
 𭼑	pnu
@@ -85803,7 +85833,7 @@ encoder:
 𮔷	pzx
 𭙖	pzy
 𭁙	qaa
-𭿽	qag
+𭿽	qae
 𭁌	qai
 𭁑	qap
 𭅢	qaz
@@ -86092,6 +86122,7 @@ encoder:
 𮫕	rjk
 𮤔	rjp
 𮧣	rjq
+𭘮	rjr
 𭘩	rjs
 𮚺	rkd
 𭘶	rke
@@ -86145,7 +86176,6 @@ encoder:
 𬾂	rol
 𭉀	rop
 𭽁	roq
-𭘮	ror
 𮧜	ros
 𮧝	rox
 𭘥	rpc
@@ -86348,6 +86378,8 @@ encoder:
 𭁃	sff
 𭩠	sff
 𮢅	sff
+𮏓	sfj
+𮡨	sfj
 𮐇	sfl
 𮐤	sfl
 𮑾	sfl
@@ -86356,9 +86388,7 @@ encoder:
 𮒞	sfm
 𮨤	sfm
 𮑡	sfn
-𮏓	sfo
 𮓓	sfo
-𮡨	sfo
 𮑿	sfp
 𮐾	sfq
 𭘧	sfr
@@ -86464,13 +86494,13 @@ encoder:
 𭯜	sjg
 𮍅	sjh
 𮍋	sjh
+𮐌	sjj
 𮓆	sjj
 𮐋	sjk
 𮏱	sjl
 𮒠	sjl
 𮐍	sjm
 𭣚	sjo
-𮐌	sjo
 𮒇	sjo
 𮑤	sjr
 𭛙	sjs
@@ -86848,6 +86878,7 @@ encoder:
 𮫻	tja
 𭺨	tjp
 𭕏	tjs
+𮬄	tjv
 𮬗	tkc
 𮋰	tke
 𮣷	tke
@@ -86874,7 +86905,6 @@ encoder:
 𭀖	to
 𮋬	toc
 𮋸	tod
-𮬄	toe
 𮋵	too
 𮣲	tpj
 𮬁	tpk
@@ -86947,7 +86977,7 @@ encoder:
 𭑗	tzg
 𭑣	tzj
 𮟵	uac
-𭙊	uag
+𭙊	uae
 𮀢	ual
 𭴝	uam
 𭵮	uam
@@ -87042,6 +87072,7 @@ encoder:
 𭽈	ujk
 𮘥	ujk
 𭮩	ujq
+𮘪	ujr
 𭽎	ujs
 𭄓	ujx
 𭝸	ujy
@@ -87111,7 +87142,6 @@ encoder:
 𮘟	uol
 𮀨	uoo
 𮘈	uor
-𮘪	uor
 𮙆	uou
 𮘩	uov
 𮘶	uph
@@ -87731,7 +87761,7 @@ encoder:
 𮆹	wvn
 𮕕	wvp
 𬼠	wvv
-𮅋	wwd
+𮅋	wwe
 𮅭	wwf
 𬼃	wwm
 𮆓	wwm
@@ -87763,7 +87793,7 @@ encoder:
 𮧆	wzt
 𮅰	wzu
 𬼐	wzz
-𭷸	xag
+𭷸	xae
 𮌂	xaq
 𭆫	xbb
 𮈥	xbc
@@ -87836,6 +87866,7 @@ encoder:
 𭍰	xiz
 𮈎	xja
 𮈁	xjc
+𮉏	xjd
 𭤘	xjf
 𮈪	xjo
 𮈬	xjs
@@ -87882,7 +87913,6 @@ encoder:
 𮈈	xnq
 𭍭	xnu
 𭛐	xod
-𮉏	xod
 𮯏	xok
 𮈷	xol
 𮉀	xol
@@ -88014,7 +88044,7 @@ encoder:
 𭸍	xzq
 𭸆	xzr
 𮉄	xzx
-𮤫	yag
+𮤫	yae
 𭜻	yan
 𮎝	yaq
 𭁳	yas
@@ -88072,10 +88102,10 @@ encoder:
 𭂃	yfg
 𭏃	yfg
 𭜌	yfh
+𭜐	yfj
+𮤴	yfj
 𭞎	yfm
 𭞬	yfn
-𭜐	yfo
-𮤴	yfo
 𭜕	yfs
 𭝏	yfs
 𭁶	yft
@@ -88435,7 +88465,7 @@ encoder:
 𰔮	ahy
 𰎕	aja
 𰔠	ajj
-𰓞	ajt
+𰓞	ajz
 𰀁	ak
 𰻨	akc
 𰔛	akd
@@ -88620,8 +88650,8 @@ encoder:
 𰝽	bms
 𰸠	bmx
 𰤏	bnd
-𰤍	bnf
 𰸋	bnl
+𰤍	bns
 𰴸	bnu
 𰤎	bnz
 𰸥	boa
@@ -88689,7 +88719,7 @@ encoder:
 𰆶	bzx
 𰑼	bzy
 𰙣	caa
-𰤲	cag
+𰤲	cae
 𰳄	cap
 𱆙	cat
 𰏧	cba
@@ -89164,12 +89194,12 @@ encoder:
 𰂪	eme
 𰥲	emm
 𰥖	emv
-𰁣	enf
 𰂄	enf
 𰂀	enl
 𰂖	enl
 𰞲	enm
 𰃈	enp
+𰁣	ens
 𰂽	enu
 𰁷	env
 𰃁	eom
@@ -89613,8 +89643,8 @@ encoder:
 𰨀	gms
 𱈿	gmt
 𰊔	gmy
+𰚒	gnc
 𰊐	gne
-𰚒	gnm
 𰨄	gno
 𰳎	gnp
 𰉳	gnr
@@ -90180,6 +90210,7 @@ encoder:
 𰎴	jbe
 𰎰	jbh
 𱄜	jbl
+𱁿	jbo
 𰖇	jbq
 𱄝	jbq
 𰎎	jbw
@@ -90236,6 +90267,7 @@ encoder:
 𰎥	jgg
 𱄞	jgg
 𰷙	jgm
+𱂁	jgp
 𱄩	jgx
 𱄣	jhc
 𱄨	jhf
@@ -90249,6 +90281,7 @@ encoder:
 𱈯	jht
 𰎗	jhx
 𰖝	jin
+𰆔	jio
 𰖄	jix
 𰖟	jiy
 𰻩	jja
@@ -90289,12 +90322,12 @@ encoder:
 𰰒	jmm
 𰙏	jmn
 𰎡	jmt
+𰕼	jnc
 𰖑	jnd
-𰎉	jnf
 𱉶	jnh
 𰕻	jnj
-𰕼	jnm
 𱄬	jnq
+𰎉	jns
 𱉃	jnt
 𰕹	jnw
 𰖪	job
@@ -90356,10 +90389,13 @@ encoder:
 𰎾	jvm
 𰖿	jvm
 𱄸	jvo
+𱂀	jvs
 𱄥	jvs
+𱂂	jvx
 𰅡	jwi
 𰝸	jwm
 𱄠	jwx
+𰨚	jwz
 𱄔	jxb
 𰖵	jxc
 𰆌	jxi
@@ -91039,7 +91075,7 @@ encoder:
 𰡱	mzr
 𰡺	mzu
 𰥔	mzy
-𰫼	nag
+𰫼	nae
 𰬓	nah
 𰬂	nal
 𰳸	nba
@@ -91230,9 +91266,8 @@ encoder:
 𰬐	nzu
 𰬹	nzz
 𰩢	oab
-𱅴	oag
+𱅴	oae
 𱅺	obb
-𱁿	obo
 𰋻	obs
 𰭺	obt
 𰼆	obz
@@ -91253,7 +91288,6 @@ encoder:
 𰺨	ofx
 𰌙	ofz
 𰚫	ogo
-𱂁	ogp
 𰉢	ogt
 𰌇	ogz
 𰌖	ohc
@@ -91261,7 +91295,6 @@ encoder:
 𰍤	oho
 𱌾	ohr
 𰋾	oid
-𰆔	oio
 𱈧	oit
 𰥊	ojc
 𱂒	ojf
@@ -91296,10 +91329,10 @@ encoder:
 𰀩	omm
 𰩫	omm
 𰋺	oms
+𱅹	onc
 𰕕	one
 𰣄	onj
 𰩪	onl
-𱅹	onm
 𰢾	onr
 𰋵	oo
 𰩤	ooc
@@ -91351,14 +91384,11 @@ encoder:
 𰌏	ovg
 𰙙	ovn
 𰋸	ovs
-𱂀	ovs
-𱂂	ovx
 𰻦	owc
 𰋶	owk
 𰞚	owm
 𰺥	owo
 𰪒	oww
-𰨚	owz
 𰜊	oxv
 𰺽	oyd
 𰈛	oyl
@@ -91482,6 +91512,7 @@ encoder:
 𰣷	pmx
 𰸏	pnb
 𰏆	pnc
+𰏳	pnc
 𰻽	pnc
 𱋂	pnc
 𰓒	pnd
@@ -91489,7 +91520,6 @@ encoder:
 𱊎	pnh
 𰓑	pnj
 𰳉	pnk
-𰏳	pnm
 𰏾	pnq
 𰓖	pnu
 𰣪	pob
@@ -92842,6 +92872,7 @@ encoder:
 𰩭	wjc
 𰻇	wjd
 𱊔	wjh
+𰪙	wjo
 𰪜	wjw
 𰭦	wkf
 𰪠	wkh
@@ -92874,7 +92905,6 @@ encoder:
 𰀅	wof
 𱊢	woh
 𰪍	woj
-𰪙	woo
 𰪎	woq
 𰃞	wou
 𰚼	wpk
@@ -92973,7 +93003,7 @@ encoder:
 𰆊	xi
 𰡙	xij
 𰺹	xjd
-𰡌	xjt
+𰡌	xjz
 𰐥	xkd
 𰫨	xkf
 𱉝	xkh
@@ -93321,7 +93351,7 @@ encoder:
 𱁋	zvc
 𰀽	zvi
 𰷟	zvs
-𰀢	zwd
+𰀢	zwe
 𰗘	zwf
 𰚪	zwg
 𰼌	zwi
@@ -93448,7 +93478,7 @@ encoder:
 𱠄	ayn
 𱍒	azt
 𱠎	azu
-𱱴	bag
+𱱴	bae
 𱚱	ban
 𲍍	baq
 𲅥	bbd
@@ -93489,7 +93519,7 @@ encoder:
 𲃹	biq
 𱑓	bja
 𱍤	bjc
-𲃢	bjt
+𲃢	bjz
 𲄀	bkd
 𲄒	bkg
 𱚿	bkn
@@ -93579,7 +93609,7 @@ encoder:
 𲄁	bzr
 𲉢	cac
 𲉤	cad
-𱤼	cag
+𱤼	cae
 𲉦	cau
 𲄴	cbc
 𱒍	cbu
@@ -93983,7 +94013,9 @@ encoder:
 𱤇	fio
 𱤤	fiq
 𱣖	fiu
+𲆮	fja
 𲁜	fjc
+𱎖	fjd
 𱤌	fjh
 𱼿	fjo
 𱜹	fjr
@@ -94014,8 +94046,6 @@ encoder:
 𱤸	fna
 𲅚	fnd
 𱰥	fnf
-𲆮	foa
-𱎖	fod
 𱣳	fon
 𱣄	foo
 𱤭	fpf
@@ -94050,12 +94080,12 @@ encoder:
 𱘷	ftx
 𱥒	fuh
 𱥏	fuj
+𱥓	fuj
 𱥎	ful
 𱥑	ful
 𱤓	fum
 𱤛	fum
 𱥋	fuo
-𱥓	fuo
 𱭌	fuo
 𲋗	fuq
 𱥔	fus
@@ -94873,6 +94903,7 @@ encoder:
 𱜉	jed
 𱼺	jed
 𱢛	jei
+𲊢	jei
 𱛸	jej
 𱢗	jej
 𱽃	jep
@@ -95025,6 +95056,7 @@ encoder:
 𲌁	jxn
 𲌀	jxp
 𱛤	jxt
+𲊤	jxt
 𱴲	jxu
 𱽄	jxz
 𱛮	jyc
@@ -95039,10 +95071,11 @@ encoder:
 𱢪	jzf
 𱛊	jzj
 𱢕	jzm
+𲊣	jzm
 𱟠	jzp
 𱛋	jzr
 𱢫	jzz
-𱍙	kag
+𱍙	kae
 𱸼	kat
 𱑸	kbj
 𱒏	kbl
@@ -95695,7 +95728,7 @@ encoder:
 𱮶	mzx
 𱪭	mzy
 𱺘	naa
-𲀤	nag
+𲀤	nae
 𱺚	nal
 𱰧	nax
 𱲔	nbc
@@ -95819,7 +95852,6 @@ encoder:
 𱍽	ods
 𲄅	oeb
 𲍿	oeh
-𲊢	oei
 𱘩	oel
 𱙁	of
 𲅅	off
@@ -95925,14 +95957,12 @@ encoder:
 𱙏	oxo
 𲌘	oxo
 𱙌	oxq
-𲊤	oxt
 𲍂	oxt
 𱙑	oxu
 𱶨	oxv
 𱙅	oyd
 𱙗	oyh
 𱙒	oyk
-𲊣	ozm
 𲎁	pah
 𱿰	par
 𱿯	pbc
@@ -96297,8 +96327,8 @@ encoder:
 𲊠	ril
 𱝡	rio
 𲌣	rjd
-𱜥	rjt
 𱔋	rju
+𱜥	rjz
 𱙺	rki
 𱵺	rkk
 𱹃	rks
@@ -96486,10 +96516,10 @@ encoder:
 𱽑	smo
 𲇎	sms
 𲇙	smx
+𱽖	snc
 𱬯	sni
 𱽾	snj
 𲇝	snl
-𱽖	snm
 𱐤	snx
 𱽲	sol
 𱪻	som
@@ -96923,6 +96953,7 @@ encoder:
 𲁮	viu
 𱝶	vja
 𲋲	vjb
+𱥊	vjc
 𲋱	vjc
 𱶩	vjd
 𲋯	vjf
@@ -96959,7 +96990,6 @@ encoder:
 𱝯	vnw
 𱝪	vo
 𱎋	voc
-𱥊	voc
 𱶞	voc
 𲁝	voc
 𲅋	vod
@@ -97210,6 +97240,7 @@ encoder:
 𱮨	xjc
 𱑙	xje
 𱺂	xjq
+𱻤	xjq
 𱮱	xjw
 𱹫	xk
 𱭶	xkc
@@ -97230,7 +97261,6 @@ encoder:
 𱮚	xnh
 𱱆	xnn
 𱺎	xoo
-𱻤	xoq
 𱮐	xoy
 𱕺	xpc
 𱭵	xpd
@@ -97565,10 +97595,10 @@ encoder:
 ⺼	hr
 ⺍	is
 ⺡	is
+⻠	k
 ⺌	kj
 ⺗	ko
 ⺛	kq
-⻠	ks
 ⻁	kv
 ⻓	lc
 ⻪	lnd
@@ -97614,15 +97644,16 @@ encoder:
 ⺢	vs
 ⺤	vz
 ⺥	vz
-⺮	wd
+⺮	we
 ⻱	wln
 ⺉	xd
 ⺯	xi
-⺨	xq
+⺨	xo
 ⺕	xs
 ⺺	xs
 ⻬	xub
 ⻫	xup
+⺖	yb
 ⻆	ycg
 ⻔	yd
 ⻇	yhr
@@ -97631,7 +97662,6 @@ encoder:
 ⻳	ynd
 ⺴	yq
 ⺳	yub
-⺖	yv
 ⻉	zb
 ⺱	zci
 ⻅	zj
@@ -97687,7 +97717,7 @@ encoder:
 ⼟	gt
 ⾚	guu
 ⾭	gzk
-⼧	hb
+⼧	h
 ⿏	hb
 ⾅	hj
 ⼓	hr
@@ -97702,7 +97732,8 @@ encoder:
 ⾺	jk
 ⽇	jr
 ⽈	jr
-⾈	jt
+⾱	jv
+⾈	jz
 ⼕	k
 ⼖	k
 ⾘	kd
@@ -97728,13 +97759,12 @@ encoder:
 ⾃	mz
 ⽋	na
 ⽄	ne
-⼸	nf
 ⼲	ng
 ⾥	ni
+⼸	ns
 ⽥	nt
 ⼂	o
 ⾯	oa
-⾱	oe
 ⼇	og
 ⾼	og
 ⼥	oh
@@ -97782,7 +97812,7 @@ encoder:
 ⾾	rv
 ⼈	rw
 ⾛	rz
-⾡	sci
+⾡	scz
 ⼊	sd
 ⼺	sh
 ⼶	sk
@@ -97805,7 +97835,7 @@ encoder:
 ⾴	umb
 ⾕	url
 ⽯	ut
-⽦	vci
+⽦	vcz
 ⼻	vd
 ⿆	veu
 ⾻	vg
@@ -97821,7 +97851,7 @@ encoder:
 ⽖	vz
 ⼃	w
 ⾎	wcm
-⽵	wd
+⽵	we
 ⾲	wf
 ⾮	wi
 ⽓	wj
@@ -98001,8 +98031,8 @@ encoder:
 視	gmj
 視	gmj
 祖	gmq
+神	gnc
 祈	gne
-神	gnm
 祿	grv
 祐	gsl
 祥	gug
@@ -98066,6 +98096,7 @@ encoder:
 易	jhs
 嶺	jrm
 崙	jro
+韛	jsc
 暴	jsv
 暈	jyc
 了	k
@@ -98154,7 +98185,6 @@ encoder:
 充	okq
 亮	oqv
 嬨	oqy
-韛	osc
 六	oub
 率	oud
 率	oud
@@ -98550,6 +98580,7 @@ encoder:
 嵮	jdu
 岍	jfs
 暑	jgj
+韠	jja
 㬈	jjc
 𡷤	jlt
 峀	jnv
@@ -98625,7 +98656,7 @@ encoder:
 𧙧	nfs
 𠨬	nib
 弢	njb
-𤰶	nnm
+𤰶	nnc
 𩒖	nnm
 裗	noq
 裞	nqq
@@ -98647,7 +98678,6 @@ encoder:
 嬈	ogt
 㛮	ohb
 𥪧	oiu
-韠	oja
 贛	ojm
 育	okh
 𠘺	okq
@@ -99270,7 +99300,7 @@ encoder:
 𮶯	pgk
 𮲀	pky
 𮷀	pkz
-𮯿	pnf
+𮯿	pns
 𮲊	poa
 𮶮	pov
 𮰁	pse
@@ -99573,7 +99603,7 @@ encoder:
 営	iyr
 彽	vif
 虡	kxu
-韡	osa
+韡	jsa
 厎	kif
 唃	lyg
 睩	mrv
@@ -99896,7 +99926,7 @@ encoder:
 靹	rzs
 鞸	rnd
 鞾	rsa
-韠	ond
+韠	jnd
 饆	qnd
 駩	jsm
 驆	jnd
@@ -100197,7 +100227,7 @@ encoder:
 䩚	rif
 䩮	rrv
 䩯	ruf
-䪏	ozs
+䪏	jzs
 䪤	uzn
 䫀	yum
 䫄	ulm
@@ -100738,7 +100768,7 @@ encoder:
 𤚚	tgs
 𤚭	thq
 𤚶	uit
-𤛉	opt
+𤛉	jpt
 𤛔	tzb
 𤜽	xzs
 𤝥	xer
@@ -101629,13 +101659,13 @@ encoder:
 𩍫	rvb
 𩎂	rzm
 𩎮	ouc
-𩎰	ouq
-𩏊	ouf
-𩏓	hgo
-𩏣	kxo
-𩏧	sfo
-𩏹	xuo
-𩏻	gfo
+𩎰	juq
+𩏊	juf
+𩏓	hgj
+𩏣	kxj
+𩏧	sfj
+𩏹	xuj
+𩏻	gfj
 𩐇	zsf
 𩑕	pem
 𩑟	rfm
@@ -101900,7 +101930,7 @@ encoder:
 𫐡	rfd
 𫒾	sxs
 𫕻	ghh
-𫖏	ozb
+𫖏	jzb
 𫖛	oja
 𫗐	qsm
 𫙾	tcg
@@ -102348,7 +102378,7 @@ encoder:
 𨗭	hrd
 鄑	fkc
 䩮	rrv
-韠	ond
+韠	jnd
 駾	juq
 䯎	vun
 黹	yzu

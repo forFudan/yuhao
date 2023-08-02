@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: yuhao_tradition_tw
+  schema_id: yuhao_tw
   name: 宇浩繁簡通·臺灣正體簡碼
   version: 20230522
   author:
@@ -15,7 +15,7 @@ schema:
     單字和詞庫編碼同時兼容台灣、香港、大陸古籍三種標準的繁體字形。
   dependencies:
     - yuhao_pinyin
-    - yuhao_chaifen
+    - yuhao_chaifen_tw
 
 switches:
   - options:
@@ -112,8 +112,8 @@ yuhao_postpone_full_code:
     max_index: 3 # 最大後置位置，默認爲 3
 
 schema_name:
-  code: yuhao_tradition_tw
-  spelling: yuhao_chaifen
+  code: yuhao_tw
+  spelling: yuhao_chaifen_tw
 
 yuhao_chaifen:
   lua:
@@ -136,8 +136,8 @@ speller:
     # - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
 
 translator:
-  dictionary: yuhao_tradition_tw
-  prism: yuhao_tradition_tw
+  dictionary: yuhao_tw
+  prism: yuhao_tw
   db_class: tabledb
   enable_completion: true
   enable_sentence: false
@@ -193,7 +193,7 @@ embeded_cands:
   separator: " "                                     # 候選之間的分隔符
 
 punctuator:
-  import_preset: default
+  import_preset: symbols
   half_shape:
     "%": "%"
     "*": "*"

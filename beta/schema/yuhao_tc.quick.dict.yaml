@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230730
+# 版本: 20230802
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -10,8 +10,8 @@
 # 简码
 
 ---
-name: "yuhao_tradition.quick"
-version: "20230730"
+name: "yuhao_tc.quick"
+version: "20230802"
 sort: original
 columns:
   - text

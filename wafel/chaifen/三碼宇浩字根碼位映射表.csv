@@ -1,6 +1,6 @@
 repr,font,zhu_code
 一,一,F_
-丁,丁,Ag
+丁,丁,Ae
 丂,丂,U_
 七,七,Ak
 三,三,Us
@@ -43,6 +43,7 @@ repr,font,zhu_code
 末,末,Sm
 牙,牙,Ma
 犬,犬,Xo
+犭,犭,Xo
 王,王,Mk
 瓦,瓦,Pd
 甫,甫,Rd
@@ -81,7 +82,7 @@ repr,font,zhu_code
 龶,龶,Gq
 {左上},,S_
 𡗗,𡗗,Ep
-{于下},,J_
+{于下},,Jt
 丶,丶,O_
 乀,乀,O_
 丷,丷,Qk
@@ -94,7 +95,7 @@ repr,font,zhu_code
 {贏頭},,Ew
 亥,亥,Ah
 亦,亦,Rj
-宀,宀,Hb
+宀,宀,H_
 广,广,Pg
 户,户,Qh
 戸,戸,Qh
@@ -163,7 +164,7 @@ repr,font,zhu_code
 彳,彳,Vd
 {微上},,Vd
 心,心,Yb
-忄,忄,Yv
+忄,忄,Yb
 手,手,Ps
 龵,龵,Ps
 斤,斤,Ne
@@ -182,21 +183,20 @@ repr,font,zhu_code
 片,片,Cp
 牛,牛,Tv
 ⺧,⺧,Tv
-犭,犭,Xq
 瓜,瓜,Vu
 生,生,Es
 用,用,Cg
 白,白,Da
 矢,矢,Qj
 禾,禾,Vh
-竹,竹,Wd
-𠂉,𠂉,Wd
-{⺮右},,Wd
+竹,竹,We
+𠂉,𠂉,We
+{⺮右},,We
 缶,缶,Qk
 自,自,Mz
 臼,臼,Hj
 舌,舌,Ls
-舟,舟,Jt
+舟,舟,Jz
 豸,豸,Kd
 身,身,Qn
 金,金,Sn
@@ -205,7 +205,7 @@ repr,font,zhu_code
 隹,隹,Zi
 風,風,En
 食,食,Qd
-饣,饣,Ks
+饣,饣,K_
 鬼,鬼,Cv
 {卑上},,Cv
 魚,魚,Tj
@@ -253,7 +253,7 @@ repr,font,zhu_code
 田,田,Nt
 由,由,Nv
 甲,甲,Nj
-申,申,Nm
+申,申,Nc
 电,电,Nd
 皿,皿,Cm
 目,目,Mv
@@ -279,7 +279,7 @@ repr,font,zhu_code
 黽,黽,Ln
 {龜下},,Ln
 齒,齒,Kd
-龰,龰,Ci
+龰,龰,Cz
 {鼠下},,B_
 〇,〇,Oo
 丑,丑,Lk
@@ -323,7 +323,7 @@ repr,font,zhu_code
 巴,巴,Aj
 幺,幺,Ua
 廴,廴,Tj
-弓,弓,Nf
+弓,弓,Ns
 彐,彐,Xs
 {反彐},彐,Xs
 肀,肀,Xs
@@ -339,7 +339,7 @@ repr,font,zhu_code
 {纟上},,N_
 艮,艮,Yi
 阝,阝,Cf
-韋,韋,Oe
-{五下},,Oe
+韋,韋,Jv
+{五下},,Jv
 飛,飛,Ej
 马,马,Um

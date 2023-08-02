@@ -2,7 +2,7 @@
 # encoding: utf-8
 
 schema:
-  schema_id: yuhao_tradition
+  schema_id: yuhao_tc
   name: 宇浩繁簡通·大陸繁體簡碼
   version: 20230522
   author:
@@ -114,7 +114,7 @@ yuhao_postpone_full_code:
     max_index: 3 # 最大後置位置，默認爲 3
 
 schema_name:
-  code: yuhao_tradition
+  code: yuhao_tc
   spelling: yuhao_chaifen
 
 yuhao_chaifen:
@@ -138,8 +138,8 @@ speller:
     # - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
 
 translator:
-  dictionary: yuhao_tradition
-  prism: yuhao_tradition
+  dictionary: yuhao_tc
+  prism: yuhao_tc
   db_class: tabledb
   enable_completion: true
   enable_sentence: false
@@ -195,7 +195,7 @@ embeded_cands:
   separator: " "                                     # 候選之間的分隔符
 
 punctuator:
-  import_preset: default
+  import_preset: symbols
   half_shape:
     "%": "%"
     "*": "*"
