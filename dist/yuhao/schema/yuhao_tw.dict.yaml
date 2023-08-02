@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20230729
+# 版本: 20230802
 #
 # 發明人 朱宇浩
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -23,23 +23,20 @@
 # - 用户自定義詞庫
 #
 # 可選導入:
-# - 傳統字增廣詞庫（次常用詞語、成語、詩詞）
-# - 简化字增广词库（次常用词语、成语、诗词）
+# - 简化字增广词库（成语、诗词）
 
 ---
-name: "yuhao_tradition_tw"
-version: "20230729"
+name: "yuhao_tw"
+version: "20230802"
 sort: original
 import_tables:
   # 去除下方的 # 符号以导入词库
-  - yuhao_tradition_tw.quick
-  - yuhao_tradition.full
+  - yuhao_tw.quick
+  - yuhao_tc.full
   - yuhao.private
-  - yuhao_tradition.words
+  - yuhao_tc.words
   - yuhao.words
-  - yuhao_tradition.words_extended
-  - yuhao_tradition.words_literature
-  #  - yuhao.words_extended
+  - yuhao_tc.words_literature
   #  - yuhao.words_literature
   - yuhao.symbols
   - yuhao.extended
