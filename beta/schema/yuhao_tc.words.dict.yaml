@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230802
+# 版本: 20230807
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20230802"
+version: "20230807"
 sort: original
 columns:
   - text
@@ -53619,6 +53619,7 @@ columns:
 判官	uaon
 足不出戶	ndxi
 創制	tfwk
+病榻	pffk
 海參	iqvv
 訣別	ublw
 信以為真	exod
@@ -53763,6 +53764,7 @@ columns:
 感觸	dfyw
 穿梭	oqfv
 內陸	krch
+倒塌	ehhk
 畫冊	xhnc
 鉅變	wgbu
 聲勢	hbhq
@@ -53777,6 +53779,7 @@ columns:
 悼念	ymtf
 痴迷	pqpp
 反差	sbuq
+糟蹋	psnk
 華中	sfln
 內科	krrs
 得逞	rjle
@@ -53907,6 +53910,7 @@ columns:
 爐灶	umuh
 看穿	tmoq
 滾蛋	iovn
+崩塌	jwhk
 水解	kvyw
 鬢角	hoyw
 勢能	hqvw
@@ -54075,6 +54079,7 @@ columns:
 挖苦	aosd
 起家	dcod
 視聽	hmae
+坍塌	hwhk
 銳意	wtij
 起始	dccv
 倉皇	tfeg
@@ -54094,6 +54099,7 @@ columns:
 遇害	kpoh
 絕妙	bbcm
 臨別	sqlw
+塌陷	hkcy
 下垂	akws
 開戶	kfie
 窘境	oqhi
@@ -54188,6 +54194,7 @@ columns:
 割讓	ohuo
 戰況	llil
 化為烏有	eoys
+邋遢	vnks
 慾念	tttf
 久別	yolw
 拋錨	adws
@@ -54304,6 +54311,7 @@ columns:
 安全感	ordf
 獎學金	xrwj
 返還	sbmf
+下榻	akfk
 順差	qduq
 警官	swon
 害人	ohte
@@ -54451,7 +54459,7 @@ columns:
 調勻	uwws
 龜頭	yjfl
 官差	onuq
-床榻	uffj
+床榻	uffk
 天淵之別	fipl
 題解	jfyw
 起筆	dcqx
@@ -54670,6 +54678,7 @@ columns:
 天搖地動	fahw
 人窮志短	tohq
 走為上計	doku
+臥榻	stfk
 起名	dcrl
 嘴邊	lnto
 罵人	mdte
@@ -56958,6 +56967,7 @@ columns:
 聽慣	aeyb
 哼著	losh
 圍起	ncdc
+軟塌塌	ghhk
 田邊	jtto
 邊距	tong
 郵匯	wsgi
@@ -57279,6 +57289,7 @@ columns:
 出汙泥而不染	xiii
 若說	ssut
 蒙板	syfs
+壓塌	sjhk
 池內	ickr
 治稅	ivrt
 賞閱	nmkt
@@ -58292,7 +58303,7 @@ columns:
 門市部	koil
 半途	uatf
 活像	irey
-塌方	hjog
+塌方	hkog
 見狀	mxxs
 微量元素	rjfh
 犧牲品	wwll
@@ -69283,7 +69294,7 @@ columns:
 需知	dsql
 幹得	djrj
 朝南	djdk
-塌實	hjob
+塌實	hkob
 露著	dnsh
 過強	npvv
 老了	hrvl
@@ -75211,7 +75222,7 @@ columns:
 建陽	xacj
 那事	vaal
 那要	vadc
-邋里邋遢	vkvj
+邋里邋遢	vkvk
 仁壽	eshv
 會下	tfak
 什邡	edoc
@@ -80139,7 +80150,7 @@ columns:
 掉漆	amif
 揮著	aysh
 熱映	hqjk
-掃榻	axfj
+掃榻	axfk
 扒灰	atsu
 刮花	rmse
 臭臉	tswr
@@ -84422,7 +84433,7 @@ columns:
 雨柱	dyfo
 直瞅	dmmr
 求數	fkld
-塌毀	hjrh
+塌毀	hkrh
 露芽	dnsh
 露眼	dnmv
 協合	dxye
@@ -86700,6 +86711,7 @@ columns:
 研究室	dpoh
 郵政局	efbv
 化學反應	ereu
+塌方	hjog
 趁勢	dtht
 直説	dmuu
 高熱	olht
@@ -87501,6 +87513,7 @@ columns:
 念過	tonp
 張曼玉	vjgo
 懸着	mmum
+塌實	hjob
 露着	dnum
 憋着	umum
 流着	ioum
@@ -87903,6 +87916,7 @@ columns:
 免費版	yvte
 白邊	ebtp
 板樓	fefl
+邋里邋遢	vkvj
 保户	elie
 修改版	ebte
 華師	shyf
@@ -88260,6 +88274,7 @@ columns:
 返現	ebgm
 揮着	ayum
 熱映	htjk
+掃榻	axfj
 倒着	ehum
 念着	toum
 鑾鈴	ubwt
@@ -88589,6 +88604,7 @@ columns:
 防變	coub
 熊勢	vwht
 砍割	deod
+塌毀	hjrh
 珍版	gtte
 點倉	nmto
 泄灘	ihis

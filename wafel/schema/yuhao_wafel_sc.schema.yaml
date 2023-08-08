@@ -2,8 +2,8 @@
 # encoding: utf-8
 
 schema:
-  schema_id: yuhao_wafel_tc
-  name: 宇浩·華夫餅·繁體
+  schema_id: yuhao_wafel_sc
+  name: 宇浩·華夫餅·簡體
   version: 20230801
   author:
     - 發明人 朱宇浩
@@ -107,7 +107,7 @@ yuhao_postpone_full_code:
     max_index: 3 # 最大後置位置，默認爲 3
 
 schema_name:
-  code: yuhao_wafel_tc
+  code: yuhao_wafel_sc
   spelling: yuhao_wafel_chaifen
 
 yuhao_chaifen:
@@ -131,12 +131,12 @@ speller:
     # # - "derive/^([a-y])[a-y]([a-y])[a-y]$/$1z$2z/" # AzCz
 
 translator:
-  dictionary: yuhao_wafel_tc
-  prism: yuhao_wafel_tc
+  dictionary: yuhao_wafel_sc
+  prism: yuhao_wafel_sc
   db_class: tabledb
   enable_completion: true
   enable_sentence: false
-  enable_user_dict: true
+  enable_user_dict: false
   enable_encoder: true
   encode_commit_history: false # 对连续上屏的词自动成词
   max_phrase_length: 4 # 自动成词的最大词长
@@ -167,7 +167,7 @@ history:
 
 reverse_lookup:
   dictionary: yuhao_pinyin
-  prefix: "/"
+  prefix: "`"
   tips: 〔全拼反查〕
   closing_tips: 〔反查关闭〕
   preedit_format:
@@ -223,7 +223,7 @@ recognizer:
   import_preset: default
   patterns:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
-    reverse_lookup: "^/([a-z]+?)*$"
+    reverse_lookup: "^`([a-z]+?)*$"
     zaoci: "^[a-z]*`[a-z`]*$"
 
 style:

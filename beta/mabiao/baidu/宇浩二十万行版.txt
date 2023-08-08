@@ -3628,6 +3628,7 @@ aksv 抽动
 aksv 下药
 aksv 押运
 aksv 下顾
+aksx 搨
 aksy 𢤎
 akta 七上八下
 aktd 押镖
@@ -11404,6 +11405,7 @@ bksm 尿布
 bkss 繷
 bksu 䌡
 bksu 𭆦
+bksx 䌈
 bkt 納
 bktb 尿盆
 bktb 𡲯
@@ -16694,6 +16696,7 @@ ckss 𡢿
 ckst 婰
 ckst 𨹻
 cksu 𨼷
+cksx 䪚
 ckte 妠
 ckte 䪏
 ckti 妖由人兴
@@ -24459,6 +24462,8 @@ dksv 献艺
 dksv 感冒药
 dksv 南雄
 dksw 走散
+dksx 𩥑
+dksx 𰧒
 dkte 走人
 dkte 贾人
 dkte 𧟿
@@ -33716,6 +33721,7 @@ ekss 儂
 ekst 伸进
 ekst 倎
 eksu 僼
+eksx 傝
 ekta 咎由自取
 ektb 𰟾
 ekte 㐻
@@ -43354,6 +43360,7 @@ fksu 𪴀
 fksv 救药
 fksv 𪱲
 fksw 𣓍
+fksx 榻
 fksx 两节
 fkt 丙
 fkta 𡭃
@@ -53390,6 +53397,7 @@ gksu 𩎂
 gksw 现有
 gksw 再有
 gksw 𤦛
+gksx 𩌇
 gkte 再版
 gkte 軜
 gkte 靹
@@ -61188,6 +61196,7 @@ hkks 靑
 hkks 𥚃
 hkks ⾭
 hkkt 埋
+hkkx 𡓲
 hkky 𪬿
 hklb 𡔮
 hklc 神啊
@@ -61299,6 +61308,8 @@ hkst 𬒿
 hksu 禮
 hksu 𪤡
 hksu 禮
+hksx 塌
+hksx 禢
 hkta 𩮓
 hkta 𩯻
 hktb 𩮻
@@ -71081,7 +71092,9 @@ iksu 澧
 iksv 𤄝
 iksw 𣶀
 iksw 𤂒
+iksx 溻
 iksx 泼水节
+iksx 𫁩
 iksy 童蒙
 iktc 𱧺
 ikte 汭
@@ -85992,6 +86005,7 @@ kksv ㏜
 kksw ⑮
 kksw ⓯
 kksw 😞
+kksx 闒
 kksx ⿱
 kksx ￤
 kksy “
@@ -88031,6 +88045,7 @@ kswy 蛕
 kswy 𣌴
 kswy 𨴜
 kswy 𣍟
+ksxa 𤭼
 ksxf 蠨
 ksxi 𠃪
 ksxi 𧈯
@@ -88038,11 +88053,16 @@ ksxj 𮔂
 ksxk 𱿚
 ksxl 上架
 ksxm 上马
+ksxm 𠞈
 ksxn 𱝒
+ksxp 遢
 ksxp 上边
+ksxr 毾
+ksxr 𪄚
 ksxt 蟏
 ksxx 冒出
 ksxx 𦐎
+ksxx 𦐇
 ksy 冕
 ksyc 上色
 ksyd 蠓
@@ -92403,6 +92423,7 @@ lksv 𠀐
 lksv 𠮵
 lksv 𭆽
 lksw 遣散
+lksx 𠹥
 lksy 勋劳
 lkt 呐
 lkte 呐
@@ -104687,6 +104708,7 @@ nkkj 𨆇
 nkks 踏上
 nkkv 𨁫
 nkkw 掌上电脑
+nkkx 躢
 nklk 监督员
 nkll 路由器
 nklp 𲃵
@@ -104725,6 +104747,7 @@ nkss 𫵁
 nkst 踏进
 nkst 䠄
 nksw 𮛥
+nksx 蹋
 nktb 恩同父母
 nkte 䟜
 nktq 𪒣
@@ -110832,6 +110855,7 @@ oksr 𡪊
 oksr 𮕫
 okss 𨐺
 oksu 𡫋
+oksx 𬤕
 okt 讷
 okte 讷
 okte 让人
@@ -116783,6 +116807,7 @@ pbqh 初等
 pbqi 𥺶
 pbqk 𧜭
 pbqm 变盘
+pbqr 𥼗
 pbqw 痛风
 pbra 痛彻
 pbrb 变径
@@ -119192,6 +119217,9 @@ pkst 𲀵
 pksu 蛮荒
 pksu 𥽈
 pksu 𫌓
+pksx 阘
+pksx 褟
+pksx 𤹀
 pksy 𧘕
 pkt 衲
 pkte 衲
@@ -123065,7 +123093,6 @@ pydi 𥤿
 pydj 闷雷
 pydj 究其
 pydq 变色龙
-pydr 𥼡
 pydt 穷追不舍
 pydw 磨合期
 pydx 齐心协力
@@ -123121,7 +123148,6 @@ pyig 闷酒
 pyii 恋
 pyii 痛快淋漓
 pyij 究竟
-pyil 𥼗
 pyim 𢘻
 pyim 𥹀
 pyin 闷
@@ -123219,6 +123245,7 @@ pysh ŝ
 pysj 𥧶
 pysl 𧞟
 pysm 𮇯
+pysr 𥼡
 pysu 襜
 pysu 癚
 pysv 𥥠
@@ -126295,7 +126322,10 @@ qksu 𥴡
 qksw 竹藤
 qksw 䑵
 qksw 𥳫
+qksx 鳎
 qksx 竹节
+qksx 䈳
+qksx 䑽
 qktd 𥰓
 qktd 𥴎
 qkte 氝
@@ -133635,6 +133665,10 @@ rkst 猠
 rksu 𤣁
 rksu 𱬰
 rksw 独有
+rksx 㲩
+rksx 𤠐
+rksx 𦧭
+rksx 𬳉
 rkte 䄲
 rkte 𢓇
 rkte 𤜽
@@ -144542,6 +144576,7 @@ skkv 冰水
 skkw 黄冈
 skkw 黄网
 skkw 𨬛
+skkx 𧄱
 skl 苘
 sklb 𢾠
 skld 黄叶
@@ -144694,6 +144729,8 @@ sksv 英雄
 sksv 英魂
 sksw 𭁬
 sksx 黄历
+sksx 𦶑
+sksx 𮍓
 sksy 黄莺
 skt 芮
 skta 黄昏
@@ -154729,6 +154766,8 @@ tksu 鱧
 tksu 钢盔
 tksv 自动
 tksw 自有
+tksx 鰨
+tksx 𰾬
 tksy 自营
 tksy 自带
 tksy 铜芯
@@ -162643,6 +162682,8 @@ ukkh 𧑢
 ukkk 爞
 ukks 𠁔
 ukku 㢆
+ukkx 𤒻
+ukkx 𧮑
 ukl 炯
 ukla 𧫓
 ukld 𤓙
@@ -162726,6 +162767,9 @@ ukst 𧨸
 ukst 𪸸
 uksu 𧬹
 uksw 焨
+uksx 𤌙
+uksx 𦎲
+uksx 𧪦
 ukt 廛
 uktb 𦄠
 uktc 鄽
@@ -164069,6 +164113,7 @@ upjd 熔岩
 upjr 𭴳
 upjx 𪹹
 upkk 言之凿凿
+upkx 𪹹
 upli 𤓒
 upll 养痈遗患
 upma 詸
@@ -170332,6 +170377,7 @@ vkss 𢐪
 vkst 绵里藏针
 vksu 𤉋
 vksv 承运
+vksx 𦈖
 vksy 承蒙
 vkt 纳
 vkte 纳
@@ -177313,6 +177359,7 @@ wkkm 重则
 wkks 重典
 wkku 𩳓
 wkkv 重水
+wkkx 𨰏
 wkky 䤚
 wkle 重听
 wklj 重唱
@@ -177463,6 +177510,8 @@ wksu 𫓐
 wksv 制动
 wksv 制药
 wksv 𬪾
+wksx 鎉
+wksx 𤚺
 wksy 𪱚
 wkt 鈉
 wktd 重镇
@@ -184065,6 +184114,7 @@ xksi 剥落
 xksk 骋
 xkss 出水芙蓉
 xkss 力荐
+xksx 𩨌
 xktn 录用
 xkus 力度
 xkus 马里兰
@@ -185786,6 +185836,7 @@ xxkv 𫘧
 xxkv 出水
 xxkv 𢑘
 xxkv 𱦄
+xxkx 𦑼
 xxky 戮力同心
 xxl 翀
 xxli 𫅪
@@ -188986,6 +189037,8 @@ yksu 𢢪
 yksw 负有
 yksw 𢛡
 yksx 𪬢
+yksx 𢞠
+yksx 𩝣
 ykt 奐
 yktb 负分
 yktb 𢻁
