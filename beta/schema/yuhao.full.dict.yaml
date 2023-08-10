@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230807
+# 版本: 20230810
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20230807"
+version: "20230810"
 sort: original
 columns:
   - text
@@ -38024,6 +38024,10 @@ columns:
 𣐔	fxbu
 𥑙	fxdh
 𩢗	fxdm
+𪇿	fxer
+𧭭	fxeu
+𦢖	fxew
+𨿳	fxew
 𥂉	fxfm
 𣏁	fxfv
 𣏲	fxfv
@@ -38041,6 +38045,8 @@ columns:
 𨓰	fxnp
 𣮌	fxnr
 𢌠	fxnu
+𤕫	fxpi
+𤕺	fxqi
 𣜔	fxqk
 𠰶	fxql
 𧵹	fxqm
@@ -68719,12 +68725,7 @@ columns:
 𡞓	xfcn
 𣢑	xfei
 𡴍	xfen
-𪇿	xfer
-𧭭	xfeu
-𦢖	xfew
-𨿳	xfew
 𩧩	xfgg
-𤕫	xfip
 𤕬	xfip
 𤰫	xfjt
 𤌲	xfju
@@ -68754,7 +68755,6 @@ columns:
 𡬶	xfqa
 𨝻	xfqc
 𣕡	xfqf
-𤕺	xfqi
 𠙛	xfqq
 𡴪	xftt
 𡴒	xftx
@@ -82695,6 +82695,7 @@ columns:
 𭄟	fxko
 𮥴	fxkv
 𭪽	fxlm
+𮍎	fxsc
 𭚒	fxsx
 𬺸	fxue
 𭬆	fxxr
@@ -87232,7 +87233,6 @@ columns:
 𭅢	ualn
 𭁙	uaoa
 𭁌	uaog
-𭁄	uaxi
 𮎂	ubba
 𮜭	ubbn
 𭯮	ubbr
@@ -87591,6 +87591,7 @@ columns:
 𭙶	uwwy
 𮘚	uwwy
 𭆯	uxeb
+𭁄	uxge
 𭳿	uxio
 𮗷	uxja
 𮭔	uxkr
@@ -88175,7 +88176,6 @@ columns:
 𭷂	xdwp
 𭷁	xehp
 𭅫	xfnl
-𮍎	xfsc
 𭴘	xfuo
 𬼵	xgll
 𮪢	xgsj
@@ -89543,10 +89543,14 @@ columns:
 𰐌	fwws
 𰟛	fwwu
 𰗟	fwxq
+𰤁	fxaj
 𰭸	fxar
 𰀀	fxii
+𰣱	fxli
 𰗥	fxpd
+𰤅	fxsk
 𰗹	fxtt
+𰤊	fxtu
 𰘕	fxwb
 𰗢	fyhc
 𰗚	fysf
@@ -93205,13 +93209,9 @@ columns:
 𱅓	xdyv
 𱅣	xerj
 𱅎	xesq
-𰤁	xfaj
 𰆲	xfbu
-𰣱	xfli
 𱅔	xflv
 𱅕	xfpm
-𰤅	xfsk
-𰤊	xftu
 𰷧	xfuk
 𱅃	xgbu
 𰷍	xglm

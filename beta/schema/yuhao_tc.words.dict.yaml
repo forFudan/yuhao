@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230807
+# 版本: 20230810
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20230807"
+version: "20230810"
 sort: original
 columns:
   - text
@@ -15128,7 +15128,6 @@ columns:
 歸隊	yncu
 過活	npir
 民謡	caue
-民謠	cauw
 郵箱	esqf
 外向	rmrn
 甘草	sssj
@@ -53870,6 +53869,7 @@ columns:
 領海	tfiq
 全貌	rgye
 變性	buyw
+民謠	cauw
 郵箱	wsqf
 押解	akyw
 要飯	dcys

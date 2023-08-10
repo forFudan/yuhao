@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20230802
+# 版本: 20230810
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tw.quick"
-version: "20230802"
+version: "20230810"
 sort: original
 columns:
   - text
@@ -481,7 +481,7 @@ columns:
 窩	pn
 粹	po
 迷	pp
-麽	pq
+複	pq
 窗	pr
 突	ps
 容	pt
@@ -1074,7 +1074,7 @@ columns:
 几案	qj
 簡單	qk
 知道	ql
-怎麽	qm
+怎麼	qm
 延長	qn
 管理	qo
 氣流	qp
@@ -2469,7 +2469,7 @@ columns:
 櫚	fkl
 刺	fkm
 柚	fko
-枣	fks
+榻	fks
 丙	fkt
 樸	fku
 汞	fkv
@@ -3666,6 +3666,7 @@ columns:
 赈	ksn
 典	kst
 贿	ksw
+遢	ksx
 冕	ksy
 閃	kte
 蜍	ktf
@@ -4199,6 +4200,7 @@ columns:
 踢	njw
 蹋	njx
 赏	nkb
+蹋	nks
 蹼	nku
 圆	nlk
 躁	nll
@@ -4592,6 +4594,7 @@ columns:
 闸	pkj
 瘿	pkk
 衲	pkr
+褟	pks
 衲	pkt
 褸	pld
 裎	ple
@@ -4627,7 +4630,6 @@ columns:
 闵	ppw
 疫	pqh
 疾	pqi
-複	pqj
 痴	pql
 窄	pqm
 竊	pqp
