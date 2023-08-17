@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230810
+# 版本: 20230816
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.words_literature"
-version: "20230810"
+version: "20230816"
 sort: original
 columns:
   - text
@@ -28,7 +28,7 @@ columns:
 高聳入雲	orrd
 無所不有	qids
 寶刀不老	obdh
-矇在鼓裡	mshp
+矇在鼓裡	msdp
 天下為公	faot
 蜂擁而來	kasd
 不辭勞苦	deus
@@ -259,7 +259,7 @@ columns:
 漫無止境	iqnh
 面有菜色	gssy
 苦心積慮	syrm
-滿心歡喜	iysh
+滿心歡喜	iysd
 有志之士	shph
 出乎預料	xqcp
 忿忿不平	ttdh
@@ -293,7 +293,7 @@ columns:
 勃然變色	dwby
 重建家園	wxon
 重新做人	wiet
-鼓足幹勁	hndf
+鼓足幹勁	dndf
 波瀾起伏	iide
 周遊列國	wofn
 野火燒不盡	kuux
@@ -316,7 +316,7 @@ columns:
 長風破浪	hrdi
 俯仰之間	eepk
 萬語千言	suwu
-窮奢極侈	ogfe
+窮奢極侈	pgfe
 得意之色	ripy
 無可名狀	qarx
 昏頭轉向	tfgr
@@ -343,7 +343,7 @@ columns:
 南郭先生	doww
 山重水複	jwkp
 分進合擊	twyg
-變幻無窮	bvqo
+變幻無窮	bvqp
 悄然無聲	ywqh
 視為畏途	hojt
 不知所以	dqix
@@ -461,7 +461,7 @@ columns:
 鮮克有終	tdsb
 賞心樂事	nyea
 良禽擇木	otaf
-晨光熹微	jmhr
+晨光熹微	jmdr
 蓋世英雄	shss
 力有未逮	xshx
 敏而好學	qscr
@@ -628,7 +628,7 @@ columns:
 落日餘暉	sjyj
 後來者居上	rdhk
 儉以養德	exur
-欲窮千里目	towm
+欲窮千里目	tpwm
 苦難深重	ssiw
 仁者樂山	ehej
 好事不出門	cadk
@@ -651,7 +651,7 @@ columns:
 三拳兩腳	fufw
 馳名天下	drfa
 自出機杼	txff
-君子固窮	xvno
+君子固窮	xvnp
 視為知己	hoqb
 風吹雲散	rlds
 激昂慷慨	ijyy
@@ -683,10 +683,10 @@ columns:
 聰明過人	ajnt
 隱忍不發	cbdb
 凌雲壯志	sdxh
-七竅流血	aoiq
+七竅流血	apiq
 汗流滿面	iiig
 姜太公釣魚	ugtt
-嘉言懿行	huhr
+嘉言懿行	duhr
 海晏河清	ijii
 人才難得	tasr
 年老色衰	qhyo
@@ -706,7 +706,7 @@ columns:
 昂頭挺胸	jfaw
 粉妝玉砌	pxgd
 濟世安民	ihoc
-驚喜交集	show
+驚喜交集	sdow
 術業有專攻	rksf
 行百里者半九十	rdkd
 家有兒女	osrc
@@ -788,7 +788,7 @@ columns:
 事緩則圓	abmn
 撒潑打滾	aiai
 禍兮福所倚	hthe
-當面鑼對面鼓	ngwh
+當面鑼對面鼓	ngwd
 瞎子摸魚	mvat
 相機而動	ffsw
 開花結實	ksbo
@@ -843,7 +843,7 @@ columns:
 橫眉冷對千夫指	fbsa
 花無百日紅	sqdb
 下筆如有神	aqch
-驚喜交加	shox
+驚喜交加	sdox
 同是天涯淪落人	kjft
 不知為不知	dqoq
 率土之濱	ohpi
@@ -893,7 +893,7 @@ columns:
 故土難離	dhsp
 命喪黃泉	ydse
 俯首甘為孺子牛	eusw
-鼓樂喧天	helf
+鼓樂喧天	delf
 積土成山	rhdj
 高山峻嶺	ojjj
 朝野上下	dkka
@@ -1033,8 +1033,8 @@ columns:
 事無大小	aqgm
 為他人作嫁衣裳	oetn
 一人做事一人當	ften
-遺患無窮	llqo
-刨根究底	wfou
+遺患無窮	llqp
+刨根究底	wfpu
 躍馬揚鞭	ndag
 行有餘力	rsyx
 海闊天高	ikfo
@@ -1095,7 +1095,7 @@ columns:
 頭痛腦熱	fpwh
 病來如山倒	pdce
 出師未捷身先死	xyhf
-缺吃少穿	wlmo
+缺吃少穿	wlmp
 肆意橫行	hifr
 貧賤夫妻百事哀	tmgo
 問君能有幾多愁	kxvr
@@ -1136,7 +1136,7 @@ columns:
 蓬生麻中	swpl
 治絲益棼	ibuf
 銀樣鑞槍頭	wfwf
-穿紅著綠	obsb
+穿紅著綠	pbsb
 知足者常樂	qnhe
 殫精竭力	fpix
 相逢何必曾相識	feeu
@@ -1164,7 +1164,7 @@ columns:
 夙夜在公	qost
 投機鑽營	afwu
 孔雀東南飛	vmfb
-窺見一斑	omfg
+窺見一斑	pmfg
 貫徹始終	brcb
 無可匹敵	qaho
 有百害而無一利	sdor
@@ -1186,7 +1186,7 @@ columns:
 重賞之下必有勇夫	wnpg
 雕龍畫鳳	wixq
 一點半點	fnun
-喜怒不形於色	hcdy
+喜怒不形於色	dcdy
 氣數已盡	qlbx
 冤有頭債有主	ysfo
 猖獗一時	rrfj
@@ -1251,7 +1251,7 @@ columns:
 相煎何太急	fuey
 說時遲那時快	ujby
 開門七件事	kkaa
-鼓樂齊鳴	heol
+鼓樂齊鳴	deol
 保存實力	esox
 由奢入儉難	kgrs
 一發而不可收拾	fbsa
@@ -1315,7 +1315,7 @@ columns:
 臭名昭彰	trji
 塗炭生靈	ijwd
 不立文字	dipo
-窮寇莫追	oosy
+窮寇莫追	posy
 現世現報	ghgh
 叢山峻嶺	kjjj
 面紅耳熱	gbah
@@ -1385,7 +1385,7 @@ columns:
 手腳乾淨	twdi
 刻畫入微	oxrr
 灑掃應對	iauk
-圖窮匕首見	norm
+圖窮匕首見	nprm
 翩翩風度	iiru
 耿耿忠心	aaly
 龍精虎猛	ipmr
@@ -1489,7 +1489,7 @@ columns:
 神完氣足	hoqn
 十年生聚	dqwa
 相逢恨晚	feyj
-窮愁潦倒	orie
+窮愁潦倒	prie
 褒衣博帶	oods
 錚錚有聲	wwsh
 居無求安	bqfo
@@ -1553,7 +1553,7 @@ columns:
 一言中的	fule
 誠心正意	uyfi
 田連阡陌	jgcc
-一悲一喜	flfh
+一悲一喜	flfd
 曲意迎合	kity
 百無一用是書生	dqfw
 半飢半飽	uyuy
@@ -1581,7 +1581,7 @@ columns:
 吾將上下而求索	fxkd
 不知下落	dqas
 紙上得來終覺淺	bkri
-窮則獨善其身	omrw
+窮則獨善其身	pmrw
 開疆闢土	kvkh
 暴露目標	jdmf
 長江七號	hial
@@ -1600,7 +1600,7 @@ columns:
 旁逸斜出	oytx
 玉不琢不成器	gdgl
 春色滿園關不住	gyie
-一則以喜	fmxh
+一則以喜	fmxd
 離鄉別井	pvls
 說千道萬	uwus
 貴在知心	lsqy
@@ -1624,7 +1624,7 @@ columns:
 求過於供	fnoe
 銅壺滴漏	whii
 關心民瘼	kycp
-略窺一斑	jofg
+略窺一斑	jpfg
 飛珠濺玉	bgig
 暈暈沉沉	jjii
 言簡意深	uqii
@@ -1696,7 +1696,7 @@ columns:
 蜀中無大將	mlqx
 似曾相識燕歸來	eufd
 水碧山青	kgjh
-以管窺豹	xqoy
+以管窺豹	xqpy
 晴川歷歷漢陽樹	jqsf
 千峰萬壑	wjsm
 不差上下	duka
@@ -1736,7 +1736,7 @@ columns:
 慈母手中線	ubtb
 兄弟鬩於牆	lunx
 只見樹木不見森林	lmff
-救急不救窮	fydo
+救急不救窮	fydp
 八千里路雲和月	twkw
 談笑有鴻儒	uqse
 捨得一身剮	arfn
@@ -1786,7 +1786,7 @@ columns:
 買賣公平	mhth
 擇鄰而居	apsb
 決勝千里之外	iwwr
-人窮志不窮	toho
+人窮志不窮	tphp
 極而言之	fsup
 一個半個	feue
 又豈在朝朝暮暮	bjss
@@ -1838,7 +1838,7 @@ columns:
 棄筆從戎	oqrg
 舉杯邀明月	rfew
 只可意會不可言傳	laie
-狼狽逃竄	rrqo
+狼狽逃竄	rrqp
 近鄉情更怯	evyy
 雲深不知處	didm
 烽火連三月	uugw
@@ -1863,7 +1863,7 @@ columns:
 有福同享有難同當	shkn
 仇人相見分外眼紅	etfb
 追風逐日	yrdj
-言有盡而意無窮	usxo
+言有盡而意無窮	usxp
 可笑不自量	aqdj
 泰山不讓土壤	gjdh
 惟精惟一	ypyf
@@ -1896,7 +1896,7 @@ columns:
 春來江水綠如藍	gdis
 無可置喙	qaml
 離離原上草	ppss
-上窮碧落下黃泉	koge
+上窮碧落下黃泉	kpge
 此情可待成追憶	nyay
 上知天文下知地理	kqfg
 紅豆生南國	bfwn
@@ -2056,7 +2056,7 @@ columns:
 碧水青山	gkhj
 三男兩女	fjfc
 富貴吉祥	olhh
-福祿壽喜	hhhh
+福祿壽喜	hhhd
 大有所為	gsio
 初試啼聲	pulh
 煙花三月下揚州	usfi
@@ -2211,7 +2211,7 @@ columns:
 小弦切切如私語	mvau
 兒女共沾巾	rcsm
 春宵苦短日高起	gosd
-鐘鼓饌玉不足貴	whyl
+鐘鼓饌玉不足貴	wdyl
 一枝紅豔露凝香	ffbr
 芙蓉帳暖度春宵	ssmo
 中間小謝又清發	lkmb
@@ -2506,7 +2506,7 @@ columns:
 風光不與四時同	rmdk
 江州司馬青衫溼	iivi
 海客談瀛洲	ioui
-漁陽鼙鼓動地來	ichd
+漁陽鼙鼓動地來	icdd
 教然後知困	hwrn
 落日故人情	sjdy
 有子萬事足	svsn
@@ -2790,7 +2790,7 @@ columns:
 三山半落青天外	fjur
 半江瑟瑟半江紅	uigb
 詩酒趁年華	uids
-我笑他人看不穿	qqeo
+我笑他人看不穿	qqep
 萬馬齊喑究可哀	sdoo
 坐看牽牛織女星	ttoj
 不知細葉誰裁出	dqbx
@@ -2903,7 +2903,7 @@ columns:
 不見玉顏空死處	dmgm
 憑軒涕泗流	sgii
 不得到遼西	drhd
-鐵騎突出刀槍鳴	wdol
+鐵騎突出刀槍鳴	wdpl
 夢魂不到關山難	ssds
 珠箔飄燈獨自歸	gqdy
 深山何處鐘	ijew
@@ -3205,7 +3205,7 @@ columns:
 木蘭當戶織	fsnb
 立業成家	ikdo
 爾曹身與名俱滅	fswi
-莫聽穿林打葉聲	saoh
+莫聽穿林打葉聲	saph
 鄉音未改鬢毛衰	viho
 謬誤百出	uudx
 何妨吟嘯且徐行	eclr
@@ -3324,7 +3324,7 @@ columns:
 故國不堪回首月明中	dndl
 月出驚山鳥	wxsr
 梨花院落溶溶月	rscw
-胡窺青海灣	dohi
+胡窺青海灣	dphi
 若非群玉山頭見	slxm
 北風吹雁雪紛紛	urlb
 由來征戰地	kdrh
@@ -3390,7 +3390,7 @@ columns:
 感我此言良久立	dqni
 早知潮有信	jqie
 唯見江心秋月白	lmie
-賈氏窺簾韓掾少	dtom
+賈氏窺簾韓掾少	dtpm
 風波不信菱枝弱	ridv
 暫伴月將影	gewj
 哭聲直上幹雲霄	lhdd
@@ -3500,7 +3500,7 @@ columns:
 盛年不重來	dqdd
 五十弦翻塞外聲	fdvh
 江船火獨明	iquj
-最喜小兒無賴	khmf
+最喜小兒無賴	kdmf
 李白乘舟將欲行	ferr
 滿城春色宮牆柳	ihgf
 動如參與商	wcvo
@@ -3599,7 +3599,7 @@ columns:
 故國三千里	dnfk
 潘岳悼亡猶費詞	ieyu
 銀河倒掛三石樑	wief
-一片神鴉社鼓	fthh
+一片神鴉社鼓	fthd
 顧我無衣搜藎篋	iqqq
 天上人間會相見	fktm
 莫辭更坐彈一曲	sefk
@@ -3944,7 +3944,7 @@ columns:
 他年錦裡經祠廟	eqwu
 萬里寒光生積雪	skod
 徒勞恨費聲	ruyh
-雷鼓動山川	dhwq
+雷鼓動山川	ddwq
 殘宵猶得夢依稀	forr
 猶自音書滯一鄉	rtiv
 忍使驊騮氣凋喪	bedd
@@ -3965,7 +3965,7 @@ columns:
 一日看盡長安花	fjts
 使老有所終	ehsb
 新松恨不高千尺	ifyb
-人窮志不短	tohq
+人窮志不短	tphq
 荊楚歲時記	sfnu
 得道者多助	ruhm
 金猴奮起千鈞棒	wrgf
@@ -4050,7 +4050,7 @@ columns:
 折戟沉沙鐵未銷	adiw
 登山則情滿於山	bjmj
 今年花勝去年紅	tqsb
-魑魅喜人過	wwhn
+魑魅喜人過	wwdn
 眼前道路無經緯	muub
 君不見高堂明鏡悲白髮	xdmh
 青山著意化為橋	hjsf
@@ -4227,7 +4227,7 @@ columns:
 日晏猶得眠	jjrm
 本以高難飽	fxoy
 言而無文行之不遠	usqh
-簫鼓哀吟感鬼神	qhoh
+簫鼓哀吟感鬼神	qdoh
 紅顏棄軒冕	bpok
 歸來彷彿三更	ydrf
 聞郎江上唱歌聲	koih
@@ -4280,7 +4280,7 @@ columns:
 四時田園雜興	njjr
 吳中盛文史	lldl
 天寒夢澤深	fosi
-戍鼓斷人行	dhvr
+戍鼓斷人行	ddvr
 西下峨眉峰	dajj
 遠慰風雨夕	hbrr
 朱粉不深勻	wpdw
@@ -4324,12 +4324,12 @@ columns:
 我言秋日勝春朝	qurd
 自古逢秋悲寂寥	tdeo
 上善若水任方圓	kusn
-喜看稻菽千重浪	htri
+喜看稻菽千重浪	dtri
 領異標新二月花	tjfs
 賞心樂事誰家院	nyec
 憶往昔崢嶸歲月稠	yrsr
 今人不見古時月	ttdw
-唯我彭大將軍	lqhy
+唯我彭大將軍	lqdy
 籠天地於形內	qfhk
 挫萬物於筆端	aswi
 今年元夜時	tqfj
@@ -4345,7 +4345,7 @@ columns:
 拂堤楊柳醉春煙	ahfu
 白雪卻嫌春色晚	edtj
 自稱臣是酒中仙	trse
-故穿庭樹作飛花	dous
+故穿庭樹作飛花	dpus
 工夫在詩外	fgsr
 不敢為天下先	daow
 忘路之遠近	unpe
@@ -4641,7 +4641,7 @@ columns:
 別有人間行路難	lsts
 宜人獨桂林	otrf
 即公孫可知矣	xtvv
-穿花蛺蝶深深見	oskm
+穿花蛺蝶深深見	pskm
 使行人到此	ertn
 月移花影上欄杆	wrsf
 砌下落梅如雪亂	dase
@@ -4727,7 +4727,7 @@ columns:
 聲非加疾也	hlxc
 天下之至柔	fapc
 反者道之動	shuw
-更喜岷山千里雪	fhjd
+更喜岷山千里雪	fdjd
 江東子弟多才俊	ifve
 高路入雲端	onri
 明月逐人來	jwdd
@@ -4777,7 +4777,7 @@ columns:
 鄉村四月閒人少	vfnm
 綠楊陰裡白沙堤	bfch
 大凡物不得其平則鳴	gqwl
-羨長江之無窮	uhio
+羨長江之無窮	uhip
 能開二月花	vkss
 爐火照天地	uujh
 哀吾生之須臾	ofwr
@@ -5355,7 +5355,7 @@ columns:
 忠恕而已矣	lcsv
 必不得已而去	ydrh
 小樓一夜聽風雨	mffd
-簫鼓追隨春社近	qhye
+簫鼓追隨春社近	qdye
 桃花庵下桃花仙	fsue
 少年猶可誇	mqru
 生離與死別	wprl
@@ -5388,7 +5388,7 @@ columns:
 相思始覺海非深	fjci
 端午臨中夏	iqsd
 外其身而身存	rdws
-山頭鼓角相聞	jfhk
+山頭鼓角相聞	jfdk
 桃花仙人種桃樹	fsef
 失仁而後義	qesu
 盡日不能忘	xjdu
@@ -5400,7 +5400,7 @@ columns:
 嫋嫋兮秋風	cctr
 君子泰而不驕	xvgd
 海上有仙山	iksj
-我笑別人看不穿	qqlo
+我笑別人看不穿	qqlp
 仄仄平平仄仄平	sshh
 念此私自愧	tnry
 失義而後禮	qush
@@ -5736,7 +5736,7 @@ columns:
 今年燕子來	tqsd
 虎踞龍蟠何處是	mnij
 新雨帶秋嵐	idsj
-故將愁苦而終窮	dxro
+故將愁苦而終窮	dxrp
 在塵埃之中	sihl
 同輦隨君侍君側	kgce
 吳娃雙舞醉芙蓉	lcws
@@ -5779,7 +5779,7 @@ columns:
 卻將萬字平戎策	txsq
 獨與老翁別	rrhl
 跨海斬長鯨	nigt
-天馬來出月支窟	fddo
+天馬來出月支窟	fddp
 右手秉遺穗	strr
 東來橐駝滿舊都	fddh
 漁翁夜傍西巖宿	itoo
@@ -5811,7 +5811,7 @@ columns:
 人不堪其憂	tdhd
 天聽自我民聽	fata
 回也不改其樂	ncde
-將熊熊一窩	xvvo
+將熊熊一窩	xvvp
 國之本在家	npfo
 天視自我民視	fhth
 則修文德以來之	mepp
@@ -5894,7 +5894,7 @@ columns:
 青春不再來	hgdd
 而在蕭牆之內也	sssc
 天氣轉清涼	fqgi
-鼓聲三下紅旗開	hhfk
+鼓聲三下紅旗開	dhfk
 長安市上酒家眠	hoom
 盧橘楊梅次第新	mffi
 君子有三戒	xvsg
@@ -5964,7 +5964,7 @@ columns:
 君之視臣如土芥	xphs
 君子謀道不謀食	xvuy
 吳剛捧出桂花酒	lkai
-小人窮斯濫矣	mtov
+小人窮斯濫矣	mtpv
 又摘桃花換酒錢	bafw
 梨花千樹雪	rswd
 用之如泥沙	tpci
@@ -6140,7 +6140,7 @@ columns:
 昨夜鬥回北	jonu
 稻米流脂粟米白	rpie
 秦川得及此間無	gqrq
-霜重鼓寒聲不起	dwhd
+霜重鼓寒聲不起	dwdd
 功成拂衣去	fdah
 檻外長江空自流	frhi
 堯舜其猶病諸	hedu
@@ -6194,14 +6194,14 @@ columns:
 思歸若汾水	jysk
 轉蓬行地遠	gsrh
 而由人乎哉	sktd
-午陰嘉樹清圓	qchn
+午陰嘉樹清圓	qcdn
 路隘林深苔滑	ncfi
 不患莫己知	dlsq
 蕭蕭送雁群	ssux
 門對浙江潮	kkii
 江碧鳥逾白	igre
 我非生而知之者	qlwh
-曉戰隨金鼓	jlch
+曉戰隨金鼓	jlcd
 南園春半踏青時	dngj
 求為可知也	foac
 秋空明月懸	rpjm
@@ -6354,7 +6354,7 @@ columns:
 拾穗許村童	arui
 自伐者無功	tehf
 而人居其一焉	stbf
-旅泊窮清渭	oioi
+旅泊窮清渭	oipi
 驍騰有如此	dwsn
 清新庾開府	iiuu
 衰蘭送客咸陽道	osuu
@@ -6456,7 +6456,7 @@ columns:
 不可得而貴	darl
 筆所未到氣已吞	qihf
 驛騎如星流	ddci
-喜見外弟又言別	hmrl
+喜見外弟又言別	dmrl
 燈火錢塘三五夜	uuwo
 各在天一涯	esfi
 昨日登高罷	jjbm
@@ -6501,7 +6501,7 @@ columns:
 舒而脫脫兮	tswt
 殘杯與冷炙	ffrw
 鞦韆院落夜沉沉	ggci
-簾外芭蕉三兩窠	qrso
+簾外芭蕉三兩窠	qrsp
 願將腰下劍	sxwr
 請從吏夜歸	urfy
 更無山與齊	fqjo
@@ -6538,7 +6538,7 @@ columns:
 雞鳴外慾曙	elrj
 坐觸鴛鴦起	tyrd
 千尋鐵鎖沉江底	wxwu
-歸家喜及辰	yohs
+歸家喜及辰	yods
 梁父吟成恨有餘	itly
 夜久語聲絕	oyub
 因病得閒殊不惡	nprf
@@ -6575,7 +6575,7 @@ columns:
 天之將喪斯文也	fpxc
 夜郎萬里道	oosu
 銀鞍白馬度春風	wger
-鼓怒不可當	hcdn
+鼓怒不可當	dcdn
 不吾知其亦已兮	dfqt
 君今往死地	xtrh
 漢恩自淺胡自深	inti
@@ -6784,7 +6784,7 @@ columns:
 侯王若能守之	egsp
 終日看山不厭山	bjtj
 湖上風來波浩渺	ikri
-盜賊出於貧窮	imxo
+盜賊出於貧窮	imxp
 斂盡春山羞不語	rxgu
 文獻不足故也	pmdc
 赤葉楓林百舌鳴	hsfl
@@ -6831,7 +6831,7 @@ columns:
 枯魚過河泣	ftni
 家家春鳥鳴	oogl
 將心託明月	xyuw
-喜見淳樸俗	hmie
+喜見淳樸俗	dmie
 還道滄浪濯吾足	muin
 山陰道士如相見	jcum
 十年結子知誰在	dqbs
@@ -6952,7 +6952,7 @@ columns:
 終歸大海作波濤	bygi
 凌雲健筆意縱橫	sdef
 能行五者於天下	vrfa
-弦鼓一聲雙袖舉	vhfr
+弦鼓一聲雙袖舉	vdfr
 獨立蒼茫自詠詩	risu
 桃花亂落如紅雨	fsed
 是與人為善者也	jrtc
@@ -7043,7 +7043,7 @@ columns:
 結綺臨春事最奢	bbsg
 寧溘死以流亡兮	oift
 雪壓冬雲白絮飛	dseb
-子慕予兮善窈窕	vsco
+子慕予兮善窈窕	vscp
 斯友一國之善士	dsfh
 誰憐流落江湖上	uyik
 眾口鑠金君自寬	mlwo
@@ -7089,7 +7089,7 @@ columns:
 昔年八月十五夜	sqto
 丈夫何事足縈懷	sgey
 四月江南黃鳥肥	nwiw
-銅鼓一擊文身踴	whfn
+銅鼓一擊文身踴	wdfn
 萬卷藏書宜子弟	susu
 皆所以明人倫也	rixc
 不知學問之大也	dqrc
@@ -7111,7 +7111,7 @@ columns:
 萬里歸來顏愈少	skym
 解把飛花蒙日月	yabw
 萬花紛謝一時稀	ssbr
-鼓聲漸急標將近	hhie
+鼓聲漸急標將近	dhie
 春叢認取雙棲蝶	gkuk
 未到清明先禁火	hhiu
 振長策而御宇內	ahqk
@@ -7197,7 +7197,7 @@ columns:
 春江風水連天闊	girk
 天下之惡皆歸焉	fapf
 豈知灌頂有醍醐	jqig
-倒床不復聞鐘鼓	eudh
+倒床不復聞鐘鼓	eudd
 西樓無客共誰嘗	dfqn
 接筒引水喉不幹	aqvd
 虎距龍盤今勝昔	mnis
@@ -7453,7 +7453,7 @@ columns:
 譭譽聽之於人	urat
 榆柳蔭後簷	ffsq
 是造物者之無盡藏也	jwwc
-不喜亦不懼	dhpy
+不喜亦不懼	ddpy
 隨人作計終後人	ctet
 居敬而行簡	bssq
 自成一家始逼真	tdfd
@@ -7463,7 +7463,7 @@ columns:
 絕世而獨立	bhsi
 作別西天的雲彩	elde
 秋風蕭瑟天氣涼	rrsi
-隳突乎南北	coqu
+隳突乎南北	cpqu
 何事不可為	eado
 但恐是痴人	efjt
 託體同山阿	umkc
@@ -7496,11 +7496,11 @@ columns:
 七十而從心所欲不逾矩	adsq
 壯志也無違	xhcc
 為天下人謀永福也	ofac
-其喜洋洋者矣	dhiv
+其喜洋洋者矣	ddiv
 善始者實繁	uchq
 而吾與子之所共適	sfro
 長江悲已滯	hili
-響窮彭蠡之濱	vohi
+響窮彭蠡之濱	vpdi
 外侮需人御	redr
 我輕輕的招手	qggt
 而今安在哉	stod
@@ -7558,7 +7558,7 @@ columns:
 向青草更青處漫溯	rhsi
 聞有國有家者	ksnh
 然遍地腥雲	wihd
-窮年憂黎元	oqdf
+窮年憂黎元	pqdf
 山高路遠坑深	joni
 今日向何方	tjro
 落地為兄弟	shou
@@ -7581,7 +7581,7 @@ columns:
 目眇眇兮愁予	mmmc
 草木黃落兮雁南歸	sfsy
 人行明鏡中	trjl
-竄梁鴻於海曲	oiik
+竄梁鴻於海曲	piik
 紫藤掛雲木	nsaf
 吾已成為陰間一鬼	fbdw
 吾作此書時	fenj
@@ -7612,7 +7612,7 @@ columns:
 泣涕零如雨	iidd
 頒白者不負戴於道路矣	tehv
 雲樹繞堤沙	dfbi
-竊國者為諸侯	onhe
+竊國者為諸侯	pnhe
 清十二帝疑案	idso
 每依北斗望京華	qeus
 谷不可勝食也	tdac
@@ -7788,7 +7788,7 @@ columns:
 正是浴蘭時節動	fjiw
 越羅衫袂迎春風	dmpr
 江色鮮明海氣涼	iyti
-歸穿弱柳風	yovr
+歸穿弱柳風	ypvr
 吹縐一池春水	lbfk
 相親相近水中鷗	fifg
 亦足以暢敘幽情	pnxy
@@ -7886,7 +7886,7 @@ columns:
 此物真絕倫	nwde
 念之斷人腸	tpvw
 餘既滋蘭之九畹兮	yxit
-乘醉聽蕭鼓	rgah
+乘醉聽蕭鼓	rgad
 吾妻死之年所手植也	fdfc
 誰識臥龍客	uuso
 欲識潮頭高几許	tuiu
@@ -8188,7 +8188,7 @@ columns:
 仙人有待乘黃鶴	etsy
 且將新火試新茶	mxis
 以不忍人之心	xdby
-重湖疊巘清嘉	wijh
+重湖疊巘清嘉	wijd
 把意念沉潛得下	aita
 其他可能也	deac
 何理不可得	egdr
@@ -8429,7 +8429,7 @@ columns:
 菊花何太苦	sses
 貂裘換酒也堪豪	yfao
 功成理定何神速	fdgf
-鐘鼓云乎哉	whsd
+鐘鼓云乎哉	wdsd
 俸錢萬六千	ewsw
 楊花繞江啼曉鶯	fsbu
 山上層層桃李花	jkbs
@@ -8449,7 +8449,7 @@ columns:
 使君與操耳	exra
 安能以身之察察	ovxo
 以御今之有	xrts
-則哀矜而勿喜	moch
+則哀矜而勿喜	mocd
 幽徑獨行迷	jrrp
 春晚綠野秀	gjbr
 則較死為苦也	mgfc
@@ -8469,7 +8469,7 @@ columns:
 西江月井岡山	diwj
 山林與城市	jfro
 稚子敲針作釣鉤	rvow
-腰鼓百面春雷發	whdb
+腰鼓百面春雷發	wddb
 採之慾遺誰	aptu
 夕露沾我衣	rdio
 煌煌祖宗業	uuhk
@@ -8560,7 +8560,7 @@ columns:
 汝幸而偶我	ihsq
 有草名含羞	ssru
 九州道路無豺虎	yium
-齊彭殤為妄作	ohfe
+齊彭殤為妄作	odfe
 徒使兩地眼成穿而骨化石	refd
 太上不辱先	gkdw
 風飄飄而吹衣	rddo
@@ -8631,7 +8631,7 @@ columns:
 系向牛頭充炭直	qrwd
 暗風吹雨入寒窗	jrlp
 睫在眼前長不見	msmm
-窮通行止長相伴	obre
+窮通行止長相伴	pbre
 一年一年老去	fqfh
 源不深而望流之遠	idih
 高秋爽氣相鮮新	orgi
@@ -8672,7 +8672,7 @@ columns:
 江水綠如藍	ikbs
 文王事昆夷	pgag
 過盡行人君不來	nxrd
-小徑穿叢篁	mroq
+小徑穿叢篁	mrpq
 援北斗兮酌桂漿	ausx
 由來非一朝	kdld
 迴雪飄颻轉蓬舞	nddq
@@ -8745,7 +8745,7 @@ columns:
 黃州寒食詩帖	siom
 手指不可屈伸	tade
 使內外異法也	ekrc
-舉頭聞鵲喜	rfkh
+舉頭聞鵲喜	rfkd
 盡堊而鼻不傷	xfse
 中心有通理	lysg
 夜來風葉已鳴廊	odru
@@ -8761,7 +8761,7 @@ columns:
 龍頭舴艋吳兒競	ifqi
 蒙羞被好兮	supt
 郢人立不失容	ltip
-窈窕豔城郭	oojo
+窈窕豔城郭	ppjo
 覓花來渡口	esdl
 渴不飲盜泉	idye
 萬里故鄉情	skdy
@@ -9152,7 +9152,7 @@ columns:
 高意猶未已	oirb
 自貴而相賤	tlsm
 國事成不成	nadd
-嘉陵江色何所似	hcie
+嘉陵江色何所似	dcie
 下令減徵賦	atim
 萬物之父母也	swpc
 千竿竹影亂登牆	wqqx
@@ -9389,7 +9389,7 @@ columns:
 以俟夫觀人風者得焉	xegf
 關河夢斷何處	kism
 不可勝用也	dawc
-更無須歡喜	fqth
+更無須歡喜	fqtd
 江頭潮已平	ifih
 兩章對秋月	fikw
 一摘使瓜好	faec
@@ -9495,7 +9495,7 @@ columns:
 殘暑蟬催盡	fjkx
 芳洲拾翠暮忘歸	siay
 不與徐凝洗惡詩	drru
-簫鼓鳴兮發棹歌	qhla
+簫鼓鳴兮發棹歌	qdla
 而或長煙一空	sghp
 有攻城野戰之大功	sfhf
 百姓如喪考妣	dccc
@@ -9546,7 +9546,7 @@ columns:
 端莊雜流麗	isof
 其美者自美	duhu
 其次毀肌膚	dsrm
-吾獨窮困乎此時也	froc
+吾獨窮困乎此時也	frpc
 孟冬十郡良家子	vedv
 道路迢迢一月程	unbr
 乘清氣兮御陰陽	riqc
@@ -9593,7 +9593,7 @@ columns:
 是則可憂也	jmac
 聖之時者也	apjc
 斷肢體受辱	vwms
-初宵鼓大爐	pohu
+初宵鼓大爐	podu
 楚人悲屈原	ftls
 吾所謂明者	fiuh
 樂夫天命復奚疑	egfr
@@ -9818,7 +9818,7 @@ columns:
 鄰里相送至方山	pkfj
 功名蓋世知誰是	frsj
 霹靂一聲暴動	ddfw
-探究其本源	aodi
+探究其本源	apdi
 真妃初出華清池	dcpi
 翱翔蓬蒿之間	eusk
 何況人間父子情	eity
@@ -10062,7 +10062,7 @@ columns:
 漢日舊稱賢	ijss
 去年重陽不可說	hqwu
 蓮池舊是無波水	sisk
-馬穿山徑菊初黃	dojs
+馬穿山徑菊初黃	dpjs
 四達之皇皇也	nhpc
 刑人如恐不勝	ftcw
 鄉路隔風煙	vncu
@@ -10078,7 +10078,7 @@ columns:
 秋宵月色勝春宵	rowo
 即今河畔冰開日	xtij
 泣珠報恩君莫辭	ighe
-彭祖巫咸幾回死	hhff
+彭祖巫咸幾回死	dhff
 遙遙至西荊	wwhs
 不能發聲哭	dvbl
 可以語上也	axuc
@@ -10097,7 +10097,7 @@ columns:
 中有雙飛鳥	lswr
 枕前看鶴浴	futi
 夫子焉不學	gvfr
-呈祥勢可嘉	lhhh
+呈祥勢可嘉	lhhd
 鬥巧盡輸年少	nfxm
 兩岸羅衣破暈香	fjmr
 孤城西北起高樓	vhdf
@@ -10124,7 +10124,7 @@ columns:
 假諸人而後見也	eutc
 明月皎皎照我床	jweu
 至於負者歌於途	hoyt
-萬面鼓聲中	sghl
+萬面鼓聲中	sgdl
 熱來尋扇子	hdxv
 染絲上春機	ibkf
 猶恐巢中飢	rfvy
@@ -10455,7 +10455,7 @@ columns:
 不知雲雨散	dqds
 江南王氣系疏襟	idgp
 杏花消息雨聲中	fsil
-過水穿樓觸處明	nkoj
+過水穿樓觸處明	nkpj
 十日過沙磧	djnd
 灘如竹節稠	icqr
 淺情人不知	iytq
@@ -10567,7 +10567,7 @@ columns:
 借問新安吏	ekif
 夜雨做成秋	oder
 儂作博山爐	eedu
-腰鼓百面如春雷	whdd
+腰鼓百面如春雷	wddd
 不知將軍寬之至此也	dqxc
 君子有其道者	xvsh
 萬物之本也	swpc
@@ -10659,7 +10659,7 @@ columns:
 商胡離別下揚州	odpi
 而世之奇偉	shpe
 揮策還孤舟	aqmq
-突兀球場錦繡峰	ohgj
+突兀球場錦繡峰	phgj
 曉涼暮涼樹如蓋	jiss
 散員足庇身	slnw
 熊兒幸無恙	vrhu
@@ -10692,7 +10692,7 @@ columns:
 主人引客登大堤	otvh
 客居合肥南城赤闌橋之西	obyd
 卻放黃鶴江南歸	tosy
-嘉南州之炎德兮	hdit
+嘉南州之炎德兮	ddit
 吾見其進也	fmdc
 天德之象也	frpc
 忽憶繡衣人	wybt
@@ -10732,7 +10732,7 @@ columns:
 今君與廉頗同列	txrf
 桃葉一枝開	fsfk
 自庇一身青箬笠	tufq
-又鼓盆而歌	bhta
+又鼓盆而歌	bdta
 物心不可知	wydq
 吳鹽如花皎白雪	lscd
 到此令人詩思迷	hntp
@@ -10799,7 +10799,7 @@ columns:
 季氏第十六	rtqo
 白鳥故遲留	erdt
 鶯嫌枝嫩不勝吟	ucfl
-餘衰喜入春	yohg
+餘衰喜入春	yodg
 宦遊直送江入海	oodi
 菰蒲冒清淺	sski
 七齡思即壯	amjx
@@ -10819,7 +10819,7 @@ columns:
 自古有羈旅	tdso
 栩栩然胡蝶也	ffwc
 放歌頗愁絕	oavb
-鐘鼓樓中刻漏長	whfh
+鐘鼓樓中刻漏長	wdfh
 春風吹酒熟	grlo
 頭白好歸來	fecd
 幽獨抵歸山	jraj
@@ -11051,7 +11051,7 @@ columns:
 共惜盛時辭闕下	syda
 兩處春光同日盡	fmgx
 羨比翼之共林	urxf
-下驛窮交日	adoj
+下驛窮交日	adpj
 負命者上鉤	yyhw
 巖下雲方合	jady
 願言試長劍	suur
@@ -11135,7 +11135,7 @@ columns:
 百花深處杜鵑啼	dsil
 拭淚相看是故人	aift
 蠻衣斑斕布	bogs
-覺宇宙之無窮	rooo
+覺宇宙之無窮	roop
 漠漠秋雲起	iird
 舉欣欣然有喜色而相告曰	reej
 終不能得璧也	bdvc
@@ -11211,7 +11211,7 @@ columns:
 得志行乎中國	rhrn
 夕露見日晞	rdmj
 驟雨打新荷	ddas
-寡人竊聞趙王好音	otoi
+寡人竊聞趙王好音	otpi
 君子不入也	xvdc
 自天題處溼	tfji
 殊異乎公路	fjqn
@@ -11860,7 +11860,7 @@ columns:
 一代繁華地	feqh
 懷古欽英風	ydwr
 高髻雲鬟宮樣妝	ohdx
-心跡喜雙清	ynhi
+心跡喜雙清	yndi
 身似何郎全傅粉	weep
 聲滿東南幾處簫	hifq
 蒼茫不曉神靈意	ssdi
@@ -11875,7 +11875,7 @@ columns:
 率妻子邑人來此絕境	odvh
 杜鵑暮春至	flsh
 心事兩悠然	yafw
-水穿城下作雷鳴	kohl
+水穿城下作雷鳴	kphl
 鞍馬四邊開	gdnk
 飄然轉旋迴雪輕	dwgg
 則胡可得而累邪	mdah
@@ -11951,7 +11951,7 @@ columns:
 胡為將暮年	doxq
 江北秋陰一半開	iurk
 得見有恆者	rmsh
-江南喜逢蕭九徹因話長安舊遊戲贈五十韻	idhi
+江南喜逢蕭九徹因話長安舊遊戲贈五十韻	iddi
 日斜徵虜亭	jtro
 無樂自欣豫	qetc
 馬前已被紅旗引	dubv
@@ -12018,7 +12018,7 @@ columns:
 皛皛川上平	eeqh
 朝朝沒腳走芳埃	ddih
 夕餘至乎縣圃	ryhn
-鳥鵲之巢可攀援而窺	rspo
+鳥鵲之巢可攀援而窺	rspp
 更將空殼付冠師	fxpy
 唯予與汝知而未嘗死	lcrf
 妾家高樓連苑起	iood
@@ -12058,13 +12058,13 @@ columns:
 殺人以梃與刃	wtxb
 登車何時顧	bgei
 古之矜也廉	dpcu
-鼓角凌天籟	hysq
+鼓角凌天籟	dysq
 墨翟之言盈天下	nxpa
 獲笑汶上翁	rqit
 處涸轍以猶歡	migs
 誰謂天地寬	uufo
 見長空萬里	mhpk
-幽龕入窈窕	jyro
+幽龕入窈窕	jyrp
 秋風蕭瑟洪波湧起	rrsd
 葉動承餘灑	swvi
 始悟世上勞	cyhu
@@ -12231,7 +12231,7 @@ columns:
 枉入詩人賦詠來	frud
 能醫病眼花	vgps
 蹇誰留兮中洲	outi
-突如流星過	ocin
+突如流星過	pcin
 明年復攻趙	jqrd
 自名為鴛鴦	trok
 大星光相射	gjmw
@@ -12241,7 +12241,7 @@ columns:
 奮烈自有時	gftj
 吾乃今於是乎見龍	fvti
 雲繞畫屏移	dbxr
-竊為大王不取也	oogc
+竊為大王不取也	pogc
 心隨湖水共悠悠	ycie
 收租稅而平原君家不肯出租	xrrr
 玉佩兮陸離	getp
@@ -12356,7 +12356,7 @@ columns:
 撫孤松而盤桓	avff
 江樓夕望招客	ifro
 人靜鼠窺燈	thru
-夕陽窮登攀	rcof
+夕陽窮登攀	rcpf
 雪白河豚不藥人	deit
 西風漫卷孤城	drih
 不離牆下至行時	dpxj
@@ -12450,7 +12450,7 @@ columns:
 公伯寮其如命何	teoe
 匡山讀書處	gjum
 相見不相知	fmdq
-城窄山將壓	hojs
+城窄山將壓	hpjs
 庭草春深綬帶長	usgh
 沛公奉卮酒為壽	itgh
 溧陽公主年十四	ictn
@@ -12463,7 +12463,7 @@ columns:
 魯有兀者叔山無趾	tshn
 五夜颼飀枕前覺	forr
 不見一人來	dmfd
-父老喜雲集	thhw
+父老喜雲集	thdw
 金縢功不刊	wwfh
 曠然忘所在	jwus
 正旦蒙趙王賚酒詩	fjsu
@@ -12535,7 +12535,7 @@ columns:
 心如韓壽愛偷香	ycdr
 吾安得夫忘言之人而與之言哉	ford
 誰知離別情	uqpy
-喜心翻倒極	hyqf
+喜心翻倒極	dyqf
 散火楊梅林	suff
 淹留亦何益	itpu
 風吹仙袂飄颻舉	rler
@@ -12633,7 +12633,7 @@ columns:
 農夫更苦辛	kgfo
 淮陰行五首	icru
 必慢其經界	yydj
-遁辭知其所窮	eeqo
+遁辭知其所窮	eeqp
 雖斷猶牽連	lvrg
 藍橋驛見元九詩	sfdu
 吹沙走浪幾千裡	lidp
@@ -12656,7 +12656,7 @@ columns:
 商歌非吾事	oala
 腸中車輪轉	wlgg
 種瓜黃臺下	rqsa
-天窮超夕陽	fodc
+天窮超夕陽	fpdc
 仙人騎白鹿	etdi
 從此道至吾軍	rnuy
 誰道吾今無往還	uufm
@@ -12705,7 +12705,7 @@ columns:
 漫向我耳邊	irqt
 樹木今何如	fftc
 世溷濁而不分兮	hiit
-竟日蛟龍喜	ijkh
+竟日蛟龍喜	ijkd
 秀色掩今古	ryad
 日斜歸去奈何春	jtyg
 故能勝物而不傷	dvwe
@@ -12746,7 +12746,7 @@ columns:
 垂天雌霓雲端下	wfna
 海近風多健鶴翎	iert
 公豈敢入乎	tjaq
-青青嘉蔬色	hhhy
+青青嘉蔬色	hhdy
 王母桃花千遍紅	gbfb
 嗚咽淚沾巾	llim
 隱几熟眠開北牖	cqot
@@ -12767,7 +12767,7 @@ columns:
 長沙千人萬人出	hiwx
 明年半百又加三	jquf
 象罔乃可以得之乎	ykvq
-竊攀屈宋宜方駕	ofbx
+竊攀屈宋宜方駕	pfbx
 更聞桑田變成海	fkbi
 鄰人有美酒	ptsi
 遊子不顧返	ovds
@@ -12841,7 +12841,7 @@ columns:
 吾嘗終日不食	fnby
 秋風楚竹冷	rrfs
 獸中刀槍多怒吼	llbl
-不曾富貴不曾窮	duoo
+不曾富貴不曾窮	duop
 千花百卉爭明媚	wsdc
 解釣鱸魚能幾人	ywtt
 花暖青牛臥	sjhs
@@ -12931,7 +12931,7 @@ columns:
 故萬物一也	dswc
 世上空驚故人少	hkpm
 季冬樹木蒼	refs
-嘉孺子而哀婦人	hvvt
+嘉孺子而哀婦人	dvvt
 發盡上指冠	bxky
 涼州七里十萬家	iiao
 歸入武陵源	yrfi
@@ -12962,7 +12962,7 @@ columns:
 悲甚則哭之	ldmp
 一條藤徑綠	fesb
 夜深起憑闌干立	oidi
-黎民糠籺窄	rcpo
+黎民糠籺窄	rcpp
 山虛風落石	jmrd
 草根吟不穩	sflr
 夫有幹越之劍者	gsdh
@@ -13035,8 +13035,8 @@ columns:
 無處豁懷抱	qmoa
 暾將出兮東方	jxxo
 弟子堂上分兩廂	uvnu
-窮島嶼之縈迴	orjn
-年年喜見山長在	qqhs
+窮島嶼之縈迴	prjn
+年年喜見山長在	qqds
 平明發輪臺	hjbh
 門前可羅雀	kuam
 不知何用歸	dqey
@@ -13135,7 +13135,7 @@ columns:
 執彈而留之	hvsp
 臥乘籃輿睡中歸	srqy
 多方駢枝於五藏之情者	rodh
-兩廊振法鼓	fuah
+兩廊振法鼓	fuad
 猶記當時烽火裡	runp
 相逢俱涕零	feed
 茫茫走胡兵	ssde
@@ -13177,7 +13177,7 @@ columns:
 杳杳沒孤鴻	ffii
 項羽兵四十萬	fxes
 心靜海鷗知	yhiq
-竊聽琴聲碧窗裡	oagp
+竊聽琴聲碧窗裡	pagp
 志與秋霜潔	hrri
 枝枝相覆蓋	fffs
 洛城重相見	ihwm
@@ -13245,7 +13245,7 @@ columns:
 昌亭旅食年	jooq
 紅豔青旗朱粉樓	bjhf
 攬茹蕙以掩涕兮	asst
-窈窕無雙顏如玉	ooqg
+窈窕無雙顏如玉	ppqg
 宿駱氏亭寄懷崔雍崔袞	odto
 天上何所有	fkes
 一身無所求	fwqf
@@ -13352,7 +13352,7 @@ columns:
 金霞昕昕漸東上	wdjk
 毫毛不敢有所近	orde
 洞中開宴會	ilkt
-還喜花開依舊數	mhsl
+還喜花開依舊數	mdsl
 潛匿游下邳	igid
 雲雨朝還暮	ddds
 不隨桃李一時開	dcfk
@@ -13523,7 +13523,7 @@ columns:
 水面桃花弄春臉	kgfw
 豈其有他故兮	jdst
 曾不如早索我於枯魚之肆	udch
-我欲穿花尋路	qton
+我欲穿花尋路	qtpn
 高處連玉京	omgo
 園花經雨百般紅	nsbb
 白袷玉郎寄桃葉	epgs
@@ -13566,7 +13566,7 @@ columns:
 奮迅毛衣襬雙耳	gvra
 隔在遠遠鄉	cshv
 重重疊疊上瑤臺	wwjh
-得列嘉樹中	rfhl
+得列嘉樹中	rfdl
 遞相祖述復先誰	efhu
 半生身老心閒	uwwk
 夜深花正寒	oiso
@@ -13735,7 +13735,7 @@ columns:
 顧謂從者曰	iurj
 故聖人之用兵也	datc
 憂世心力弱	dhyv
-別戶穿虛明	lioj
+別戶穿虛明	lipj
 已憐根損斬新栽	byfd
 喬木崢嶸明月中	efjl
 併吞八荒之心	efty
@@ -13816,7 +13816,7 @@ columns:
 遮莫姻親連帝城	usch
 望斷高唐路	uvon
 舟楫控吳人	qfat
-今日暮途窮	tjso
+今日暮途窮	tjsp
 此有蠟梅禪老家	nsko
 無成涕作霖	qdid
 粉紅石首仍無骨	pbdm
@@ -13949,7 +13949,7 @@ columns:
 我今六十五	qtof
 願隨夫子天壇上	scgk
 竹齋燒藥灶	qouu
-豈效窮途之哭	jool
+豈效窮途之哭	jopl
 須臾卻入海門去	trth
 柴門不正逐江開	nkdk
 赤髯碧眼老鮮卑	hhgw
@@ -14051,7 +14051,7 @@ columns:
 松高白鶴眠	foem
 不乃為大盜積者也	dvoc
 直匍匐而歸耳	dwwa
-飲馬長城窟	ydho
+飲馬長城窟	ydhp
 門人慾厚葬之	kttp
 賣魚生怕近城門	htwk
 民生各有所樂兮	cwet
@@ -14203,7 +14203,7 @@ columns:
 不寐百憂生	dodw
 寒食宮人步打球	oyog
 何處營巢夏將半	emuu
-趙王竊聞秦王善為秦聲	dgoh
+趙王竊聞秦王善為秦聲	dgph
 城郭人民半已非	hotl
 香爐峰雪撥簾看	rujt
 明此以北面	jnxg
@@ -14236,7 +14236,7 @@ columns:
 胡笳只解催人老	dqlh
 淫僻於仁義之行	ieor
 一卷冰雪文	fusp
-青眼望中穿	hmuo
+青眼望中穿	hmup
 飛鳴聲念群	blhx
 廣運無不至	uyqh
 一年強半在城中	fqvl
@@ -14363,7 +14363,7 @@ columns:
 東風二月天	frsf
 然後驅而之善	wrdu
 手提新畫青松障	taic
-窮不知所示	odqh
+窮不知所示	pdqh
 敢以耳目煩神工	axaf
 臨眺獨躊躇	smrn
 狡捷過猴猿	ranr
@@ -14378,7 +14378,7 @@ columns:
 事夫誓擬同生死	agaf
 君王與沛公飲	xgry
 夜下徵虜亭	oaro
-竊為陛下不	oocd
+竊為陛下不	pocd
 天工點酥作梅花	ffns
 豈堪開處已繽翻	jhkq
 點注桃花舒小紅	nifb
@@ -14463,7 +14463,7 @@ columns:
 冥冥細雨來	yybd
 疑非人世也	rltc
 愚者愛惜費	khev
-盜賊還奔突	immo
+盜賊還奔突	immp
 昔堯治天下	shia
 榆莢相催不知數	fsfl
 進德智所拙	wrqa
@@ -14545,7 +14545,7 @@ columns:
 而絕秦趙之歡	sbgs
 宇縣復小康	omru
 狐假龍神食豚盡	reix
-寂歷斜陽照縣鼓	osth
+寂歷斜陽照縣鼓	ostd
 此生天命更何疑	nwfr
 送太昱禪師	ugjy
 細思卻是最宜霜	bjtd
@@ -14601,7 +14601,7 @@ columns:
 須臾鶴髮亂如絲	tryb
 吾唯不知務而輕用吾身	fldw
 疑是白波漲東海	rjei
-於是焉河伯欣然自喜	ojfh
+於是焉河伯欣然自喜	ojfd
 遊子日月長	ovjh
 堯舜禹湯文武周孔皆為灰	heqs
 日暮行人爭渡急	jsry
@@ -14662,10 +14662,10 @@ columns:
 夔州處女發半華	uims
 飄逸的宇宙觀	dyes
 路幽昧以險隘	njjc
-鼓下坐蠻奴	hatc
+鼓下坐蠻奴	datc
 嵩高蒼翠北邙紅	josb
 瀟灑到江心	iihy
-鵲聲穿樹喜新晴	shoj
+鵲聲穿樹喜新晴	shpj
 真積力久則入	drxr
 二願妾身常健	ssie
 不覺年齒暮	drqs
@@ -14735,7 +14735,7 @@ columns:
 鄴侯藏書手不觸	kesy
 小子鳴鼓而攻之	mvlp
 卷送八尺含風漪	uuti
-不為窮約趨俗	dooe
+不為窮約趨俗	dope
 縱觀萬人同	bssk
 六詔星居初瑣碎	oujd
 秋光近青岑	rmej
@@ -14752,7 +14752,7 @@ columns:
 夢澤悲風動白茅	sils
 天地一指也	fhfc
 望中疑在野	ulrk
-一射兩虎穿	fwfo
+一射兩虎穿	fwfp
 一悟得所遣	fyrl
 劍門天下壯	rkfx
 建功及春榮	xfvu
@@ -14890,7 +14890,7 @@ columns:
 遊蜂掠盡粉絲黃	okas
 夫適人之適而不自適其適	goto
 捲簾花萬重	aqsw
-其猶穿窬之盜也與	dror
+其猶穿窬之盜也與	drpr
 城東坡上栽	hfhd
 貴賤不在己	lmdb
 偃蹇月中桂	eowf
@@ -15048,7 +15048,7 @@ columns:
 青龍見朝暾	himj
 小庭亦有月	mupw
 亂條猶未變初黃	eers
-巧穿簾罅如相覓	foqe
+巧穿簾罅如相覓	fpqe
 不聞郎馬嘶	dkol
 芳聲騰海隅	shwc
 搖豔桂水雲	ajfd
@@ -15111,7 +15111,7 @@ columns:
 天意高難問	fiok
 勇剽若豹螭	bdsk
 良人執戟明光裡	othp
-更鼓畏添撾	fhja
+更鼓畏添撾	fdja
 蒼茫宮觀平	ssoh
 龍駕兮帝服	ixtw
 漫漫雨花落	iids
@@ -15179,9 +15179,9 @@ columns:
 臘月九日暖寒客	wwyo
 爭及此花簷戶下	evna
 人稀鳥獸駭	trrd
-探古窮至妙	adoc
+探古窮至妙	adpc
 無衣床夜寒	qouo
-歌窈窕之章	aooi
+歌窈窕之章	appi
 三湘衰鬢逢秋色	fioy
 雲遊雨散從此辭	dode
 應知我是香案吏	uqqf
@@ -15265,7 +15265,7 @@ columns:
 反第二次大圍剿	sqsv
 清明上已西湖好	ijkc
 水宿煙雨寒	kouo
-且喜平安又相見	mhhm
+且喜平安又相見	mdhm
 古之愚也直	dpkd
 江南梅雨天	idff
 天地皆振動	fhrw
@@ -15401,7 +15401,7 @@ columns:
 王命相者趨射之	gyfp
 修守戰之具	eolm
 贈嵩山焦鍊師	mjjy
-喜盧仝書船歸洛	hmti
+喜盧仝書船歸洛	dmti
 明鏡從他別畫眉	jwrb
 素手把芙蓉	htas
 四十三年夢	ndfs
@@ -15529,7 +15529,7 @@ columns:
 父老四五人	thnt
 廉君宣惡言	uxou
 祖母今年九十有六	hbto
-愈往而不知其所窮	trso
+愈往而不知其所窮	trsp
 澗水無聲繞竹流	ikqi
 鴻雁欲南飛	istb
 亂世誅求急	ehuy
@@ -15544,7 +15544,7 @@ columns:
 披香殿廣十丈餘	arby
 崩騰醉中流	jwgi
 夫莫之命而常自然	gspw
-竄身南國避胡塵	owdi
+竄身南國避胡塵	pwdi
 疑是王子猷	rjgu
 一盤籠餅是豌巢	fqqv
 猿啼客散暮江頭	rlof
@@ -15571,14 +15571,13 @@ columns:
 走傍寒梅訪訊息	deot
 老百曉線上	hdjk
 蠻橫無理	ufqg
-矇在鼓裏	msho
+矇在鼓裏	msdo
 五毒俱全	fhet
 不為瓦全	doat
 全軍覆滅	tydi
 和衣而卧	ross
 鸞鳳和鳴	uqrl
 勃然變色	dwuy
-窮奢極侈	pgfe
 全民皆兵	tcre
 變幻無窮	uvqp
 温良恭儉讓	iosu
@@ -15587,12 +15586,9 @@ columns:
 鈎心鬥角	wyny
 羣起效尤	xdod
 公説公有理	tutg
-欲窮千里目	tpwm
 表裏山河	hoji
-君子固窮	xvnp
 鐵畫銀鈎	wxww
 説風涼話	uriu
-七竅流血	apiq
 羣英薈萃	xsss
 講經説法	ubui
 全國一盤棋	tnff
@@ -15602,16 +15598,12 @@ columns:
 丈二和尚摸不着頭腦	ssrw
 關門閉户	kkki
 秀才造反	rawe
-遺患無窮	llqp
-刨根究底	wfpu
 官官相衞	oofr
 門户之爭	kipe
-缺吃少穿	wlmp
 詭譎多變	uuru
 福壽雙全	hhwt
 穿紅着綠	pbub
 話裏帶刺	uosf
-窺見一斑	pmfg
 温文儒雅	ipeh
 為善最樂	ouje
 弄巧反拙	gfea
@@ -15620,37 +15612,26 @@ columns:
 七彎八拐	auta
 風雲變色	rduy
 反哺之情	elpy
-窮寇莫追	posy
 留戀不捨	tuda
-圖窮匕首見	nprm
 武藝超羣	fsdx
 裏勾外連	owrg
 女為悦己者容	coyp
-窮愁潦倒	prie
 眾裏尋他千百度	moxu
 變動不居	uwdb
 全心全力	tytx
-窮則獨善其身	pmrw
 説千道萬	uwus
-略窺一斑	jpfg
 駑馬戀棧豆	cduf
 牀前明月光	xujm
 得來全不費功夫	rdtg
 黃鶴一去不復返	syfe
-以管窺豹	xqpy
 千峯萬壑	wjsm
 寧為玉碎不為瓦全	oogt
 扇枕温衾	ifit
 王祥卧冰	ghss
 反驕破滿	eddi
-救急不救窮	fydp
-人窮志不窮	tphp
 卓然不羣	mwdx
 門户開放	kiko
-狼狽逃竄	rrqp
-言有盡而意無窮	usxp
 前不着村後不着店	uduu
-上窮碧落下黃泉	kpge
 此事古難全	nadt
 此物最相思	nwjj
 物以類聚人以羣分	wxpt
@@ -15692,7 +15673,6 @@ columns:
 多少樓台煙雨中	rmfl
 閲盡人間春色	kxty
 更與何人説	freu
-我笑他人看不穿	qqep
 登幽州台歌	bjia
 月兒彎彎照九州	wrui
 百年多病獨登台	dqrv
@@ -15702,7 +15682,6 @@ columns:
 一去紫台連朔漠	fhni
 血色羅裙翻酒污	qymi
 岐王宅裏尋常見	jgom
-鐵騎突出刀槍鳴	wdpl
 去年花裏逢君別	hqsl
 山鄉鉅變	jvwu
 人不知而不愠	tdqy
@@ -15721,7 +15700,6 @@ columns:
 舊貌變新顏	syup
 敢想敢説	vfvu
 木蘭當户織	fsnb
-莫聽穿林打葉聲	saph
 夜闌卧聽風吹雨	oksd
 曉看紅濕處	jtbm
 卧看牽牛織女星	stoj
@@ -15729,7 +15707,6 @@ columns:
 僵卧孤村不自哀	esvo
 白髮誰家翁媪	ehuc
 垂淚對宮娥	eikc
-胡窺青海灣	dphi
 若非羣玉山頭見	slxm
 身多疾病思田裏	wrpo
 去年天氣舊亭台	hqfv
@@ -15738,7 +15715,6 @@ columns:
 香霧雲鬟濕	rddi
 白首卧松雲	eusd
 敢將十指誇針巧	vxdf
-賈氏窺簾韓掾少	dtpm
 敢叫日月換新天	vljf
 稻花香裏説豐年	rsrq
 復得返自然	rrew
@@ -15746,7 +15722,7 @@ columns:
 沾衣欲濕杏花雨	iotd
 男兒何不帶吳鈎	jrew
 羈鳥戀舊林	mruf
-最喜小兒無賴	jhmf
+最喜小兒無賴	jdmf
 把吳鈎看了	alwv
 溪頭卧剝蓮蓬	ifss
 醉裏吳音相媚好	golc
@@ -15775,7 +15751,6 @@ columns:
 他年錦裏經祠廟	eqwu
 悵卧新春白袷衣	ysio
 通古今之變	bdtu
-人窮志不短	tphq
 最是橙黃橘綠時	jjfj
 只識彎弓射大雕	luuw
 卻道故人心易變	tudu
@@ -15804,7 +15779,6 @@ columns:
 最憶是杭州	jyji
 誰敢橫刀立馬	uvfd
 巫山十二峯	fjdj
-故穿庭樹作飛花	dpus
 不敢為天下先	dvow
 最愛湖東行不足	jein
 斜光到曉穿朱户	tmhi
@@ -15816,14 +15790,12 @@ columns:
 坎軻只得移荊蠻	hglu
 説盡平生意	uxhi
 判司卑官不堪説	uvwu
-穿花蛺蝶深深見	pskm
 泉源在庭户	eisi
 冰簟銀牀夢不成	sqwd
 垂死病中驚坐起	efpd
 不知其幾千裏也	dqdc
 反者道之動	ehuw
 綠楊陰裏白沙堤	bfch
-羨長江之無窮	uhip
 飄然思不羣	dwjx
 月中霜裏鬥嬋娟	wldc
 沈園非復舊池台	inlv
@@ -15860,7 +15832,6 @@ columns:
 此去泉台招舊部	nhei
 細雨濕衣看不見	bdim
 灩灩隨波千萬裏	iico
-我笑別人看不穿	qqlp
 善抱者不脱	uahw
 月光長照金樽裏	wmho
 山是眉峯聚	jjba
@@ -15878,14 +15849,11 @@ columns:
 卧看滿天雲不動	stiw
 信着全無是處	eutm
 住近湓江地低濕	eeii
-故將愁苦而終窮	dxrp
 空牀卧聽南窗雨	pxsd
 對牀夜雨聽蕭瑟	kxog
-天馬來出月支窟	fddp
 猶是深閨夢裏人	rjit
 衙齋卧聽蕭蕭竹	rosq
 芙蓉國裏盡朝暉	ssnj
-將熊熊一窩	xvvp
 耳裏如聞飢凍聲	aoch
 隨着中華民族的	cule
 千門萬户瞳瞳日	wksj
@@ -15893,7 +15861,6 @@ columns:
 桑田變滄海	bjui
 乘月醉高台	rwgv
 皆反求諸己	refb
-小人窮斯濫矣	mtpv
 中心悦而誠服也	lyyc
 鳥度屏風裏	rubo
 紅軍隊裏每相違	bycc
@@ -15905,7 +15872,6 @@ columns:
 牀前看月光	xutm
 錦裏開芳宴	woko
 户庭無塵雜	iuqo
-旅泊窮清渭	oipi
 遺民淚盡胡塵裏	lcio
 月子彎彎照九州	wvui
 玉山高並兩峯寒	gjoo
@@ -15914,7 +15880,6 @@ columns:
 共説此年豐	sunj
 金陵鳳凰台	wcqv
 舒而脱脱兮	tswt
-簾外芭蕉三兩窠	qrsp
 茅檐長掃靜無苔	sfhs
 空水共氤氲	pksq
 孤客最先聞	vojk
@@ -15926,7 +15891,6 @@ columns:
 最好金龜換酒	jcwi
 萬點雪峯晴	sndj
 垂釣綠灣春	ewbg
-盜賊出於貧窮	imxp
 落日平台上	sjhk
 鑿户牖以為室	kito
 應照離人妝鏡台	ujpv
@@ -15938,7 +15902,6 @@ columns:
 躍上葱蘢四百旋	nkso
 又踏層峯望眼開	bnbk
 蝶戀花答李淑一	kusf
-子慕予兮善窈窕	vscp
 台城六代競豪華	vhos
 反求諸己而已矣	efuv
 來看龜蒙漏澤春	dtqg
@@ -15947,7 +15910,7 @@ columns:
 談空説有夜不眠	upum
 嶺南萬户皆春色	jdsy
 更多還肯失林巒	frmu
-倒牀不復聞鐘鼓	exdh
+倒牀不復聞鐘鼓	exdd
 藤牀紙帳朝眠起	sxbd
 紅衣脱盡芳心苦	bows
 何日請纓提鋭旅	ejuo
@@ -15960,14 +15923,9 @@ columns:
 笑談獨在千峯上	qurk
 出不入兮往不反	xdre
 榆柳蔭後檐	ffsf
-隳突乎南北	cpqu
 龜玉毀於櫝中	qgrl
-響窮彭蠡之濱	vphi
 桃花源裏可耕田	fsij
-窮年憂黎元	pqdf
-竄梁鴻於海曲	piik
 萬物有成理而不説	swsu
-竊國者為諸侯	pnhe
 不以三隅反	dxfe
 我是天空裏的一片雲	qjfd
 散上峯頭望故鄉	skjv
@@ -15980,7 +15938,6 @@ columns:
 龜遊蓮葉上	qosk
 琴裏知聞唯淥水	goqk
 只可自怡悦	laty
-歸穿弱柳風	ypvr
 亦足以暢敍幽情	pnxy
 盡從勤裏得	xrgr
 自富陽至桐廬一百許裏	toco
@@ -16024,15 +15981,12 @@ columns:
 好着丹青圖畫取	cuwa
 家田輸税盡	ojgx
 不敢稍逾約	dvrb
-窮通行止長相伴	pbre
 傅説舉於版築之間	eurk
 反第一次大圍剿	eqfv
-小徑穿叢篁	mrpq
 好峯隨處改	cjcb
 孤山園裏麗如妝	vjnx
 萬户千門成野草	siws
 低頭一拜屠羊説	effu
-窈窕豔城郭	ppjo
 笑語作春温	quei
 全德之君子	trpv
 最惜杜鵑花爛漫	jyfi
@@ -16060,7 +16014,6 @@ columns:
 羈離暫愉悦	mpgy
 為君扶病上高台	oxav
 鳥去鳥來山色裏	rhro
-吾獨窮困乎此時也	frpc
 棹經垂猿把	fbea
 最好你忘掉	jcea
 君王台榭枕巴山	xgvj
@@ -16073,7 +16026,6 @@ columns:
 國家定兩税	noor
 未敢忘危負歲華	hvus
 遙望齊州九點煙	wuou
-探究其本源	apdi
 縱使長條似舊垂	behe
 浮長川而忘反	ihqe
 交戟之衞士欲止不內	odpk
@@ -16086,7 +16038,6 @@ columns:
 數峯無語立斜陽	ljqc
 雪裏行軍情更迫	dore
 去年重陽不可説	hqwu
-馬穿山徑菊初黃	dpjs
 泄香銀囊破	irwd
 疑是天邊十二峯	rjfj
 還應説著遠行人	muut
@@ -16113,7 +16064,6 @@ columns:
 君子易事而難説也	xvjc
 真能變成石頭嗎	dvul
 霓裳一曲千峯上	dnfk
-過水穿樓觸處明	nkpj
 晨鐘雲外濕	jwdi
 下台相顧一相思	avfj
 高卧沙丘城	osih
@@ -16135,17 +16085,14 @@ columns:
 最是一年秋好處	jjfm
 靜拂琴牀蓆	hags
 小艇垂綸初罷	mqem
-下驛窮交日	adpj
 負命者上鈎	yyhw
 反綰頭髻盤旋風	ebfr
 台城曲二首	vhku
 蠻衣斑斕布	uogs
-覺宇宙之無窮	roop
 片石孤峯窺色相	tdvf
 千門萬户日童日童日	wksj
 莫上最高層	skjb
 陵與衞律之罪上通於天	crrf
-寡人竊聞趙王好音	otpi
 自天題處濕	tfji
 牀底松聲萬壑哀	xufo
 驥子最憐渠	dvji
@@ -16183,7 +16130,6 @@ columns:
 自到青冥裏	thho
 垂老不得安	ehdo
 非鈎無察也	lwqc
-水穿城下作雷鳴	kphl
 雖有義台路寢	lsuo
 枕中雲氣千峯近	flde
 就中最好是今朝	oljd
@@ -16191,29 +16137,23 @@ columns:
 眾峯來自天目山	mjdj
 入掌銀台護紫微	rnwr
 紅蓮池裏白蓮開	bsik
-鳥鵲之巢可攀援而窺	rspp
-幽龕入窈窕	jyrp
 微涼卧北軒	risg
 柳雖無言不解愠	flqy
 最愛臨風笛	jesq
 須得垂楊相發揮	trea
 牀下見魚遊	xamo
-突如流星過	pcin
 人間望玉鈎	tkuw
-竊為大王不取也	pogc
 收租税而平原君家不肯出租	xrrr
 我來施食爾垂鈎	qdow
 秦城樓閣煙花裏	ghfo
 天高地平千萬裏	foho
 夫子為衞君乎	gvoq
 小鼎煎茶麪曲池	mmui
-夕陽窮登攀	rcpf
 孤鸞舞鏡不作雙	vuqw
 彼惡敢當我哉	rfvd
 則羣聚而笑之	mxap
 春變煙波色	guuy
 山裏風光亦可憐	jory
-城窄山將壓	hpjs
 簇簇歌台舞榭	qqaf
 杜鵑花裏杜鵑啼	flsl
 舞馬既登牀	qdxx
@@ -16224,11 +16164,9 @@ columns:
 二月垂楊未掛絲	sweb
 鴻雁連羣地亦寒	isgo
 予客居闔户	cobi
-遁辭知其所窮	eeqp
 吹沙走浪幾千裏	lido
 一去可憐終不返	fhae
 種瓜黃台下	rqsa
-天窮超夕陽	fpdc
 茅茨疏易濕	ssvi
 軟踏簾鈎説	gnqu
 冀一反之何時	ufej
@@ -16237,22 +16175,18 @@ columns:
 氲氲臘酒香	qqwr
 垂天雌霓雲端下	efna
 公豈敢入乎	tjvq
-竊攀屈宋宜方駕	pfbx
 遊子不顧返	ovde
 卻入空巢裏	trpo
 盡日坐復卧	xjts
 就中最憶吳江隈	oljc
 秋槐葉落空宮裏	rfso
 吾聞楚有神龜	fkfq
-不曾富貴不曾窮	duop
 花暖青牛卧	sjhs
 霓衣不濕雨	dodd
 仙人垂兩足	eten
 龜頭剝落生莓苔	qfbs
 何時返故鄉	ejev
-黎民糠籺窄	rcpp
 士不敢彎弓而報怨	hdvr
-窮島嶼之縈迴	prjn
 平明發輪台	hjbv
 晚坐松檐下	jtfa
 平台為客憂思多	hvor
@@ -16264,7 +16198,6 @@ columns:
 猶記當時烽火裏	runo
 將命者出户	xyhi
 竊聽琴聲碧窗裏	pago
-窈窕無雙顏如玉	ppqg
 沈家園裏花如錦	ionw
 二叔反流言	skeu
 迴心反初役	nyer
@@ -16282,7 +16215,6 @@ columns:
 閲人如閲川	ktcq
 席不暖君牀	udjx
 垂竿已羨磻溪老	eqbh
-我欲穿花尋路	qtpn
 峯多巧障日	jrfj
 琴絕最傷情	gbjy
 重重疊疊上瑤台	wwjv
@@ -16299,7 +16231,6 @@ columns:
 紀叟黃泉裏	brso
 依稀猶記妙高台	errv
 海內人才孰卧龍	ikti
-今日暮途窮	tjsp
 指如削葱根	acmf
 予惡乎知説生之非惑邪	cfqh
 嗟來桑户乎	ldbq
@@ -16308,7 +16239,6 @@ columns:
 南北五千裏	dufo
 變化有鯤鵬	uesw
 君入楚山裏	xrfo
-豈效窮途之哭	jopl
 試問池台主	ukio
 户服艾以盈要兮	iwst
 為濕最高花	oijs
@@ -16319,7 +16249,6 @@ columns:
 飛入君家彩屏裏	brxo
 犬上階眠知地濕	skci
 取足蔽牀蓆	anss
-飲馬長城窟	ydhp
 而況全德之人乎	sitq
 晚景卧鍾邊	jjst
 邀我登雲台	eqbv
@@ -16329,12 +16258,10 @@ columns:
 銀牀淅瀝青梧老	wxih
 萬户侯何足道哉	sied
 我被人驅向鴨羣	qptx
-趙王竊聞秦王善為秦聲	dgph
 香爐峯雪撥簾看	rujt
 而已反其真	sbed
 安敢尚盤桓	ovnf
 能變人間世	vuth
-青眼望中穿	hmup
 飛鳴聲念羣	blhx
 窗户濕青紅	piib
 天下大悦而將歸己	fagb
@@ -16344,10 +16271,8 @@ columns:
 正初奉酬歙州刺史邢羣	fpgx
 敢辭湫隘與囂塵	veii
 絳紗囊裏水晶丸	bbdy
-窮不知所示	pdqh
 敢以耳目煩神工	vxaf
 含笑看吳鈎	tqtw
-竊為陛下不	pocd
 登臨遍池台	bsiv
 泉沙軟卧鴛鴦暖	eigj
 攬裙脱絲履	apwb
@@ -16356,7 +16281,6 @@ columns:
 空牀難獨守	pxso
 戀月潭邊坐石稜	uwir
 訪古始及平台間	udck
-盜賊還奔突	immp
 不敢攀貴德	dvfr
 吳王宮裏醉西施	lgoo
 縷橙芼姜葱	bfss
@@ -16364,13 +16288,10 @@ columns:
 征帆去棹殘陽裏	rmho
 清溪卻向青灘泄	iiti
 而通之於台桑	sbpb
-鵲聲穿樹喜新晴	shpj
 登巫山最高峯	bfjj
 茅檐煙里語雙雙	sfuw
 恐結他生裏	fbeo
 反乎爾者也	eqfc
-不為窮約趨俗	dope
-一射兩虎穿	fwfp
 但覺衣裳濕	eroi
 峯駢仙掌出	jdex
 特異陽台雲	wjcd
@@ -16382,13 +16303,11 @@ columns:
 天馬鳳凰春樹裏	fdqo
 不敢懷非譽巧拙	dvya
 匡牀閒卧落花朝	gxkd
-其猶穿窬之盜也與	drpr
 青陵台畔日光斜	hcvt
 樵客返歸路	foen
 白雲堪卧君早歸	edhy
 狼狽風塵裏	rrro
 非不説子之道	lduu
-巧穿簾罅如相覓	fpqe
 亂峯圍繞水平鋪	ejnw
 良人執戟明光裏	otho
 無由再逢伊麪	qkgd
@@ -16396,9 +16315,7 @@ columns:
 雪胸鸞鏡裏	dwuo
 故列敍時人	dftt
 爭及此花檐户下	evna
-探古窮至妙	adpc
 無衣牀夜寒	qoxo
-歌窈窕之章	appi
 家在釣台西住	oswe
 革命生涯都説好	gywc
 臣之年二十而好捶鈎	spqw
@@ -16420,8 +16337,6 @@ columns:
 銜泥點污琴書內	rink
 淡着燕脂勻注	iusi
 暮年垂淚對桓伊	sqee
-愈往而不知其所窮	trsp
-竄身南國避胡塵	pwdi
 天下爲公	faet
 不相爲謀	dfeu
 恣意妄爲	siue
@@ -16659,7 +16574,7 @@ columns:
 衆口鑠金君自寬	qlwo
 爲誰憔悴損芳姿	euys
 不開口笑是癡人	dklt
-銅鼓一擊文身踊	whfn
+銅鼓一擊文身踊	wdfn
 憔悴支離爲憶君	yydx
 今逢四海爲家日	tenj
 聖人之所以爲聖	atpa
@@ -16720,7 +16635,7 @@ columns:
 老妻畫紙爲棋局	hdxb
 莫爲霜臺愁歲暮	seds
 箕子爲之奴	qvec
-齊彭殤爲妄作	ohfe
+齊彭殤爲妄作	odfe
 嬌癡不怕人猜	cpdr
 曾爲梅花醉幾場	uefh
 八千歲爲秋	twnr
@@ -16931,7 +16846,6 @@ columns:
 但使殘年飽喫飯	eefy
 玉盤楊梅爲君設	gqfu
 夫殘樸以爲器	gffl
-別戶穿虛明	lipj
 好事者爲之也	cahc
 舜之爲臣也	epec
 使契爲司徒	eder
