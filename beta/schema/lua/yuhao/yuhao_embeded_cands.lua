@@ -7,9 +7,6 @@
 -- 將要被返回的過濾器對象
 local embeded_cands_filter = {}
 
--- 導入外部模块變量
-local yuhao_switch_vars = require("yuhao.yuhao_switch").var
-
 --[[
 # xxx.schema.yaml
 switches:
@@ -142,7 +139,7 @@ end
 
 -- 過濾器
 function embeded_cands_filter.func(input, env)
-    if not env.option[env.config.option_name] and not yuhao_switch_vars.is_zhelp then
+    if not env.option[env.config.option_name] then
         for cand in input:iter() do
             yield(cand)
         end
