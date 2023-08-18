@@ -27,7 +27,7 @@
 # - 简化字增广词库（成语、诗词）
 ---
 name: "yuhao_tc"
-version: "20230818"
+VERSION: "20230818"
 sort: original
 import_tables:
   # 去除下方的 # 符号以导入词库

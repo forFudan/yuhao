@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20230818"
+VERSION: "20230818"
 sort: original
 columns:
   - text

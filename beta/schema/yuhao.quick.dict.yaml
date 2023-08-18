@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230818
+# 版本: 20230819
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.quick"
-version: "20230818"
+version: "20230819"
 sort: original
 columns:
   - text
@@ -575,7 +575,7 @@ columns:
 今	to
 片	tp
 铁	tq
-铭	tr
+舒	tr
 会	ts
 从	tt
 手	tu
@@ -1162,7 +1162,7 @@ columns:
 今天	to
 片面	tp
 铁路	tq
-铭记	tr
+舒服	tr
 会议	ts
 从而	tt
 手段	tu
@@ -1555,7 +1555,7 @@ columns:
 捣	ayj
 换	ayk
 挽	ayl
-热	ayo
+蛰	ayo
 耽	ayq
 掐	ayr
 擔	ays
@@ -3010,7 +3010,7 @@ columns:
 场	hvt
 劫	hvx
 埤	hwd
-熬	hwe
+赘	hwe
 雅	hwi
 靓	hwk
 壎	hwn
@@ -3097,7 +3097,7 @@ columns:
 沅	ifh
 渣	ifj
 灑	ifk
-漱	ifl
+竦	ifl
 湘	ifm
 江	ifo
 涞	ifp
@@ -4191,7 +4191,7 @@ columns:
 黔	nto
 囵	ntr
 跄	ntv
-龄	ntx
+龈	ntx
 蹉	nuf
 蹲	nug
 蹭	nuj
@@ -4696,7 +4696,7 @@ columns:
 鲮	qht
 鲆	qhu
 籌	qhv
-筠	qhw
+箐	qhw
 笠	qid
 箔	qie
 簿	qif
@@ -5501,10 +5501,10 @@ columns:
 铅	tql
 钒	tqo
 铫	tqs
-舒	trc
 舍	tre
 穌	trh
 仑	tri
+铭	trl
 锴	trr
 锹	tru
 锈	trv
@@ -5946,7 +5946,7 @@ columns:
 绂	vsb
 买	vsg
 弁	vsj
-弱	vsv
+纭	vsv
 纸	vta
 纷	vtb
 逡	vte

@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.words_literature"
-version: "20230818"
+VERSION: "20230818"
 sort: original
 columns:
   - text
