@@ -270,7 +270,7 @@ recognizer:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
     reverse_lookup: "^z([a-z]+?)*$"
     zaoci: "^[a-y]*`[a-y`]*$"
-    macro: "^/[a-z]*$"
+    punct: '^/([0-9]0?|[A-Za-z]+)?$'
 
 style:
   horizontal: false
