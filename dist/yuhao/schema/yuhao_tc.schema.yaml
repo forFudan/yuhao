@@ -63,7 +63,7 @@ switches:
 
 engine:
   processors:
-    - lua_processor@yuhao_switch_proc
+    - lua_processor@yuhao_switch_proc@yuhao_macro
     - ascii_composer
     - recognizer
     - lua_processor@yuhao_chaifen_processor
@@ -88,7 +88,7 @@ engine:
     - table_translator
     - lua_translator@yuhao_helper # 幫助文檔
     - "table_translator@zaoci" # 用户造詞
-    - lua_translator@yuhao_switch_tr
+    - lua_translator@yuhao_switch_tr@yuhao_macro
   filters:
     - lua_filter@yuhao_single_char_only_for_full_code
     - lua_filter@yuhao_char_first
@@ -123,8 +123,8 @@ yuhao_chaifen:
     cycle_key: "Shift+Control+C"
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  initials: zyxwvutsrqponmlkjihgfedcba
+  alphabet: zyxwvutsrqponmlkjihgfedcba/
+  initials: zyxwvutsrqponmlkjihgfedcba/
   delimiter: "`"
   max_code_length: 4
   auto_select: true
@@ -194,6 +194,36 @@ embeded_cands:
   next_format: "${候選}${Comment}${Seq}"             # 非首選的渲染格式
   separator: " "                                     # 候選之間的分隔符
 
+# 自定義宏
+yuhao_macro:
+  funckeys:
+    macro: [ 0x2f ] # 當輸入串以 "/" 開頭時, 認爲是宏調用
+  macros:
+    help:
+      - { type: tip, name: ❖配置中心 }
+      - { type: switch, name: embeded_cands, states: [ ☐嵌入, ☑嵌入 ] }
+      - { type: switch, name: yuhao_single_char_only_for_full_code, states: [ ☐字詞, ☑純單 ] }
+      - { type: radio, names: [ yuhao_chaifen.off, yuhao_chaifen.lv1, yuhao_chaifen.lv2, yuhao_chaifen.lv3 ], states: [ ☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解 ] }
+      - { type: switch, name: traditionalization, states: [ ☐簡保持, ☑簡轉繁 ] }
+      - { type: switch, name: simplification, states: [ ☐繁保持, ☑繁轉簡 ] }
+    date:
+      - { type: eval, name: ☀日期, expr: return os.date("%Y-%m-%d") }
+      - { type: eval, name: ⛅年月日, expr: return os.date("%Y年%m月%d日") }
+    time:
+      - { type: eval, name: ⌚時間, expr: return os.date("%H:%M:%S") }
+      - { type: eval, name: Ⓣ時間, expr: return os.date("%Y%m%d%H%M") }
+      - { type: eval, name: Ⓢ時間戳, expr: return tostring(os.time()) }
+    char:
+      - { type: switch, name: yuhao_single_char_only_for_full_code, states: [ ☐字詞, ☑純單 ] }
+    div:
+      - { type: radio, names: [ yuhao_chaifen.off, yuhao_chaifen.lv1, yuhao_chaifen.lv2, yuhao_chaifen.lv3 ], states: [ ☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解 ] }
+    embed:
+      - { type: switch, name: embeded_cands, states: [ ☐嵌入, ☑嵌入 ] }
+    trad:
+      - { type: switch, name: traditionalization, states: [ ☐不轉換, ☑簡轉繁 ] }
+    simp:
+      - { type: switch, name: simplification, states: [ ☐不轉換, ☑繁轉簡 ] }
+
 punctuator:
   import_preset: symbols
   half_shape:
@@ -240,6 +270,7 @@ recognizer:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
     reverse_lookup: "^z([a-z]+?)*$"
     zaoci: "^[a-y]*`[a-y`]*$"
+    punct: '^/([0-9]0?|[A-Za-z]+)?$'
 
 style:
   horizontal: false
