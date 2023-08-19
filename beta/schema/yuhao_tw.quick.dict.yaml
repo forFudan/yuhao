@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20230818
+# 版本: 20230819
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tw.quick"
-version: "20230818"
+version: "20230819"
 sort: original
 columns:
   - text
@@ -572,17 +572,17 @@ columns:
 鮒	te
 今	tf
 鱷	tg
-舒	th
+鮭	th
 八	ti
 留	tj
 自	tk
 钟	tl
 看	tm
 用	tn
-領	to
+卵	to
 邊	tp
 铁	tq
-穌	tr
+舒	tr
 臭	ts
 卻	tt
 手	tu
@@ -709,7 +709,7 @@ columns:
 必	yq
 鴿	yr
 食	ys
-解	yt
+拿	yt
 忙	yu
 恨	yv
 性	yw
@@ -1134,13 +1134,12 @@ columns:
 昏暗	ta
 分别	tb
 今天	tf
-舒服	th
 留下	tj
 自己	tk
 看着	tm
 用力	tn
 邊界	tp
-自行車	tr
+舒服	tr
 臭味	ts
 介紹	tt
 手機	tu
@@ -1244,7 +1243,6 @@ columns:
 必須	yq
 鴿子	yr
 食物	ys
-解決	yt
 慘重	yv
 性格	yw
 命令	yx
@@ -5529,7 +5527,7 @@ columns:
 锤	tes
 钨	tew
 铤	tex
-令	tfb
+領	tfb
 铻	tfc
 拜	tfd
 途	tff
@@ -5601,7 +5599,7 @@ columns:
 镗	tnh
 企	tni
 个	tns
-令	tob
+領	tob
 铵	toc
 镓	tod
 镔	toe
@@ -5629,6 +5627,7 @@ columns:
 铫	tqs
 舍	tre
 铨	trg
+穌	trh
 仑	tri
 铭	trl
 锴	trr
@@ -6589,7 +6588,7 @@ columns:
 恢	ysu
 危	ysv
 懂	ysw
-蟹	ytb
+解	ytb
 餘	ytf
 罕	yth
 餾	ytj
@@ -6601,7 +6600,7 @@ columns:
 觴	ytq
 斛	yts
 懺	ytt
-拿	ytu
+觯	ytu
 忪	ytv
 饈	yub
 憎	yuj
@@ -6623,7 +6622,7 @@ columns:
 慘	yvv
 懇	yvy
 飽	ywc
-角	ywh
+解	ywh
 惟	ywi
 恂	ywj
 忏	ywk
@@ -6997,6 +6996,7 @@ columns:
 及	vod
 究	pyf
 半	uao
+角	ywh
 叫	lxg
 元	fhw
 它	ori
@@ -7024,6 +7024,7 @@ columns:
 臉	wrl
 負	ymb
 酒	igo
+拿	ytu
 委	rcn
 毒	hbs
 迷	ppd
@@ -7134,7 +7135,6 @@ columns:
 鴿	yro
 勻	wsi
 狸	rkk
-穌	trh
 葦	sci
 孜	veh
 刃	bod
