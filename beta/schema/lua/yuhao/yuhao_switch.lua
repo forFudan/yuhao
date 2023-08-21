@@ -22,16 +22,6 @@ local macro_types = {
     eval   = "eval",
 }
 
--- 按命名空間歸類方案配置, 而不是按会話, 以减少内存佔用
-local namespaces = {}
-function namespaces:set_config(env, config)
-    namespaces[env.name_space] = namespaces[env.name_space] or {}
-    namespaces[env.name_space].config = config
-end
-function namespaces:config(env)
-    return namespaces[env.name_space] and namespaces[env.name_space].config
-end
-
 -- 候選序號標記
 local index_indicators = {"¹", "²", "³", "⁴", "⁵", "⁶", "⁷", "⁸", "⁹", "⁰"}
 
@@ -278,14 +268,15 @@ local function new_eval(name, expr)
         if #self.name ~= 0 then
             return self.name
         else
-            return self:get_text(args, "peek")
+            local _, res = pcall(self.get_text, self, args, "peek")
+            return res
         end
     end
 
     function eval:trigger(env, ctx, args)
-        local text = self:get_text(args, "eval")
-        if #text ~= 0 then
-            env.engine:commit_text(text)
+        local ok, res = pcall(self.get_text, self, args, "eval")
+        if ok and #res ~= 0 then
+            env.engine:commit_text(res)
         end
         ctx:clear()
     end
@@ -412,6 +403,25 @@ local function parse_conf_funckeys(env)
     return funckeys
 end
 
+-- 按命名空間歸類方案配置, 而不是按会話, 以减少内存佔用
+local namespaces = {}
+function namespaces:init(env)
+    -- 讀取配置項
+    if not namespaces:config(env) then
+        local config = {}
+        config.macros = parse_conf_macro_list(env)
+        config.funckeys = parse_conf_funckeys(env)
+        namespaces:set_config(env, config)
+    end
+end
+function namespaces:set_config(env, config)
+    namespaces[env.name_space] = namespaces[env.name_space] or {}
+    namespaces[env.name_space].config = config
+end
+function namespaces:config(env)
+    return namespaces[env.name_space] and namespaces[env.name_space].config
+end
+
 -- ######## PROCESSOR ########
 
 local function proc_handle_macros(env, ctx, input, idx)
@@ -432,10 +442,11 @@ function yuhao_switch_proc.init(env)
     end
 
     -- 讀取配置項
-    if not namespaces:config(env) then
+    local ok = pcall(namespaces.init, namespaces, env)
+    if not ok then
         local config = {}
-        config.macros = parse_conf_macro_list(env)
-        config.funckeys = parse_conf_funckeys(env)
+        config.macros = {}
+        config.funckeys = {}
         namespaces:set_config(env, config)
     end
 end
@@ -488,10 +499,12 @@ local function tr_handle_macros(env, ctx, seg, input)
 end
 
 function yuhao_switch_tr.init(env)
-    if not namespaces:config(env) then
+    -- 讀取配置項
+    local ok = pcall(namespaces.init, namespaces, env)
+    if not ok then
         local config = {}
-        config.macros = parse_conf_macro_list(env)
-        config.funckeys = parse_conf_funckeys(env)
+        config.macros = {}
+        config.funckeys = {}
         namespaces:set_config(env, config)
     end
 end
