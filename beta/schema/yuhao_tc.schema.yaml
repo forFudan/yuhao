@@ -223,6 +223,20 @@ yuhao_macro:
       - { type: switch, name: traditionalization, states: [ ☐不轉換, ☑簡轉繁 ] }
     simp:
       - { type: switch, name: simplification, states: [ ☐不轉換, ☑繁轉簡 ] }
+    dist:
+      - type: eval
+        expr: >
+          return function(args)
+            return string.format("librime: [%s]", rime_api.get_rime_version())
+          end
+      - type: eval
+        expr: >
+          return function(args)
+            return string.format("distribution: [%s](%s/%s)",
+              rime_api.get_distribution_name(),
+              rime_api.get_distribution_code_name(),
+              rime_api.get_distribution_version())
+          end
 
 punctuator:
   import_preset: symbols
