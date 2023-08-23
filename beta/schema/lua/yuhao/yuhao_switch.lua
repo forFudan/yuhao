@@ -212,11 +212,11 @@ local function new_shell(name, cmd, text)
         local fd = get_fd(args)
         if self.text then
             local t = fd:read('a')
+            fd:close()
             if #t ~= 0 then
                 env.engine:commit_text(t)
             end
         end
-        fd:close()
         ctx:clear()
     end
 
@@ -364,8 +364,10 @@ local function parse_conf_macro_list(env)
                     local cmd = key_map:get_value("cmd"):get_string()
                     local name = key_map:has_key("name") and key_map:get_value("name"):get_string() or ""
                     local text = key_map:has_key("text") and key_map:get_value("text"):get_bool() or false
+                    local hijack = key_map:has_key("hijack") and key_map:get_value("hijack"):get_bool() or false
                     if #cmd ~= 0 and (#name ~= 0 or text) then
                         table.insert(cands, new_shell(name, cmd, text))
+                        cands.hijack = cands.hijack or hijack
                     end
                 end
             elseif type == macro_types.eval then
@@ -373,8 +375,10 @@ local function parse_conf_macro_list(env)
                 if key_map:has_key("expr") then
                     local name = key_map:has_key("name") and key_map:get_value("name"):get_string() or ""
                     local expr = key_map:get_value("expr"):get_string()
+                    local hijack = key_map:has_key("hijack") and key_map:get_value("hijack"):get_bool() or false
                     if #expr ~= 0 then
                         table.insert(cands, new_eval(name, expr))
+                        cands.hijack = cands.hijack or hijack
                     end
                 end
             end
@@ -424,9 +428,7 @@ end
 
 -- ######## PROCESSOR ########
 
-local function proc_handle_macros(env, ctx, input, idx)
-    local name, args = get_macro_args(input, namespaces:config(env).funckeys.macro)
-    local macro = namespaces:config(env).macros[name]
+local function proc_handle_macros(env, ctx, macro, args, idx)
     if macro then
         if macro[idx] then
             macro[idx]:trigger(env, ctx, args)
@@ -462,16 +464,18 @@ function yuhao_switch_proc.func(key_event, env)
     local funckeys = namespaces:config(env).funckeys
     if funckeys.macro[string.byte(string.sub(ctx.input, 1, 1))] then
         -- 當前輸入串以 funckeys/macro 定義的鍵集合開頭
-        local idx = select_index(key_event, env)
-        if idx >= 0 then
-            -- 選中宏候選
-            return proc_handle_macros(env, ctx, string.sub(ctx.input, 2), idx + 1)
-        elseif funckeys.macro[ch] then
-            -- 宏候選分隔符
-            ctx:push_input(string.char(ch))
-            return kAccepted
-        else
-            -- 假裝無事發生
+        local name, args = get_macro_args(string.sub(ctx.input, 2), namespaces:config(env).funckeys.macro)
+        local macro = namespaces:config(env).macros[name]
+        if macro then
+            if macro.hijack and ch > 0x20 and ch < 0x7f then
+                ctx:push_input(string.char(ch))
+                return kAccepted
+            else
+                local idx = select_index(key_event, env)
+                if idx >= 0 then
+                    return proc_handle_macros(env, ctx, macro, args, idx + 1)
+                end
+            end
             return kNoop
         end
     end
