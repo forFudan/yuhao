@@ -212,11 +212,11 @@ local function new_shell(name, cmd, text)
         local fd = get_fd(args)
         if self.text then
             local t = fd:read('a')
+            fd:close()
             if #t ~= 0 then
                 env.engine:commit_text(t)
             end
         end
-        fd:close()
         ctx:clear()
     end
 
