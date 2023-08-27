@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230819
+# 版本: 20230827
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20230819"
+version: "20230827"
 sort: original
 columns:
   - text
@@ -79308,6 +79308,20 @@ columns:
 高擡	olah
 趙孟頫	dvqs
 師姑	yfcd
+閏正月	kfwy
+閏二月	kswy
+閏三月	kfwy
+閏四月	knwy
+閏五月	kfwy
+閏六月	kowy
+閏七月	kawy
+閏八月	ktwy
+閏九月	kywy
+閏十月	kdwy
+閏十一月	kdfw
+閏十二月	kdsw
+閏冬月	kewy
+閏臘月	kwwy
 揹着	auum
 乾紅	djbf
 哄擡物價	lawe
