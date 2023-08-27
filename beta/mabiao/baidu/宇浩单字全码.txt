@@ -878,6 +878,7 @@ agfs 挎
 agfs 𬚗
 agfv 𫾂
 aggc 𢷦
+aggc 𨌏
 aggg 攆
 aggg 𢯆
 aggg 𢺩
@@ -24124,7 +24125,6 @@ gafv 𣒭
 gagb 𡘣
 gagb 𤥗
 gagb 𨌡
-gagc 𨌏
 gagj 璢
 gagj 𰹤
 gago 𨠾
@@ -41093,6 +41093,7 @@ jnqr 𭧋
 jnrh 𡸙
 jnrh 𡹤
 jnsj 𡽞
+jnsr 曱
 jnsr 甴
 jnsr 㫾
 jntd 𡽔
@@ -43893,7 +43894,6 @@ khfm 𮤩
 khfv 蝶
 khfv 𨵳
 khgc 虷
-khgf 曱
 khgf 𲈲
 khgg 𢧍
 khgn 閈
@@ -56059,6 +56059,7 @@ nqsj 𡆼
 nqsj 𧿘
 nqsp 𰸩
 nqss 跳
+nqsx 𣦋
 nqtf 𮀉
 nqtu 㧛
 nqua 䛓
@@ -56544,6 +56545,7 @@ ntsq 㱗
 ntsq 䠗
 ntsv 𪑅
 ntsv 𲃟
+ntsx 𣦋
 nttc 𡜰
 nttc 𨜁
 ntte 𣥐
@@ -56995,7 +56997,6 @@ nxmv 𲃖
 nxni 㢟
 nxpd 𲃦
 nxpw 𰉎
-nxqs 𣦋
 nxqu 𨆤
 nxtb 𬻴
 nxtf 𨅋
@@ -58051,7 +58052,6 @@ oijy 𰶊
 oika 𫴋
 oikb 𫳺
 oikd 𫳭
-oike 𱢽
 oikg 𱢽
 oikj 𪽣
 oikk 𣄛
@@ -60057,7 +60057,6 @@ owox 𰽑
 owqb 𠅬
 owqe 𠅨
 owqk 𬤮
-owqp 𫞟
 owqq 𡬃
 owqr 宪
 owqr 诜
@@ -61724,7 +61723,6 @@ piho 𮄇
 pii 亦
 piii 𰁜
 pijd 瘴
-pijd 褝
 pijd 𮵹
 pije 𤻐
 pijg 𧝊
@@ -63702,6 +63700,7 @@ puht 粧
 puht 𥹿
 pujd 阐
 pujd 瘅
+pujd 褝
 pujg 𧝧
 pujj 䆵
 pujj 䙢
@@ -75471,7 +75470,6 @@ sfde 𮑡
 sfdh 𱾭
 sfdj 𦻊
 sfdk 𰱝
-sfdl 𮐤
 sfdm 𦺣
 sfdm 𩑪
 sfdo 芜
@@ -75767,7 +75765,6 @@ sfqo 茿
 sfqp 𠀫
 sfqv 𢐯
 sfqy 𦶐
-sfrd 𠦶
 sfre 𱾀
 sfre 𦹠
 sfrf 薤
@@ -75792,7 +75789,6 @@ sfru 𮐾
 sfrv 𦯢
 sfrv 𦹡
 sfrx 𡳼
-sfrx 𩍞
 sfry 薞
 sfry 𦰸
 sfsa 華
@@ -76913,6 +76909,7 @@ sjkt 𦝙
 sjkv 𫈧
 sjkw 𧁆
 sjld 𠪀
+sjlj 䕎
 sjlq 𬞁
 sjlv 𠪋
 sjma 𠩤
@@ -77616,7 +77613,6 @@ smff 𠘏
 smfg 𦾒
 smfi 𠖻
 smfj 苜
-smfj 䕎
 smfj 𥄕
 smfl 𱣦
 smfs 𦲰
@@ -78569,6 +78565,7 @@ sqyj 𬝁
 srae 𧄆
 sraf 𦵴
 srah 荇
+sral 𮐤
 srao 荈
 srbc 莥
 srbd 𦺛
@@ -78639,6 +78636,7 @@ srgt 𮏶
 srgy 𬟘
 srhe 薐
 srhe 𬝺
+srhg 𠦶
 srhh 𦽂
 srhj 蕏
 srhj 䒩
@@ -78650,6 +78648,7 @@ srhq 𦽐
 srht 𦵐
 srht 𫇲
 srhw 𦹤
+srhx 𩍞
 sria 葕
 srid 𦷏
 srid 𱷤
@@ -89690,6 +89689,7 @@ uwuw 𩲉
 uwvj 㷪
 uwvv 𱪮
 uww 亡
+uwwe 𫞟
 uwwf 𤇒
 uwwi 𧮓
 uwwl 訤
@@ -92589,6 +92589,7 @@ wbod 釵
 wbod 牣
 wbod 肕
 wbod 釼
+wbod 肞
 wbod 釰
 wbod 鈬
 wbod 𭃚
@@ -95493,13 +95494,12 @@ wowe 𦟨
 wowh 鑔
 wowh 𩴳
 wowi 雠
-wowl 肞
 wowl 𱼡
+wowl 肞
 wown 𨦭
 wown 𭷡
 wowo 𦜶
 wows 𠣝
-wowt 𢮗
 wowy 𣎪
 woxc 鎯
 woxc 𨉰
@@ -97786,6 +97786,7 @@ wxbo 𰼦
 wxbr 鵩
 wxbr 𪂖
 wxbs 𥾜
+wxbs 𦟭
 wxbu 服
 wxbu 𤘸
 wxbu 𨈞
@@ -97934,7 +97935,6 @@ wxxk 𤯜
 wxxk 𭩎
 wxxo 𦠧
 wxxo 𮣎
-wxxs 𦟭
 wxxt 膠
 wxxt 鏐
 wxxt 𨮅

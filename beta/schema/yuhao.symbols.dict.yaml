@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20230819
+# 版本: 20230827
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.symbols"
-version: "20230819"
+version: "20230827"
 sort: original
 columns:
   - text
@@ -48,8 +48,8 @@ $	kkmy
 :	kkmh
 =	kkdh
 ?	kkwh
-[	kkzk
-]	kkyk
+[	kkfk
+]	kkfk
 ~	kklh
 ¡	kkth
 ¢	kkmy
@@ -1808,8 +1808,8 @@ $	/my
 :	/mh
 =	/dh
 ?	/wh
-[	/zk
-]	/yk
+[	/fkz
+]	/fky
 ~	/lh
 ¡	/th
 ¢	/my
