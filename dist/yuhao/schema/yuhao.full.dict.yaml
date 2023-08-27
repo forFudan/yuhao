@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230819
+# 版本: 20230827
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20230819"
+version: "20230827"
 sort: original
 columns:
   - text
@@ -15423,6 +15423,7 @@ columns:
 嶯	jlag
 嵓	jlll
 昷	jmnr
+曱	jnsr
 甴	jnsr
 崺	joqc
 峷	joxs
@@ -15464,7 +15465,6 @@ columns:
 蝢	kdmb
 蛷	kfko
 蜙	kftv
-曱	khgf
 蛯	khri
 坔	khtv
 閕	khyn
@@ -19466,7 +19466,6 @@ columns:
 疨	phyb
 粐	piem
 窏	pifa
-褝	pijd
 糡	pijq
 麊	pilm
 斒	pinc
@@ -19566,6 +19565,7 @@ columns:
 瘜	ptyi
 褨	pufo
 裷	pugv
+褝	pujd
 裞	pulq
 痥	pulq
 糋	puwm
@@ -21123,6 +21123,7 @@ columns:
 鐴	wblo
 鎇	wbmf
 鉧	wbmj
+肞	wbod
 釰	wbod
 鈬	wbod
 躵	wboy
@@ -21373,7 +21374,6 @@ columns:
 鋶	wovq
 錥	wovw
 鏲	wovw
-肞	wowl
 鑏	woya
 銤	wpmj
 鑹	wprb
@@ -26838,6 +26838,7 @@ columns:
 䔇	sjfu
 㱳	sjgr
 䓍	sjhg
+䕎	sjlj
 䒤	sjrj
 㫳	sjrn
 㓖	sjsa
@@ -26882,7 +26883,6 @@ columns:
 䧺	slwi
 䒕	smaj
 䖙	smem
-䕎	smfj
 䕉	smhd
 䕧	smow
 䒚	smqp
@@ -28733,6 +28733,7 @@ columns:
 𢷰	agff
 𠀀	agfk
 𢷦	aggc
+𨌏	aggc
 𢯆	aggg
 𢺩	aggg
 𢬤	aggn
@@ -38148,7 +38149,6 @@ columns:
 𣒭	gafv
 𡘣	gagb
 𤥗	gagb
-𨌏	gagc
 𨠾	gago
 𨊫	gahc
 𢧬	gajj
@@ -51649,6 +51649,7 @@ columns:
 𧿝	ntsk
 𪐭	ntsk
 𪑅	ntsv
+𣦋	ntsx
 𡜰	nttc
 𨜁	nttc
 𣥐	ntte
@@ -51828,7 +51829,6 @@ columns:
 𣥼	nxll
 𨆨	nxlm
 𠁣	nxls
-𣦋	nxqs
 𨆤	nxqu
 𨅋	nxtf
 𨇔	nxvv
@@ -59717,7 +59717,6 @@ columns:
 𠀫	sfqp
 𢐯	sfqv
 𦶐	sfqy
-𠦶	sfrd
 𦴊	sfrg
 𦵏	sfrg
 𦹠	sfrg
@@ -59731,7 +59730,6 @@ columns:
 𦯢	sfrv
 𦹡	sfrv
 𡳼	sfrx
-𩍞	sfrx
 𦰸	sfry
 𠦜	sfsf
 𢀡	sfsf
@@ -60909,11 +60907,13 @@ columns:
 𦰔	srfv
 𦸒	srgl
 𦷈	srgt
+𠦶	srhg
 𦽂	srhh
 𦿀	srhj
 𧂐	srhm
 𦵐	srht
 𦹤	srhw
+𩍞	srhx
 𦷏	srid
 𠨬	srih
 𡯃	srio
@@ -66274,6 +66274,7 @@ columns:
 𦞣	wbok
 𨪊	wbok
 𤘞	wboo
+𢮗	wbot
 𨧟	wboy
 𩳫	wbpm
 𨨻	wbqh
@@ -67493,7 +67494,6 @@ columns:
 𨦭	wown
 𦜶	wowo
 𠣝	wows
-𢮗	wowt
 𣎪	wowy
 𨉰	woxc
 𨬅	woxe
@@ -68484,6 +68484,7 @@ columns:
 𧌘	wxbk
 𪂖	wxbr
 𥾜	wxbs
+𦟭	wxbs
 𤘸	wxbu
 𨈞	wxbu
 𣢳	wxei
@@ -68545,7 +68546,6 @@ columns:
 𨦫	wxxi
 𤯜	wxxk
 𦠧	wxxo
-𦟭	wxxs
 𨮅	wxxt
 𤛹	wxxw
 𦡱	wxxw
@@ -75257,7 +75257,6 @@ columns:
 𫟠	oujd
 𫞀	ovqi
 𫝅	ovte
-𫞟	owqp
 𫝰	oyjk
 𫝱	oyqa
 𫞬	pbht
@@ -75339,6 +75338,7 @@ columns:
 𫟝	uojr
 𫟈	ustu
 𫞡	usyf
+𫞟	uwwe
 𫠕	uwyf
 𫞠	uxuo
 𫟃	veen
@@ -86566,7 +86566,6 @@ columns:
 𮏓	sfcc
 𮒬	sfcl
 𮑡	sfde
-𮐤	sfdl
 𭐢	sfeh
 𭘧	sffm
 𮐡	sffu
@@ -86792,6 +86791,7 @@ columns:
 𭵧	sqsu
 𭘀	squu
 𭆀	sqvi
+𮐤	sral
 𮒤	srbo
 𮑌	srcp
 𮟋	srcp
@@ -100110,6 +100110,7 @@ columns:
 縪	bjsd
 羉	mbub
 羗	uqvv
+肞	wowl
 艣	qmbx
 芆	sowl
 茣	slxg
@@ -101180,7 +101181,6 @@ columns:
 𢭇	arto
 𢮑	abkv
 𢮔	aswo
-𢮗	wbot
 𢮣	efut
 𢯅	ahqh
 𢰈	aqlr
@@ -101332,6 +101332,7 @@ columns:
 𣥽	nhbs
 𣦄	ntxf
 𣦈	nhjo
+𣦋	nqsx
 𣦱	bubn
 𣧍	frkr
 𣧖	frmv
@@ -103627,7 +103628,6 @@ columns:
 𱢲	jyjm
 𱢶	ksml
 𱢸	tfbw
-𱢽	oike
 𱣵	fslf
 𱣹	fetj
 𱤃	wfof

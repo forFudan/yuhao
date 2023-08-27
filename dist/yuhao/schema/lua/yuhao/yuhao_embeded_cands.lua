@@ -77,28 +77,93 @@ local function get_switch_handler(env, op_name)
     end
 end
 
+local function compile_formatter(format)
+    -- "${Stash}[${候選}${Seq}]${Code}${Comment}"
+    -- => "%s[%s%s]%s%s"
+    -- => {"${Stash}", "${...}", "${...}", ...}
+    local pattern = "%$%{[^{}]+%}"
+    local verbs = {}
+    for s in string.gmatch(format, pattern) do
+        table.insert(verbs, s)
+    end
+
+    local res = {
+        format = string.gsub(format, pattern, "%%s"),
+        verbs = verbs,
+    }
+    local meta = { __index = function() return "" end }
+
+    -- {"${v1}", "${v2}", ...} + {v1: a1, v2: a2, ...} = {a1, a2, ...}
+    -- string.format("%s[%s%s]%s%s", a1, a2, ...)
+    function res:build(dict)
+        setmetatable(dict, meta)
+        local args = {}
+        for _, pat in ipairs(self.verbs) do
+            table.insert(args, dict[pat])
+        end
+        return string.format(self.format, table.unpack(args))
+    end
+
+    return res
+end
+
+-- 按命名空間歸類方案配置, 而不是按会話, 以减少内存佔用
+local namespaces = {}
+function namespaces:init(env)
+    -- 讀取配置項
+    if not namespaces:config(env) then
+        local config = {}
+        config.index_indicators = parse_conf_str_list(env, "index_indicators", index_indicators)
+        config.first_format = parse_conf_str(env, "first_format", first_format)
+        config.next_format = parse_conf_str(env, "next_format", next_format)
+        config.separator = parse_conf_str(env, "separator", separator)
+        config.option_name = parse_conf_str(env, "option_name")
+
+        config.formatter = {}
+        config.formatter.first = compile_formatter(config.first_format)
+        config.formatter.next = compile_formatter(config.next_format)
+        namespaces:set_config(env, config)
+    end
+end
+function namespaces:set_config(env, config)
+    namespaces[env.name_space] = namespaces[env.name_space] or {}
+    namespaces[env.name_space].config = config
+end
+function namespaces:config(env)
+    return namespaces[env.name_space] and namespaces[env.name_space].config
+end
+
 function embeded_cands_filter.init(env)
     -- 讀取配置項
-    env.config = {}
-    env.config.index_indicators = parse_conf_str_list(env, "index_indicators", index_indicators)
-    env.config.first_format = parse_conf_str(env, "first_format", first_format)
-    env.config.next_format = parse_conf_str(env, "next_format", next_format)
-    env.config.separator = parse_conf_str(env, "separator", separator)
-    env.config.option_name = parse_conf_str(env, "option_name")
+    local ok = pcall(namespaces.init, namespaces, env)
+    if not ok then
+        local config = {}
+        config.index_indicators = index_indicators
+        config.first_format = first_format
+        config.next_format = next_format
+        config.separator = separator
+        config.option_name = parse_conf_str(env, "option_name")
 
+        config.formatter = {}
+        config.formatter.first = compile_formatter(config.first_format)
+        config.formatter.next = compile_formatter(config.next_format)
+        namespaces:set_config(env, config)
+    end
+
+    local config = namespaces:config(env)
     -- 是否指定開關
-    if env.config.option_name and #env.config.option_name ~= 0 then
+    if config.option_name and #config.option_name ~= 0 then
         -- 構造回調函數
-        local handler = get_switch_handler(env, env.config.option_name)
+        local handler = get_switch_handler(env, config.option_name)
         -- 初始化爲選項實際值, 如果設置了 reset, 則會再次觸發 handler
-        handler(env.engine.context, env.config.option_name)
+        handler(env.engine.context, config.option_name)
         -- 注册通知回調
         env.engine.context.option_update_notifier:connect(handler)
     else
         -- 未指定開關, 默認啓用
-        env.config.option_name = option_name
+        config.option_name = option_name
         env.option = {}
-        env.option[env.config.option_name] = true
+        env.option[config.option_name] = true
     end
 end
 
@@ -113,33 +178,30 @@ local function render_comment(comment)
     return comment
 end
 
--- 轉義符號 `%`, 因爲該符號是 string.gsub() 後兩個參數的轉義字符
-local function escape_percent(text)
-    text = string.gsub(text, "%%", "%%%%")
-    return text
-end
-
 -- 渲染單個候選項
 local function render_cand(env, seq, code, text, comment)
-    local cand = ""
-    -- 選擇渲染格式
+    local formatter
     if seq == 1 then
-        cand = env.config.first_format
+        formatter = namespaces:config(env).formatter.first
     else
-        cand = env.config.next_format
+        formatter = namespaces:config(env).formatter.next
     end
     -- 渲染提示串
     comment = render_comment(comment)
-    cand = string.gsub(cand, "%${Seq}", env.config.index_indicators[seq])
-    cand = string.gsub(cand, "%${Code}", escape_percent(code))
-    cand = string.gsub(cand, "%${候選}", escape_percent(text))
-    cand = string.gsub(cand, "%${Comment}", escape_percent(comment))
+    -- 渲染提示串
+    comment = render_comment(comment)
+    local cand = formatter:build({
+        ["${Seq}"] = namespaces:config(env).index_indicators[seq],
+        ["${Code}"] = code,
+        ["${候選}"] = text,
+        ["${Comment}"] = comment,
+    })
     return cand
 end
 
 -- 過濾器
 function embeded_cands_filter.func(input, env)
-    if not env.option[env.config.option_name] then
+    if not env.option[namespaces:config(env).option_name] then
         for cand in input:iter() do
             yield(cand)
         end
@@ -155,7 +217,7 @@ function embeded_cands_filter.func(input, env)
 
     local function refresh_preedit()
         if first_cand then
-            first_cand.preedit = table.concat(page_rendered, env.config.separator)
+            first_cand.preedit = table.concat(page_rendered, namespaces:config(env).separator)
             -- 將暫存的一頁候選批次送出
             for _, c in ipairs(page_cands) do
                 yield(c)
