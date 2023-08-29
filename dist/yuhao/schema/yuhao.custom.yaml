@@ -15,6 +15,7 @@ patch:
   switches/@2/reset: 0 # [原始排序, 全碼後置]
   switches/@3/reset: 0 # [〇註解, 一重註解, 二重註解, 三重註解]
   switches/@4/reset: 0 # [普通候選, 嵌入候選]
+  switches/@5/reset: 0 # [輸入預測, 精確匹配]
   embeded_cands/+:
     # option_name: embeded_cands                         # 嵌入候選開關
     # index_indicators: [ ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ⁰ ] # 嵌入候選的序號顯示格式
