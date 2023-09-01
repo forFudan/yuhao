@@ -128,8 +128,8 @@ yuhao_chaifen:
     cycle_key: "Shift+Control+C"
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba/
-  initials: zyxwvutsrqponmlkjihgfedcba/
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  initials: zyxwvutsrqponmlkjihgfedcba
   delimiter: "`"
   max_code_length: 4
   auto_select: true
@@ -244,7 +244,7 @@ yuhao_macro:
           end
 
 punctuator:
-  import_preset: symbols
+  import_preset: symbols_yuhao
   half_shape:
     "%": "%"
     "*": "*"
