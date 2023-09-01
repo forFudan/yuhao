@@ -18,7 +18,6 @@ _site/
 /schema
 
 # Ignore distributions
-宇浩输入法打包.py
 /dist/*.zip
 /dist/yuhao/*.png
 
