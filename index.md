@@ -30,10 +30,10 @@ nav_order: 1
 >[在线练习](./docs/practice) · 
 >[拆分查询(支持台湾字形)](./v2/chaifen/)  
 
-{: .note }
+<!-- {: .note }
 >本网站介绍的是宇浩二代，[宇浩一代相关信息请移步此处](./docs/v1/v1)  
 >[宇浩一代稳定版下载](https://github.com/forFudan/yuhao/releases/tag/v1.4.3) · 
->[备用下载地址](https://gitee.com/forFudan/yuhao/releases/tag/v1.4.3)  
+>[备用下载地址](https://gitee.com/forFudan/yuhao/releases/tag/v1.4.3)   -->
 
 ## 简介
 
