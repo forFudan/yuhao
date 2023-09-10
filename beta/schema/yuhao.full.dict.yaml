@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230830
+# 版本: 20230910
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20230830"
+version: "20230910"
 sort: original
 columns:
   - text
@@ -9034,6 +9034,7 @@ columns:
 庱	uhte
 羱	usem
 腒	wbdg
+魎	wfmr
 鶵	wxwr
 勠	xxtx
 憲	odmy
@@ -9917,6 +9918,7 @@ columns:
 㘎	lpve
 嚦	lsrn
 幖	mdhs
+尛	mmma
 虤	mmuu
 賅	moib
 䁖	mpcn
@@ -13241,7 +13243,6 @@ columns:
 鍖	wdxi
 銶	wfko
 鋉	wflv
-魎	wfmr
 鏄	wgac
 銍	whkj
 鍀	wjfa
@@ -19138,7 +19139,6 @@ columns:
 刞	mmdi
 贁	mmeh
 虘	mmiu
-尛	mmma
 贙	mmmb
 奰	mmmg
 盀	mmno
@@ -46638,8 +46638,8 @@ columns:
 𧠓	ktmx
 𧊊	ktnc
 𣥙	ktni
+𨵼	ktnn
 𠉁	ktnt
-𨵼	ktnt
 𨶆	ktol
 𧈼	ktpc
 𨑧	ktpd
@@ -62559,9 +62559,9 @@ columns:
 𨙞	tnrv
 𦣺	tnsk
 𩼝	tnss
+𠁭	tntn
 𠐰	tntn
 𢒃	tnto
-𠁭	tntt
 𨑢	tntt
 𩻰	tntu
 𤕨	tnuw
@@ -74017,6 +74017,7 @@ columns:
 𫇩	sfci
 𫉎	sffl
 𫈓	sfgn
+𫊌	sfju
 𫈷	sfkl
 𫈡	sfkp
 𪤱	sfld
@@ -74175,7 +74176,6 @@ columns:
 𫇆	sscc
 𪽠	ssek
 𪞢	sshh
-𫊌	ssju
 𫈢	ssjv
 𪠓	sskt
 𪴰	ssle
@@ -93779,6 +93779,7 @@ columns:
 𲉷	degg
 𱴜	degn
 𲃊	dekk
+𲂞	delv
 𲊅	denf
 𲁉	denx
 𱡰	deqn
@@ -94554,7 +94555,6 @@ columns:
 𱘍	hlor
 𱵈	hlrk
 𱖕	hlti
-𲂞	hlul
 𲌚	hlva
 𱲆	hlvp
 𲌝	hlwm
