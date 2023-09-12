@@ -7,7 +7,7 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v2.4.5"
+version = "v2.4.6"
 
 try:
     remove_tree("./dist/yuhao")
