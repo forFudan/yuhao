@@ -7,8 +7,9 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v2.4.6"
+version = "v2.4.7"
 
+#%%
 try:
     remove_tree("./dist/yuhao")
 except:
@@ -23,4 +24,6 @@ copy_tree("./beta/mabiao", "./dist/yuhao/mabiao")
 copy_tree("./beta/schema", "./dist/yuhao/schema")
 
 shutil.make_archive(f"./dist/yuhao_{version}", 'zip', "./dist/yuhao")
+# %%
+shutil.make_archive(f"./dist/yuhao_{version}_hotfix", 'zip', "./beta/hotfix")
 # %%

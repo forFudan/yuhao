@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230912
+# 版本: 20230916
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words"
-version: "20230912"
+version: "20230916"
 sort: original
 columns:
   - text
@@ -51538,6 +51538,7 @@ columns:
 良母	ovbm
 褒赏	oenk
 躺平	wnhu
+仵作	eqeq
 打私	aarv
 禀明	onjw
 查缴	fjve

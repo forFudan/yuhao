@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230912
+# 版本: 20230916
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20230912"
+version: "20230916"
 sort: original
 columns:
   - text
@@ -1893,8 +1893,8 @@ columns:
 盒	ymne
 寸	acc
 披	avpo
-搂	apcn
 饶	raqh
+搂	apcn
 跌	nqgu
 欠	eii
 肌	wqjy
@@ -4938,8 +4938,8 @@ columns:
 栉	fsxj
 醍	gjfn
 磬	hbqd
-泷	idqp
 蓼	sxxt
+泷	idqp
 铂	tebj
 梏	fwlv
 祜	hdgs
@@ -5203,8 +5203,8 @@ columns:
 傩	ebwi
 帶	sfym
 疽	pmib
-珙	gsti
 貊	ydjr
+珙	gsti
 诟	oefl
 剛	kujm
 鬣	hvnb
@@ -5279,8 +5279,8 @@ columns:
 癣	pqug
 內	kruf
 酆	jddc
-踯	nugc
 珐	ghvv
+踯	nugc
 诒	ovlv
 颎	rudk
 髭	hnri
@@ -5451,8 +5451,8 @@ columns:
 酽	gauq
 鲇	qmlv
 佤	eawe
-骘	cnmx
 歙	yxxe
+骘	cnmx
 妁	cwod
 處	meqj
 垩	auht
@@ -5538,8 +5538,8 @@ columns:
 莴	slkt
 禳	holr
 缌	vjyi
-夤	roft
 鹬	cqky
+夤	roft
 終	besi
 玢	gtbd
 镏	ttjt
@@ -5581,8 +5581,8 @@ columns:
 膂	oqrw
 鞨	gjwx
 協	dxxx
-泔	issi
 锰	tvmn
+泔	issi
 聃	akht
 堞	hhfv
 徂	rmic
@@ -5611,8 +5611,8 @@ columns:
 鸹	ryae
 崃	jfpm
 記	ubja
-芡	seij
 旒	oqoq
+芡	seij
 芩	stov
 請	uhwy
 耧	dtpc
@@ -5631,8 +5631,8 @@ columns:
 隨	csfp
 罴	mhvu
 肄	rqxa
-缃	vfmf
 怛	yjfi
+缃	vfmf
 逄	eapd
 哏	lvnv
 沤	igwl
@@ -5792,8 +5792,8 @@ columns:
 乂	wll
 嫘	cjbs
 袆	pavi
-骟	xixx
 漯	ijbs
+骟	xixx
 捌	alxm
 瓘	gslw
 椴	fefq
@@ -5813,8 +5813,8 @@ columns:
 蠲	utmk
 總	brey
 鬲	flkn
-撄	akkc
 瓠	gfsq
+撄	akkc
 棰	fesj
 麸	hegu
 轾	hhkc
@@ -5853,8 +5853,8 @@ columns:
 鏊	hwew
 秭	rqxq
 鲅	qsbo
-茼	skfl
 瘢	pqqh
+茼	skfl
 旄	oqrm
 芰	sdbu
 郜	wlcj
@@ -5866,12 +5866,12 @@ columns:
 摭	ausu
 涑	iflv
 钡	tkbj
+蟮	kuul
 凼	kxgv
 萘	sghs
 蓍	shrj
 炔	ubte
 垆	hmbh
-蟮	kuul
 飧	rysk
 岢	jalv
 俣	elfg
@@ -6188,9 +6188,9 @@ columns:
 盡	xfum
 饫	reos
 鞮	gjfn
+辏	hgfg
 檗	blof
 鼙	ddbd
-辏	hgfg
 璩	gmds
 悛	yvte
 純	baxg
@@ -6254,9 +6254,9 @@ columns:
 豳	jdds
 疋	vnfi
 舨	qebu
+蝾	ksyf
 缑	vebq
 愦	ylkk
-蝾	ksyf
 猓	rjfv
 員	lmbv
 蚜	khyc
@@ -6297,8 +6297,8 @@ columns:
 硼	dwwy
 鸫	amya
 罘	mduw
-勰	xxxy
 獍	rijq
+勰	xxxy
 掛	ahhm
 皤	eqpj
 扃	iklv
@@ -6368,11 +6368,11 @@ columns:
 坼	heod
 鹪	wuya
 栌	fmbh
+嫠	hesc
 洳	iclv
 尜	mgma
 瘊	pebq
 砩	dvti
-嫠	hesc
 蠓	ksyd
 宄	oyfb
 廝	udej
@@ -6397,9 +6397,9 @@ columns:
 曈	jikk
 係	eqbs
 祕	hyqp
+蠖	kswb
 谮	ogqj
 鲎	iyqy
-蠖	kswb
 唣	leai
 悃	ynfv
 紛	btbd
@@ -6422,9 +6422,9 @@ columns:
 頂	admb
 蟲	kkkc
 怍	yqmo
+螨	ksft
 阈	pglf
 赜	shkb
-螨	ksft
 歲	ndfm
 鳐	qewo
 鄣	ijcj
@@ -6650,9 +6650,9 @@ columns:
 堅	sbht
 訝	uhya
 揠	agjc
+耪	dtoo
 鬏	hruo
 缧	vjbs
-耪	dtoo
 畫	xhjf
 雜	ottw
 騎	dgal
@@ -6704,16 +6704,16 @@ columns:
 甍	smya
 黾	lkdv
 氚	qqcq
-蒽	sngy
 烃	ubfo
+蒽	sngy
 焌	uvte
 緣	bbds
 濃	ikss
 鵰	whlr
 躞	nuub
+襻	pfwt
 铵	tocn
 嗾	loqq
-襻	pfwt
 鬯	wxri
 説	uulq
 價	edmb
@@ -6795,9 +6795,9 @@ columns:
 镆	tsjg
 瑧	ggrh
 爛	ukfu
+蕻	shst
 嫜	cijd
 闶	poqj
-蕻	shst
 茺	sovq
 瑢	gptl
 罷	mvwr
@@ -6841,16 +6841,16 @@ columns:
 甾	vjtc
 仳	erri
 鞔	gylq
-篪	qemu
 溆	itfb
+篪	qemu
 猃	rtfi
 芄	syod
 甡	wwgg
 權	fslw
-髂	moel
 硪	dqag
 潴	irhj
 髑	mmwk
+髂	moel
 钭	tsdi
 锘	tssl
 紀	bbjs
@@ -6877,13 +6877,13 @@ columns:
 翃	svxx
 甯	oytn
 沩	ioxo
-绁	vhis
-腧	wtfm
-崾	jdcn
 髌	moet
+绁	vhis
+崾	jdcn
 龆	ntxl
 鲭	qhwy
 羟	ubfo
+腧	wtfm
 翙	jrxx
 湧	ibtx
 紡	bogs
@@ -6925,9 +6925,9 @@ columns:
 邽	hhcj
 鬥	ndd
 貼	mmlv
-楦	foff
 埝	htoy
 曛	jwne
+楦	foff
 濉	imwi
 籼	pjsm
 箅	qjaj
@@ -6957,12 +6957,12 @@ columns:
 轟	gggc
 趑	dsei
 鎌	wuxt
-栝	frev
 馇	rfjf
+菹	simi
+栝	frev
 唪	lgao
 褰	ostr
 饩	rqqs
-菹	simi
 纩	vuus
 謂	ujwy
 軟	geic
@@ -6985,8 +6985,8 @@ columns:
 埤	hwdi
 莩	sevk
 丨	nsss
-尨	dtoo
 棻	stbf
+尨	dtoo
 靦	gmxi
 蜩	kwhl
 醅	gilv
@@ -7121,10 +7121,10 @@ columns:
 臥	stec
 穀	hfrh
 刭	bfmd
+榱	fofr
 蛘	kugc
 嗪	lgrh
 钋	tmoj
-榱	fofr
 唛	lheh
 苤	sdfi
 蒇	sdkb
@@ -7163,9 +7163,9 @@ columns:
 雋	wkfi
 籀	qatj
 仡	eqvi
+瘰	pjbs
 蜣	kuxi
 哌	lery
-瘰	pjbs
 韂	gysu
 讀	uhmm
 榮	uuyf
@@ -7212,9 +7212,9 @@ columns:
 辋	hkuu
 蟛	kdto
 嘧	loyj
+龠	ylln
 陴	cwdi
 俜	eksk
-龠	ylln
 獴	rsyd
 儀	euqg
 擾	adwe
@@ -7270,8 +7270,8 @@ columns:
 瓖	golr
 鄠	dfsc
 灣	iubv
-哳	laej
 箢	qorv
+哳	laej
 芤	svxi
 苾	syqp
 紹	bblv
@@ -7294,8 +7294,8 @@ columns:
 寢	oxxb
 廁	ummd
 氡	qesi
-苘	sklv
 甏	dtaw
+苘	sklv
 墚	hibf
 穸	prkx
 饣	rss
@@ -7318,8 +7318,8 @@ columns:
 觏	skhk
 毵	vgtr
 鹨	xxty
-俫	efpm
 嚄	lswb
+俫	efpm
 髎	mxxt
 谞	ovnw
 傾	erdm
@@ -7460,10 +7460,10 @@ columns:
 茲	svvo
 迺	dpdx
 埯	hgkd
+廑	ugsi
 摅	amyi
 丶	odd
 芴	swto
-廑	ugsi
 姤	cefl
 塽	hgww
 盩	hudm
@@ -7480,10 +7480,10 @@ columns:
 硇	drwl
 堍	hylo
 舄	rwuo
+苄	somo
 醵	gmds
 酴	gtff
 舾	qdxo
-苄	somo
 琯	gobb
 崒	jotd
 駛	dlwl
@@ -7492,8 +7492,8 @@ columns:
 虧	mwfs
 皺	wxwv
 懶	yflm
-兗	otlq
 浥	ilcb
+兗	otlq
 夼	gqcd
 艚	qsjj
 鼗	qssb
@@ -7575,9 +7575,9 @@ columns:
 瘥	pufo
 莶	stfi
 绠	vfjw
+齉	tjar
 扆	iory
 飐	qwml
-齉	tjar
 骦	xdfm
 臺	hlyh
 潛	igqj
@@ -8535,12 +8535,12 @@ columns:
 潟	irwu
 脒	wpmy
 鞡	gaid
-靰	ghwe
 镵	tylo
 鹐	yrya
 剚	alxm
 姶	cyen
 桲	fdyv
+靰	ghwe
 潏	icql
 浟	iene
 湝	irre
@@ -8808,6 +8808,7 @@ columns:
 赕	kuuo
 镤	tkug
 搾	apqm
+櫂	fxxw
 摴	adfs
 撾	anpd
 韨	avso
@@ -8820,7 +8821,6 @@ columns:
 疐	dyjn
 怹	ecyi
 慭	fpsy
-櫂	fxxw
 璥	gswe
 珋	gtmn
 埗	hnma
@@ -9093,19 +9093,19 @@ columns:
 煬	ujft
 婁	ldlc
 脛	wfvf
+讖	uttf
 餉	yrns
 贛	ijem
 閂	kfin
 歟	rske
 薊	stmd
 訥	ukte
-讖	uttf
 鳩	yrof
+聶	aaar
 襠	pnjt
 癘	psky
 臚	wmjm
 鍬	wruo
-聶	aaar
 軔	gbod
 莢	sgtt
 灤	iubf
@@ -9225,8 +9225,8 @@ columns:
 馭	dbum
 諫	ufnu
 馮	sdmi
-滸	iuqd
 粵	rqps
+滸	iuqd
 諜	uhfv
 檸	foya
 鑒	sqmw
@@ -9268,11 +9268,11 @@ columns:
 薺	sous
 崟	jwjs
 嬈	chhh
-賁	dsmb
 摑	angf
+賁	dsmb
 詆	utao
-鵠	wlro
 轂	hfgc
+鵠	wlro
 蒔	sjha
 鯗	ugty
 煒	ucio
@@ -9434,8 +9434,8 @@ columns:
 飴	yvlv
 跥	nvfv
 㨃	aovk
-颶	rmti
 幗	mngf
+颶	rmti
 廡	uqsu
 綾	bhte
 諍	uyxv
@@ -9447,22 +9447,22 @@ columns:
 鉀	wkjj
 躥	nprb
 繮	bfjf
+歿	frwb
 琺	gihv
 賑	msnb
 蘚	stug
 鈾	wkoj
 駢	dusj
-歿	frwb
 燾	hvfu
 詣	urjr
 鍘	wmmd
 鈸	wsbo
 儔	ehva
+鑠	wevf
 餾	ytjt
 礪	dssk
 髖	moso
 諢	uygc
-鑠	wevf
 翬	xxyg
 緇	bvjt
 鎢	wywj
@@ -9484,6 +9484,7 @@ columns:
 櫝	fhmm
 奩	ggll
 壙	hust
+滫	ienw
 甽	jqct
 鸻	raya
 铻	tfcl
@@ -9527,7 +9528,6 @@ columns:
 澦	icdm
 溹	idyb
 浲	iedn
-滫	ienw
 洓	ifkf
 瀌	iiuo
 淟	ikst
@@ -9691,13 +9691,13 @@ columns:
 曁	ergf
 裋	pflu
 崢	jexv
+簣	qlkm
+蓀	svqb
 訖	uqvi
 鋅	woxj
 錳	wvmn
 沺	ijts
-簣	qlkm
 獺	rflm
-蓀	svqb
 鴝	wlro
 燴	utfj
 閆	kfan
@@ -9724,6 +9724,7 @@ columns:
 鉸	wotw
 懨	ysjs
 傯	erey
+楨	fmmb
 輊	ghkc
 褸	pldc
 襤	psqm
@@ -9734,7 +9735,6 @@ columns:
 緙	bges
 傖	etol
 櫟	fevf
-楨	fmmb
 琡	gkmb
 濰	ibwi
 灝	ijom
@@ -9759,6 +9759,7 @@ columns:
 璦	geye
 輜	gvjt
 琿	gygc
+蟈	kngf
 鰱	tgpd
 䦃	tshj
 䥽	txbo
@@ -9766,6 +9767,7 @@ columns:
 鏍	wjbs
 鏝	wjmb
 䏝	wsxo
+鎳	wtfv
 㤘	yyxl
 㧐	abbu
 摏	agrj
@@ -9907,7 +9909,6 @@ columns:
 蛃	kfkt
 蝘	kgjc
 蜐	khvx
-蟈	kngf
 蚄	kogc
 冔	ksla
 螠	kutm
@@ -10022,7 +10023,6 @@ columns:
 鏵	wshs
 瓻	wsma
 鈽	wsmv
-鎳	wtfv
 鈐	wtov
 䲢	wugq
 鐠	wukj
@@ -11094,11 +11094,11 @@ columns:
 紤	bejs
 偳	ejsr
 觍	kstk
-暠	jolr
 岎	jtbd
 揾	ajmn
 紥	axbs
 澐	idsv
+暠	jolr
 璝	glkm
 綨	bdjs
 紣	bydi
@@ -11153,9 +11153,9 @@ columns:
 枊	ftxj
 蚑	kdbu
 狤	rhlv
-唻	ldlv
 漎	irtn
 晹	jjwt
+唻	ldlv
 镟	toqn
 丒	bofi
 媩	cdwy
@@ -11209,13 +11209,13 @@ columns:
 鬿	weju
 憞	yove
 缋	vlkk
+筯	qmxk
 紖	bvns
 晧	jwlv
-筯	qmxk
 剉	tthm
-衪	pcyy
 儍	ewxe
 祄	htti
+衪	pcyy
 蔘	svvt
 鮻	tvte
 哜	lpti
@@ -11391,18 +11391,18 @@ columns:
 攵	ehhh
 榀	flll
 泶	iykv
-珜	gugn
 蓳	sgsi
+藫	sidj
 娒	cqbm
 霊	dfau
 駼	dtff
 耞	dtxl
+珜	gugn
 涁	ifto
 渏	igal
 屻	jbod
 啲	lewo
 鴞	lsro
-藫	sidj
 暱	jgsl
 擓	agiw
 撘	aqye
@@ -12029,7 +12029,6 @@ columns:
 覙	ymmx
 篋	qggt
 踚	ntfn
-苙	sidj
 煼	uwxx
 拝	afdn
 攅	aggm
@@ -12092,6 +12091,7 @@ columns:
 秖	rtai
 飂	rxxt
 蕓	sdsv
+苙	sidj
 冓	skht
 鯾	tefw
 牐	twrj
@@ -12115,6 +12115,7 @@ columns:
 綣	bugv
 刲	hhmd
 啗	lyrj
+覊	dgdm
 軫	gtto
 龒	iwmh
 襩	phmm
@@ -12128,7 +12129,6 @@ columns:
 嬾	cflm
 妰	cqmo
 鳷	dbro
-覊	dgdm
 騨	dijd
 礧	djjj
 駉	dklv
@@ -14726,9 +14726,9 @@ columns:
 詡	uxxi
 躓	neem
 嶗	juux
-筧	qmxk
 嬏	cqpj
 鷴	kfro
+筧	qmxk
 塋	uuyh
 銃	wovq
 軲	gdgc

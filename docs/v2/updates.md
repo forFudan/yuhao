@@ -16,6 +16,8 @@ nav_order: 1
 {:toc}
 </details>
 
+本頁面主要展示較重大更新。一般的更新説明可在 [release](https://github.com/forFudan/yuhao/releases) 頁面查看。
+
 ## 2023年9月1日
 
 v2.4.5 發佈。
