@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230910
+# 版本: 20230918
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20230910"
+version: "20230918"
 sort: original
 columns:
   - text
@@ -67146,6 +67146,7 @@ columns:
 良母	ovbm
 褒賞	oenm
 躺平	wnhu
+仵作	eqeq
 多一事不如少一事	rfaa
 眉毛鬍子一把抓	brha
 君子之交淡如水	xvpk
@@ -79333,6 +79334,7 @@ columns:
 低頭不見擡頭見	efdm
 擡扛	ahaf
 擡步	ahnm
+乾元	djfh
 兼收幷蓄	uxqs
 兼容幷包	upqw
 阿爸	catw

@@ -29,9 +29,12 @@ switches:
     states: [只出常用字, 常用字前置, 全字集原排序]
     reset: 1
     # Control+Shift+O: 只出常用字
-    # Control+Shift+I: 常用字前置
+  - name: yuhao_sc_first
+    reset: 0
+    states: [繁簡混頻, 簡體優先]
+    # Control+Shift+I: 簡體優先
   - name: yuhao_single_char_only_for_full_code
-    states: ["字詞同出", "全码出单"]
+    states: ["字詞同出", "全碼出單"]
     reset: 0
     # Control+Shift+D
   - name: yuhao_postpone_full_code
@@ -58,8 +61,8 @@ switches:
     reset: 0
     # Control+Shift+F
   - name: simplification
-    reset: 0
     states: [繁保持, 繁轉簡]
+    reset: 0
     # Control+Shift+J
   - name: ascii_punct
     states: [。，, ．，]
@@ -104,6 +107,7 @@ engine:
     - lua_filter@yuhao_single_char_only_for_full_code
     - lua_filter@yuhao_char_first
     - lua_filter@yuhao_char_only
+    - lua_filter@yuhao_sc_first
     - lua_filter@yuhao_postpone_full_code
     - simplifier@traditionalize
     - simplifier@simplify
@@ -279,7 +283,7 @@ key_binder:
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
     - { when: always, accept: "Control+Shift+O", toggle: yuhao_char_only } # 常用詞過濾
-    - { when: always, accept: "Control+Shift+I", toggle: yuhao_char_first } # 常用詞前置
+    - { when: always, accept: "Control+Shift+I", toggle: yuhao_sc_first } # 簡體優先
     - { when: has_menu, accept: "0", toggle: yuhao_char_only } # 常用詞過濾
     - {
         when: always,
@@ -288,7 +292,6 @@ key_binder:
       } # 全码出单
     # - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
     - { when: has_menu, accept: "/", toggle: yuhao_chaifen.off } # 拆分
-    # - { when: always, accept: "Control+Shift+G", toggle: guji } # 反查
     - {
         when: always,
         accept: "Control+Shift+H",
