@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230910
+# 版本: 20230918
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.quick"
-version: "20230910"
+version: "20230918"
 sort: original
 columns:
   - text
@@ -1276,7 +1276,7 @@ columns:
 拣	aav
 扽	aax
 择	aba
-掇	abb
+搡	abb
 扭	abc
 切	abd
 聚	abe
@@ -2559,7 +2559,7 @@ columns:
 查	fjf
 桿	fjh
 榅	fjm
-杳	fjr
+棍	fjr
 梣	fjt
 更	fjw
 榻	fjx
@@ -2800,7 +2800,6 @@ columns:
 瑶	gew
 珽	gex
 瑷	gey
-玗	gfa
 珸	gfc
 奏	gfg
 玩	gfh
@@ -5595,7 +5594,7 @@ columns:
 蕾	sdj
 颐	sdk
 萊	sdl
-厦	sdm
+馮	sdm
 茏	sdq
 薷	sds
 藉	sdt
@@ -7276,8 +7275,8 @@ columns:
 由	koo
 二	sii
 馬	dmm
-至	hkk
 非	lii
+至	hkk
 土	htt
 未	hee
 王	gnn
@@ -7314,8 +7313,8 @@ columns:
 鳥	roo
 耳	arr
 麻	paa
-骨	mgg
 米	pmm
+骨	mgg
 尤	doo
 尚	nss
 亡	uww
@@ -7351,8 +7350,8 @@ columns:
 舟	qoo
 穴	pxx
 犬	sqq
-巾	mvv
 甫	fuu
+巾	mvv
 冊	ncc
 辰	snn
 卜	moo
@@ -7528,8 +7527,8 @@ columns:
 信	eua
 先	wqr
 員	lmb
-位	eid
 放	oeh
+位	eid
 計	udi
 收	xeh
 次	sei
@@ -7597,10 +7596,10 @@ columns:
 隻	wbu
 迷	ppd
 退	vpd
-追	ypd
 圍	nci
-忘	uyi
+追	ypd
 逐	dpd
+忘	uyi
 曲	ksj
 塊	hwu
 姐	cmi
@@ -7609,8 +7608,8 @@ columns:
 射	wac
 巨	gbu
 哈	lye
-困	nfv
 遇	kpd
+困	nfv
 陣	cgc
 冬	esi
 呀	lhy
@@ -7645,8 +7644,8 @@ columns:
 焦	wuo
 恨	yvn
 碼	ddm
-貞	mmb
 鼠	rbu
+貞	mmb
 井	sti
 呆	lfv
 采	efv
@@ -7679,8 +7678,8 @@ columns:
 罵	mdm
 扔	avj
 畏	jgf
-闖	kdm
 叉	bod
+闖	kdm
 坤	hke
 宰	oox
 斬	gej
@@ -7714,7 +7713,6 @@ columns:
 弛	vcy
 勻	wsi
 傀	ewu
-馮	sdm
 馭	dbu
 賬	mha
 釦	wlv
@@ -7756,6 +7754,7 @@ columns:
 烊	uug
 汕	ijs
 佯	eug
+杳	fjr
 爻	wwl
 夯	gxk
 庠	uug

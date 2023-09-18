@@ -25,7 +25,10 @@ switches:
     states: [只出常用字, 常用字前置, 全字集原排序]
     reset: 1
     # Control+Shift+O: 只出常用字
-    # Control+Shift+I: 常用字前置
+  - name: yuhao_tw_first
+    reset: 1
+    states: [繁簡混頻, 正體優先]
+    # Control+Shift+I: 正體優先
   - name: yuhao_single_char_only_for_full_code
     states: ["字詞同出", "全碼出單"]
     reset: 0
@@ -96,6 +99,7 @@ engine:
     - lua_filter@yuhao_single_char_only_for_full_code
     - lua_filter@yuhao_char_first
     - lua_filter@yuhao_char_only
+    - lua_filter@yuhao_tw_first
     - lua_filter@yuhao_postpone_full_code
     - simplifier@simplify
     - lua_filter@yuhao_chaifen
@@ -103,7 +107,7 @@ engine:
     - uniquifier
 
 simplify:
-  tags: [abc]
+  tags: [abc, reverse_lookup]
   option_name: simplification
   opencc_config: t2s.json
   tips: all
@@ -261,7 +265,7 @@ key_binder:
     # - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
     - { when: always, accept: "Control+Shift+O", toggle: yuhao_char_only } # 常用詞過濾
-    - { when: always, accept: "Control+Shift+I", toggle: yuhao_char_first } # 常用詞前置
+    - { when: always, accept: "Control+Shift+I", toggle: yuhao_tw_first } # 正體優先
     - { when: has_menu, accept: "0", toggle: yuhao_char_only } # 常用詞過濾
     - {
         when: always,
