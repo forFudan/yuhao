@@ -29,7 +29,6 @@ switches:
     states: [只出常用字, 常用字前置, 全字集原排序]
     reset: 1
     # Control+Shift+O: 只出常用字
-    # Control+Shift+I: 常用字前置
   - name: yuhao_sc_first
     reset: 0
     states: [繁簡混頻, 簡體優先]
@@ -58,8 +57,8 @@ switches:
     reset: 0
     # Control+Shift+F
   - name: simplification
-    reset: 0
     states: [繁保持, 繁轉簡]
+    reset: 0
     # Control+Shift+J
   - name: ascii_punct
     states: [。，, ．，]
@@ -231,7 +230,6 @@ key_binder:
       } # 全码出单
     # - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
     - { when: has_menu, accept: "/", toggle: yuhao_chaifen.off } # 拆分
-    # - { when: always, accept: "Control+Shift+G", toggle: guji } # 反查
     - {
         when: always,
         accept: "Control+Shift+H",

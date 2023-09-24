@@ -119,6 +119,7 @@ repr,font,zhu_code
 辶,辶,Pd
 门,门,Pn
 高,高,Ol
+{襄頭},,Ol
 {亮頭},,Ol
 {京頭},,Ol
 {高頭},高,Ol
@@ -151,6 +152,7 @@ repr,font,zhu_code
 {乐上},,Tm
 {卬左},,Tm
 合,合,Ye
+龠,龠,Ye
 向,向,Rn
 {向框},,Rn
 {囟框},,Rn

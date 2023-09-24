@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230918
+# 版本: 20230924
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.quick"
-version: "20230918"
+version: "20230924"
 sort: original
 columns:
   - text
@@ -1420,6 +1420,7 @@ columns:
 掠	aom
 擅	aon
 抗	aoq
+攘	aos
 捽	aot
 擠	aou
 擁	aov
@@ -1819,10 +1820,10 @@ columns:
 妨	cog
 陔	coi
 婶	cok
-孃	col
 嬗	con
 嬸	coq
 婉	cor
+孃	cos
 姣	cot
 嫡	cou
 娘	cov
@@ -2047,8 +2048,8 @@ columns:
 駐	dog
 駭	doi
 霭	doj
-驤	dol
 碗	dor
+驤	dos
 碎	dot
 霽	dou
 硫	dov
@@ -2319,10 +2320,10 @@ columns:
 皖	eof
 仿	eog
 储	eoh
-儴	eol
 僦	eom
 伉	eoq
 依	eor
+儴	eos
 皎	eot
 傍	eou
 俍	eov
@@ -2899,11 +2900,11 @@ columns:
 玉	god
 瑄	gof
 琮	goh
-釀	gol
 琼	gom
 璮	gon
 璇	goq
 琬	gor
+釀	gos
 較	got
 𤧛	gou
 醇	gov
@@ -3161,11 +3162,11 @@ columns:
 坊	hog
 鬃	hoh
 垓	hoi
-壤	hol
 辌	hom
 壇	hon
 坑	hoq
 坨	hor
+壤	hos
 较	hot
 墒	hou
 墩	hov
@@ -3472,12 +3473,12 @@ columns:
 注	iog
 淙	ioh
 泳	iok
-瀼	iol
 涼	iom
 澶	ion
 滓	ioo
 游	ioq
 瀉	ior
+瀼	ios
 滚	iot
 濟	iou
 流	iov
@@ -3619,6 +3620,7 @@ columns:
 溟	iyj
 渙	iyk
 浼	iyl
+瀹	iyn
 沉	iyq
 浓	iyr
 澹	iys
@@ -3741,6 +3743,7 @@ columns:
 晾	jom
 暶	joq
 畹	jor
+曩	jos
 峧	jot
 暾	jov
 嵝	jpc
@@ -4179,10 +4182,9 @@ columns:
 喧	lof
 咳	loi
 咏	lok
-嚷	lol
 吭	loq
 裴	lor
-噻	los
+嚷	los
 啐	lot
 啼	lou
 哼	lov
@@ -4714,7 +4716,6 @@ columns:
 诽	oli
 谴	olk
 宮	olr
-襄	ols
 识	olt
 京	oma
 敲	omb
@@ -4774,6 +4775,7 @@ columns:
 宽	osk
 寬	osm
 宸	osn
+襄	osr
 谋	oss
 賽	ost
 谎	osu
@@ -5307,8 +5309,9 @@ columns:
 鸼	qya
 筷	qyb
 篩	qyf
-籲	qyl
+𩾃	qyl
 劄	qym
+籲	qyn
 簷	qys
 筝	qyx
 彻	rab
@@ -5755,6 +5758,7 @@ columns:
 凜	son
 蔟	soq
 菀	sor
+蘘	sos
 菸	sot
 蒂	sou
 蓄	sov
@@ -6061,7 +6065,7 @@ columns:
 鯨	tom
 镞	toq
 铱	tor
-𬭎	tos
+镶	tos
 铰	tot
 镑	tou
 念	tov
@@ -6438,6 +6442,7 @@ columns:
 恙	uyi
 煥	uyk
 讒	uyl
+爚	uyn
 羑	uyo
 謐	uyq
 焰	uyr
@@ -6564,6 +6569,7 @@ columns:
 孩	voi
 缟	vol
 弶	vom
+𬙋	vos
 绞	vot
 缔	vou
 弦	vov
@@ -6791,10 +6797,11 @@ columns:
 腙	woh
 胲	woi
 脉	wok
-鑲	wol
+鎬	wol
 膻	won
 肮	woq
 腕	wor
+鑲	wos
 彤	wot
 膀	wou
 臃	wov
@@ -6905,7 +6912,7 @@ columns:
 皺	wxw
 膠	wxx
 銫	wyc
-鑰	wyl
+鑰	wyn
 鉍	wyq
 脓	wyr
 膽	wys
@@ -6970,8 +6977,8 @@ columns:
 驷	xnq
 驻	xog
 骇	xoi
-骧	xol
 驼	xor
+骧	xos
 𫠊	xov
 骍	xox
 𬴊	xpr
@@ -7113,7 +7120,9 @@ columns:
 帥	ymv
 悄	ymw
 悭	ynb
+龠	ync
 悃	ynf
+龢	ynr
 惝	yns
 慍	ynt
 館	yob
@@ -7788,7 +7797,6 @@ columns:
 屼	jhw
 伕	egu
 鳧	rqj
-鎬	wol
 餽	ywu
 皁	edi
 堝	hna
@@ -14298,6 +14306,7 @@ columns:
 𩚍	ymv
 𢝸	yna
 𩝄	yna
+𠎤	ync
 𢡀	yne
 𧴔	yne
 𧿍	ynf
@@ -16175,6 +16184,7 @@ columns:
 𰷠	kcy
 𰛐	kei
 𰃧	ken
+𰋙	kgd
 𰐍	kgy
 𰲬	khc
 𰿗	kmo
@@ -16914,6 +16924,7 @@ columns:
 ⾊	ycb
 ⾩	ydi
 ⿔	yjm
+⿕	ync
 ⾓	ytn
 切	abd
 拓	adh
