@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20230918
+# 版本: 20230924
 #
 # 發明人 朱宇浩
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -27,7 +27,7 @@
 
 ---
 name: "yuhao_tw"
-version: "20230918"
+version: "20230924"
 sort: original
 import_tables:
   # 去除下方的 # 符号以导入词库

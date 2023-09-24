@@ -7,7 +7,7 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v2.4.8"
+version = "v2.5.0"
 
 #%%
 try:
@@ -25,5 +25,5 @@ copy_tree("./beta/schema", "./dist/yuhao/schema")
 
 shutil.make_archive(f"./dist/yuhao_{version}", 'zip', "./dist/yuhao")
 # %%
-shutil.make_archive(f"./dist/yuhao_{version}_hotfix", 'zip', "./beta/hotfix")
+shutil.make_archive(f"./dist/yuhao_{version}_android_hotfix", 'zip', "./beta/hotfix")
 # %%

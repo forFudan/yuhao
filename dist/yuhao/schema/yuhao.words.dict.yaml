@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20230918
+# 版本: 20230924
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words"
-version: "20230918"
+version: "20230924"
 sort: original
 columns:
   - text
@@ -30697,7 +30697,7 @@ columns:
 评出	ohxx
 说不清	odih
 评断	ohpx
-襄阳	olcj
+襄阳	oscj
 高加索	oxdy
 为宜	oxom
 为名	oxrl
@@ -37741,7 +37741,7 @@ columns:
 齐步	ptnm
 课前	ojuw
 齐齐	ptpt
-襄樊	olfw
+襄樊	osfw
 市电	omkd
 高飞	olvs
 永安	okoc
@@ -42235,7 +42235,7 @@ columns:
 妄下雌黄	uans
 旅游区	oigw
 齐聚	ptab
-襄助	olmx
+襄助	osmx
 主办者	oxhj
 为题	oxjf
 高阶	olct
@@ -47762,7 +47762,7 @@ columns:
 飞絮	vscl
 怪相	ybfm
 罕闻	ytpa
-襄理	olgk
+襄理	osgk
 卸装	qfuh
 悬棺	mvfo
 官价	obet
@@ -49738,7 +49738,7 @@ columns:
 就其	omdj
 应知	uiql
 齐眉	ptbm
-襄城	olhd
+襄城	oshd
 为盼	oxmt
 为最	oxja
 为鉴	oxnq
@@ -59930,7 +59930,7 @@ columns:
 卡夫卡	kgkm
 叔本华	kfer
 海南省	idmq
-沙瓤	imol
+沙瓤	imos
 小把戏	mabg
 泣鬼神	iwhk
 省劲	mqbf
@@ -67878,7 +67878,7 @@ columns:
 用材林	tfff
 画集	fjwf
 圆桌会议	nmto
-瓤子	olvk
+瓤子	osvk
 乞援	qvae
 主攻手	oftu
 造像	wley
