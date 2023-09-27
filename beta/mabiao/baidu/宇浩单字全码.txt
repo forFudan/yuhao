@@ -823,6 +823,7 @@ afwt 𢺴
 afwy 𰒽
 afxc 𫑚
 afxc 𰻢
+afxc 捿
 afxd 𡯼
 afxi 丐
 afxi 𢫄
@@ -4358,6 +4359,7 @@ bfvu 𰗑
 bfwf 絚
 bfwp 𨓔
 bfwp 𲆆
+bfxc 緀
 bfxk 劲
 bfxk 𦂪
 bfxn 緁
@@ -7328,6 +7330,8 @@ cfvh 𩏎
 cfvo 𨸞
 cfvu 𣏗
 cfvx 𩎩
+cfxc 𨹷
+cfxc 𪥼
 cfxi 𡚨
 cfxn 婕
 cfxn 𨺇
@@ -11131,6 +11135,8 @@ dfwg 𥒑
 dfwg 𩧅
 dfws 𲋻
 dfwt 𥘄
+dfxc 霋
+dfxc 䃀
 dfxj 𩢞
 dfxn 䝊
 dfxn 𥓐
@@ -16216,6 +16222,7 @@ efwy 𣎋
 efwy 𮯵
 efxb 𠬿
 efxb 𠭊
+efxc 𠉯
 efxh 𠃈
 efxh 堲
 efxi 𤓳
@@ -19938,6 +19945,7 @@ ffwt 𣡄
 ffwu 𣝹
 ffwv 𦡨
 ffwy 杤
+ffxc 棲
 ffxk 㯟
 ffxk 𫦯
 ffxn 𣓉
@@ -23899,6 +23907,13 @@ fxbl 𣑌
 fxbo 𭩰
 fxbs 紮
 fxbu 𣐔
+fxca 㼮
+fxcc 郪
+fxcf 𱙳
+fxcm 𬐢
+fxcn 妻
+fxcr 鶈
+fxcw 𨿩
 fxdh 𥑙
 fxdm 𩢗
 fxer 𪇿
@@ -35091,6 +35106,7 @@ ifwo 㳩
 ifwt 灪
 ifwy 𬇕
 ifwy 𦚑
+ifxc 淒
 ifxf 𣲅
 ifxf 𱥾
 ifxi 㳐
@@ -41099,11 +41115,9 @@ jnrh 𡸙
 jnrh 𡹤
 jnsj 𡽞
 jnsr 曱
-jnsr 甴
 jnsr 㫾
 jntd 𡽔
 jntt 𡸋
-jntv 𡇛
 jnud 𣋡
 jnvs 𡷿
 jnvt 𤲊
@@ -43731,6 +43745,7 @@ kfwu 𤉡
 kfwy 𠕔
 kfwy 𰿘
 kfxb 𨴉
+kfxc 𫋂
 kfxf 𧑛
 kfxi 𧉹
 kfxl 𤰴
@@ -47290,6 +47305,7 @@ lfwp 𰇥
 lfwt 𱕮
 lfwu 𡃼
 lfwy 𱒀
+lfxc 啛
 lfxf 𭈶
 lfxi 𬺺
 lfxi 叱
@@ -47920,6 +47936,7 @@ lksq 𤟩
 lksq 𤠢
 lkss 噥
 lkst 唺
+lksv 甴
 lksv 𠀐
 lksv 𠮵
 lksv 𭆽
@@ -47932,6 +47949,7 @@ lktm 剐
 lktp 𬨨
 lktt 𪠼
 lktt 𰮄
+lktv 𡇛
 lktx 𱐎
 lkua 嚉
 lkub 𡅇
@@ -50999,6 +51017,7 @@ mfvo 𩨤
 mfvq 𥆆
 mfvw 䍒
 mfwg 𥌞
+mfxc 𱲾
 mfxn 睫
 mfxp 𮟃
 mfxs 𦊷
@@ -61370,6 +61389,8 @@ pfwt 襻
 pfwy 疠
 pfwy 𥸯
 pfwy 𬮙
+pfxc 褄
+pfxc 𱹊
 pfxi 𤵦
 pfxk 𥥙
 pfxk 𭄲
@@ -65520,6 +65541,7 @@ qfwm 𱳟
 qfwx 勧
 qfwy 𥵅
 qfxb 𮅺
+qfxc 𱸀
 qfxf 𭀡
 qfxj 笻
 qfxk 𣱗
@@ -75955,6 +75977,8 @@ sfwu 藮
 sfwx 励
 sfwx 𫞪
 sfwy 厉
+sfxc 凄
+sfxc 萋
 sfxg 𡴃
 sfxi 𠃟
 sfxj 𤲱
@@ -75968,6 +75992,7 @@ sfxn 萐
 sfxn 𦭢
 sfxn 𦱥
 sfxn 𪑤
+sfxq 𦪱
 sfxs 𮝾
 sfya 𠁑
 sfyb 𦴃
@@ -82084,6 +82109,7 @@ tfwy 愈
 tfxb 𫢿
 tfxb 𠏧
 tfxc 𨜾
+tfxc 𩸸
 tfxg 戧
 tfxj 印
 tfxk 𧓟
@@ -85928,6 +85954,7 @@ ufwp 𮞍
 ufwt 爩
 ufwt 𧦯
 ufwv 𲁴
+ufxc 𫌿
 ufxn 誱
 ufxn 𢈻
 ufxo 𰃝
@@ -90625,6 +90652,7 @@ vfwq 𠙭
 vfwv 𥀡
 vfww 𨨬
 vfwx 𠡔
+vfxc 𰬢
 vfxh 𡐪
 vfxi 𡥑
 vfxn 𢏵
@@ -93658,6 +93686,7 @@ wfwl 𤕜
 wfwt 鑻
 wfwt 𩲬
 wfwu 𩳃
+wfxc 𨧬
 wfxi 𨥼
 wfxk 𦈮
 wfxn 脻
@@ -100602,6 +100631,7 @@ yfwi 雑
 yfwt 𢰨
 yfwy 𣍟
 yfwy 𭜌
+yfxc 悽
 yfxi 𪫝
 yfxn 𢜀
 ygac 慱

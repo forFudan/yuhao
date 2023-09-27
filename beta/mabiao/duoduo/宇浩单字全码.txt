@@ -823,6 +823,7 @@
 𰒽	afwy
 𫑚	afxc
 𰻢	afxc
+捿	afxc
 𡯼	afxd
 丐	afxi
 𢫄	afxi
@@ -4358,6 +4359,7 @@
 絚	bfwf
 𨓔	bfwp
 𲆆	bfwp
+緀	bfxc
 劲	bfxk
 𦂪	bfxk
 緁	bfxn
@@ -7328,6 +7330,8 @@
 𨸞	cfvo
 𣏗	cfvu
 𩎩	cfvx
+𨹷	cfxc
+𪥼	cfxc
 𡚨	cfxi
 婕	cfxn
 𨺇	cfxn
@@ -11131,6 +11135,8 @@
 𩧅	dfwg
 𲋻	dfws
 𥘄	dfwt
+霋	dfxc
+䃀	dfxc
 𩢞	dfxj
 䝊	dfxn
 𥓐	dfxn
@@ -16216,6 +16222,7 @@
 𮯵	efwy
 𠬿	efxb
 𠭊	efxb
+𠉯	efxc
 𠃈	efxh
 堲	efxh
 𤓳	efxi
@@ -19938,6 +19945,7 @@
 𣝹	ffwu
 𦡨	ffwv
 杤	ffwy
+棲	ffxc
 㯟	ffxk
 𫦯	ffxk
 𣓉	ffxn
@@ -23899,6 +23907,13 @@
 𭩰	fxbo
 紮	fxbs
 𣐔	fxbu
+㼮	fxca
+郪	fxcc
+𱙳	fxcf
+𬐢	fxcm
+妻	fxcn
+鶈	fxcr
+𨿩	fxcw
 𥑙	fxdh
 𩢗	fxdm
 𪇿	fxer
@@ -35091,6 +35106,7 @@
 灪	ifwt
 𬇕	ifwy
 𦚑	ifwy
+淒	ifxc
 𣲅	ifxf
 𱥾	ifxf
 㳐	ifxi
@@ -41099,11 +41115,9 @@
 𡹤	jnrh
 𡽞	jnsj
 曱	jnsr
-甴	jnsr
 㫾	jnsr
 𡽔	jntd
 𡸋	jntt
-𡇛	jntv
 𣋡	jnud
 𡷿	jnvs
 𤲊	jnvt
@@ -43731,6 +43745,7 @@
 𠕔	kfwy
 𰿘	kfwy
 𨴉	kfxb
+𫋂	kfxc
 𧑛	kfxf
 𧉹	kfxi
 𤰴	kfxl
@@ -47290,6 +47305,7 @@
 𱕮	lfwt
 𡃼	lfwu
 𱒀	lfwy
+啛	lfxc
 𭈶	lfxf
 𬺺	lfxi
 叱	lfxi
@@ -47920,6 +47936,7 @@
 𤠢	lksq
 噥	lkss
 唺	lkst
+甴	lksv
 𠀐	lksv
 𠮵	lksv
 𭆽	lksv
@@ -47932,6 +47949,7 @@
 𬨨	lktp
 𪠼	lktt
 𰮄	lktt
+𡇛	lktv
 𱐎	lktx
 嚉	lkua
 𡅇	lkub
@@ -50999,6 +51017,7 @@
 𥆆	mfvq
 䍒	mfvw
 𥌞	mfwg
+𱲾	mfxc
 睫	mfxn
 𮟃	mfxp
 𦊷	mfxs
@@ -61370,6 +61389,8 @@
 疠	pfwy
 𥸯	pfwy
 𬮙	pfwy
+褄	pfxc
+𱹊	pfxc
 𤵦	pfxi
 𥥙	pfxk
 𭄲	pfxk
@@ -65520,6 +65541,7 @@
 勧	qfwx
 𥵅	qfwy
 𮅺	qfxb
+𱸀	qfxc
 𭀡	qfxf
 笻	qfxj
 𣱗	qfxk
@@ -75955,6 +75977,8 @@
 励	sfwx
 𫞪	sfwx
 厉	sfwy
+凄	sfxc
+萋	sfxc
 𡴃	sfxg
 𠃟	sfxi
 𤲱	sfxj
@@ -75968,6 +75992,7 @@
 𦭢	sfxn
 𦱥	sfxn
 𪑤	sfxn
+𦪱	sfxq
 𮝾	sfxs
 𠁑	sfya
 𦴃	sfyb
@@ -82084,6 +82109,7 @@
 𫢿	tfxb
 𠏧	tfxb
 𨜾	tfxc
+𩸸	tfxc
 戧	tfxg
 印	tfxj
 𧓟	tfxk
@@ -85928,6 +85954,7 @@
 爩	ufwt
 𧦯	ufwt
 𲁴	ufwv
+𫌿	ufxc
 誱	ufxn
 𢈻	ufxn
 𰃝	ufxo
@@ -90625,6 +90652,7 @@
 𥀡	vfwv
 𨨬	vfww
 𠡔	vfwx
+𰬢	vfxc
 𡐪	vfxh
 𡥑	vfxi
 𢏵	vfxn
@@ -93658,6 +93686,7 @@
 鑻	wfwt
 𩲬	wfwt
 𩳃	wfwu
+𨧬	wfxc
 𨥼	wfxi
 𦈮	wfxk
 脻	wfxn
@@ -100602,6 +100631,7 @@
 𢰨	yfwt
 𣍟	yfwy
 𭜌	yfwy
+悽	yfxc
 𪫝	yfxi
 𢜀	yfxn
 慱	ygac
