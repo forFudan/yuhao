@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230924
+# 版本: 20230927
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.words_literature"
-version: "20230924"
+version: "20230927"
 sort: original
 columns:
   - text
@@ -658,7 +658,7 @@ columns:
 仇人相見	etfm
 小時了了	mjvv
 天理昭昭	fgjj
-夫貴妻榮	gldu
+夫貴妻榮	glfu
 有志不在年高	shdo
 半壁河山	ubij
 解民倒懸	ycem
@@ -835,7 +835,7 @@ columns:
 近悅遠來	eyhd
 不顧大局	digb
 一長一短	fhfq
-夫妻反目	gdsm
+夫妻反目	gfsm
 耳順之年	aqpq
 若烹小鮮	somt
 瞭若指掌	msan
@@ -861,7 +861,7 @@ columns:
 一報還一報	fhmh
 萬萬千千	ssww
 江河行地	iirh
-梅妻鶴子	fdyv
+梅妻鶴子	ffyv
 遲疑不定	brdo
 慨然應允	ywuv
 規行矩步	grqn
@@ -3000,7 +3000,7 @@ columns:
 行行重行行	rrwr
 家人父子	ottv
 疲乏不堪	pqdh
-朋友妻不可欺	wsdd
+朋友妻不可欺	wsfd
 患難相恤	lsfy
 出山泉水濁	xjei
 妙手偶得之	ctep
@@ -3069,7 +3069,7 @@ columns:
 嘔啞嘲哳難為聽	llla
 了卻君王天下事	vtxa
 一曲紅綃不知數	fkbl
-卻看妻子愁何在	ttds
+卻看妻子愁何在	ttfs
 可憐無數山	ayqj
 如聽仙樂耳暫明	caej
 山隨平野盡	jchx
@@ -4584,7 +4584,7 @@ columns:
 綠蕪牆繞青苔院	bsxc
 嗣皇繼聖登夔皋	lebe
 江城梅花引	ihfv
-耶孃妻子走相送	acdu
+耶孃妻子走相送	acfu
 對瀟瀟暮雨灑江天	kiif
 荒煙依舊平楚	suef
 萬古青濛濛	sdhi
@@ -5235,7 +5235,7 @@ columns:
 春逐五更來	gdfd
 東風隨春歸	frcy
 再使風俗淳	geri
-結髮為夫妻	bhod
+結髮為夫妻	bhof
 何日更重遊	ejfo
 不以其道得之	dxdp
 巡天遙看一千河	vfwi
@@ -7887,7 +7887,7 @@ columns:
 念之斷人腸	tpvw
 餘既滋蘭之九畹兮	yxit
 乘醉聽蕭鼓	rgad
-吾妻死之年所手植也	fdfc
+吾妻死之年所手植也	fffc
 誰識臥龍客	uuso
 欲識潮頭高几許	tuiu
 半醉半醒中	ugul
@@ -8534,7 +8534,7 @@ columns:
 放浪形骸之外	oifr
 畏天者保其國	jfhn
 在星輝斑斕裡放歌	sjma
-老妻畫紙為棋局	hdxb
+老妻畫紙為棋局	hfxb
 必有可觀者焉	ysaf
 一章三遍讀	fifu
 寂然坐空林	owtf
@@ -11105,7 +11105,7 @@ columns:
 夫召我者豈徒哉	gbqd
 不若桂與蘭	dsfs
 則吾能徵之矣	mfvv
-老妻寄異縣	hdom
+老妻寄異縣	hfom
 再拜而送之	gtsp
 臺城曲二首	hhku
 山園細路高	jnbo
@@ -11160,7 +11160,7 @@ columns:
 莫上最高層	skkb
 攜手玩芳叢	atgk
 酒酣夜別淮陰市	igoo
-豈為妻子謀	jodu
+豈為妻子謀	jofu
 盪漾遊子情	iioy
 採香行處蹙連錢	arrw
 和答錢穆父詠猩猩毛筆	rqwq
@@ -11488,7 +11488,7 @@ columns:
 屈指幾多人	bavt
 青山一髮是中原	hjfs
 熱散由心靜	hskh
-今為妻妾之奉為之	todp
+今為妻妾之奉為之	tofp
 梧桐識嘉樹	ffuf
 霞照波心錦裹山	djij
 西風莫道無情思	drsj
@@ -11795,7 +11795,7 @@ columns:
 於予與何誅	ocru
 雙行桃樹下	wrfa
 滿地無人掃	ihqa
-一二老寡妻	fshd
+一二老寡妻	fshf
 多不過六七	rdna
 奈你自家心下	geta
 胡不上書自薦達	ddkh
@@ -11872,7 +11872,7 @@ columns:
 庭雪到腰埋不死	udhf
 雷作百山動	dedw
 漆園有傲吏	insf
-率妻子邑人來此絕境	odvh
+率妻子邑人來此絕境	ofvh
 杜鵑暮春至	flsh
 心事兩悠然	yafw
 水穿城下作雷鳴	kphl
@@ -13796,7 +13796,7 @@ columns:
 如智者若禹之行水也	cqhc
 其故家遺俗	ddoe
 庭樹巢鸚鵡	ufvf
-與子路之妻	rvnd
+與子路之妻	rvnf
 越山長青水長白	djhe
 王巾笥而藏之廟堂之上	gmqk
 白下驛餞唐少府	eadu
@@ -15301,7 +15301,7 @@ columns:
 夫子之牆數仞	gvpe
 人間桑海朝朝變	tkbb
 勞者屍如丘	uhbe
-廬江小吏仲卿妻	uimd
+廬江小吏仲卿妻	uimf
 吾祖死於是	fhfj
 內無應門五尺之僮	kque
 宮官既拆盤	ooxq
@@ -15456,7 +15456,7 @@ columns:
 魚戲新荷動	tmiw
 星漢西流夜未央	jidk
 朝天數換飛龍馬	dfld
-驚起妻孥一笑譁	sddu
+驚起妻孥一笑譁	sdfu
 一朝辭此地	fdeh
 止則不明也	nmdc
 譁然而駭者	uwsh
@@ -15587,6 +15587,7 @@ columns:
 羣起效尤	xdod
 公説公有理	tutg
 表裏山河	hoji
+夫貴妻榮	gldu
 鐵畫銀鈎	wxww
 説風涼話	uriu
 羣英薈萃	xsss
@@ -15595,6 +15596,7 @@ columns:
 近悦遠來	eyhd
 夫妻反目	gdem
 樓台亭閣	fvok
+梅妻鶴子	fdyv
 丈二和尚摸不着頭腦	ssrw
 關門閉户	kkki
 秀才造反	rawe
@@ -15687,8 +15689,10 @@ columns:
 人不知而不愠	tdqy
 乃敢與君絕	vvrb
 萬條垂下綠絲絛	seee
+朋友妻不可欺	wsdd
 白銀盤裏一青螺	ewqk
 尚思為國戍輪台	njov
+卻看妻子愁何在	ttds
 鬱孤台下清江水	fvvk
 對此如何不淚垂	knce
 羣山萬壑赴荊門	xjsk
@@ -15788,6 +15792,7 @@ columns:
 衞青不敗由天幸	rhdh
 海氣濕蟄燻腥臊	iqiw
 坎軻只得移荊蠻	hglu
+耶孃妻子走相送	acdu
 説盡平生意	uxhi
 判司卑官不堪説	uvwu
 泉源在庭户	eisi
@@ -15827,6 +15832,7 @@ columns:
 手把紅旗旗不濕	tabi
 更加鬱鬱葱葱	fxfs
 龜蛇鎖大江	qkwi
+結髮為夫妻	bhod
 萬户千門入畫圖	siwn
 萬户蕭疏鬼唱歌	sisa
 此去泉台招舊部	nhei
@@ -15942,6 +15948,7 @@ columns:
 盡從勤裏得	xrgr
 自富陽至桐廬一百許裏	toco
 其西南諸峯	dddj
+吾妻死之年所手植也	fdfc
 誰識卧龍客	uuso
 十户中人賦	dilm
 羣仙出沒空明中	xexl
@@ -15974,6 +15981,7 @@ columns:
 迴飆吹散五峯雪	nsld
 稚子敲針作釣鈎	rvow
 在星輝斑斕裏放歌	sjma
+老妻畫紙為棋局	hdxb
 寒梅着花未	ofuh
 莫為霜台愁歲暮	sods
 道聽而途説	uasu
@@ -16087,11 +16095,13 @@ columns:
 小艇垂綸初罷	mqem
 負命者上鈎	yyhw
 反綰頭髻盤旋風	ebfr
+老妻寄異縣	hdom
 台城曲二首	vhku
 蠻衣斑斕布	uogs
 片石孤峯窺色相	tdvf
 千門萬户日童日童日	wksj
 莫上最高層	skjb
+豈為妻子謀	jodu
 陵與衞律之罪上通於天	crrf
 自天題處濕	tfji
 牀底松聲萬壑哀	xufo
@@ -16107,6 +16117,7 @@ columns:
 范增説項羽曰	shuj
 鈎簾歸乳燕	wqys
 中峯倚紅日	ljej
+今為妻妾之奉為之	todp
 寄言全盛紅顏子	outv
 興兵討羣兇	reuw
 尊前擬把歸期説	uuau
@@ -16126,10 +16137,12 @@ columns:
 醉裏且貪歡笑	gomq
 吾不反不側	fdee
 敢問何謂也	vkec
+一二老寡妻	fshd
 鳥污苔侵文字殘	risf
 自到青冥裏	thho
 垂老不得安	ehdo
 非鈎無察也	lwqc
+率妻子邑人來此絕境	odvh
 雖有義台路寢	lsuo
 枕中雲氣千峯近	flde
 就中最好是今朝	oljd
@@ -16231,6 +16244,7 @@ columns:
 紀叟黃泉裏	brso
 依稀猶記妙高台	errv
 海內人才孰卧龍	ikti
+與子路之妻	rvnd
 指如削葱根	acmf
 予惡乎知説生之非惑邪	cfqh
 嗟來桑户乎	ldbq
@@ -16324,6 +16338,7 @@ columns:
 反第二次大圍剿	eqsv
 靜一而不變	hfsu
 人間桑海朝朝變	tkbu
+廬江小吏仲卿妻	uimd
 昨宵夢裏還	josm
 已作對牀聲	bekh
 糞土當年萬户候	phne
@@ -16332,6 +16347,7 @@ columns:
 千門萬户雪花浮	wksi
 牀下夜相親	xaoi
 而子桑户死	svbf
+驚起妻孥一笑譁	sddu
 邪説暴行有作	huje
 白花檐外朵	esfq
 銜泥點污琴書內	rink

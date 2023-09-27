@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20230924
+# 版本: 20230927
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.symbols"
-version: "20230924"
+version: "20230927"
 sort: original
 columns:
   - text
@@ -69,7 +69,6 @@ $	kkmy
 µ	kkmu
 ¶	kkzj
 ·	kkjg
-·	kkji
 º	kklc
 »	kkyk
 ¿	kkwh
@@ -1347,7 +1346,6 @@ $	kkmy
 《	bdsm
 》	bdsm
 ·	bdjg
-·	bdji
 ‘	bddy
 ’	bddy
 “	bdsy

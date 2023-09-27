@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230924
+# 版本: 20230927
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20230924"
+version: "20230927"
 sort: original
 columns:
   - text
@@ -71217,7 +71217,6 @@ columns:
 拜神	tfhk
 持守	ahoa
 揮揮	ayay
-換妻	aydx
 兜兜轉轉	eegg
 氣頭	qpfl
 氯酸	qxgv
@@ -80758,6 +80757,7 @@ columns:
 解放	ywoe
 聽說	aeut
 拒絕	agbb
+妻子	fxvk
 內心	kryi
 角色	ywyc
 無能為力	qvox
@@ -80835,6 +80835,7 @@ columns:
 擺脫	amwt
 傷害	eqoh
 相反	fmsb
+夫妻	gufx
 著眼	shmv
 返回	sbnl
 著手	shtu
@@ -81247,6 +81248,7 @@ columns:
 訴說	ueut
 飯碗	ysdo
 反省	sbmq
+淒涼	ifio
 極度	fsus
 野蠻	kcbu
 郵局	wsbv
@@ -81465,6 +81467,7 @@ columns:
 胡說八道	dutu
 失戀	qgbu
 著迷	shpp
+未婚妻	hcfx
 內因	krng
 勻稱	wsre
 唾液	lwio
@@ -81490,6 +81493,7 @@ columns:
 兩全其美	frdu
 道聽途說	uatu
 自圓其說	tndu
+賢妻良母	sfob
 同流合汙	kiyi
 唇槍舌劍	sfrr
 高抬貴手	oalt
@@ -81511,6 +81515,7 @@ columns:
 易如反掌	jcsn
 表裡如一	hpcf
 奇恥大辱	gags
+妻離子散	fpvs
 如坐針氈	ctwo
 痴人說夢	ptus
 花裡胡哨	spdl
@@ -81529,6 +81534,7 @@ columns:
 既往不咎	xrde
 飛簷走壁	bqdb
 指鹿為馬	aiod
+妻兒老小	frhm
 別有洞天	lsif
 負荊請罪	ysum
 笑裡藏刀	qpsb
@@ -81630,6 +81636,7 @@ columns:
 遙望	wwuw
 隆起	cedc
 眷戀	ugbu
+悽慘	yfyv
 滾燙	ioij
 鋼板	wkfs
 轉彎	ggbu
@@ -82197,6 +82204,7 @@ columns:
 懸崖絕壁	mjbb
 絕學	bbrw
 虛位以待	mexr
+封妻廕子	hfuv
 勞師動眾	uywm
 別有天地	lsfh
 顧全大局	irgb
@@ -82255,6 +82263,7 @@ columns:
 小販	mams
 稜鏡	rhwi
 洩漏	ikib
+棲息	ffty
 屋簷	bhqy
 觸摸	ywas
 官邸	onta
@@ -82548,6 +82557,7 @@ columns:
 偷聽	etae
 謀反	ussb
 起降	dcce
+前妻	uwfx
 取悅	abyt
 大吃大喝	glgl
 吃透	lqrv
@@ -82905,9 +82915,11 @@ columns:
 角球	ywgf
 郵購	wsms
 山勢	jshq
+兩棲	fmff
 睡醒	mwgj
 顧全	iwrg
 午睡	qdmw
+棲身	ffwm
 名角	rlyw
 哄抬	lsav
 湮沒	idiw
@@ -83000,11 +83012,13 @@ columns:
 礦脈	duwe
 表裡不一	hpdf
 虛有其表	msdh
+嬌妻	cefx
 披堅執銳	ashw
 不敢苟同	dask
 外柔內剛	rckk
 攻心為上	fyok
 痴男怨女	pjrc
+三妻四妾	ffni
 散戶	swie
 戊戌變法	ddbi
 脫下	wtak
@@ -83069,6 +83083,7 @@ columns:
 示眾	hsme
 得獎	rjxw
 燒飯	uhys
+悽然	yfws
 開脫	kfwt
 轉產	ggps
 難熬	sfho
@@ -83265,6 +83280,7 @@ columns:
 起航	dcqo
 菱角	shyw
 倉房	tfio
+悽婉	yfco
 官宦	onos
 創口	tflv
 妖豔	cejd
@@ -83541,6 +83557,8 @@ columns:
 深為	iyow
 消解	imyw
 戲說	mfut
+淒厲	ifss
+悽楚	yfff
 定勢	ofhq
 生吃	wglq
 動漫	wkik
@@ -83553,6 +83571,7 @@ columns:
 脫胎	wtwv
 搖盪	awij
 遙測	wwim
+悽苦	yfsd
 國勢	nghq
 交稅	otrt
 返青	sbhw
@@ -83607,6 +83626,7 @@ columns:
 財勢	mahq
 含怒	tfcb
 鸕鷀	mjsv
+髮妻	hsfx
 內耳	krar
 自戀	tkbu
 脈象	weyl
@@ -83625,6 +83645,7 @@ columns:
 洩露天機	idff
 荊州	sfiq
 共產	stps
+娶妻	abfx
 愛吃	eylq
 無恥之尤	qapd
 場內	hjkr
@@ -83695,6 +83716,7 @@ columns:
 彎子	buvk
 熬煎	houw
 角門	ywkn
+悽清	yfih
 夷為平地	gohh
 自絕	tkbb
 姍姍	cncn
@@ -83769,9 +83791,11 @@ columns:
 院裡	copk
 通吃	btlq
 大官	gdon
+愛妻	eyfx
 均為	hwow
 煮飯	hjys
 才會	aqtf
+妻兒	fxrq
 瓊瑤	gygw
 目無全牛	mqrw
 盯著	mash
@@ -83887,6 +83911,8 @@ columns:
 冷麵	stde
 官署	onmh
 令箭	tfqu
+悽愴	yfyt
+悽迷	yfpp
 災變	vubu
 律令	rxtf
 暗含	jitf
@@ -83947,6 +83973,7 @@ columns:
 一朵	fiqf
 兩情相悅	fyfy
 死別	frlw
+妻女	fxcn
 現如今	gctf
 瞞著	mssh
 虛像	mxey
@@ -84021,8 +84048,10 @@ columns:
 之極	pefs
 郵編	wsbi
 內控	krap
+妻妾	fxic
 承兌	vktl
 單說	llut
+妻室	fxoh
 虛掩	mxag
 浸溼	ixif
 玄虛	ovmx
@@ -84338,6 +84367,7 @@ columns:
 遙祝	wwhl
 吧唧	lclx
 官倒	oneh
+妻舅	fxrj
 簿冊	qinc
 反攻倒算	sfeq
 郵亭	wsoa
@@ -84423,6 +84453,7 @@ columns:
 稅前	rtuw
 半角	uayw
 蓋飯	shys
+悽美	yfug
 既無	xvqs
 既不	xvdu
 即行	xvra
@@ -84557,12 +84588,14 @@ columns:
 反貪	sbtf
 郵品	wsll
 絕收	bbxe
+悽惶	yfye
 反其道而行之	sdup
 編創	bitf
 抬轎	avge
 發虛	bvmx
 圖板	nlfs
 核計	foud
+悽切	yfab
 陰虛	ctmx
 奇絕	gabb
 起止	dcni
@@ -84725,6 +84758,7 @@ columns:
 清淨無為	iiqo
 最冷	ksst
 最亮	ksoq
+賢妻	sbfx
 另存為	lsow
 嗜睡	lhmw
 口唇	lvsl
@@ -84789,6 +84823,7 @@ columns:
 全優	rged
 悅服	ytwx
 皂角	eayw
+妻弟	fxuv
 抽稅	akrt
 搖櫓	awft
 通兌	bttl
@@ -84883,6 +84918,7 @@ columns:
 手慢	tuyk
 慢待	ykrh
 月產	wyps
+妻小	fxma
 睡椅	mwfg
 甘為	ssow
 灶頭	uhfl
@@ -84946,6 +84982,7 @@ columns:
 插柳	ahft
 樓裡	flpk
 板正	fsfn
+棲居	ffbd
 校核	fofo
 知恥	qlay
 垂手而得	wtsr
@@ -85098,6 +85135,7 @@ columns:
 即插即用	xaxt
 袋裡	egpk
 眾擎易舉	msjr
+休妻	effx
 眾院	meco
 華陰	sfct
 綁著	bdsh
@@ -85148,7 +85186,7 @@ columns:
 粵曲	rqks
 釉料	efps
 差可	uqal
-悽豔	ydjd
+悽豔	yfjd
 產煤	psus
 閱世	kthi
 閱批	ktar
@@ -85210,6 +85248,7 @@ columns:
 粵北	rqur
 科別	rslw
 立功受獎	ifex
+悽風	yfrf
 背反	ursb
 好飯	cvys
 眾口紛紜	mlbb
@@ -85229,11 +85268,13 @@ columns:
 開戶行	kira
 拆閱	aekt
 僅夠	egrr
+雙棲	wwff
 巴布亞新幾內亞	csff
 雞蛋裡挑骨頭	evpf
 左起	sfdc
 遙看	wwtm
 賣官	hmon
+喪妻	dlfx
 玉顏	gops
 虛職	mxai
 虛靈	mxdl
@@ -85315,7 +85356,7 @@ columns:
 搖車	awgc
 拴在	arsn
 黎曼	rwks
-悽絕	ydbb
+悽絕	yfbb
 涼熱	iohq
 即達	xvhu
 弓起	vgdc
@@ -85331,9 +85372,10 @@ columns:
 解任	ywee
 解譯	ywum
 免官	ylon
+多妻	rrfx
 外引內聯	rvka
 撐地	anhc
-拋妻	addx
+拋妻	adfx
 私販	rvms
 乍聽	qmae
 香港特別行政區	riwg
@@ -85405,6 +85447,7 @@ columns:
 慢嚥	ykls
 險絕	crbb
 窩內	pnkr
+棲宿	ffoe
 內卷	krug
 割離	ohpx
 勻和	wsrl
@@ -85729,6 +85772,7 @@ columns:
 插班	ahgu
 思戀	jybu
 搖籃曲	aqks
+結髮夫妻	bhgf
 皮裡陽秋	vpcr
 顏面掃地	pgah
 阿貓阿狗	cycr
@@ -85778,6 +85822,7 @@ columns:
 毫不動搖	odwa
 一去不復返	fhds
 不以為恥	dxoa
+患難夫妻	lsgf
 吃穿用度	lptu
 人為刀俎	tobt
 積毀銷骨	rrwm
@@ -85994,6 +86039,8 @@ columns:
 莫此為甚	snod
 蓋澆飯	siys
 以人為鏡	xtow
+糟糠之妻	pppf
+夫榮妻貴	gufl
 別用	lwtn
 包產到戶	wphi
 特等獎	wqxw
@@ -86388,6 +86435,7 @@ columns:
 最老	kshr
 是什麼	jepv
 轉化為	geow
+之妻	pefx
 之差	peuq
 李敖	fvho
 各戶	elie
@@ -86760,6 +86808,7 @@ columns:
 擋著	ansh
 操著	alsh
 橫版	fsts
+人妻	tefx
 令兄	tflq
 領兵	tfef
 紅顏知己	bpqb
@@ -86804,6 +86853,7 @@ columns:
 官田	onjt
 龜山	yjjs
 柵門	fnkn
+悽惻	yfym
 產鉗	psws
 即若	xvss
 倉卒	tfot
@@ -87000,8 +87050,10 @@ columns:
 釘錘	waww
 重起爐灶	wduu
 舌敝唇焦	rusw
+露水夫妻	dkgf
 解霸	ywdg
 聯產承包責任制	apvw
+無妻	qsfx
 垢汙	heif
 桌板	mjfs
 吸溼性	liyw
@@ -87041,6 +87093,7 @@ columns:
 外焦裡嫩	rwpc
 免費版	yvts
 板樓	fsfl
+棲霞	ffdb
 邋里邋遢	vkvk
 保戶	elie
 修改版	ebts
@@ -87205,12 +87258,14 @@ columns:
 蒼顏白髮	speh
 險別	crlw
 開豁	kfoh
+妻孥	fxcb
 虛套	mxgh
 虜掠	mbao
 郵務	wscq
 帆布床	msuf
 風害	rfoh
 異說	jsut
+寡妻	odfx
 冗贅	yqho
 解纜	ywbs
 忽變	wtbu
@@ -87450,6 +87505,7 @@ columns:
 拘攣	awbu
 熱勁	hqfv
 頹垣斷壁	rhvb
+徙宅忘妻	rouf
 毀盡	rhxf
 位勢	eihq
 變產	bups
@@ -87656,6 +87712,7 @@ columns:
 熱滾滾	hiio
 板桌	fsmj
 丟勒	gvgx
+悽咽	yfln
 絮說	clut
 化害為利	eoor
 令嚴	tfll
@@ -87802,6 +87859,7 @@ columns:
 小貓咪	mylp
 裡格	pkfe
 袖裡乾坤	ppdh
+小妻	mafx
 稜柱體	rfmk
 淋著	ifsh
 書中自有顏如玉	xltg
@@ -87894,6 +87952,7 @@ columns:
 反禁	sbff
 泉脈	ekwe
 李銳	fvwt
+棲落	ffsi
 核字	foov
 核編	fobi
 長蔓	hask
@@ -88883,6 +88942,7 @@ columns:
 坍台	hwvl
 温網	ijbk
 指節	arqx
+悽豔	ydjd
 羣賢	xqsb
 羣論	xqut
 為最	owja
@@ -88907,8 +88967,10 @@ columns:
 毀害	rhod
 浪峯	ioje
 敬煙	swud
+悽絕	ydbb
 睡卧	mesm
 技壓羣芳	asxs
+拋妻	addx
 羣交	xqot
 孤傲不羣	vedx
 羣團	xqng
