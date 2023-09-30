@@ -1,7 +1,7 @@
 ---
 title: 更新日志
 layout: default
-parent: 宇浩一代
+parent: 宇浩一代·卿雲
 nav_order: 71
 ---
 

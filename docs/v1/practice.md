@@ -2,7 +2,7 @@
 title: 在线练习
 layout: default
 nav_order: 21
-parent: 宇浩一代
+parent: 宇浩一代·卿雲
 ---
 
 1.最常用100字根：

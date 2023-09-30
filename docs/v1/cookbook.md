@@ -2,7 +2,7 @@
 title: 快速入门
 layout: default
 nav_order: 11
-parent: 宇浩一代
+parent: 宇浩一代·卿雲
 ---
 
 <!-- omit in toc -->

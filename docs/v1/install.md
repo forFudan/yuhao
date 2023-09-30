@@ -2,7 +2,7 @@
 title: 下载安装
 layout: default
 nav_order: 2
-parent: 宇浩一代
+parent: 宇浩一代·卿雲
 ---
 
 <!-- omit in toc -->
