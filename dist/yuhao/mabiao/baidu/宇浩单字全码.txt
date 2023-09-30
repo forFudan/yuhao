@@ -823,6 +823,7 @@ afwt 𢺴
 afwy 𰒽
 afxc 𫑚
 afxc 𰻢
+afxc 捿
 afxd 𡯼
 afxi 丐
 afxi 𢫄
@@ -2903,9 +2904,6 @@ aukg 𱻼
 aukh 𢷹
 aukj 𭢞
 aulc 𢷱
-aulo 攍
-aulo 𢺆
-aulo 𢺑
 aulq 捝
 aulq 𬚜
 aulv 𭠡
@@ -4358,6 +4356,7 @@ bfvu 𰗑
 bfwf 絚
 bfwp 𨓔
 bfwp 𲆆
+bfxc 緀
 bfxk 劲
 bfxk 𦂪
 bfxn 緁
@@ -6129,13 +6128,9 @@ bukc 𫊫
 bukd 𫃨
 bukg 𮈝
 bukh 纏
-bulo 䌱
-bulo 䌴
-bulo 䌴
 bulq 綐
 bulq 𦆳
 bulv 𦀭
-bulw 𦇽
 buly 縂
 buly 縂
 bumf 𦅝
@@ -6177,6 +6172,7 @@ buub 𦇝
 buue 𡳉
 buuf 𦆱
 buug 䌴
+buug 𦇽
 buug 䌴
 buuh 𡳈
 buul 繕
@@ -7328,6 +7324,8 @@ cfvh 𩏎
 cfvo 𨸞
 cfvu 𣏗
 cfvx 𩎩
+cfxc 𨹷
+cfxc 𪥼
 cfxi 𡚨
 cfxn 婕
 cfxn 𨺇
@@ -9205,7 +9203,6 @@ cuht 㛇
 cujd 婵
 cujj 𡡑
 cukj 𡡝
-culo 㜲
 culq 娧
 culq 𨹪
 culq 𩎰
@@ -11131,6 +11128,8 @@ dfwg 𥒑
 dfwg 𩧅
 dfws 𲋻
 dfwt 𥘄
+dfxc 霋
+dfxc 䃀
 dfxj 𩢞
 dfxn 䝊
 dfxn 𥓐
@@ -14440,10 +14439,6 @@ dukg 𩤀
 dukh 𧾡
 dukj 𧾃
 dula 𩧣
-dulo 䃷
-dulo 䯁
-dulo 𡰠
-dulo 𩧣
 dulq 駾
 dulq 䂱
 dulq 駾
@@ -14490,6 +14485,7 @@ dusj 𥕒
 dusj 𧻓
 dusj 𩂦
 dusm 𥔷
+duso 𩧣
 dust 礦
 dust 𩧉
 dust 𮛀
@@ -16216,6 +16212,7 @@ efwy 𣎋
 efwy 𮯵
 efxb 𠬿
 efxb 𠭊
+efxc 𠉯
 efxh 𠃈
 efxh 堲
 efxi 𤓳
@@ -19938,6 +19935,7 @@ ffwt 𣡄
 ffwu 𣝹
 ffwv 𦡨
 ffwy 杤
+ffxc 棲
 ffxk 㯟
 ffxk 𫦯
 ffxn 𣓉
@@ -22663,7 +22661,6 @@ frun 𫞋
 fruo 楸
 fruo 梑
 fruo 𣧛
-fruo 㱻
 frur 𪳕
 frus 𭮎
 fruu 㱻
@@ -23390,8 +23387,6 @@ fukj 𣚴
 fukn 𭁣
 fukv 様
 fule 𣣂
-fulo 𣟅
-fulo 𣠾
 fulq 棁
 fuma 𬅜
 fume 𣘮
@@ -23899,6 +23894,13 @@ fxbl 𣑌
 fxbo 𭩰
 fxbs 紮
 fxbu 𣐔
+fxca 㼮
+fxcc 郪
+fxcf 𱙳
+fxcm 𬐢
+fxcn 妻
+fxcr 鶈
+fxcw 𨿩
 fxdh 𥑙
 fxdm 𩢗
 fxer 𪇿
@@ -28071,7 +28073,6 @@ gukm 𠞒
 guks 𢍤
 gukv 𰛖
 gukv 𰤰
-gulo 𮴺
 gulq 𨌔
 gulq 𩊭
 guly 𮴨
@@ -33464,15 +33465,14 @@ hwtw 𬫔
 hwtx 𡎫
 hwty 𩭳
 hwty 𩮀
-hwua 𩇤
 hwua 𫐒
 hwua 𫕺
+hwuc 𩇤
 hwuc 𬨐
 hwug 𫮗
 hwuo 𤍫
 hwuo 𥛲
 hwus 𩲡
-hwus 𩇤
 hwut 塊
 hwut 𩲘
 hwuw 𩱽
@@ -35091,6 +35091,7 @@ ifwo 㳩
 ifwt 灪
 ifwy 𬇕
 ifwy 𦚑
+ifxc 淒
 ifxf 𣲅
 ifxf 𱥾
 ifxi 㳐
@@ -38281,15 +38282,8 @@ iukj 潽
 iukl 𭱞
 iukv 𣻌
 iula 𱨡
-iulo 瀛
-iulo 𤅗
-iulo 𬉩
-iulo 灜
-iulo 𤅀
-iulo 瀛
 iulq 涚
 iulu 𱩭
-iulw 𤅘
 iuma 𱦫
 iumb 灜
 iumb 𭳘
@@ -38362,6 +38356,7 @@ iutm 𮄷
 iuto 𣷳
 iutp 𣿪
 iutu 𰝩
+iuua 𤅗
 iuua 𪋲
 iuua 𭳫
 iuub 瀠
@@ -38371,6 +38366,7 @@ iuug 𤃨
 iuug 𤄂
 iuug 𤄾
 iuug 𤅀
+iuug 𤅘
 iuug 𩉀
 iuuh 𣿩
 iuuh 𰊣
@@ -38413,6 +38409,7 @@ iuwn 𣴿
 iuwo 𬉑
 iuws 汒
 iuwu 𤏄
+iuww 𬉩
 iuwx 𰝨
 iuwy 𣷩
 iuxa 𤁦
@@ -41099,11 +41096,9 @@ jnrh 𡸙
 jnrh 𡹤
 jnsj 𡽞
 jnsr 曱
-jnsr 甴
 jnsr 㫾
 jntd 𡽔
 jntt 𡸋
-jntv 𡇛
 jnud 𣋡
 jnvs 𡷿
 jnvt 𤲊
@@ -42270,7 +42265,6 @@ jujw 𭗞
 jukd 𪨿
 juke 𣤞
 jukj 𭧱
-julo 㬯
 julq 㟋
 julq 𣇋
 julq 𱛯
@@ -43731,6 +43725,7 @@ kfwu 𤉡
 kfwy 𠕔
 kfwy 𰿘
 kfxb 𨴉
+kfxc 𫋂
 kfxf 𧑛
 kfxi 𧉹
 kfxl 𤰴
@@ -45718,7 +45713,6 @@ kukh 𨷠
 kukj 𧑹
 kukm 𬠝
 kukv 𧩁
-kulo 𧕳
 kulq 閲
 kulq 蜕
 kulw 𣎁
@@ -47290,6 +47284,7 @@ lfwp 𰇥
 lfwt 𱕮
 lfwu 𡃼
 lfwy 𱒀
+lfxc 啛
 lfxf 𭈶
 lfxi 𬺺
 lfxi 叱
@@ -47920,6 +47915,7 @@ lksq 𤟩
 lksq 𤠢
 lkss 噥
 lkst 唺
+lksv 甴
 lksv 𠀐
 lksv 𠮵
 lksv 𭆽
@@ -47932,6 +47928,7 @@ lktm 剐
 lktp 𬨨
 lktt 𪠼
 lktt 𰮄
+lktv 𡇛
 lktx 𱐎
 lkua 嚉
 lkub 𡅇
@@ -49535,7 +49532,6 @@ lukj 𠽾
 luko 𠶦
 lukr 𠽆
 lukt 𠽆
-lulo 𱕰
 lulq 哾
 lume 𰈡
 lumf 𰇸
@@ -50999,6 +50995,7 @@ mfvo 𩨤
 mfvq 𥆆
 mfvw 䍒
 mfwg 𥌞
+mfxc 𱲾
 mfxn 睫
 mfxp 𮟃
 mfxs 𦊷
@@ -61370,6 +61367,8 @@ pfwt 襻
 pfwy 疠
 pfwy 𥸯
 pfwy 𬮙
+pfxc 褄
+pfxc 𱹊
 pfxi 𤵦
 pfxk 𥥙
 pfxk 𭄲
@@ -63723,7 +63722,6 @@ pukg 𮵻
 pukj 𫌑
 pukr 𤹽
 pukt 𤹽
-pulo 𤼘
 pulq 阅
 pulq 裞
 pulq 痥
@@ -65520,6 +65518,7 @@ qfwm 𱳟
 qfwx 勧
 qfwy 𥵅
 qfxb 𮅺
+qfxc 𱸀
 qfxf 𭀡
 qfxj 笻
 qfxk 𣱗
@@ -67974,9 +67973,6 @@ qukb 𰪣
 qukc 𫂯
 qukj 𥐅
 qukj 𬶴
-qulo 籝
-qulo 籯
-qulo 𫂯
 qulq 𦩃
 qulq 𫚛
 qulv 𥭚
@@ -75955,6 +75951,8 @@ sfwu 藮
 sfwx 励
 sfwx 𫞪
 sfwy 厉
+sfxc 凄
+sfxc 萋
 sfxg 𡴃
 sfxi 𠃟
 sfxj 𤲱
@@ -75968,6 +75966,7 @@ sfxn 萐
 sfxn 𦭢
 sfxn 𦱥
 sfxn 𪑤
+sfxq 𦪱
 sfxs 𮝾
 sfya 𠁑
 sfyb 𦴃
@@ -79828,11 +79827,7 @@ sujx 藹
 sukc 𦳶
 suke 𦽗
 suko 𤉓
-sulo 𧆍
-sulo 䕦
-sulo 𧄿
-sulo 𧅋
-sulo 𧆃
+sulm 𧆍
 sulq 莌
 sulw 𮐛
 sumb 𮚏
@@ -82084,6 +82079,7 @@ tfwy 愈
 tfxb 𫢿
 tfxb 𠏧
 tfxc 𨜾
+tfxc 𩸸
 tfxg 戧
 tfxj 印
 tfxk 𧓟
@@ -83514,7 +83510,6 @@ tqsu 𩻚
 tqtt 𡯗
 tqua 𩶈
 tquj 𨱃
-tquo 𡰟
 tqut 𡰉
 tquu 𡰟
 tquy 䱄
@@ -84296,8 +84291,6 @@ tukh 𩼼
 tukj 镨
 tukj 䲕
 tukv 𥜼
-tulo 𰿊
-tulo 𲈠
 tulq 锐
 tulq 鮵
 tuly 𬭱
@@ -85230,6 +85223,7 @@ ucng 姜
 ucnu 𢇘
 ucnw 妄
 ucnw 嬴
+ucnw 𡣍
 ucpd 𤊂
 ucqf 煣
 ucqf 𦎤
@@ -85928,6 +85922,7 @@ ufwp 𮞍
 ufwt 爩
 ufwt 𧦯
 ufwv 𲁴
+ufxc 𫌿
 ufxn 誱
 ufxn 𢈻
 ufxo 𰃝
@@ -87072,38 +87067,8 @@ ulvi 𰇈
 ulvo 𬉸
 ulvu 𢇞
 ulvw 吂
-ulwa 𡣍
-ulwa 𦟀
-ulwa 𦢼
 ulwm 𧧸
-ulwo 嬴
-ulwo 羸
-ulwo 蠃
-ulwo 贏
-ulwo 𣎆
-ulwo 𦏞
-ulwo 𦝠
-ulwo 鸁
-ulwo 臝
-ulwo 驘
-ulwo 䇔
-ulwo 𡑤
-ulwo 𡳴
-ulwo 𣜄
-ulwo 𥢵
-ulwo 𦆁
-ulwo 𦟀
-ulwo 𦢼
-ulwo 𦣉
-ulwo 𦣖
-ulwo 𧝹
-ulwo 𨏩
-ulwo 𨭞
-ulwo 𩼊
-ulwq 䊨
-ulws 𡣍
 ulwx 𢈗
-ulwx 𫨁
 ulwy 焆
 ulwy 𧨜
 ulwy 𫡻
@@ -87123,6 +87088,7 @@ umbu 𤆝
 umbu 𤈬
 umbu 𬢟
 umbw 贏
+umbw 𦢼
 umbw 𤓓
 umbw 𧨪
 umbw 𰶲
@@ -87711,6 +87677,7 @@ upma 詸
 upmo 𤇿
 upmu 𢈍
 upmv 𱫬
+upmw 䊨
 upod 𧬵
 upom 𬊢
 uppd 謎
@@ -88248,6 +88215,7 @@ usbe 𧬝
 usbg 𧬧
 usbh 熞
 usbh 𫍊
+usbh 𡳴
 usbk 𱬓
 usbo 詙
 usbo 剏
@@ -89099,6 +89067,7 @@ uunc 𨞴
 uunh 𢋕
 uuoc 𡠺
 uuoc 𨟏
+uuod 𦏞
 uuog 羔
 uuog 羙
 uuog 𤈩
@@ -89764,6 +89733,9 @@ uwwo 䛬
 uwwo 熎
 uwwr 𪈲
 uwwu 𲂁
+uwww 𣎆
+uwww 𦝠
+uwww 𦟀
 uwwx 詾
 uwwx 𤈤
 uwwx 𧦷
@@ -90625,6 +90597,7 @@ vfwq 𠙭
 vfwv 𥀡
 vfww 𨨬
 vfwx 𠡔
+vfxc 𰬢
 vfxh 𡐪
 vfxi 𡥑
 vfxn 𢏵
@@ -93658,6 +93631,7 @@ wfwl 𤕜
 wfwt 鑻
 wfwt 𩲬
 wfwu 𩳃
+wfxc 𨧬
 wfxi 𨥼
 wfxk 𦈮
 wfxn 脻
@@ -97090,10 +97064,6 @@ wukj 𦡮
 wukk 䥰
 wukm 𫆨
 wull 𰯢
-wulo 䑉
-wulo 𨯤
-wulo 𨰊
-wulo 𨰠
 wulq 脱
 wulq 鋭
 wulq 𨉋
@@ -100602,6 +100572,7 @@ yfwi 雑
 yfwt 𢰨
 yfwy 𣍟
 yfwy 𭜌
+yfxc 悽
 yfxi 𪫝
 yfxn 𢜀
 ygac 慱

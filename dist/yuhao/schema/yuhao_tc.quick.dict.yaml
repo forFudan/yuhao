@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230924
+# 版本: 20230928
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.quick"
-version: "20230924"
+version: "20230928"
 sort: original
 columns:
   - text
@@ -8053,16 +8053,12 @@ columns:
 毒	hbs
 呈	len
 垂	wss
-贏	ulw
 羞	uqb
 龜	yjm
 韭	fnn
 羌	uqr
-嬴	ulw
-羸	ulw
 处	ete
 异	bsj
-蠃	ulw
 㠯	bnb
 袓	pmi
 囝	nvk
@@ -8716,7 +8712,6 @@ columns:
 暃	jli
 昷	jmn
 曱	jns
-甴	jns
 昘	jog
 峐	joi
 畡	joi
@@ -8828,6 +8823,7 @@ columns:
 唒	lgo
 呭	lhi
 呩	lhs
+甴	lks
 吅	llv
 嗗	lmg
 哯	lmx
@@ -10359,6 +10355,7 @@ columns:
 㷵	une
 䛤	unv
 䛨	uox
+䊨	upm
 䛎	upx
 䛈	uqi
 䚰	uri
@@ -13626,6 +13623,7 @@ columns:
 𤆵	ucb
 𨛁	ucj
 𢇘	ucn
+𡣍	ucn
 𧦃	ucu
 𦍗	ucu
 𦍔	ucy
@@ -13710,6 +13708,7 @@ columns:
 𠲘	ulv
 𢇞	ulv
 𧧾	umb
+𦢼	umb
 𪘙	umc
 𠚳	umd
 𦎰	umg
@@ -17159,11 +17158,8 @@ columns:
 尐	mvi
 峀	jjt
 臿	hrj
-驘	ulw
 鮺	uqt
-鸁	ulw
 㔕	qfv
-䇔	ulw
 䍃	wwo
 䏞	whe
 䛎	uoq
@@ -17172,26 +17168,20 @@ columns:
 𠰝	nql
 𡆡	nvi
 𡆧	nqn
-𡑤	ulw
 𡰮	nfn
 𢀘	aaj
 𢦨	gka
-𣜄	ulw
 𤈩	uqu
 𤕪	ggn
 𤫴	qgq
 𤰣	jfr
-𥢵	ulw
-𦆁	ulw
 𦔰	war
 𦥨	roq
 𧨁	uqu
 𧱏	ihd
 𨌅	uqg
-𨭞	ulw
 𩡧	dsn
 𩣌	dxf
-𩼊	ulw
 𪉤	uqk
 ⻆	ywh
 ⻱	yjm

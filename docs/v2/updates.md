@@ -5,7 +5,7 @@ parent: 宇浩二代
 nav_order: 1
 ---
 
-# 宇浩二代更新日誌
+# 宇浩拆分和方案更新日誌
 
 <details markdown="block">
   <summary>
@@ -16,7 +16,15 @@ nav_order: 1
 {:toc}
 </details>
 
-本頁面主要展示較重大更新。一般的更新説明可在 [release](https://github.com/forFudan/yuhao/releases) 頁面查看。
+本頁面主要展示「宇浩拆分」和「宇浩二代方案」較重大的更新。一般的更新説明可在 [release](https://github.com/forFudan/yuhao/releases) 頁面查看。
+
+## 2023年10月1日
+
+v2.5.1 發佈。
+
+「𣎆𦝠𦟀」 等全部歸併入 <赢头> Uw。
+
+RIME 方案關閉默認四碼唯一自動上屏，防止誤擊回删。
 
 ## 2023年9月24日
 

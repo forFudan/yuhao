@@ -2,9 +2,7 @@
 
 patch:
   # schema/name: 宇浩·大陸繁體  # 方案名
-  speller/auto_select: true  # 四碼唯一自動上屏
-  translator/enable_completion: true  # 輸入預測（逐碼提示）
-  fixed/enable_completion: true  # 輸入預測（逐碼提示）
+  speller/auto_select: false  # 四碼唯一自動上屏
   # menu/page_size: 5  # 每頁候選數量
   style/horizontal: false  # 橫排候選欄
   style/inline_preedit: true  # 候選欄内置於輸入界面
