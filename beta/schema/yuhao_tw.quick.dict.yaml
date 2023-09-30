@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20230927
+# 版本: 20230928
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tw.quick"
-version: "20230927"
+version: "20230928"
 sort: original
 columns:
   - text
@@ -3332,7 +3332,6 @@ columns:
 灣	iub
 瀛	iuc
 洋	iug
-瀛	iul
 漾	iuo
 渡	ius
 溢	iut
@@ -5826,7 +5825,6 @@ columns:
 燥	ull
 兑	ulq
 炽	ult
-贏	ulw
 总	uly
 贏	umb
 盲	umf
@@ -7214,7 +7212,6 @@ columns:
 閂	kfi
 閔	kpw
 沺	ijt
-嬴	ulw
 朴	fmo
 祁	hcj
 嬴	ucn
@@ -7227,7 +7224,6 @@ columns:
 戔	ggg
 峴	jmx
 訌	ufo
-羸	ulw
 洒	idx
 栖	fdx
 睢	mwi
@@ -7256,7 +7252,6 @@ columns:
 鎬	wol
 緙	bge
 莧	smx
-蠃	ulw
 㠯	bnb
 着	umf
 还	dpd
@@ -7694,7 +7689,6 @@ columns:
 幃	mci
 齔	mri
 冇	swy
-鸁	ulw
 尐	mvi
 臿	hrj
 昋	ejr
@@ -7703,11 +7697,9 @@ columns:
 粣	pnc
 笧	qnc
 亇	qvi
-驘	ulw
 鮺	uqt
 銏	wnc
 㔕	qfv
-䇔	ulw
 䛎	uoq
 䏞	whe
 䍃	wwo
@@ -7732,12 +7724,6 @@ columns:
 𠫗	qvv
 𦥨	roq
 𢦫	sgg
-𡑤	ulw
-𣜄	ulw
-𥢵	ulw
-𦆁	ulw
-𨭞	ulw
-𩼊	ulw
 𨌅	uqg
 𪉤	uqk
 𤈩	uqu
@@ -10023,6 +10009,7 @@ columns:
 㷵	une
 䛤	unv
 䛨	uox
+䊨	upm
 䛎	upx
 䛈	uqi
 䚰	uri
@@ -13294,6 +13281,7 @@ columns:
 𤆌	ubu
 𤆵	ucb
 𨛁	ucj
+𡣍	ucn
 𢇘	ucn
 𦍗	ucu
 𧦃	ucu
@@ -13378,6 +13366,7 @@ columns:
 𠲘	ulv
 𢇞	ulv
 𧥣	ulv
+𦢼	umb
 𧧾	umb
 𪘙	umc
 𠚳	umd

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20230927
+# 版本: 20230928
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20230927"
+version: "20230928"
 sort: original
 columns:
   - text
@@ -80881,7 +80881,6 @@ columns:
 說法	utih
 呈現	legm
 聽見	aemx
-贏得	ulrj
 當今	njtf
 飯店	ysum
 極其	fsdj
@@ -81845,7 +81844,6 @@ columns:
 吹噓	lelm
 垂釣	wsww
 不動產	dwps
-輸贏	gtul
 遨遊	hooq
 不絕於耳	dboa
 彎路	bune
@@ -82422,7 +82420,6 @@ columns:
 絕地	bbhc
 滾熱	iohq
 不虛此行	dmnr
-贏家	ulod
 解恨	ywyv
 絕密	bboy
 內定	krof
@@ -83052,9 +83049,7 @@ columns:
 比起	rrdc
 說完	utof
 產業化	pker
-贏利	ulrm
 內需	krds
-雙贏	wwul
 著呢	shlb
 返鄉	sbvq
 經得起	brdc
@@ -83293,7 +83288,6 @@ columns:
 反串	sbll
 極光	fsmh
 觸鬚	ywht
-羸弱	ulvs
 訂戶	uaie
 氣虛	qpmx
 畸變	jgbu
@@ -83859,7 +83853,6 @@ columns:
 誰敢	uwaa
 內網	krbk
 不絕	dubb
-打贏	aaul
 著地	shhc
 單產	llps
 亦即	pixv
@@ -84182,7 +84175,6 @@ columns:
 為榮	owuu
 為例	owef
 設為	uqow
-贏取	ulab
 變大	bugd
 床前	ufuw
 州官	iqon
@@ -84904,7 +84896,6 @@ columns:
 疑為	rqow
 譯為	umow
 為證	owub
-贏球	ulgf
 忘返	uysb
 彎月	buwy
 蠻力	buxk
@@ -86190,7 +86181,6 @@ columns:
 含水	tfkv
 含著	tfsh
 絕殺	bbwf
-贏錢	ulwg
 記著	ubsh
 說了	utvl
 說得	utrj
@@ -86307,7 +86297,6 @@ columns:
 如為	clow
 佛頭著糞	efsp
 為王	owgn
-共贏	stul
 能吃	vwlq
 幫著	hhsh
 戴著	dgsh
@@ -86322,7 +86311,6 @@ columns:
 閉著	kash
 今秋	tfru
 今冬	tfes
-贏了	ulvl
 為善	owuu
 聰明絕頂	ajba
 也為	cyow
@@ -86603,7 +86591,6 @@ columns:
 全然不顧	rwdi
 眾位	meei
 今春	tfgj
-嬴政	ulfn
 右下角	sayw
 廈門大學	ukgr
 還沒有	misw
@@ -87391,7 +87378,6 @@ columns:
 戀棧不去	bfdh
 石龜	dhyj
 沒貨	iwer
-連贏	gpul
 空床	pfuf
 餓著	yqsh
 挑著	aqsh
@@ -87839,7 +87825,6 @@ columns:
 龜孫	yjvq
 標著	fdsh
 版號	tsls
-躺贏	wnul
 陳豔	cfjd
 瑤瑤	gwgw
 小烏龜	myyj
