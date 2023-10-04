@@ -1,7 +1,7 @@
 ---
 title: 更新日志
 layout: default
-parent: 宇浩二代
+parent: 宇浩二代·光華
 nav_order: 1
 ---
 

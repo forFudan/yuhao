@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20230928
+# 版本: 20231001
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20230928"
+version: "20231001"
 sort: original
 columns:
   - text
@@ -4559,6 +4559,7 @@ columns:
 讪	ojsa
 翌	xxid
 嗷	lhwe
+砲	dwck
 惴	yjsr
 鱗	tpra
 皿	mnn
@@ -5349,6 +5350,7 @@ columns:
 踝	njfv
 攣	ubbt
 竇	phmm
+鮭	thht
 檜	ftfj
 饜	sjwy
 呷	lkjv
@@ -5497,6 +5499,7 @@ columns:
 孃	cosr
 瘴	pijd
 佃	ejte
+搥	aypd
 灸	youo
 禎	hmmb
 纺	vogs
@@ -5725,6 +5728,7 @@ columns:
 煲	elfu
 箇	qndg
 閻	kyrj
+鎚	wypd
 纂	qmgb
 髭	hnri
 舐	rtai
@@ -10832,7 +10836,6 @@ columns:
 𨱑	tsjt
 𬶨	ergq
 袓	pmiy
-砲	dwck
 饗	vqoy
 囝	nvkw
 瞼	mrlf
@@ -10846,9 +10849,7 @@ columns:
 紓	bcus
 藷	suhj
 罌	mmwo
-鮭	thht
 摋	awfq
-搥	aypd
 璿	gmym
 諳	uijr
 錡	wgal
@@ -10856,7 +10857,6 @@ columns:
 劀	cqkm
 擷	ahlm
 獼	rvfw
-鎚	wypd
 暱	jgsl
 湳	idkd
 瘞	pgth
