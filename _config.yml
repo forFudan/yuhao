@@ -10,7 +10,7 @@ aux_links:
 
 # External navigation links
 nav_external_links:
-  - title: 宇浩三代·星陳
+  - title: 宇浩·星陳
     url: https://zhuyuhao.com/yustar
     hide_icon: true # set to true to hide the external link icon - defaults to false
   - title: 拆分查询
