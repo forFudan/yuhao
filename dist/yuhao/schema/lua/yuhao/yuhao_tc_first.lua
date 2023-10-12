@@ -44,7 +44,7 @@ function issubset(candidate, charset)
 end
 
 local function yuhao_tc_first(input, env)
-    local b = env.engine.context:get_option("yuhao_tw_first")
+    local b = env.engine.context:get_option("yuhao_tc_first")
     local l = {}
     local length_of_input = string.len(env.engine.context.input)
     for cand in input:iter() do

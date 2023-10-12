@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231001
+# 版本: 20231011
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.words_literature"
-version: "20231001"
+version: "20231011"
 sort: original
 columns:
   - text
@@ -1335,7 +1335,7 @@ columns:
 動盪不定	wido
 君子坦蕩蕩	xvhs
 修齊治平	eoih
-鬱郁不得志	fsdh
+鬱郁不得志	wsdh
 愁眉緊鎖	rbsw
 人老心不老	thyh
 見慣不驚	myds
@@ -3083,7 +3083,7 @@ columns:
 月既不解飲	wxdy
 江流石不轉	iidg
 但見長江送流水	emhk
-鬱孤臺下清江水	fvhk
+鬱孤臺下清江水	wvhk
 陰陰夏木囀黃鸝	ccdf
 昔聞洞庭水	skik
 身登青雲梯	wbhf
@@ -5199,7 +5199,7 @@ columns:
 滄浪之水濁兮	iipt
 小人同而不和	mtkr
 輕輕的我走了	ggev
-更加鬱鬱蔥蔥	fxfs
+更加鬱鬱蔥蔥	fxws
 虎踞龍盤今勝昔	mnis
 才飲長沙水	ayhk
 君子周而不比	xvwr
@@ -5261,7 +5261,7 @@ columns:
 萬戶千門入畫圖	siwn
 可以濯我纓	axib
 無災無難到公卿	qvqt
-鬱郁乎文哉	fsqd
+鬱郁乎文哉	wsqd
 黃鶴樓中吹玉笛	syfq
 汝果欲學詩	ijtu
 必也使無訟乎	yceq
@@ -7928,7 +7928,7 @@ columns:
 一去三十年	fhfq
 天之歷數在爾躬	fpsw
 濟南名士知多少	idrm
-春樹鬱金紅	gffb
+春樹鬱金紅	gfwb
 出犯繁花露	xrqd
 固國不以山溪之險	nndc
 寧不知傾城與傾國	odqn
@@ -8877,7 +8877,7 @@ columns:
 江魚美可求	ituf
 我不欲人之加諸我也	qdtc
 龍團小碾鬥晴窗	inmp
-鬱郁澗底松	fsif
+鬱郁澗底松	wsif
 中有武昌魚	lsft
 美人一笑褰珠箔	utfq
 氣力迴天到此休	qxne
@@ -9936,7 +9936,7 @@ columns:
 憶秦娥婁山關	ygck
 吾嘗跂而望矣	fnnv
 割慈忍愛還租庸	oubu
-鬱鬱蔥蔥佳氣浮	ffsi
+鬱鬱蔥蔥佳氣浮	wwsi
 萬物皆嫵媚	swrc
 人煙撲地桑柘稠	tuar
 天下惡乎定	fafo
@@ -10029,7 +10029,7 @@ columns:
 十里月明燈火稀	dkwr
 其次剔毛髮	dsjh
 結君早歸意	bxji
-忳鬱邑餘侘傺兮	yflt
+忳鬱邑餘侘傺兮	ywlt
 莫自使眼枯	stef
 九度附書向洛陽	yucc
 有名而無實	srso
@@ -10173,7 +10173,7 @@ columns:
 舉魯國而儒服	rtnw
 今兩虎共鬥	tfmn
 高揖衛叔卿	oart
-我懷鬱如焚	qyff
+我懷鬱如焚	qywf
 知君仙骨無寒暑	qxej
 正憐日破浪花出	fyjx
 父老相逢鼻欲辛	thfo
@@ -12486,7 +12486,7 @@ columns:
 爭新買寵各出意	eimi
 杜鵑花裡杜鵑啼	flsl
 非鬼非人意其仙	lwle
-鬱閉而不流	fksi
+鬱閉而不流	wksi
 子桑殆病矣	vbfv
 使我傷懷奏短歌	eqea
 奄忽隨物化	gwce
@@ -14554,7 +14554,7 @@ columns:
 多於機上之工女	rofc
 古之存身者	dpsh
 不當時命而大窮乎天下	dnja
-鬱郁何所為	fseo
+鬱郁何所為	wseo
 自入秋來風景好	trrc
 亦各言其子也	peuc
 竹西花草弄春柔	qdsc
@@ -14961,7 +14961,7 @@ columns:
 司馬牛憂曰	vdwj
 白雲堪臥君早歸	edhy
 晰晰燎火光	jjum
-鬱金香是蘭陵酒	fwri
+鬱金香是蘭陵酒	wwri
 待吾還丹成	rfmd
 禮義由賢者出	hukx
 翩翾粉翅開	impk
@@ -15614,6 +15614,7 @@ columns:
 七彎八拐	auta
 風雲變色	rduy
 反哺之情	elpy
+鬱郁不得志	fsdh
 留戀不捨	tuda
 武藝超羣	fsdx
 裏勾外連	owrg
@@ -15834,6 +15835,7 @@ columns:
 龜蛇鎖大江	qkwi
 結髮為夫妻	bhod
 萬户千門入畫圖	siwn
+鬱郁乎文哉	fsqd
 萬户蕭疏鬼唱歌	sisa
 此去泉台招舊部	nhei
 細雨濕衣看不見	bdim
@@ -15951,6 +15953,7 @@ columns:
 吾妻死之年所手植也	fdfc
 誰識卧龍客	uuso
 十户中人賦	dilm
+春樹鬱金紅	gffb
 羣仙出沒空明中	xexl
 不知園裏樹	dqnf
 來着猶可追	dury
@@ -15997,6 +16000,7 @@ columns:
 低頭一拜屠羊説	effu
 笑語作春温	quei
 全德之君子	trpv
+鬱郁澗底松	fsif
 最惜杜鵑花爛漫	jyfi
 登觀音台望城	bsih
 卧聞海棠花	skis
@@ -16043,6 +16047,7 @@ columns:
 餘因得遍觀羣書	ynrx
 千峯筍石千株玉	wjqg
 又不能啓口	bdvl
+忳鬱邑餘侘傺兮	yflt
 數峯無語立斜陽	ljqc
 雪裏行軍情更迫	dore
 去年重陽不可説	hqwu
@@ -16056,6 +16061,7 @@ columns:
 先賢盛説桃花源	wsdi
 全仗你抬身價	teee
 高揖衞叔卿	oart
+我懷鬱如焚	qyff
 唯全人能之	lttp
 枇杷花裏閉門居	ffsb
 微官敢有濟時心	rovy
@@ -16169,6 +16175,7 @@ columns:
 山裏風光亦可憐	jory
 簇簇歌台舞榭	qqaf
 杜鵑花裏杜鵑啼	flsl
+鬱閉而不流	fksi
 舞馬既登牀	qdxx
 老命反遲延	hyeq
 應是西陵古驛台	ujdv
@@ -16298,6 +16305,7 @@ columns:
 不敢攀貴德	dvfr
 吳王宮裏醉西施	lgoo
 縷橙芼姜葱	bfss
+鬱郁何所為	fseo
 不足以自全	dnxt
 征帆去棹殘陽裏	rmho
 清溪卻向青灘泄	iiti
@@ -16320,6 +16328,7 @@ columns:
 青陵台畔日光斜	hcvt
 樵客返歸路	foen
 白雲堪卧君早歸	edhy
+鬱金香是蘭陵酒	fwri
 狼狽風塵裏	rrro
 非不説子之道	lduu
 亂峯圍繞水平鋪	ejnw
@@ -16445,6 +16454,7 @@ columns:
 沒在石棱中	isdl
 尚思爲國戍輪臺	njeh
 嘔啞嘲哳難爲聽	llla
+鬱孤臺下清江水	fvhk
 敢想敢說	vfvu
 爲誰辛苦爲誰甜	euor
 向陽花木易爲春	rcsg
@@ -16503,6 +16513,7 @@ columns:
 萬里尚爲鄰	sknp
 以百姓心爲心	xdcy
 爲之於未有	epos
+更加鬱鬱蔥蔥	fxfs
 心中爲念農桑苦	yles
 古之學者爲己	dprb
 結髮爲夫妻	bhed
@@ -16702,6 +16713,7 @@ columns:
 在好爲人師	scey
 江山爲助筆縱橫	ijef
 我由未免爲鄉人也	qkhc
+鬱鬱蔥蔥佳氣浮	ffsi
 典校在祕書	kfsx
 赤也爲之小	hcem
 競渡相傳爲汨羅	iifm

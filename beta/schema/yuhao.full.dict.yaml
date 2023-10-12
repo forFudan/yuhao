@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20231001
+# 版本: 20231011
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20231001"
+version: "20231011"
 sort: original
 columns:
   - text
@@ -8151,6 +8151,7 @@ columns:
 钼	tmfj
 颡	bbbk
 湜	ijfn
+肏	rktt
 皞	eegd
 畋	jeht
 蝰	kghh
@@ -9616,6 +9617,7 @@ columns:
 竘	iwlv
 汋	iwod
 淜	iwwy
+鼂	jfjm
 嶍	jxxe
 疁	jxxt
 暅	jyff
@@ -10692,6 +10694,7 @@ columns:
 龜	yjmm
 溍	ifvj
 納	bkru
+鬱	wfft
 撖	aaae
 帨	mtlq
 畯	jvqe
@@ -11268,7 +11271,6 @@ columns:
 涬	ihud
 卐	xfnf
 袴	pgfs
-肏	rktt
 齮	mgal
 冇	skfo
 雮	drmy
@@ -14306,7 +14308,6 @@ columns:
 崸	jdmb
 巎	jdme
 昸	jesi
-鼂	jfjm
 鶗	jfnr
 峬	jfus
 晇	jgfs
@@ -35929,6 +35930,7 @@ columns:
 𠑉	ettp
 𪅈	ettr
 𠌶	etts
+𢍒	etts
 𠂹	ettt
 𩻢	ettt
 𤏀	ettu
@@ -38499,7 +38501,6 @@ columns:
 𠥁	geti
 𨌓	geti
 𤥬	geto
-𡘎	gets
 𩍫	geue
 𢦋	geuy
 𤨊	gevg
@@ -38526,6 +38527,7 @@ columns:
 𠥓	gfff
 𨣤	gffh
 𨋷	gffo
+𠏏	gfft
 𤤇	gfgd
 𡘋	gfgf
 𩋅	gfgo
@@ -38741,6 +38743,7 @@ columns:
 𤩊	ghhh
 𨎬	ghhh
 𠝥	ghhm
+𩁢	ghhw
 𤩮	ghjq
 𩋵	ghjr
 𩴟	ghjw
@@ -39494,6 +39497,7 @@ columns:
 𤧙	grte
 𩉓	grtm
 𩍾	grtm
+𡘎	grto
 𤧐	gruo
 𨍊	gruo
 𨡲	gruo
@@ -56119,7 +56123,6 @@ columns:
 𤑰	qtmu
 𥰖	qtmx
 𧡬	qtmx
-𢍒	qtns
 𠘱	qtoj
 𥏲	qtol
 𥱷	qtom
@@ -59682,7 +59685,6 @@ columns:
 𪇼	sflr
 𪇽	sflr
 𪈏	sflr
-𠏏	sflt
 𢺋	sflt
 𦣚	sflt
 𤏊	sflu
@@ -59693,7 +59695,6 @@ columns:
 𨬪	sflw
 𩁘	sflw
 𩁚	sflw
-𩁢	sflw
 𩁣	sflw
 𩁤	sflw
 𩁬	sflw
@@ -94266,7 +94267,6 @@ columns:
 𱣵	fvlf
 𲍟	fvro
 𱢿	fvsi
-𱎘	fvsk
 𱼩	fvsv
 𱤛	fvut
 𱣌	fvvk
@@ -95952,6 +95952,7 @@ columns:
 𲂅	ovod
 𲁅	ovqr
 𲁱	ovsa
+𱎘	ovsh
 𲁹	ovsq
 𱚄	ovxi
 𱯁	ovyg
@@ -99820,6 +99821,7 @@ columns:
 榗	ffvj
 檨	fuie
 浻	ikql
+灪	iwft
 瑥	gntm
 瓪	asbu
 盋	swom
@@ -100096,6 +100098,7 @@ columns:
 熶	uksb
 燅	hqhu
 爗	ujsa
+爩	uwft
 牄	xtfl
 獇	ruqv
 獊	rtfl
@@ -100549,6 +100552,7 @@ columns:
 䕡	sklr
 䕭	shqu
 䖂	sbut
+䖇	swft
 䖹	ksao
 䗀	khqe
 䗆	konb
@@ -101016,6 +101020,7 @@ columns:
 𡮧	nqkm
 𡮻	sqfq
 𡮼	sqfq
+𡯀	wffm
 𡯘	dsbu
 𡰃	dwwo
 𡰐	mxfd
@@ -101059,6 +101064,7 @@ columns:
 𡿌	jluf
 𡿑	jywa
 𡿞	jbuv
+𡿥	jwft
 𡿸	vfnw
 𢀁	vsbo
 𢀘	aajk
@@ -101247,6 +101253,7 @@ columns:
 𢺯	abuv
 𢺲	abuw
 𢺳	abuk
+𢺴	awft
 𢺾	tafb
 𢻁	ykqb
 𢻐	uqdb
@@ -101461,6 +101468,7 @@ columns:
 𤒼	ussu
 𤓖	bubu
 𤓩	ubue
+𤓮	wffu
 𤓶	ewbu
 𤔑	elrn
 𤔗	nqhe
@@ -101675,6 +101683,7 @@ columns:
 𥕾	dsat
 𥗞	duur
 𥘂	dbue
+𥘄	dwft
 𥘞	htfv
 𥘰	hnbb
 𥙤	hfca
@@ -102850,6 +102859,7 @@ columns:
 𪑿	nsvv
 𪒙	nksb
 𪒠	naae
+𪓊	nwft
 𪓋	kntp
 𪓌	kntd
 𪓐	kntm

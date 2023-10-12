@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231001
+# 版本: 20231011
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20231001"
+version: "20231011"
 sort: original
 columns:
   - text
@@ -81144,6 +81144,7 @@ columns:
 熊貓	vwys
 變壓器	bsll
 別有用心	lsty
+鬱鬱蔥蔥	wwss
 叛變	uabu
 脫口而出	wlsx
 水洩不通	kidb
@@ -81291,6 +81292,7 @@ columns:
 含蓄	tfso
 瓦解	awyw
 動聽	wkae
+抑鬱	atwf
 難為情	soyh
 家喻戶曉	olij
 天花板	fsfs
@@ -81581,6 +81583,7 @@ columns:
 內戰	krll
 官司	onvf
 改為	beow
+憂鬱	dwwf
 諒解	uoyw
 虛擬	mxar
 領略	tfje
@@ -81660,6 +81663,7 @@ columns:
 豁達	ohhu
 撐腰	anwd
 掛念	ahtf
+鬱悶	wfky
 痴情	pqyh
 一分為二	ftos
 瑤族	gwoq
@@ -81703,6 +81707,7 @@ columns:
 慘絕人寰	ybto
 差勁	uqfv
 搖旗吶喊	aoll
+鬱鬱寡歡	wwos
 拍案叫絕	aolb
 銳不可當	wdan
 痴心妄想	pyuf
@@ -81870,6 +81875,7 @@ columns:
 解僱	ywei
 昏睡	tamw
 拆毀	aerh
+鬱金香	wwrj
 話別	urlw
 受熱	eyhq
 紅顏	bfps
@@ -82966,6 +82972,7 @@ columns:
 脫稿	wtro
 辱沒	saiw
 官氣	onqp
+鬱結	wfbh
 雪恥	dxay
 牙床	hyuf
 起價	dced
@@ -83094,6 +83101,7 @@ columns:
 冒領	kstf
 陰極	ctfs
 返校	sbfo
+沉鬱	iywf
 呈報	lehu
 笑罵	qemd
 肢解	wdyw
@@ -83267,6 +83275,7 @@ columns:
 飯莊	yssx
 清熱	ihhq
 歡悅	slyt
+蔥鬱	srwf
 作別	eqlw
 華里	sfkk
 雙全	wwrg
@@ -83393,6 +83402,7 @@ columns:
 憲政	ohfn
 罰沒	muiw
 為患	owll
+陰鬱	ctwf
 京華	omsf
 概算	fxqm
 安全套	orgh
@@ -84333,6 +84343,7 @@ columns:
 林產	ffps
 照說	jbut
 限令	cvtf
+憂鬱症	dwpf
 呈送	leug
 返銷	sbwm
 飯粒	yspi
@@ -84504,6 +84515,7 @@ columns:
 情人眼裡出西施	ytmo
 寧折不彎	oadb
 愧不敢當	ydan
+抑鬱寡歡	awos
 能說	vwut
 大解	gdyw
 唇邊	sltp
@@ -85163,7 +85175,7 @@ columns:
 內刊	krhm
 以不變應萬變	xdbb
 買飯	mmys
-解鬱	ywfw
+解鬱	ywwf
 蟹殼	ywhf
 解甲	ywkj
 解衣	ywor
@@ -85693,6 +85705,7 @@ columns:
 明擺著	jash
 看得起	trdc
 印花稅	tsrt
+鬱郁	wfsw
 閱兵式	kegf
 頭領	fltf
 血汙	qmif
@@ -85722,6 +85735,7 @@ columns:
 入土為安	rhoo
 人為財死	tomf
 千門萬戶	wksi
+鬱鬱不樂	wwde
 英文版	spts
 二等獎	sqxw
 武俠小說	femu
@@ -85860,6 +85874,7 @@ columns:
 夠意思	rijy
 另當別論	lnlu
 吃官司	lovf
+鬱積	wfrh
 室內樂	okev
 銑床	wwuf
 婚變	ctbu
@@ -86441,6 +86456,7 @@ columns:
 反潛	sbig
 反調	sbuw
 契稅	dbrt
+積鬱	rhwf
 申說	keut
 別動隊	lwcu
 脫盲	wtum
@@ -86884,7 +86900,7 @@ columns:
 海況	iqil
 尉官	bhon
 不為已甚	dobd
-鬱熱	fwhq
+鬱熱	wfhq
 銳眼	wtmv
 插屏	ahbu
 一脈相通	fwfb
@@ -87104,6 +87120,7 @@ columns:
 談說	uuut
 取反	absb
 亟盼	slmt
+鬱悒	wfyl
 堆垛	hwhq
 深孚眾望	iemu
 小變	mabu
@@ -87164,6 +87181,7 @@ columns:
 反覆推敲	sdao
 吃一塹長一智	lfgq
 黃髮垂髫	shwh
+沉鬱頓挫	iwaa
 蝨多不癢	vrdp
 偷雞不著蝕把米	eedp
 東藏西躲	fsdw
@@ -87350,6 +87368,7 @@ columns:
 大簷帽	gqmk
 虛擲	mxau
 重簷	wkqy
+鬱郁蒼蒼	wsss
 稱說	reut
 差數	uqld
 顧戀	iwbu
@@ -87578,6 +87597,7 @@ columns:
 心急吃不了熱豆腐	yylu
 挨打受罵	aaem
 外方內圓	rokn
+鬱怒	wfcb
 百念	djtf
 奇恥	gaay
 脫澀	wtib
@@ -87726,6 +87746,7 @@ columns:
 華林	sfff
 絕不後悔	bdry
 內愧	kryw
+鬱憤	wfyd
 凸角	nfyw
 詠史	uolw
 郵商	wsou

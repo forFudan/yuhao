@@ -11,6 +11,7 @@ repr,font,zhu_code
 世,世,Hi
 丰,丰,Dn
 二,二,Si
+冫,冫,Si
 ⺀,⺀,Si
 亍,亍,Ah
 來,來,Dl
@@ -119,7 +120,7 @@ repr,font,zhu_code
 辶,辶,Pd
 门,门,Pn
 高,高,Ol
-{襄頭},,Ol
+{襄頭},,Ol
 {亮頭},,Ol
 {京頭},,Ol
 {高頭},高,Ol
@@ -152,7 +153,7 @@ repr,font,zhu_code
 {乐上},,Tm
 {卬左},,Tm
 合,合,Ye
-龠,龠,Ye
+{龠上},,Ye
 向,向,Rn
 {向框},,Rn
 {囟框},,Rn
