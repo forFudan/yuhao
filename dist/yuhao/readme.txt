@@ -6,6 +6,14 @@
 
 複製所有文件至機器上的 /Rime 文件夾，重新部署后即可使用。
 
+請在 default.custom.yaml 文件的 patch/schema_list 列表中手動添加本方案名如下：
+
+patch:
+  schema_list:
+    - schema: yuhao
+    - schema: yuhao_tc
+    - schema: yuhao_tw
+
 ## hotfix
 
 /hotfix 中的文件，用於 Android 平臺的「中文輸入法」，以及一些 Rime 内核較老的程序。使用時，直接將文件覆蓋 /schema 下的原文件即可。

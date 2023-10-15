@@ -1,0 +1,35 @@
+# encoding: utf-8
+#
+# 宇浩·星陳
+# 版本: 20231015
+#
+---
+name: "yustar"
+version: "20231015"
+sort: original
+import_tables:
+  - yuhao/yustar.full
+  # 以下是簡碼詞庫、全碼詞庫，可注釋掉
+  - yuhao/yustar.quick
+  # - yuhao/yustar_tc.quick
+  # - yuhao/yustar_sc.quick
+  # - yuhao/yustar_tc.words
+  # - yuhao/yustar_sc.words
+  # 以下是擴展詞庫
+  - yuhao.extended
+columns:
+  - text
+  - code
+encoder:
+  exclude_patterns:
+    - "^[a-z]$" # 一简
+    - "[^a-z]"
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 20]
+      formula: "AaBaCaZa"
+...
+
