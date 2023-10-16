@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231013
+# 版本: 20231016
 #
 # 發明人 朱宇浩
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -27,19 +27,19 @@
 # - 简化字增广词库（成语、诗词）
 ---
 name: "yuhao_tc"
-version: "20231013"
+version: "20231016"
 sort: original
 import_tables:
   # 去除下方的 # 符号以导入词库
-  - yuhao_tc.quick
-  - yuhao.full
-  - yuhao.private
-  - yuhao_tc.words
-  - yuhao.words
-  - yuhao_tc.words_literature
-  #  - yuhao.words_literature
-  - yuhao.symbols
-  - yuhao.extended
+  - yuhao/yuhao_tc.quick
+  - yuhao/yuhao.full
+  - yuhao/yuhao.private
+  - yuhao/yuhao_tc.words
+  - yuhao/yuhao.words
+  - yuhao/yuhao_tc.words_literature
+  #  - yuhao/yuhao.words_literature
+  - yuhao/yuhao.symbols
+  - yuhao/yuhao.extended
 columns:
   - text
   - code

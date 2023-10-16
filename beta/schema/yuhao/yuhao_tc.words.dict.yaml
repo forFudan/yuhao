@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231013
+# 版本: 20231016
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20231013"
+version: "20231016"
 sort: original
 columns:
   - text
@@ -81085,6 +81085,7 @@ columns:
 解散	ywsw
 反之	sbpe
 姿勢	sehq
+攀登	wwbf
 空虛	pfmx
 裡頭	pkfl
 花朵	seqf
@@ -81642,6 +81643,7 @@ columns:
 一拍即合	faxy
 遙相呼應	wflu
 出爾反爾	xfsf
+高不可攀	odaw
 與人為善	rtou
 花名冊	srnc
 一概而論	ffsu
@@ -82043,6 +82045,7 @@ columns:
 膽敢	wyaa
 飯廳	ysua
 說唱	utlj
+攀談	wwuu
 搖錢樹	awfd
 中獎	lnxw
 唾棄	lwov
@@ -82377,6 +82380,7 @@ columns:
 殘缺不全	fwdr
 滅絕人性	ibty
 口說無憑	luqs
+攀龍附鳳	wicq
 歃血為盟	hqoj
 遙遙相對	wwfk
 丟盔卸甲	gsqk
@@ -82424,6 +82428,7 @@ columns:
 宦官	oson
 墜毀	curh
 評說	uhut
+攀比	wwrr
 錘鍊	wwwf
 政令	fntf
 出眾	xxme
@@ -82498,6 +82503,7 @@ columns:
 公差	tvuq
 飄搖	dhaw
 認領	ubtf
+高攀	olww
 古板	dgfs
 內訌	kruf
 內應	krue
@@ -82535,6 +82541,7 @@ columns:
 難說	sfut
 扳手	astu
 湯麵	ijde
+攀親	wwif
 脫軌	wtgy
 芝麻官	spon
 無為而治	qosi
@@ -82723,6 +82730,7 @@ columns:
 瞧得起	mrdc
 創面	tfgi
 毀容	rhpt
+攀附	wwce
 說辭	uteb
 內服	krwx
 汙漬	ifih
@@ -82794,6 +82802,7 @@ columns:
 板子	fsvk
 起居	dcbd
 為害	owoh
+攀巖	wwjl
 起用	dctn
 時勢	jhhq
 韁繩	gfbj
@@ -82888,6 +82897,8 @@ columns:
 握別	ablw
 畫板	xhfs
 既成事實	xdao
+攀越	wwdg
+明礬	jwww
 慢車	ykgc
 熱賣	hqhm
 床罩	ufmm
@@ -82957,6 +82968,7 @@ columns:
 說完	utof
 產業化	pker
 內需	krds
+攀升	wwqs
 著呢	shlb
 返鄉	sbvq
 經得起	brdc
@@ -83030,6 +83042,7 @@ columns:
 古剎	dgwf
 笑顏	qeps
 草創	sjtf
+登攀	bfww
 罵街	mdrh
 頹敗	rqme
 憨笑	aaqe
@@ -83109,6 +83122,7 @@ columns:
 反諷	sbur
 插件	ahew
 熱茶	hqst
+攀高	wwol
 毀掉	rham
 退稅	vprt
 建起	xadc
@@ -83261,6 +83275,7 @@ columns:
 反對票	skdh
 拋出	adxx
 板車	fsgc
+攀枝花	wfse
 版主	tsog
 稍為	rmow
 自以為	txow
@@ -83898,6 +83913,7 @@ columns:
 絕無	bbqs
 絕滅	bbid
 講起	usdc
+襄樊	osww
 底板	utfs
 放熱	oehq
 溼地	ifhc
@@ -83940,6 +83956,7 @@ columns:
 敖包	howc
 明豔	jwjd
 反詰	sbuh
+攀折	wwae
 線路板	bnfs
 產床	psuf
 斜角	tfyw
@@ -84058,6 +84075,7 @@ columns:
 反戈	sbgg
 呈交	leot
 反綁	sbbd
+樊籬	wwqp
 成說	dvut
 脫殼	wthf
 小解	mayw
@@ -84139,6 +84157,7 @@ columns:
 熱敏	hqqb
 極盡	fsxf
 極低	fset
+攀上	wwks
 稍差	rmuq
 剩飯	ruys
 每戶	qbie
@@ -84416,6 +84435,7 @@ columns:
 說給	utby
 敢想	aafm
 反貪	sbtf
+攀援	wwae
 郵品	wsll
 絕收	bbxe
 悽惶	yfye
@@ -85111,6 +85131,7 @@ columns:
 豁嘴	ohln
 冰床	skuf
 獎旗	xwoq
+勇攀	btww
 唇紅	slbf
 事關全局	akrb
 溼法	ifih
@@ -85181,6 +85202,7 @@ columns:
 為虎添翼	omix
 抄沒	amiw
 內眷	krug
+礬土	wwht
 疊起	jjdc
 左角	sfyw
 耐聽	saae
@@ -85464,6 +85486,7 @@ columns:
 啟明星	ijjw
 租戶	rmie
 丟醜	gvgw
+樊籠	wwqi
 令愛	tfey
 躲債	wqeh
 撐門面	akgi
@@ -85798,6 +85821,7 @@ columns:
 冬令	estf
 裂解	fryw
 絕熱	bbhq
+攀爬	wwec
 引以為榮	vxou
 狸貓	rkys
 脈脈	wewe
@@ -86318,6 +86342,7 @@ columns:
 脫靶	wtgc
 豁子	ohvk
 唧筒	lxqk
+白礬	ebww
 驕慢	deyk
 不分青紅皂白	dthe
 不敢問津	daki
@@ -86805,6 +86830,7 @@ columns:
 釘錘	waww
 重起爐灶	wduu
 舌敝唇焦	rusw
+攀扯	wwan
 露水夫妻	dkgf
 解霸	ywdg
 聯產承包責任制	apvw
@@ -86847,6 +86873,7 @@ columns:
 內鄉	krvq
 外焦裡嫩	rwpc
 免費版	yvts
+攀鋼	wwwk
 板樓	fsfl
 棲霞	ffdb
 邋里邋遢	vkvk
@@ -86952,7 +86979,7 @@ columns:
 廢然而返	uwss
 出自內心	xtky
 陪睡	cimw
-不敢高攀	daof
+不敢高攀	daow
 加倉	xltf
 未解	heyw
 埋著	hksh
@@ -87241,6 +87268,7 @@ columns:
 飯香	ysrj
 反壓	sbsj
 熱勁	hqfv
+攀交	wwot
 頹垣斷壁	rhvb
 徙宅忘妻	rouf
 毀盡	rhxf
@@ -87502,6 +87530,8 @@ columns:
 聽隨	aecs
 以產定銷	xpow
 蟹膏	ywow
+攀沿	wwiq
+攀冰	wwsk
 商兌	outl
 全分	rgtb
 分灶	tbuh
@@ -87671,6 +87701,7 @@ columns:
 反禁	sbff
 泉脈	ekwe
 李銳	fvwt
+攀索	wwdy
 棲落	ffsi
 核字	foov
 核編	fobi

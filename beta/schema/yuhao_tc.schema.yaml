@@ -149,7 +149,7 @@ speller:
 translator:
   dictionary: yuhao_tc
   prism: yuhao_tc
-  db_class: tabledb
+  # db_class: tabledb
   enable_completion: true
   enable_sentence: false
   enable_user_dict: true
