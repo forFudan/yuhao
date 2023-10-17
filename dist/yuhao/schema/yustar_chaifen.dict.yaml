@@ -4,7 +4,7 @@
 # 宇浩星陳·全漢字拆分表
 # 官方拆分表
 # 朱宇浩 發明
-# 版本 20231015
+# 版本 20231017
 
 # 介紹：
 # 本拆分表包含CJK基本區、CJK擴展A至H區、部首區、兼容區、筆畫區所有漢字的全漢字拆分。
@@ -21,7 +21,7 @@
 
 ---
 name: "yustar_chaifen"
-version: 20231015
+version: 20231017
 sort: by_weight
 columns:
   - text
@@ -19191,7 +19191,7 @@ columns:
 霂	[雨氵木,CNAm,mù,GBK]
 霃	[雨氵冖儿,CNXW,chén,GBK]
 霅	[雨言,CByⓨ,zhà_zhá_shà_sà_yì,GBK]
-霊	[雨一丌䒑,CFLQ,líng,GBK]
+霊	[雨二业,CIIe,líng,GBK]
 霋	[雨十彐女,CGBC,qī,GBK]
 霌	[雨⺆土口,CWHL,zhōu,GBK]
 霐	[雨氵弓厶,CNBN,hóng,GBK]
@@ -69351,7 +69351,7 @@ columns:
 𪋰	[鹿罒耂日,MUHJ,zhǔ,CJK-B]
 𪋱	[鹿臼豕,MDTs,,CJK-B]
 𪋲	[鹿火火ヰ,MIIA,,CJK-B]
-𪋳	[鹿雨一䒑,MCFQ,líng,CJK-B]
+𪋳	[鹿雨二业,MCII,líng,CJK-B]
 𪋴	[鹿几一鳥,MEFD,,CJK-B]
 𪋵	[鹿彐水水,MBNN,,CJK-B]
 𪋶	[鹿雨口口,MCLL,,CJK-B]
@@ -74593,7 +74593,7 @@ columns:
 𫞐	[木龷隹,ASEh,,CJK-D]
 𫞑	[木水面,ANSm,,CJK-D]
 𫞒	[木厂木日,AVAJ,,CJK-D]
-𫞓	[止丿示戈,PGJK,,CJK-D]
+𫞓	[止丿示丶,PGJK,,CJK-D]
 𫞔	[一夕十戈,FXGK,,CJK-D]
 𫞕	[{卬左}弋,KKiⓜ,,CJK-D]
 𫞖	[巳七丶,OXKd,,CJK-D]
@@ -80539,7 +80539,7 @@ columns:
 𬻚	[足丁,PAdⓩ,,CJK-F]
 𬻛	[不土厶,GHNa,,CJK-F]
 𬻜	[一一卌一,FFSF,,CJK-F]
-𬻝	[𠂉卌一一,GSFF,,CJK-F]
+𬻝	[𠂉卌二,GSIr,,CJK-F]
 𬻞	[{卬左}コ{亞下},KBKa,,CJK-F]
 𬻟	[一卅一丶,FSFK,,CJK-F]
 𬻠	[一口口大,FLLO,,CJK-F]

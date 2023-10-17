@@ -8,7 +8,7 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v2.5.3"
+version = "v3.0.0"
 
 # %%
 try:
@@ -21,7 +21,7 @@ except:
 # %%
 os.makedirs("./dist/yuhao")
 os.makedirs("./dist/yuhao/schema/yuhao")
-copyfile("./image/宇浩输入法宋体字根图v2olkb.png", f"./dist/yuhao/宇浩输入法宋体字根图{version}.png")
+copyfile("./image/宇浩输入法宋体字根图v2olkb.png", f"./dist/yuhao/yulight_{version}.png")
 copyfile("./beta/readme.md", f"./dist/yuhao/readme.txt")
 copy_tree("./beta/mabiao", "./dist/yuhao/mabiao")
 copy_tree("./beta/schema", "./dist/yuhao/schema")

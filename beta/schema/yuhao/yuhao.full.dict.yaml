@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20231016
+# 版本: 20231017
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20231016"
+version: "20231017"
 sort: original
 columns:
   - text
@@ -11666,7 +11666,7 @@ columns:
 榀	flll
 泶	iykv
 娒	cqbm
-霊	dfau
+霊	dskg
 駼	dtff
 耞	dtxl
 珜	gugn
@@ -42323,7 +42323,6 @@ columns:
 𣳎	idfi
 𣺭	idft
 𣻔	idfu
-𪋳	idfu
 𣸺	idfv
 𣺁	idfw
 𣻝	idgc
@@ -42369,6 +42368,7 @@ columns:
 𣻟	idsc
 𣷝	idsh
 𣷮	idsj
+𪋳	idsk
 𪋁	idsl
 𤂪	idsn
 𪋯	idsr
@@ -86042,7 +86042,6 @@ columns:
 𭿾	qryi
 𭺘	qsbo
 𮀁	qsci
-𬻝	qsff
 𮀆	qsfh
 𭴿	qsfu
 𬼕	qshm
@@ -86052,6 +86051,7 @@ columns:
 𮠚	qsks
 𮙶	qsmb
 𮧤	qssb
+𬻝	qssi
 𭬷	qswf
 𭂱	qswy
 𭄕	qtfm
