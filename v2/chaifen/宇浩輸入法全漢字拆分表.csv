@@ -26379,7 +26379,7 @@ char,division,code,division_tw,code_tw,region
 䣈,口巴口巴,LCLC,,,CJK-A
 䣉,氵小丿巴,IMQC,,,CJK-A
 䣊,尚阝,NCjⓢ,,,CJK-A
-䣋,爪木阝,EFCj,,,CJK-A
+䣋,丿米阝,QPCj,爪木阝,EFCj,CJK-A
 䣌,广七阝,UTAC,,,CJK-A
 䣍,大电阝,GKCj,,,CJK-A
 䣎,巛田阝,VJCj,,,CJK-A
@@ -38526,7 +38526,7 @@ char,division,code,division_tw,code_tw,region
 𢪟,扌匕十,ARDi,,,CJK-B
 𢪠,扌口丨,ALNs,,,CJK-B
 𢪡,扌十,AWDi,,,CJK-B
-𢪢,扌儿𡿨,AQXi,,,CJK-B
+𢪢,扌儿𡿨,AQXi,扌儿二,AQSi,CJK-B
 𢪣,扌勹乂,AWWl,,,CJK-B
 𢪤,扌勹乂,AWWl,,,CJK-B
 𢪥,手勹,TWTo,,,CJK-B
@@ -74541,7 +74541,7 @@ char,division,code,division_tw,code_tw,region
 𫝹,人二心,TSYi,,,CJK-D
 𫝺,扌月乚,AWXi,,,CJK-D
 𫝻,扌囗口,ANLv,,,CJK-D
-𫝼,扌癶干乚,ABHX,,,CJK-D
+𫝼,扌癶二儿,ABSQ,,,CJK-D
 𫝽,扌亻夊彡,AEET,,,CJK-D
 𫝾,扌十人夊,ADTE,,,CJK-D
 𫝿,扌立里亍,AIKA,,,CJK-D
@@ -80570,7 +80570,7 @@ char,division,code,division_tw,code_tw,region
 𬼖,彐,Xlⓛⓛ,,,CJK-F
 𬼗,乚,TXiⓜ,,,CJK-F
 𬼘,〣七,NAiⓢ,,,CJK-F
-𬼙,七七乚,AAXi,,,CJK-F
+𬼙,十七乚,DAXi,,,CJK-F
 𬼚,匕乚匕,RXRi,,,CJK-F
 𬼛,之乙,PViⓔ,,,CJK-F
 𬼜,⺈也,YCyⓜ,,,CJK-F

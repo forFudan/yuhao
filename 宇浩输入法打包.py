@@ -8,7 +8,7 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v3.0.0"
+version = "v3.0.1"
 
 # %%
 try:

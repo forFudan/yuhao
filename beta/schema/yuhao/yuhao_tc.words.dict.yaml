@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231017
+# 版本: 20231019
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20231017"
+version: "20231019"
 sort: original
 columns:
   - text
@@ -80999,6 +80999,7 @@ columns:
 別說	lwut
 誤差	uluq
 斷絕	vvbb
+女郎	cnoe
 滅絕	idbb
 家家戶戶	ooii
 北極	urfs
@@ -81160,6 +81161,7 @@ columns:
 扶搖直上	aadk
 垂涎欲滴	witi
 聽到	aehm
+伊朗	exoe
 形勢	fshq
 考核	hsfo
 聽取	aeab
@@ -81249,6 +81251,7 @@ columns:
 收割	xeoh
 辨別	oulw
 鑑別	wslw
+朗誦	oeub
 絡繹不絕	bbdb
 入睡	rumw
 掙脫	aewt
@@ -81270,6 +81273,7 @@ columns:
 難為情	soyh
 家喻戶曉	olij
 天花板	fsfs
+晴朗	jhoe
 大有作為	gseo
 所作所為	ieio
 著火	shuo
@@ -81389,6 +81393,7 @@ columns:
 虛心	mxyi
 領隊	tfcu
 走勢	dkhq
+明朗	jwoe
 專業戶	gkie
 啟蒙	ilsy
 炎熱	uuhq
@@ -81580,6 +81585,7 @@ columns:
 羞愧	uqyw
 內行	krra
 偽裝	eoxh
+開朗	kfoe
 創舉	tfrs
 搗毀	arrh
 卻說	ttut
@@ -81591,6 +81597,7 @@ columns:
 權勢	fshq
 實況	obil
 虛實	mxob
+爽朗	gwoe
 痊癒	prpt
 座無虛席	uqmu
 遙望	wwuw
@@ -81910,6 +81917,7 @@ columns:
 內政	krfn
 反革命	sgyx
 落戶	siie
+國務卿	ncte
 華夏	sfdm
 脫貧致富	wtho
 全程	rgrl
@@ -81938,6 +81946,7 @@ columns:
 感觸	dfyw
 內陸	krch
 倒塌	ehhk
+新郎	ifoe
 畫冊	xhnc
 聲勢	hbhq
 起見	dcmx
@@ -82002,6 +82011,7 @@ columns:
 概論	fxut
 剎車	wfgc
 教官	hvon
+朗朗	oeoe
 宣洩	ofik
 內向	krrn
 八角	tiyw
@@ -82024,6 +82034,7 @@ columns:
 俯瞰	euma
 絕技	bbad
 聽筒	aeqk
+朗讀	oeuh
 灼熱	uwhq
 吃緊	lqsb
 遣返	lksb
@@ -82261,6 +82272,7 @@ columns:
 洩氣	ikqp
 辭呈	eble
 海龜	iqyj
+硬朗	dfoe
 邂逅	ywef
 謾罵	ukmd
 起落	dcsi
@@ -82628,6 +82640,7 @@ columns:
 蹣跚	nsnn
 光華	mhsf
 無害	qsoh
+郎中	oeln
 旋即	oqxv
 複核	pqfo
 絕活	bbir
@@ -82725,6 +82738,7 @@ columns:
 內耗	krdt
 解饞	ywyy
 說長道短	uhuq
+貨郎	eroe
 虛浮	mxie
 陳說	cfut
 瞧得起	mrdc
@@ -82750,6 +82764,7 @@ columns:
 眾怒難犯	mcsr
 現況	gmil
 承先啟後	vwir
+伴郎	euoe
 炙熱	wuhq
 指腹為婚	awoc
 為人作嫁	otec
@@ -82769,8 +82784,10 @@ columns:
 名為	rlow
 剎那間	wvkj
 抬起	avdc
+牛郎	wnoe
 熱湯	hqij
 冷熱	sthq
+侍郎	ehoe
 領到	tfhm
 含意	tfij
 強勢	vvhq
@@ -82795,6 +82812,7 @@ columns:
 說笑	utqe
 全套	rggh
 瞎說	mout
+法郎	ihoe
 銳減	wtid
 拍板	aefs
 不敢當	danj
@@ -82915,7 +82933,7 @@ columns:
 決絕	ibbb
 熱狗	hqrw
 贓官	mgon
-令郎	tfox
+令郎	tfoe
 羅曼史	mklw
 樂而忘返	esus
 言為心聲	uoyh
@@ -83192,6 +83210,7 @@ columns:
 悽婉	yfco
 官宦	onos
 創口	tflv
+郎君	oexq
 妖豔	cejd
 眼熱	mvhq
 陽極	cjfs
@@ -83241,6 +83260,7 @@ columns:
 內胎	krwv
 說東道西	ufud
 鈍角	wayw
+屎殼郎	bhoe
 全知全能	rqrv
 戶型	iefs
 熱飲	hqye
@@ -83255,6 +83275,7 @@ columns:
 草垛	sjhq
 能為	vwow
 大內	gdkr
+布朗	smoe
 脫去	wthv
 地幔	hcmk
 無恥之徒	qapr
@@ -83480,6 +83501,7 @@ columns:
 私產	rvps
 群起	xqdc
 行家裡手	ropt
+清朗	ihoe
 版式	tsgf
 如醉如痴	cgcp
 戕害	xgoh
@@ -83957,6 +83979,7 @@ columns:
 明豔	jwjd
 反詰	sbuh
 攀折	wwae
+兒郎	rqoe
 線路板	bnfs
 產床	psuf
 斜角	tfyw
@@ -84073,6 +84096,7 @@ columns:
 撐持	anah
 灶神	uhhk
 反戈	sbgg
+情郎	yhoe
 呈交	leot
 反綁	sbbd
 樊籬	wwqp
@@ -84247,6 +84271,7 @@ columns:
 隔著	cfsh
 雄起	svdc
 原產	seps
+太郎	gooe
 肚裡	whpk
 腦垂體	wwmk
 天極	fgfs
@@ -84444,6 +84469,7 @@ columns:
 抬轎	avge
 發虛	bvmx
 圖板	nlfs
+疏朗	vnoe
 核計	foud
 悽切	yfab
 陰虛	ctmx
@@ -84532,6 +84558,7 @@ columns:
 我說	qaut
 自毀長城	trhh
 減倉	idtf
+關漢卿	kite
 背板	urfs
 門內	knkr
 剝脫	bkwt
@@ -84656,6 +84683,7 @@ columns:
 為樂	owev
 劉德華	trsf
 說通	utbt
+夜郎	oeoe
 反例	sbef
 登極	bffs
 拋荒	adsu
@@ -84685,6 +84713,7 @@ columns:
 砸毀	dgrh
 唇形	slfs
 豔妝	jdxc
+愛卿	eyte
 腰裡	wdpk
 脫崗	wtjk
 支起	dbdc
@@ -84954,6 +84983,7 @@ columns:
 判為	uaow
 單板	llfs
 剖解	ilyw
+次郎	seoe
 門栓	knfr
 毀林	rhff
 好極	cvfs
@@ -85089,6 +85119,7 @@ columns:
 開戶行	kira
 拆閱	aekt
 僅夠	egrr
+朗照	oejb
 雙棲	wwff
 巴布亞新幾內亞	csff
 雞蛋裡挑骨頭	evpf
@@ -85099,6 +85130,7 @@ columns:
 玉顏	gops
 虛職	mxai
 虛靈	mxdl
+江郎	ifoe
 小床	mauf
 滾地	iohc
 里約熱內盧	kbhm
@@ -85157,6 +85189,7 @@ columns:
 毀害	rhoh
 婚內	ctkr
 為非	owli
+郎當	oenj
 反賊	sbmg
 出汙泥而不染	xiii
 若說	ssut
@@ -85181,6 +85214,7 @@ columns:
 弓起	vgdc
 絕域	bbhg
 為戒	owgs
+朗星	oejw
 誤聽	ulae
 搖把	awac
 離情別緒	pylb
@@ -85244,6 +85278,7 @@ columns:
 為我	owqa
 衣缽相傳	owfe
 牽著鼻子走	ostd
+愛郎	eyoe
 滅害	idoh
 班別	gulw
 澳門特別行政區	ikwg
@@ -85745,6 +85780,7 @@ columns:
 含情	tfyh
 撐住	aneo
 罵罵咧咧	mmll
+朗聲	oehb
 調閱	uwkt
 鰻魚	tkty
 發令	bvtf
@@ -86116,6 +86152,7 @@ columns:
 搞起	aodc
 躺著	wnsh
 閉著	kash
+俊朗	evoe
 今秋	tfru
 今冬	tfes
 為善	owuu
@@ -86196,6 +86233,7 @@ columns:
 全無心肝	rqyw
 說幹就幹	udod
 為文	owpw
+郎舅	oerj
 騎著	dgsh
 厚顏	sjps
 才算	aqqm
@@ -86411,6 +86449,7 @@ columns:
 佛說	evut
 紅顏禍水	bphk
 啟動盤	iwqq
+朗科	oers
 治汙	ivif
 修憲	enoh
 高領	oltf
@@ -86442,6 +86481,7 @@ columns:
 垂拱	wsas
 貪大求全	tgfr
 底裡	utpk
+朗訊	oeuv
 翹著	hhsh
 豔照	jdjb
 運勢	yghq
@@ -86590,6 +86630,7 @@ columns:
 早說	jdut
 歇著	jwsh
 喊著	ldsh
+周郎	whoe
 內審	kroq
 補角	pfyw
 擋著	ansh
@@ -86663,6 +86704,7 @@ columns:
 最新版	kits
 吃菜	lqse
 著調	shuw
+刀郎	bdoe
 全包	rgwc
 華陽	sfcj
 華潤	sfik
@@ -86745,7 +86787,7 @@ columns:
 服眾	wxme
 撲稜	akrh
 山裡紅	jpbf
-豁朗	ohox
+豁朗	ohoe
 電脈衝	dwrw
 響板	vqfs
 板障	fsci
@@ -87163,6 +87205,7 @@ columns:
 為私	owrv
 石龜	dhyj
 沒貨	iwer
+客卿	oete
 空床	pfuf
 餓著	yqsh
 挑著	aqsh
@@ -87297,6 +87340,7 @@ columns:
 個人版	etts
 但說無妨	euqc
 說課	utuj
+朗逸	oeyl
 壓產	sjps
 轉憂為喜	gdod
 鋼絲床	wbuf
@@ -87376,6 +87420,7 @@ columns:
 掃聽	axae
 世華	hisf
 麵霸	dedg
+博朗	dfoe
 聽牌	aetw
 氯鹼	qbkr
 全家桶	rofb
@@ -87471,6 +87516,7 @@ columns:
 丟勒	gvgx
 悽咽	yfln
 絮說	clut
+俊郎	evoe
 化害為利	eoor
 令嚴	tfll
 絕才	bbaq
@@ -87545,7 +87591,7 @@ columns:
 熱縮	hqbo
 拴著	arsh
 眾醉獨醒	mgrg
-郎貓	oxys
+郎貓	oeys
 百閱	djkt
 直郵	dmws
 夠嗎	rrld
@@ -89011,6 +89057,7 @@ columns:
 文峯	pwje
 夠着	rrum
 羣租	xqrm
+郎貓	oxys
 啤酒節	liqx
 回敍	nltf
 香台	rjvl

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20231017
+# 版本: 20231019
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20231017"
+version: "20231019"
 sort: original
 columns:
   - text
@@ -10352,12 +10352,14 @@ columns:
 怜	ytfb
 傲	ehoe
 遥	wwpd
+郎	oerc
 拔	aswo
 抵	ataf
 插	ahrj
 玲	gtfb
 零	dtfb
 猪	rhjo
+朗	oerw
 曼	ksmb
 羞	uqbc
 吟	ltfv
@@ -10377,9 +10379,11 @@ columns:
 贪	tfvk
 割	ohlm
 凄	sfxc
+廊	uoec
 慨	yerq
 拐	albd
 呈	lenv
+卿	teri
 瞎	mohl
 珊	gncn
 邻	tfbc
@@ -10429,6 +10433,7 @@ columns:
 聆	atfb
 翎	tfbx
 墟	hmxf
+螂	koec
 删	wkfm
 瘟	pntm
 咎	etlv
@@ -10449,6 +10454,7 @@ columns:
 捻	atfy
 羌	uqrg
 衲	pkru
+啷	loec
 簧	qsst
 唆	lvqe
 稷	rjqe
@@ -10502,6 +10508,7 @@ columns:
 亟	slbf
 遨	hoep
 韭	fnnf
+榔	foec
 鹂	fkfy
 妗	ctfv
 磺	dsst
@@ -10664,6 +10671,7 @@ columns:
 柃	ftfb
 镘	tksb
 營	uuyr
+瑯	goec
 酲	glen
 懲	rfey
 鈴	wtfb
@@ -10828,8 +10836,11 @@ columns:
 鯪	thqe
 黇	ssjl
 堲	erxh
+塱	oerh
+蓢	soew
 㠯	bnbu
 㥄	yhqe
+㮾	oerf
 𨱑	tsjt
 𬶨	ergq
 袓	pmiy
@@ -23035,7 +23046,6 @@ columns:
 㶵	eeuo
 㒡	eewb
 㐵	efau
-䣋	efcj
 㑣	effv
 㒎	efgl
 㐾	efhw
@@ -26178,6 +26188,7 @@ columns:
 䈼	qoyj
 䎹	qpar
 䉤	qpce
+䣋	qpcj
 䉱	qpgl
 㽃	qpja
 䈶	qptl
@@ -75149,7 +75160,7 @@ columns:
 𪬎	yxyc
 𪬽	yxyl
 𪞓	yysm
-𫝼	abhx
+𫝼	absq
 𫝾	adte
 𫝽	aeet
 𫝿	aika
@@ -81024,7 +81035,6 @@ columns:
 𭡴	aaqm
 𭠢	aasv
 𭡵	aauy
-𬼙	aaxi
 𭠱	abbb
 𭃍	abbd
 𭢄	abbw
@@ -81658,6 +81668,7 @@ columns:
 𮀢	dabl
 𮪊	dabu
 𮪜	daur
+𬼙	daxi
 𮩾	dbbb
 𮪇	dbbg
 𭃄	dbdi
@@ -99640,8 +99651,10 @@ columns:
 麿	plrn
 嘅	lerq
 沷	iswo
+嫏	coec
 鮻	tvqe
 觽	ywhk
+鎯	woec
 鄤	ksmc
 腄	wwss
 悺	yonb
@@ -99943,6 +99956,7 @@ columns:
 鵔	rvqe
 鵕	vqer
 鷨	sfsr
+樃	foew
 蹕	njsd
 鏹	wvvk
 縉	bfvj
@@ -100283,18 +100297,25 @@ columns:
 龝	ryjm
 龣	ynbk
 蘒	sryj
+剆	oerm
+勆	oerx
 幯	mqex
 揤	aerx
 楖	ferx
 櫭	ferf
+欴	oere
 瀄	iqex
 穊	rerq
 莭	serx
+蓈	soec
 蔇	serq
 蠞	qerk
+郒	oerc
 鱀	ergt
 鿛	shqw
 鿫	qrqg
+鿥	oerw
+鿾	hoec
 㐦	rsqv
 㐻	ekru
 㑫	etfy
@@ -100604,6 +100625,7 @@ columns:
 䢛	kqlp
 䢢	tfxp
 䢭	uiep
+䣋	efcj
 䣮	gswo
 䣻	gtfl
 䤌	gtfl
@@ -100692,10 +100714,13 @@ columns:
 䶱	esyj
 䶲	khyj
 㑡	eerx
+㓪	oerb
 㘉	lqex
+㙟	hoew
 㦢	yqex
 㮣	ergf
 㸅	uqex
+㾿	poec
 䀈	ergm
 䇒	ergi
 䊠	ergp
@@ -100703,6 +100728,7 @@ columns:
 䐴	ergw
 䗻	kqex
 䫀	erdm
+䱶	toec
 䲙	tqex
 𠀩	hsan
 𠁖	fkfn
@@ -101173,6 +101199,7 @@ columns:
 𢩖	ihrj
 𢩤	iwkb
 𢪍	amvi
+𢪢	aqsi
 𢫸	alxg
 𢬳	arqr
 𢬷	akrl
@@ -102843,15 +102870,20 @@ columns:
 𪛕	ynyj
 𪛖	ynyu
 𠅴	oerh
+𠌇	eoec
 𠌰	eerq
 𠐉	eqex
+𠗷	soec
 𠠑	qerm
 𠣹	werq
 𠨞	xerx
 𠨠	erxo
+𠻡	oerl
+𠻴	loew
 𡁙	lyeq
 𡃢	lerf
 𡄊	lerm
+𡏅	oerh
 𡒖	ierh
 𡖖	rerx
 𡖥	rerc
@@ -102860,35 +102892,68 @@ columns:
 𡷦	erxj
 𡸎	jerx
 𢟪	ergy
+𢠯	yoew
+𢲲	aoec
 𣁚	perx
+𣂞	oere
 𣌸	jerx
+𣛬	fter
+𣝣	fmea
 𣡨	fmec
 𣢣	erei
 𣩃	frex
 𣹜	ierx
+𣼽	ioew
+𤍎	uoec
+𤎜	uoew
+𤠸	roec
 𤡚	rerq
 𤧨	gerc
+𤨡	goew
+𤫈	gtey
+𤭒	oera
 𤻿	perf
 𥣮	rqex
+𥧫	poec
 𥰐	qerm
+𥱳	qoec
+𦂧	boec
+𦄺	boew
 𦔀	dteb
 𦔙	dteq
+𦗏	aoec
+𦫍	oers
+𦫏	oers
+𦺄	ster
 𧎟	kerc
 𧐆	ergk
 𧑂	kerq
+𧜛	poec
 𧜳	perq
 𧫜	ergu
+𧽗	doec
 𨂢	erxn
+𨄂	noec
+𨅉	noew
+𨉰	woec
+𨖅	oerp
+𨘅	yerp
 𨙌	qerp
 𨙐	ergp
 𨜊	terc
+𨜮	toec
 𨟧	emec
+𨬅	woee
+𨱍	toec
 𩄹	derw
+𩅜	doew
+𩝢	yoec
 𩞊	yerq
 𩪶	mqex
 𩯂	herq
 𩼚	tsex
 𩽙	terf
+𪁜	oerr
 𪃹	erxr
 𪄵	ergr
 𪝀	eywh
@@ -102998,12 +103063,17 @@ columns:
 𪞋	ertt
 𪟙	erxk
 𪠂	berx
+𪡙	loex
 𪡰	llex
+𪤼	roec
 𪪗	uerx
 𪬒	erey
+𪮡	aoew
 𪺜	twex
 𫂉	qerc
+𫃖	pqex
 𫅞	ferl
+𫆍	aoew
 𫑲	emec
 𫝝	jsae
 𫟿	tuqf
@@ -103179,9 +103249,17 @@ columns:
 𬺎	uqfx
 𬺙	ikef
 𫨀	emex
+𫵉	oerg
 𫸤	emes
+𬁈	joec
+𬁋	jter
+𬃌	foex
 𬋺	emet
+𬓌	hoec
+𬕨	qoew
 𬚢	erga
+𬛋	woec
+𬡨	poew
 𬼓	wssh
 𬾂	tfba
 𬾻	eoqr
@@ -103389,12 +103467,18 @@ columns:
 𮭬	kvqe
 𮮛	nonb
 𮮧	etdb
+𭅺	oerx
 𭅼	vqex
 𭅽	rrex
 𭞖	ysex
 𭡰	terq
 𭥊	ergp
+𭲝	isex
+𮎘	oerd
+𮑛	soec
 𮔕	erxk
+𮗇	dfev
+𮬐	tter
 𰀥	bnbc
 𰀦	bnbb
 𰁛	svkb
@@ -103544,6 +103628,7 @@ columns:
 𱋴	sjtd
 𱌐	rbtu
 𰅓	ergx
+𰐁	uoew
 𰟅	ergu
 𰭯	ergs
 𰸲	nqex
@@ -103669,6 +103754,14 @@ columns:
 𲎕	usjt
 𲎣	hqem
 𲎤	hqhm
+𱎋	voec
+𱏃	eoew
+𱐞	merb
+𱘸	goec
+𱢞	joew
+𱧧	ioec
+𱨣	ierq
+𱱽	eoew
 𲊁	dera
 ⻆	ywht
 ⻇	yktt
@@ -103726,11 +103819,16 @@ columns:
 華	sfsa
 韛	csst
 龜	yjmm
+廊	uoec
+朗	oerw
+郞	nerc
 慨	yerq
 既	ergq
 節	qerx
+朗	oerw
 爵	emea
 節	qerx
+響	vqej
 丽	fkfk
 侻	etlq
 偺	eetj
@@ -103801,8 +103899,11 @@ columns:
 馧	rjnm
 駾	dtlq
 黹	kntt
+剆	oerm
+廊	uoec
 揤	aerx
 旣	ergq
+朗	oerw
 槪	ferq
 櫛	fqex
 爵	emea
@@ -103822,3 +103923,4 @@ columns:
 𮹎	xksb
 𮹗	jtfy
 𮱍	cerx
+𮲈	yoec

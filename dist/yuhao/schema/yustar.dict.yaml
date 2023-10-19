@@ -1,19 +1,19 @@
 # encoding: utf-8
 #
 # 宇浩·星陳
-# 版本: 20231017
+# 版本: 20231019
 #
 ---
 name: "yustar"
-version: "20231017"
+version: "20231019"
 sort: original
 import_tables:
+  # 以下是單字全碼
+  - yuhao/yustar.full
   # 以下是簡碼字詞，可注釋掉
   # - yuhao/yustar_tc.quick
   # - yuhao/yustar_sc.quick
   - yuhao/yustar.quick
-  # 以下是單字全碼
-  - yuhao/yustar.full
   # 以下是擴展詞庫
   - yuhao/yuhao.private
   # 以下是全碼詞庫，可注釋掉

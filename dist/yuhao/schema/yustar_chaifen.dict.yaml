@@ -4,7 +4,7 @@
 # 宇浩星陳·全漢字拆分表
 # 官方拆分表
 # 朱宇浩 發明
-# 版本 20231017
+# 版本 20231019
 
 # 介紹：
 # 本拆分表包含CJK基本區、CJK擴展A至H區、部首區、兼容區、筆畫區所有漢字的全漢字拆分。
@@ -21,7 +21,7 @@
 
 ---
 name: "yustar_chaifen"
-version: 20231017
+version: 20231019
 sort: by_weight
 columns:
   - text
@@ -26408,7 +26408,7 @@ columns:
 䣈	[口巴口巴,LOLO,hàng,CJK-A]
 䣉	[氵小丿巴,NIGO,,CJK-A]
 䣊	[尚阝,IPfⓢ,dǎng,CJK-A]
-䣋	[爪木阝,UAPf,cǎi,CJK-A]
+䣋	[丿米阝,GQPf,cǎi,CJK-A]
 䣌	[广{卬左}七阝,MKXP,dǐ,CJK-A]
 䣍	[大电阝,ODPf,yǎn_yān,CJK-A]
 䣎	[巛田阝,LVPf,zī,CJK-A]
@@ -74570,7 +74570,7 @@ columns:
 𫝹	[人二心,RIRi,,CJK-D]
 𫝺	[扌月乚,FWEi,,CJK-D]
 𫝻	[扌囗口,FWLv,,CJK-D]
-𫝼	[扌癶干乚,FBNE,,CJK-D]
+𫝼	[扌癶二儿,FBIW,,CJK-D]
 𫝽	[扌亻夊彡,FETC,,CJK-D]
 𫝾	[扌十人夊,FGRT,,CJK-D]
 𫝿	[扌立里亍,FKVI,,CJK-D]
@@ -80599,7 +80599,7 @@ columns:
 𬼖	[{反彐},Bjⓙ,,CJK-F]
 𬼗	[{卬左}乚,KEiⓜ,,CJK-F]
 𬼘	[〣七,UXiⓢ,,CJK-F]
-𬼙	[七七乚,XXEi,,CJK-F]
+𬼙	[十七乚,GXEi,,CJK-F]
 𬼚	[匕乚匕,NENb,,CJK-F]
 𬼛	[之乙,OYiⓩ,,CJK-F]
 𬼜	[冖也,XOeⓜ,,CJK-F]
