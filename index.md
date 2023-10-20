@@ -23,8 +23,8 @@ nav_order: 1
 {: .highlight }
 >官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk) · 
 >官方 TG 群: [yuhaoim](https://t.me/yuhaoim)  
->[最新版本下载](https://github.com/forFudan/yuhao/releases/) · 
->[备用下载地址](https://gitee.com/forFudan/yuhao/releases/)  
+>[最新版本下载(Github)](https://github.com/forFudan/yuhao/releases/) · 
+>[备用下载地址(Gitee)](https://gitee.com/forFudan/yuhao/releases/)  
 >[快速入门](./docs/cookbook) · 
 >[详细教程](./docs/learn)  
 >[**光華**练习程序](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_light_practice_tool.exe) · 
