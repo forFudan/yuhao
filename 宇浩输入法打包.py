@@ -8,15 +8,14 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v3.0.1"
+version = "v3.1.0"
 
 # %%
-try:
-    remove_tree("./dist/yuhao")
-except:
-    pass
-
-# remove_tree("./wafel")
+for _ in range(2):
+    try:
+        remove_tree("./dist/yuhao")
+    except:
+        pass
 
 # %%
 os.makedirs("./dist/yuhao")
@@ -38,12 +37,9 @@ for file_name in [
     "yuhao/yustar.quick.dict.yaml",
 ]:
     copyfile(f"../yustar/beta/schema/{file_name}", f"./dist/yuhao/schema/{file_name}")
-    copyfile(f"../yustar/beta/schema/{file_name}", f"./dist/yuhao/schema/{file_name}")
 
 # %%
 # Make zip
-make_archive(f"./dist/yuhao_{version}", "zip", "./dist/yuhao")
+make_archive(f"./dist/宇浩光華_{version}", "zip", "./dist/yuhao")
 
-# %%
-# make_archive(f"./dist/yuhao_{version}_android_hotfix", 'zip', "./beta/hotfix")
-# %%
+#%%%
