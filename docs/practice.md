@@ -4,6 +4,10 @@ layout: default
 nav_order: 21
 ---
 
+{: .highlight }
+>[**光華**练习程序](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_light_practice_tool.exe) · 
+>[**星陳**练习程序](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_star_practice_tool.exe)  
+
 0.重要字根大码：
 
 - 第一天 2 遍，之后每天1遍。

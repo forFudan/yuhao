@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20231019
+# 版本: 20231020
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tw.quick"
-version: "20231019"
+version: "20231020"
 sort: original
 columns:
   - text
@@ -1647,6 +1647,8 @@ columns:
 屡	bpc
 屎	bpm
 属	bqk
+彘	bqr
+級	bqv
 屐	brd
 屜	brh
 尼	bri
@@ -2541,6 +2543,7 @@ columns:
 机	fqj
 柞	fqm
 恐	fqo
+极	fqv
 枫	fqw
 櫛	fqx
 桁	fra
@@ -2791,8 +2794,10 @@ columns:
 璠	gqp
 翳	gqq
 珧	gqs
+靸	gqv
 珩	gra
 璁	gre
+輿	grf
 酥	grh
 舂	grj
 酩	grl
@@ -3006,8 +3011,9 @@ columns:
 轶	hqg
 熱	hqh
 祚	hqm
-圪	hqv
+圾	hqv
 歃	hre
+舆	hrf
 耋	hrh
 耆	hrj
 髦	hrm
@@ -3047,6 +3053,7 @@ columns:
 坡	hvp
 埃	hvq
 场	hvt
+辔	hvv
 劫	hvx
 埤	hwd
 靜	hwe
@@ -3281,7 +3288,7 @@ columns:
 滗	iqr
 洮	iqs
 彦	iqt
-汔	iqv
+汲	iqv
 剷	iqw
 渔	iqy
 颯	irf
@@ -3485,7 +3492,7 @@ columns:
 晦	jqb
 甽	jqc
 昇	jqs
-屹	jqv
+岌	jqv
 岚	jqw
 巍	jrc
 嵐	jrf
@@ -3900,6 +3907,7 @@ columns:
 咋	lqm
 兄	lqr
 呼	lqu
+吸	lqv
 叱	lri
 嘚	lrj
 呂	lrn
@@ -4240,6 +4248,7 @@ columns:
 监	nqm
 党	nqr
 跳	nqs
+趿	nqv
 鉴	nqw
 紫	nrb
 踒	nrc
@@ -4866,6 +4875,7 @@ columns:
 船	qql
 盤	qqm
 筵	qqn
+笈	qqv
 矮	qrc
 筌	qrg
 稣	qrh
@@ -5090,7 +5100,6 @@ columns:
 猫	rsj
 舉	rsk
 獾	rsl
-舉	rsq
 獗	rsu
 獲	rsw
 獴	rsy
@@ -5368,8 +5377,10 @@ columns:
 臨	sql
 監	sqm
 蕃	sqp
+舉	sqr
 蕪	sqs
 藓	squ
+芨	sqv
 荇	sra
 萎	src
 莸	srd
@@ -6089,7 +6100,7 @@ columns:
 乡	vqp
 允	vqr
 孤	vqu
-纥	vqv
+级	vqv
 飨	vqy
 绗	vra
 纰	vrr
@@ -7003,6 +7014,7 @@ columns:
 男	jxk
 包	wck
 黨	nne
+及	qvb
 及	vod
 究	pyf
 半	uao
@@ -7741,6 +7753,7 @@ columns:
 峀	jjt
 呈	len
 㔕	qfv
+及	qvb
 礽	hvj
 肊	wvi
 肜	wto
