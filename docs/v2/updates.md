@@ -16,7 +16,7 @@ nav_order: 1
 {:toc}
 </details>
 
-本頁面主要展示「宇浩拆分」和「宇浩二代方案」較重大的更新。一般的更新説明可在 [release](https://github.com/forFudan/yuhao/releases) 頁面查看。
+本頁面主要展示「宇浩拆分」和「宇浩方案」較重大的更新。一般的更新説明可在 [release](https://github.com/forFudan/yuhao/releases) 頁面查看。
 
 ## 2023年10月18日
 

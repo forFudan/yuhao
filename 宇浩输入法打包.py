@@ -40,6 +40,6 @@ for file_name in [
 
 # %%
 # Make zip
-make_archive(f"./dist/宇浩光華_{version}", "zip", "./dist/yuhao")
+make_archive(f"./dist/yuhao_light_{version}", "zip", "./dist/yuhao")
 
 #%%%

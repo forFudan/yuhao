@@ -1,4 +1,4 @@
-title: 宇浩·光華
+title: 宇浩输入法
 description: 繁简通打·极致低重
 theme: just-the-docs
 
@@ -10,11 +10,11 @@ aux_links:
 
 # External navigation links
 nav_external_links:
-  - title: 宇浩·星陳
-    url: https://zhuyuhao.com/yustar
+  - title: 拆分查询·星陳
+    url: https://zhuyuhao.com/yustar/star/chaifen
     hide_icon: true # set to true to hide the external link icon - defaults to false
-  - title: 拆分查询
-    url: https://zhuyuhao.com/yuhao/v2/chaifen
+  - title: 拆分查询·光華
+    url: https://zhuyuhao.com/yuhao/light/chaifen
     hide_icon: true # set to true to hide the external link icon - defaults to false
   # - title: 玫枫跟打器
   #   url: https://kylebing.cn/tools/typepad/

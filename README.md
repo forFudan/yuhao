@@ -15,7 +15,7 @@
 >[详细教程](./docs/learn) · 
 >[在线练习](./docs/practice) · 
 >[更新日志](./docs/updates/updates) · 
->[拆分查询(台湾字形支持)](./v2/chaifen/)  
+>[拆分查询(台湾字形支持)](./light/chaifen/)  
 
 「宇浩输入法」是一款字形输入法，由朱宇浩博士发明，具有以下特点：
 
