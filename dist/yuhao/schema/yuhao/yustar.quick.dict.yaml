@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.quick"
-version: "20231019"
+version: "20231021"
 sort: original
 columns:
   - text
