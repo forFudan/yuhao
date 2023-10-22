@@ -8,7 +8,7 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v3.1.1"
+version = "v3.1.2"
 
 # %%
 for _ in range(2):
@@ -41,5 +41,5 @@ for file_name in [
 # %%
 # Make zip
 make_archive(f"./dist/yuhao_light_{version}", "zip", "./dist/yuhao")
-
+copyfile(f"./dist/yuhao_light_{version}.zip", f"./dist/宇浩光華_{version}.zip")
 #%%%
