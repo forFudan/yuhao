@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20231022
+# 版本: 20231025
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tw.quick"
-version: "20231022"
+version: "20231025"
 sort: original
 columns:
   - text
@@ -6321,6 +6321,7 @@ columns:
 脂	wrj
 銘	wrl
 牦	wrm
+釁	wro
 腴	wrt
 鍬	wru
 鏗	wsb
@@ -6380,7 +6381,7 @@ columns:
 釣	wwo
 遥	wwp
 鑽	wwq
-鵬	wwr
+覺	wwr
 錘	wws
 銖	wwt
 胸	www

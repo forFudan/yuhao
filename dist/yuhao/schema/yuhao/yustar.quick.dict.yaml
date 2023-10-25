@@ -1,14 +1,14 @@
 # encoding: utf-8
 ---
 name: "yustar.quick"
-version: "20231022"
+version: "20231025"
 sort: original
 columns:
   - text
   - code
 ...
 
-可	a
+就	a
 好	c
 的	d
 你	e
@@ -30,8 +30,9 @@ columns:
 多	x
 那	y
 刺	ac
+板	ad
 本	af
-就	ai
+京	ai
 市	au
 建	ba
 引	bu
@@ -41,7 +42,6 @@ columns:
 行	ci
 如	cl
 她	co
-何	ea
 似	ee
 什	eg
 以	ek
@@ -52,7 +52,6 @@ columns:
 在	eu
 有	ew
 像	ex
-打	fa
 五	fb
 拍	fd
 推	fe
@@ -76,6 +75,7 @@ columns:
 超	hm
 去	hn
 志	hr
+宋	ia
 定	if
 少	ig
 光	il
@@ -84,8 +84,7 @@ columns:
 常	iu
 炀	iy
 景	ja
-神	jd
-知	jl
+可	jl
 眠	jo
 星	jp
 故	jt
@@ -123,7 +122,6 @@ columns:
 套	ou
 民	ox
 钇	oy
-阿	pa
 特	ph
 告	pl
 配	po
@@ -211,8 +209,8 @@ columns:
 境	hkj
 傳	edh
 官	ibb
+阿	pjl
 除	prf
-河	nal
 器	llh
 存	euk
 座	mrr
@@ -266,6 +264,7 @@ columns:
 担	fjf
 羽	vvx
 狼	hkg
+頂	jvj
 版	ddb
 晶	jjj
 陪	pkl
@@ -278,6 +277,7 @@ columns:
 遭	sjj
 暖	jun
 貌	mdw
+顶	jvc
 滚	nak
 坏	hgu
 鬆	uak
@@ -316,6 +316,7 @@ columns:
 玲	jrk
 崇	uij
 腾	wqo
+痴	mjl
 纯	kxw
 貪	rky
 翠	vva
@@ -426,6 +427,7 @@ columns:
 璋	jkj
 禧	jhl
 苟	swl
+蜘	qjl
 岭	urk
 嚣	llv
 鋁	tll
@@ -497,12 +499,12 @@ columns:
 厝	vsj
 馒	xju
 痺	mdg
-軻	dal
+軻	djl
 畦	vhh
 羚	qrk
 祯	juc
 褶	xvv
-犄	poa
+犄	poj
 氯	gbn
 甕	akg
 柑	asi
@@ -518,7 +520,7 @@ columns:
 玮	jay
 鲸	xai
 舶	udb
-綺	ooa
+綺	ooj
 祛	jhn
 賂	jtl
 茎	sbp
@@ -526,7 +528,6 @@ columns:
 匝	huj
 瞑	jxj
 邯	sip
-轲	xal
 炖	ixw
 涤	nta
 坯	hgf
@@ -543,7 +544,7 @@ columns:
 獷	hms
 鞦	smi
 琰	jii
-咛	lia
+咛	lij
 辐	xfl
 洄	nwl
 礴	vsn
@@ -583,12 +584,12 @@ columns:
 禛	jgj
 膘	wpj
 跻	ptk
-猗	hoa
+猗	hoj
 谯	dei
 宥	iew
 诳	dhj
 坩	hsi
-舸	ual
+舸	ujl
 盱	jfh
 禳	jas
 荞	smk
@@ -655,7 +656,7 @@ columns:
 鳣	xaw
 腨	wus
 襚	xqt
-婍	coa
+婍	coj
 憖	ahr
 楒	avr
 緱	oeb
