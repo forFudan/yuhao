@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.quick"
-version: "20231025"
+version: "20231028"
 sort: original
 columns:
   - text
@@ -239,6 +239,7 @@ columns:
 館	kib
 異	vsk
 缺	jbr
+職	lkk
 壓	vjw
 黄	sdk
 附	peh
