@@ -27,8 +27,9 @@ nav_order: 1
 >[备用下载地址(Gitee)](https://gitee.com/forFudan/yuhao/releases/)  
 >[快速入门](./docs/cookbook) · 
 >[详细教程](./docs/learn)  
->[**光華**练习程序](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_light_practice_tool.exe) · 
->[**星陳**练习程序](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_star_practice_tool.exe)  
+>[**光華**练习(exe)](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_light_practice_tool.exe) · 
+>[**星陳**练习(exe)](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_star_practice_tool.exe) · 
+>[**星陳**字根记忆(安卓)](https://github.com/forFudan/yuhao/releases/download/v3.0.0/yuhao_star_anki.apkg)  
 >[**光華**拆分查询](https://zhuyuhao.com/yuhao/light/chaifen/) · 
 >[**星陳**拆分查询](https://zhuyuhao.com/yustar/star/chaifen/)  
 
