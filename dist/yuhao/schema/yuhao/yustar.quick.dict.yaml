@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yustar.quick"
-version: "20231028"
+version: "20231105"
 sort: original
 columns:
   - text
@@ -23,7 +23,7 @@ columns:
 能	n
 大	o
 要	p
-着	q
+道	q
 人	r
 而	s
 然	w
@@ -131,6 +131,7 @@ columns:
 蚌	qd
 师	qf
 精	qh
+着	qj
 北	qn
 美	qo
 差	qp

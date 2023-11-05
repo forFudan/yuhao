@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231028
+# 版本: 20231105
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.quick"
-version: "20231028"
+version: "20231105"
 sort: original
 columns:
   - text
@@ -8826,7 +8826,6 @@ columns:
 唒	lgo
 呭	lhi
 呩	lhs
-甴	lks
 吅	llv
 嗗	lmg
 哯	lmx
@@ -8893,6 +8892,7 @@ columns:
 瞗	mro
 鴡	mro
 鳪	mro
+囬	msi
 帪	msn
 狊	msq
 眻	mug
@@ -8924,6 +8924,7 @@ columns:
 跮	nhk
 坣	nht
 蹗	nil
+甴	nks
 囦	nkv
 跙	nmi
 踻	nna

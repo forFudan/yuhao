@@ -1,4 +1,4 @@
-# 将以下行复制到码表前，即可使用于Fcitx输入法（大陆简体优先）
+# 将以下行复制到码表前，即可使用于Fcitx输入法
 ;fcitx Version 0x03 Table file
 KeyCode=abcdefghijklmnopqrstuvwxy
 Length=4

@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳
-# 版本: 20231028
+# 版本: 20231105
 #
 ---
 name: "yustar"
-version: "20231028"
+version: "20231105"
 sort: original
 import_tables:
   # 以下是單字全碼

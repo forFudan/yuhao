@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20231030
+# 版本: 20231105
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tw.quick"
-version: "20231030"
+version: "20231105"
 sort: original
 columns:
   - text
@@ -1634,7 +1634,6 @@ columns:
 昼	boj
 蚤	bok
 咫	bol
-綰	bon
 蚤	boo
 迟	bop
 尽	bos
@@ -2246,7 +2245,6 @@ columns:
 皖	eof
 仿	eog
 储	eoh
-倌	eon
 伉	eoq
 依	eor
 皎	eot
@@ -2522,7 +2520,7 @@ columns:
 核	foi
 槁	fol
 柿	fom
-棺	fon
+檀	fon
 述	fop
 杭	foq
 柁	for
@@ -2769,7 +2767,6 @@ columns:
 瑄	gof
 轄	goh
 琼	gom
-琯	gon
 璇	goq
 琬	gor
 釀	gos
@@ -3259,7 +3256,7 @@ columns:
 淙	ioh
 泳	iok
 涼	iom
-涫	ion
+澶	ion
 滓	ioo
 游	ioq
 瀉	ior
@@ -4404,7 +4401,6 @@ columns:
 卞	omo
 宵	omw
 谑	omx
-官	onb
 稟	onl
 谠	onq
 衷	onr
@@ -5062,7 +5058,6 @@ columns:
 夤	rof
 彷	rog
 稿	rol
-馆	ron
 裊	ror
 狱	ros
 狡	rot
@@ -6081,7 +6076,6 @@ columns:
 综	voh
 孩	voi
 缟	vol
-绾	von
 绞	vot
 缔	vou
 弦	vov
@@ -6573,7 +6567,7 @@ columns:
 館	yob
 丸	yod
 懷	yom
-館	yon
+懍	yon
 惋	yor
 餃	yot
 灸	you
@@ -8382,11 +8376,11 @@ columns:
 叿	lfo
 唓	lgc
 呩	lhs
-甴	lks
 吺	lqh
 帊	mcb
 眒	mke
 盿	mpw
+囬	msi
 狊	msq
 盳	muw
 貹	mwg
@@ -8394,6 +8388,7 @@ columns:
 跿	ndk
 黓	ngy
 跊	nhe
+甴	nks
 囦	nkv
 辡	oox
 乵	oxi

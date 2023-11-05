@@ -158,6 +158,7 @@ reverse_lookup:
 punctuator:
   import_preset: symbols_yuhao
   half_shape:
+    "#": "#"
     "%": "%"
     "*": "*"
     "\\": "、"
@@ -205,5 +206,5 @@ style:
   inline_preedit: true
   preedit_type: preview
 
-menu:
-  page_size: 5
+# menu:
+#   page_size: 5
