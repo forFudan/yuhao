@@ -8,9 +8,6 @@ nav_order: 1
 # 宇浩输入法
 {: .no_toc }
 
-{: .highlight }
-**繁简通打　动静低重　字根聚类　兼顾手感**
-
 <details open markdown="block">
   <summary>
     目录
@@ -27,11 +24,13 @@ nav_order: 1
 >[备用下载地址(Gitee)](https://gitee.com/forFudan/yuhao/releases/)  
 >[快速入门](./docs/cookbook) · 
 >[详细教程](./docs/learn)  
->[**光華**练习(exe)](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_light_practice_tool.exe) · 
->[**星陳**练习(exe)](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_star_practice_tool.exe) · 
->[**星陳**字根记忆(安卓)](https://github.com/forFudan/yuhao/releases/download/v3.0.0/yuhao_star_anki.apkg)  
->[**光華**拆分查询](https://zhuyuhao.com/yuhao/light/chaifen/) · 
->[**星陳**拆分查询](https://zhuyuhao.com/yuhao/star/chaifen/)  
+>练习程序: 
+>[**光華**(exe)](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_light_practice_tool.exe) · 
+>[**星陳**(exe)](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_star_practice_tool.exe) · 
+>[**星陳**字根(安卓)](https://github.com/forFudan/yuhao/releases/download/v3.0.0/yuhao_star_anki.apkg)  
+>拆分及编码查询: 
+>[**光華**](https://zhuyuhao.com/yuhao/light/chaifen/) · 
+>[**星陳**](https://zhuyuhao.com/yuhao/star/chaifen/)  
 
 <!-- {: .note }
 >本页面介绍的是宇浩·光華，其他版本信息请移步导航栏 -->
@@ -86,6 +85,9 @@ nav_order: 1
 当前，宇浩输入法的核心维护工作 90% 以上内容是修正和完善「宇浩拆分」、优化 Rime 平台功能。
 
 ## 特点
+
+{: .highlight }
+**繁简通打　动静低重　字根聚类　兼顾手感**
 
 ### 繁简通打
 {: .no_toc }
