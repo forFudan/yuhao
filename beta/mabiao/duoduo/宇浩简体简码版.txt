@@ -780,6 +780,7 @@
 取样	abfu
 取樣	abfu
 撜	abfu
+摒棄	abfv
 棸	abfv
 𰓨	abfv
 娶妻	abfx
@@ -1553,6 +1554,7 @@
 揭不开锅	adft
 挥霍无度	adfu
 搣	adfu
+拋棄	adfv
 搮	adfv
 顶棚	adfw
 搜索枯肠	adfw
@@ -1950,7 +1952,6 @@
 捋	aea
 拍摄	aeaa
 拍打	aeaa
-捶打	aeaa
 拍攝	aeaa
 聽打	aeaa
 抓取	aeab
@@ -2442,7 +2443,6 @@
 揤	aerx
 揤	aerx
 挀	aery
-捶	aes
 折辱	aesa
 抓緊	aesb
 折返	aesb
@@ -2470,8 +2470,6 @@
 拆著	aesh
 摇荡	aesi
 𢫝	aesi
-捶	aesj
-𦖋	aesj
 𰼚	aesk
 聽勸	aesl
 哥伦布	aesm
@@ -2827,6 +2825,7 @@
 𢲆	afke
 拺	afkf
 𢷡	afkf
+𭠣	afkh
 攦	afki
 𦘐	afki
 𰓬	afkk
@@ -2962,6 +2961,7 @@
 𬚨	aftw
 捕魚	afty
 捕	afu
+捐棄前嫌	afuc
 指東説西	afud
 指東說西	afud
 抚养	afug
@@ -3226,7 +3226,6 @@
 𦖈	agkd
 掩	agkd
 撩開	agkf
-𭠣	agkf
 聽閾	agkg
 拒赔	agki
 𰓫	agkj
@@ -3849,7 +3848,6 @@
 持論	ahut
 插座	ahut
 擣	ahva
-𢷬	ahva
 𭡊	ahvc
 持续	ahvd
 挂线	ahvf
@@ -4640,6 +4638,7 @@
 聰明反被聰明誤	ajeu
 揚	ajf
 㧹	ajfa
+东山再起	ajfd
 𢮚	ajfg
 聪明一世	ajfh
 聰明一世	ajfh
@@ -4663,9 +4662,9 @@
 揚	ajft
 㨟	ajfu
 攝影機	ajfv
+揚棄	ajfv
 捰	ajfv
 𦖍	ajfv
-东山再起	ajgd
 揚鞭	ajge
 揋	ajgf
 提琴	ajgg
@@ -5018,7 +5017,6 @@
 下作	akeq
 拉關係	akeq
 䎶	aker
-下垂	akes
 聘爲	akew
 攔	akf
 𮠕	akfa
@@ -5272,6 +5270,7 @@
 下船	akqq
 下盤	akqq
 下笔	akqr
+下垂	akqs
 抽逃	akqs
 抽签	akqt
 抽籤	akqt
@@ -5692,6 +5691,7 @@
 拉斐爾	alft
 排槍	alft
 顿口无言	alfu
+捐棄	alfv
 𪭷	alfv
 悪	alfy
 聖	alg
@@ -6458,7 +6458,6 @@
 攖	ammc
 𪼿	ammc
 𢯩	ammd
-打瞌睡	amme
 东光	ammh
 可見光	ammh
 摣	ammi
@@ -6469,6 +6468,7 @@
 掉帧	ammm
 捉賊見贓	ammm
 掉幀	ammm
+打瞌睡	ammq
 𢺱	ammu
 𢯯	ammv
 打瞌睡	ammw
@@ -7073,6 +7073,7 @@
 𢴍	aoft
 打字機	aofv
 切割機	aofv
+擯棄	aofv
 㧲	aofv
 恶语相加	aofx
 拄	aog
@@ -7890,6 +7891,7 @@
 才能	aq
 才华	aq
 托	aqa
+捶打	aqaa
 挑拣	aqaa
 才敢	aqaa
 𢫅	aqaa
@@ -8310,7 +8312,6 @@
 东风二月天	aqsf
 𢸮	aqsf
 挑头	aqsg
-才華	aqsh
 才藝	aqsh
 拖著	aqsh
 挑著	aqsh
@@ -8318,6 +8319,8 @@
 𪣿	aqsh
 𢪢	aqsi
 抍	aqsj
+捶	aqsk
+𦖋	aqsk
 拖布	aqsm
 𢺙	aqsm
 𢺮	aqsm
@@ -8329,6 +8332,7 @@
 𢪺	aqsq
 𢲎	aqsq
 挑	aqss
+才華	aqss
 聎	aqss
 投井	aqst
 撫	aqsu
@@ -8384,6 +8388,7 @@
 播講	aqus
 翘首	aqut
 聽我說	aqut
+撫養	aqut
 𠀺	aqut
 聽我説	aquu
 投递	aquv
@@ -8583,7 +8588,6 @@
 耶和华	arer
 批货	arer
 批貨	arer
-耳垂	ares
 批价	aret
 批件	arew
 指爲	arew
@@ -8822,6 +8826,7 @@
 掜	arqr
 聣	arqr
 𢬳	arqr
+耳垂	arqs
 耳风	arqw
 指節	arqx
 耳	arr
@@ -8873,7 +8878,6 @@
 耶和華	arsf
 指头	arsg
 指压	arsh
-耶和華	arsh
 指著	arsh
 拴著	arsh
 揪著	arsh
@@ -8887,6 +8891,7 @@
 拴在	arsn
 打入冷宫	arso
 打入冷宮	arso
+耶和華	arss
 攪黃	arss
 㩮	arst
 𢷣	arst
@@ -9250,8 +9255,6 @@
 𰓗	asho
 推荐表	ashr
 推薦表	ashr
-撶	ashs
-𬚦	ashs
 攤平	ashu
 扳平	ashu
 𢺐	ashv
@@ -9447,6 +9450,8 @@
 事与愿违	assa
 事與願違	assc
 摇荡花间雨	assd
+撶	assd
+𬚦	assd
 𢱖	assf
 摸头	assg
 搭蓋	assh
@@ -9536,6 +9541,7 @@
 措詞	asuv
 𫼳	asuw
 扼	asv
+𢷬	asva
 过而能改	asvb
 𢺍	asvb
 描红	asvf
@@ -9794,6 +9800,7 @@
 𦕞	atfs
 拱手相讓	atfu
 打印機	atfv
+捨棄	atfv
 耹	atfv
 扲	atfv
 𤬯	atfv
@@ -10631,6 +10638,7 @@
 联众	autt
 联手	autu
 聯席會議	autu
+攁	autv
 𬺰	auu
 𢹒	auub
 捲煙	auud
@@ -10896,6 +10904,7 @@
 韦编三绝	avfv
 聯機	avfv
 拗勁	avfv
+扔棄	avfv
 挅	avfv
 𭣐	avfw
 掺	avg
@@ -11110,7 +11119,6 @@
 聯華	avsf
 抬头	avsg
 招災惹禍	avsh
-聯華	avsh
 挨著	avsh
 𫖕	avsh
 拚	avsj
@@ -11125,6 +11133,7 @@
 抬舉	avsq
 拣了芝麻丢了西瓜	avsq
 搦	avss
+聯華	avss
 扔进	avst
 掺进	avst
 扪参历井仰胁息	avst
@@ -11704,6 +11713,7 @@
 推導	awut
 控制論	awut
 推說	awut
+抱養	awut
 推广	awuu
 換句話説	awuu
 推説	awuu
@@ -13057,6 +13067,7 @@
 对校	bafo
 双职工	bafo
 屈指一算	bafq
+絕聖棄智	bafq
 对开	bafs
 𦄖	bafs
 又摘桃花换酒钱	baft
@@ -14705,8 +14716,6 @@
 綬帶	besf
 終	besi
 綿薄	besi
-綞	besj
-𭕠	besj
 𤼮	besk
 改觀	besl
 緩存	besn
@@ -16997,6 +17006,7 @@
 壁柜	blfg
 壁櫃	blfg
 对口相声	blfh
+𦆷	blfh
 𠯉	blfi
 𱱵	blfi
 壁画	blfj
@@ -17015,7 +17025,6 @@
 𠡿	blfx
 壁球	blgf
 劈面	blgi
-𦆷	blgk
 𦀚	blgn
 璧玉	blgo
 𱯳	blgo
@@ -17574,7 +17583,7 @@
 叏	bnbu
 𤼬	bnbu
 𩝵	bnby
-对此如何不泪垂	bnce
+对此如何不泪垂	bncq
 𥿑	bncs
 𮈗	bndg
 对此不抛眼泪也无由	bndk
@@ -18059,7 +18068,6 @@
 𨭑	bovw
 叉腰	bowd
 總方針	bowd
-紡錘	bowe
 絞殺	bowf
 桑寄生	bowg
 締造	bowl
@@ -18068,6 +18076,7 @@
 紡錠	bowo
 縮進	bowp
 尽先	bowq
+紡錘	bowq
 絞臉	bowr
 尽然	bows
 紡錘	boww
@@ -18356,6 +18365,7 @@
 彘	bqrr
 𥾖	bqrs
 屏氣斂息	bqrt
+綞	bqs
 犀箸厌饫久未下	bqsa
 𦆞	bqsa
 𭕯	bqsa
@@ -18364,6 +18374,8 @@
 屏氣凝神	bqsh
 𬗛	bqsh
 𥾷	bqsj
+綞	bqsk
+𭕠	bqsk
 𡳏	bqsl
 𫃹	bqsp
 居简而行简	bqsq
@@ -18997,7 +19009,6 @@
 履历表	bshr
 履歷表	bshr
 展示	bshs
-𦅠	bshs
 𦆶	bshu
 綏芬河	bsia
 避難所	bsie
@@ -19122,6 +19133,7 @@
 展厅	bssa
 綠茸茸	bssa
 𡱕	bssa
+𦅠	bssd
 𭕝	bssd
 𭕰	bssd
 层次	bsse
@@ -19321,7 +19333,6 @@
 通假	bteb
 紛亂	bteb
 毋从俱死也	btec
-紀念郵票	bted
 通体	btef
 通例	btef
 通条	btef
@@ -19335,7 +19346,6 @@
 通货	bter
 通化	bter
 通貨	bter
-通郵	btes
 通俗	btet
 夬	bteu
 通信	bteu
@@ -19554,6 +19564,7 @@
 紛繁	btqb
 通顺	btqd
 通順	btqd
+紀念郵票	btqd
 紙箱	btqf
 通篇	btqi
 通知	btql
@@ -19568,6 +19579,7 @@
 通盤	btqq
 紙船	btqq
 双人舞	btqs
+通郵	btqs
 通风	btqw
 紙筆	btqx
 通行	btra
@@ -19776,6 +19788,7 @@
 双烟一气凌紫霞	bufd
 層析	bufe
 又一	bufi
+又再	bufk
 層樓	bufl
 又想	bufm
 迢递三巴路	bufn
@@ -19796,7 +19809,6 @@
 𡱝	bugh
 𦂙	bugh
 層面	bugi
-又再	bugk
 紅燈區	bugl
 𮈿	bugm
 緧	bugo
@@ -21099,6 +21111,7 @@
 忌諱	byuc
 給養	byug
 絶美	byug
+給養	byut
 絶望	byuw
 纔敢	byva
 对角线	byvf
@@ -22529,6 +22542,7 @@
 𡡗	cebb
 𬯙	cebb
 隱居	cebd
+始亂終棄	cebf
 𡋴	cebh
 𲉌	cebj
 附屬	cebk
@@ -22865,7 +22879,6 @@
 如何得与凉风约	cerv
 𮱍	cerx
 隱秘	cery
-陲	ces
 隱蘊	cesb
 隱藴	cesb
 附帶	cesf
@@ -22876,9 +22889,7 @@
 降薪	cesi
 附二	cesi
 㚵	cesi
-陲	cesj
 降壓	cesj
-娷	cesj
 𡞌	cesj
 嬌蘭	cesk
 附在	cesn
@@ -22893,7 +22904,6 @@
 隆准	cesw
 附带	cesy
 妖孽	cesy
-𬯝	cesy
 娇	cet
 降分	cetb
 附會	cetf
@@ -23162,6 +23172,7 @@
 隔開	cfkf
 𪥱	cfkf
 𮥫	cfkf
+𫰝	cfkh
 𭎴	cfkh
 孋	cfki
 㛤	cfkk
@@ -23480,7 +23491,6 @@
 㛪	cgkd
 𨺍	cgkd
 𭒎	cgkd
-𫰝	cgkf
 𡞨	cgkj
 𭑻	cgkj
 𮥇	cgkj
@@ -23951,7 +23961,7 @@
 陪	cilv
 婄	cilv
 阿波羅	cimb
-陪睡	cime
+陪睡	cimq
 阿波罗	cimr
 障眼	cimv
 奶油小生	cimw
@@ -26064,6 +26074,8 @@
 阩	cqsj
 陹	cqsj
 𡛈	cqsj
+陲	cqsk
+娷	cqsk
 如鲠在喉	cqsl
 𥍰	cqso
 𪥲	cqso
@@ -26075,6 +26087,7 @@
 如箭在弦	cqsv
 𨹱	cqsw
 𡛋	cqsx
+𬯝	cqsy
 矜	cqt
 矝	cqtb
 務須	cqtd
@@ -26553,8 +26566,6 @@
 𡣨	cshm
 𨽈	cshm
 如获至宝	csho
-嬅	cshs
-韡	cshs
 阴曹地府	cshu
 陰曹地府	cshu
 𡞴	cshu
@@ -26716,6 +26727,8 @@
 𡟃	csrv
 恕難從命	csry
 媒	css
+嬅	cssd
+韡	cssd
 媒	cssf
 随葬	cssf
 隨葬	cssf
@@ -27349,6 +27362,7 @@
 好説歹説	cufu
 好說歹說	cufu
 墜機	cufv
+嫌棄	cufv
 怒火攻心	cufy
 𫱵	cuga
 𱀵	cuga
@@ -27920,6 +27934,7 @@
 限度	cvus
 奶瓶	cvus
 好說	cvut
+限養	cvut
 好説	cvuu
 𡠐	cvvd
 始终	cvve
@@ -31318,9 +31333,6 @@
 欺壓	desj
 麥草	desj
 麥苗	desj
-硾	desj
-䮔	desj
-𩃒	desj
 𮮁	desj
 𱋃	desj
 雪佛蘭	desk
@@ -31838,6 +31850,7 @@
 𩂴	dfkf
 𮁄	dfkf
 𮁐	dfkf
+𮵏	dfkh
 驪	dfki
 驪	dfki
 𣝭	dfkj
@@ -32589,7 +32602,6 @@
 𩃗	dgkd
 𩤔	dgkd
 砸開	dgkf
-𮵏	dgkf
 霸业	dgkg
 𩤭	dgkj
 驅蟲	dgkk
@@ -33320,7 +33332,6 @@
 電視劇	dhmd
 𥓫	dhmd
 𧼤	dhmd
-磕睡	dhme
 靈長目	dhmf
 飘尘	dhmh
 基点	dhml
@@ -33329,6 +33340,7 @@
 𧾥	dhmm
 𩧈	dhmm
 𱴤	dhmm
+磕睡	dhmq
 石虎	dhmu
 磕睡	dhmw
 䚈	dhmx
@@ -34139,7 +34151,7 @@
 十岁裁诗走马成	djdd
 不明不白	djde
 雷霆	djde
-盛时不可再	djdg
+盛时不可再	djdf
 電影票	djdh
 𰦸	djdh
 𮵓	djdh
@@ -34616,6 +34628,7 @@
 朝臣	djsc
 𫑬	djsc
 㪶	djsd
+𧂽	djsd
 驆	djsd
 䟆	djsd
 𱑓	djsd
@@ -34660,7 +34673,6 @@
 𩤚	djsr
 𱴸	djsr
 不是花中偏爱菊	djss
-𧂽	djss
 乾冷	djst
 霬	djst
 趩	djst
@@ -34996,8 +35008,6 @@
 走近	dkep
 南华	dker
 電化	dker
-電郵	dkes
-南郵	dkes
 走低	dket
 電信	dkeu
 南孚	dkev
@@ -35016,6 +35026,7 @@
 南麓	dkff
 不见森林	dkff
 不见一人来	dkff
+覆水再收岂满杯	dkff
 𭁢	dkff
 南天	dkfg
 電棒	dkfg
@@ -35079,7 +35090,6 @@
 不见玉颜空死处	dkge
 電玩	dkgf
 露水夫妻	dkgf
-覆水再收岂满杯	dkgf
 成由勤俭败由奢	dkgg
 成由勤俭破由奢	dkgg
 𬒆	dkgh
@@ -35349,6 +35359,8 @@
 電氣	dkqp
 𧻭	dkqp
 南無	dkqs
+電郵	dkqs
+南郵	dkqs
 南瓜	dkqu
 不同凡響	dkqv
 南风	dkqw
@@ -35389,7 +35401,6 @@
 南華	dksf
 南头	dksg
 页头	dksg
-南華	dksh
 走著	dksh
 成败在此一举	dksi
 𭁡	dksi
@@ -35402,6 +35413,7 @@
 碘鹽	dksq
 南苑	dksr
 破門而入	dksr
+南華	dkss
 不见萱草花	dkss
 䃩	dkss
 𩅽	dkss
@@ -35550,7 +35562,6 @@
 電鈕	dkwb
 電鋸	dkwb
 感同身受	dkwe
-電錘	dkwe
 页脚	dkwh
 献祭	dkwh
 電錶	dkwh
@@ -35566,6 +35577,7 @@
 南丹	dkwo
 走進	dkwp
 電鏟	dkwp
+電錘	dkwq
 十里月明灯火稀	dkwr
 走錯	dkws
 電郵	dkws
@@ -35966,7 +35978,6 @@
 喪葬	dlsf
 來華	dlsf
 朝别黄鹤楼	dlsf
-來華	dlsh
 𡅤	dlsh
 喜鹊	dlsj
 喜鵲	dlsj
@@ -35979,6 +35990,7 @@
 不患莫己知	dlsq
 喜获	dlsr
 來歷	dlsr
+來華	dlss
 𭴺	dlsu
 靈魂	dlsv
 故虽有名马	dlsx
@@ -36040,7 +36052,6 @@
 𩡳	dlvm
 喜蛋	dlvn
 霜叶红于二月花	dlvs
-𠁱	dlvs
 否	dlvu
 其中绰约多仙子	dlvv
 駛	dlw
@@ -36277,7 +36288,6 @@
 真传	dmes
 砂仁	dmes
 直供	dmes
-直郵	dmes
 𡕵	dmes
 𩅉	dmet
 馬仔	dmev
@@ -36606,6 +36616,7 @@
 𫘌	dmqr
 直升	dmqs
 龙虎风云	dmqs
+直郵	dmqs
 直径	dmrb
 夓	dmre
 𣤳	dmre
@@ -37202,7 +37213,6 @@
 馬放南山	dodj
 磍	dodl
 𩥌	dodl
-𪎎	dodl
 碎碎	dodo
 直认不讳	dodo
 𨑀	dodo
@@ -37518,7 +37528,6 @@
 駐華	dosf
 南方有鸟焉	dosf
 不辨菽麦	dosh
-駐華	dosh
 硫黄	dosk
 碎冰	dosk
 不宣而戰	dosl
@@ -37530,6 +37539,7 @@
 驤	dosr
 𥗝	dosr
 𩆶	dosr
+駐華	doss
 硫黃	doss
 𩦊	doss
 硡	dosv
@@ -37726,6 +37736,7 @@
 支离破碎	dpdd
 支離破碎	dpdd
 𨔦	dpdd
+不離不棄	dpdf
 赵亦盛设兵以待秦	dpdg
 𫐢	dpdg
 礳	dpdh
@@ -38435,7 +38446,6 @@
 克難	dqsf
 嘉年華	dqsf
 龙头	dqsg
-嘉年華	dqsh
 𡎂	dqsh
 不知有汉	dqsi
 𩂑	dqsi
@@ -38445,12 +38455,16 @@
 𮵋	dqsj
 百年難遇	dqsk
 兣	dqsk
+硾	dqsk
+䮔	dqsk
+𩃒	dqsk
 霉菌	dqsn
 𨕞	dqsp
 十年动乱	dqsr
 威风凛凛	dqss
 不复存在	dqss
 龙脊	dqss
+嘉年華	dqss
 不知云雨散	dqss
 雿	dqss
 駣	dqss
@@ -38508,6 +38522,7 @@
 𰅣	dqur
 靈敏度	dqus
 不知道	dqut
+馴養	dqut
 霉烂	dquu
 南船北马	dqux
 𩂡	dquy
@@ -39222,9 +39237,6 @@
 礚	dshm
 雲鬢	dsho
 𮞚	dshp
-驊	dshs
-𧠁	dshs
-𬒢	dshs
 㙬	dsht
 不甘示弱	dshv
 尭	dshw
@@ -39274,7 +39286,6 @@
 𥕢	dsjj
 𥕠	dsjk
 馵	dsjm
-𩡧	dsjm
 𮩴	dsjm
 雲影	dsjo
 磊落星月高	dsjo
@@ -39470,6 +39481,9 @@
 豕	dss
 百花凋零	dssd
 夏有凉风冬有雪	dssd
+驊	dssd
+𧠁	dssd
+𬒢	dssd
 丧魂落魄	dsse
 不甘落后	dsse
 喪魂落魄	dsse
@@ -39490,6 +39504,7 @@
 𮦝	dssl
 西葫蘆	dssm
 礷	dssm
+𩡧	dssm
 𧾲	dssm
 需在	dssn
 不甘落後	dssr
@@ -40604,6 +40619,7 @@
 还将梦魂去	dufh
 不一	dufi
 还将两行泪	dufi
+不再	dufk
 不求	dufk
 南北五千里	dufk
 不赖	dufl
@@ -40664,7 +40680,6 @@
 𬒌	dugh
 碰面	dugi
 覆盖面	dugi
-不再	dugk
 不理	dugk
 𩥱	dugk
 不惑	dugl
@@ -41147,6 +41162,7 @@
 胡說八道	dutu
 不善人之师	dutu
 不公	dutv
+礢	dutv
 丧父	dutw
 百弊丛生	dutw
 不息	duty
@@ -41411,7 +41427,6 @@
 破绽百出	dvdx
 不及其餘	dvdy
 𥀽	dvdy
-電子郵件	dvee
 破例	dvef
 盛傳	dveg
 成倍	dvei
@@ -41736,6 +41751,7 @@
 𠦇	dvqd
 駿	dvqe
 卖笑	dvqe
+電子郵件	dvqe
 䞭	dvqe
 克绍箕裘	dvqf
 成鳳	dvqf
@@ -42995,12 +43011,12 @@
 雪藏	dxsg
 雪蓮	dxsg
 雪莲	dxsh
-西華	dxsh
-嘉華	dxsh
 𰅽	dxso
 甚而	dxsr
 西苑	dxsr
 西曆	dxsr
+西華	dxss
+嘉華	dxss
 其翼若垂天之云	dxss
 𫝓	dxss
 不翼而飞	dxsv
@@ -43691,7 +43707,6 @@
 愛丁堡	eael
 何处	eaem
 白热化	eaer
-付郵	eaes
 采掇付中厨	eaes
 卽插卽用	eaet
 辭職信	eaeu
@@ -43815,6 +43830,7 @@
 侥	eaqh
 何等	eaqh
 𠆫	eaqp
+付郵	eaqs
 佴	eare
 偏执狂	earg
 作恶多端	eari
@@ -44411,7 +44427,6 @@
 伲	ebr
 辭行	ebra
 体改委	ebrc
-垂緌饮清露	ebrd
 白饭	ebre
 白璧微瑕	ebrg
 何忍独为醒	ebrg
@@ -44453,7 +44468,6 @@
 𠌄	ebsg
 𫖄	ebsg
 反压	ebsh
-反華	ebsh
 辭藻	ebsi
 反壓	ebsj
 白冰	ebsk
@@ -44470,6 +44484,7 @@
 反而	ebsr
 𠉺	ebsr
 假若	ebss
+反華	ebss
 反共	ebst
 僻巷	ebst
 白灰	ebsu
@@ -44940,7 +44955,6 @@
 𠭖	edbu
 𢺼	edbu
 𤽑	edbu
-郵電局	edbv
 優級	edbv
 供電局	edbv
 做絶	edby
@@ -45742,7 +45756,6 @@
 僑	eell
 保健品	eell
 凭吊	eelm
-郵遞員	eelm
 㑖	eeln
 伶伦吹裂孤生竹	eelq
 何处唤春愁	eelr
@@ -45863,7 +45876,6 @@
 佟	ees
 但使愿无违	eesa
 𠎕	eesa
-𢻩	eesb
 备他盗出入与非常也	eesc
 备他盗之出入与非常也	eesc
 任憑	eesd
@@ -45875,7 +45887,6 @@
 僑資	eese
 各使苍生有环堵	eesh
 佟	eesi
-倕	eesj
 𢍑	eesj
 價值觀	eesl
 仿佛若有光	eesm
@@ -46017,8 +46028,6 @@
 后面	ef
 后来	ef
 仨	efa
-垂死挣扎	efaa
-垂死掙扎	efaa
 采取	efab
 采掘	efab
 采择	efab
@@ -46059,7 +46068,6 @@
 愛麗絲	efbb
 使吾勇于就死也	efbc
 条贯	efbd
-郵政編碼	efbd
 愛爾維修	efbe
 使劲	efbf
 后劲	efbf
@@ -46081,7 +46089,6 @@
 彩屏	efbu
 倚天屠龍記	efbu
 僵局	efbv
-郵政局	efbv
 𦚌	efbw
 伍	efc
 便民	efca
@@ -46140,7 +46147,6 @@
 佳木斯市	efdo
 休克	efdq
 亿万斯年	efdq
-垂頭喪氣	efdq
 返本还原	efds
 彩雲	efds
 白天碎碎堕琼芳	efds
@@ -46251,8 +46257,6 @@
 𫣳	effs
 体检	efft
 做一天和尚撞一天钟	efft
-垂杨柳	efft
-垂楊柳	efft
 倚天万里须长剑	efft
 皇天无私阿兮	efft
 采样	effu
@@ -46415,7 +46419,9 @@
 𬿼	efkf
 休业	efkg
 彩蝶	efkh
+侢	efkh
 𧏁	efkh
+𭶭	efkh
 儷	efki
 𠈓	efkj
 俪	efkk
@@ -46501,7 +46507,6 @@
 𪝋	efmf
 后尘	efmh
 采光	efmh
-垂三光之明者	efmh
 条桌	efmj
 体虚	efmk
 便帽	efmk
@@ -46522,7 +46527,6 @@
 兵团	efna
 使团	efna
 兵无常势	efna
-垂天雌霓云端下	efna
 后路	efne
 彩图	efne
 兵團	efng
@@ -46604,7 +46608,6 @@
 𤔳	efpb
 条数	efpc
 兵痞	efpd
-垂死病中惊坐起	efpd
 𮞓	efpd
 𲅜	efpd
 使之	efpe
@@ -46834,6 +46837,7 @@
 后座	efut
 后首	efut
 便說	efut
+休養	efut
 𢮣	efut
 兵營	efuu
 便説	efuu
@@ -47032,7 +47036,6 @@
 爱理不理	egdg
 愛理不理	egdg
 傳票	egdh
-垂鞭直拂五云车	egdh
 𥑼	egdh
 𮀱	egdh
 皋	egdi
@@ -47225,8 +47228,6 @@
 俺	egkd
 傳開	egkf
 代開	egkf
-侢	egkf
-𭶭	egkf
 袋里	egkk
 傳問	egkl
 倚門	egkn
@@ -47592,7 +47593,6 @@
 返老还童	ehdi
 反老还童	ehdi
 兵者不祥之器	ehdl
-垂老不得安	ehdo
 倒霉	ehdq
 𤾐	ehdr
 仗勢欺人	ehdt
@@ -47803,7 +47803,6 @@
 佳節	ehqe
 倰	ehqe
 𭮵	ehqh
-𫥢	ehqj
 𱏍	ehqj
 傲氣	ehqp
 傲气	ehqq
@@ -47821,6 +47820,7 @@
 𪀆	ehro
 白平衡	ehrq
 侄兒	ehrq
+𫥢	ehrq
 倒毙	ehrr
 侍從	ehrt
 倒入	ehru
@@ -47834,13 +47834,13 @@
 倒帶	ehsf
 佳華	ehsf
 倒头	ehsg
-佳華	ehsh
 倒著	ehsh
 华轩蔼蔼他年到	ehsh
 侤	ehsk
 𬐈	ehsk
 倖存	ehsn
 白髮蒼蒼	ehss
+佳華	ehss
 倒茶	ehst
 倚勢凌人	ehst
 使老有所终	ehsv
@@ -47980,7 +47980,6 @@
 偏执	eiay
 位势	eiay
 爱沙尼亚	eiba
-垂泪对宫娥	eibc
 位居	eibd
 欠繳	eibe
 愛沙尼亞	eibf
@@ -48022,7 +48021,6 @@
 偏愛	eiey
 位于	eifa
 偏于	eifa
-垂涎三尺	eifb
 保温杯	eifd
 保溫杯	eifd
 𫣩	eife
@@ -48215,7 +48213,6 @@
 偏劳	eisy
 偏锋	eite
 爲所欲爲	eite
-垂涎欲滴	eiti
 僱用	eitn
 作法自毙	eitr
 悠游自在	eits
@@ -48691,6 +48688,7 @@
 爲叢驅雀	ekdm
 冬虫夏草	ekds
 冬蟲夏草	ekds
+𫣰	ekeb
 𠑡	eked
 伸	ekee
 侧后	ekef
@@ -48744,7 +48742,6 @@
 作業區	ekgl
 作业区	ekgw
 伸長	ekha
-𫣰	ekhb
 泉城	ekhd
 反對者	ekhj
 侧视	ekhk
@@ -48808,10 +48805,10 @@
 㑐	ekma
 俶	ekmb
 侧	ekmd
-侧睡	ekme
 侧目	ekmf
 受贿罪	ekml
 佧	ekmo
+侧睡	ekmq
 泉眼	ekmv
 們	ekn
 們	ekne
@@ -49301,6 +49298,7 @@
 各店	elum
 保護	elus
 保底	elut
+保養	elut
 𮊶	eluv
 保康	elux
 各	elv
@@ -49586,7 +49584,6 @@
 处置	emmd
 𠛴	emmd
 𠞄	emmd
-側睡	emme
 側目	emmf
 𥇠	emmf
 😈	emmg
@@ -49596,6 +49593,7 @@
 受賄罪	emml
 𪝽	emmm
 处罚	emmo
+側睡	emmq
 𠋝	emmq
 𰲝	emmv
 側睡	emmw
@@ -50176,6 +50174,7 @@
 修護	enus
 修道	enut
 候診	enut
+修養	enut
 修剪	enuw
 促	env
 𤽱	envb
@@ -50725,7 +50724,6 @@
 㿭	eovp
 𬾁	eovq
 停飞	eovs
-郵寄費	eovt
 𰃁	eovu
 保证书	eovv
 邀约	eovw
@@ -50891,7 +50889,6 @@
 近聞	epka
 𫣢	epkc
 近之则不逊	epkv
-垂帘听政	eplf
 伤病员	eplk
 近戰	epll
 傷病員	eplm
@@ -50993,7 +50990,6 @@
 俄	eqa
 伤逝	eqae
 傷逝	eqae
-垂簾聽政	eqaf
 俄	eqag
 皒	eqag
 仛	eqai
@@ -51018,7 +51014,6 @@
 𠐫	eqba
 佩刀	eqbd
 𠍁	eqbe
-垂竿已羡磻溪老	eqbh
 侮	eqbm
 𫯎	eqbm
 侮	eqbm
@@ -51299,11 +51294,13 @@
 佻	eqs
 侮辱	eqsa
 儛	eqsa
+𢻩	eqsb
 佩帶	eqsf
 作難	eqsf
 𱎤	eqsi
 㐼	eqsj
 𬿉	eqsj
+倕	eqsk
 佩蘭	eqsk
 伤筋动骨	eqsm
 侮蔑	eqsm
@@ -51879,12 +51876,12 @@
 化冻	ersa
 化凍	ersf
 愛德華	ersf
-愛德華	ersh
 倾慕	ersj
 傾慕	ersj
 卽在	ersn
 代徐敬业传檄天下文	ersp
 旣而	ersr
+愛德華	erss
 卽若	erss
 㒜	erst
 货运	ersv
@@ -51996,7 +51993,6 @@
 华发	erxb
 化妝	erxc
 𣣝	erxe
-𠍧	erxg
 𠚘	erxg
 𠚡	erxg
 堲	erxh
@@ -52060,7 +52056,6 @@
 供職	esai
 𠎲	esaj
 伏下	esak
-垂下	esak
 佈下	esak
 供职	esal
 供事	esal
@@ -52075,10 +52070,8 @@
 传播	esaq
 白头搔更短	esaq
 傇	esar
-垂拱	esas
 𤾴	esat
 传扬	esav
-甀	esaw
 伏击	esax
 传报	esax
 传热	esay
@@ -52087,25 +52080,19 @@
 佳节又重阳	esbc
 𭃜	esbd
 佈線	esbe
-垂線	esbe
 采茶戏	esbg
 𫢠	esbh
-郵編	esbi
 㒘	esbi
 传观	esbk
 佈網	esbk
 迫在眉睫	esbm
 近在眉睫	esbm
 𫣴	esbm
-郵展	esbs
-𡙇	esbt
 皈	esbu
 伖	esbu
 𠐊	esbu
 仮	esbu
 佈局	esbv
-郵局	esbv
-郵發	esbv
 質監局	esbv
 供給	esby
 借給	esby
@@ -52119,21 +52106,17 @@
 佈陣	escg
 白头如新	esci
 𫣤	esci
-郵	escj
 𨚟	escj
 佞	escn
 𡛉	escn
 冬防	esco
 佈防	esco
-郵務	escq
 傍花随柳过前川	escq
 传媒	escs
 備好	escv
 仁寿	esda
 借支	esdb
-㩾	esdb
 伊莱克斯	esdd
-郵碼	esdd
 伊萊克斯	esdd
 借花献佛	esde
 借故	esde
@@ -52141,7 +52124,6 @@
 冬麥	esde
 传感	esdf
 传票	esdh
-郵票	esdh
 𤓺	esdi
 𬽫	esdi
 𠦛	esdi
@@ -52149,22 +52131,17 @@
 佈雷	esdj
 低头不见抬头见	esdk
 供電	esdk
-郵電	esdk
 樂在其中	esdl
 借來	esdl
-垂直	esdm
 传真	esdm
 冬夏	esdm
 𩓚	esdm
-𩣷	esdm
 华而不实	esdo
 低头不语	esdo
 雞犬不寧	esdo
 白头不相离	esdp
 何况南楼与北斋	esdp
-𨙔	esdp
 𪝸	esdp
-垂头丧气	esdq
 億萬斯年	esdq
 后二十五年	esdq
 𠌩	esdq
@@ -52185,21 +52162,17 @@
 𬾯	esea
 伏兵	esef
 借条	esef
-垂体	esef
 借贷	eseg
 传代	eseg
 借代	eseg
 借貸	eseg
-郵袋	eseg
 白头偕老	eseh
 借债	eseh
 借債	eseh
 佽	esei
 借位	esei
 仕而优则学	esei
-𣂩	esej
 冬泉	esek
-郵遞	esem
 傆	esem
 𰂷	esem
 借條	esen
@@ -52215,21 +52188,17 @@
 𤾼	eses
 備份	eset
 传信	eseu
-郵儲	eseu
 任賢使能	esev
 傻头傻脑	esew
-郵件	esew
 備件	esew
 逢草逢花报发生	esew
 儰	esew
 𤾸	esew
 白云处处长随君	esex
 仁爱	esey
-垂爱	esey
 乌头白马生角	esey
 仁愛	esey
 備受	esey
-垂愛	esey
 但有泉声洗我心	esey
 佐	esf
 仅次于	esfa
@@ -52244,7 +52213,6 @@
 殷有三仁焉	esff
 冬天	esfg
 傼	esfg
-𭏀	esfg
 𡐏	esfh
 各在天一涯	esfi
 𠇐	esfi
@@ -52259,7 +52227,6 @@
 𠊃	esfm
 𪘓	esfm
 仁政	esfn
-郵政	esfn
 佐	esfo
 反唇相讥	esfo
 供述	esfo
@@ -52274,9 +52241,7 @@
 借机	esfq
 冬梅	esfq
 白花檐外朵	esfq
-垂死	esfr
 传开	esfs
-垂柳	esft
 后进于礼乐	esft
 但愿天下人	esft
 反脣相譏	esfu
@@ -52288,24 +52253,19 @@
 𬺇	esfx
 传奇	esga
 供奉	esga
-郵車	esgc
 借車	esgc
 偌大	esgd
 皎若太阳升朝霞	esgd
 偄	esgd
 传球	esgf
 𠈙	esgg
-郵匯	esgi
 冬春	esgj
 传达	esgp
 传与琵琶心自知	esgq
 咎莫大于欲得	esgr
 传戒	esgs
-𱗼	esgs
-郵輪	esgt
 伏擊	esgx
 兵臨城下	esha
-𬼓	esha
 伏地	eshc
 借车	eshc
 冬麦	eshe
@@ -52324,26 +52284,20 @@
 備至	eshk
 传到	eshm
 借到	eshm
-郵址	eshn
 传有神龙人不识	esho
 但愿老死花酒间	eshp
 供熱	eshq
 白草城中春不入	eshr
 備考	eshs
-皣	eshs
-𠎑	eshs
 传输	esht
 供熱	esht
 何况到如今	esht
-郵報	eshu
 白云堪卧君早归	eshu
 𠑏	eshu
 𠑫	eshu
 传教	eshv
-郵去	eshv
 仁壽	eshv
 𠑢	eshv
-垂青	eshw
 冬青	eshw
 𠎐	eshw
 借壳	eshy
@@ -52363,14 +52317,11 @@
 伏法	esih
 各有所長	esih
 冬	esih
-垂淚	esii
 传音	esij
-垂泪	esim
 传遍	esin
 冬泳	esio
 白云深处有人家	esio
 何莫学夫诗	esio
-垂涎	esiq
 各有所短	esiq
 佳节清明桃李笑	esiq
 白云满碗花徘徊	esir
@@ -52382,8 +52333,7 @@
 伏汛	esiv
 冬汛	esiv
 传染	esiy
-垂	esj
-𤽒	esjb
+借	esj
 𠐎	esjb
 白云明月吊湘娥	esjc
 供暖	esje
@@ -52395,7 +52345,6 @@
 𬅝	esji
 傮	esjj
 𬿽	esjm
-垂	esjn
 冬景	esjo
 佈景	esjo
 借	esjr
@@ -52420,7 +52369,6 @@
 乌苏里江	eski
 螽	eskk
 借問	eskl
-垂問	eskl
 儲存卡	eskm
 借账	eskt
 借閱	eskt
@@ -52437,11 +52385,9 @@
 供品	esll
 備戰	esll
 備品	esll
-郵品	esll
 儲存器	esll
 𤾘	esll
 𬾿	esll
-垂吊	eslm
 𠍔	esln
 传呼	eslq
 仁兄	eslq
@@ -52457,14 +52403,11 @@
 冬眠	esmc
 佈置	esmd
 備置	esmd
-𠝶	esmd
 借花獻佛	esme
 借光	esmh
 借賬	esmh
 供桌	esmj
-垂體	esmk
 伏罪	esml
-垂懸	esmm
 𠐧	esmm
 㒝	esmo
 逓	esmp
@@ -52472,18 +52415,15 @@
 儚	esmr
 𠐿	esmr
 爱慕虚荣	esms
-郵購	esms
 伏虎	esmu
 愛慕虚榮	esmu
 愛慕虛榮	esmu
 佈	esmv
-垂悬	esmv
 亂臣賊子	esmv
 乕	esmv
 𢁹	esmv
 借助	esmx
 佐助	esmx
-郵路	esne
 侲	esne
 𤽧	esnf
 𠈚	esnh
@@ -52497,7 +52437,6 @@
 侟	esnv
 白云回望合	esny
 仗	eso
-郵亭	esoa
 𫣦	esoa
 传记	esob
 传诵	esob
@@ -52515,7 +52454,6 @@
 佐证	esof
 借方	esog
 供方	esog
-郵寄	esog
 𪝆	esog
 𤾸	esog
 储藏室	esoh
@@ -52523,7 +52461,6 @@
 丢盔弃甲	esok
 丢盔棄甲	esok
 采菱寒刺上	esok
-郵市	esom
 𫣥	esom
 𫢭	esoo
 冬训	esoq
@@ -52537,14 +52474,12 @@
 传说	esou
 備齊	esou
 任賢齊	esou
-郵商	esou
 凭莺为向杨花道	esou
 传讯	esov
 供词	esov
 佔有率	esov
 仗义	esow
 借调	esow
-垂询	esow
 仁义	esow
 伏诛	esow
 儰	esow
@@ -52554,13 +52489,10 @@
 保存实力	esox
 传闻	espa
 𨒟	espd
-𨔠	espd
 冬闲	espf
 便有精生白骨堆	esph
 借问	espl
-垂问	espl
 传问	espl
-垂暮之年	espq
 兵在精而不在多	espr
 佐料	esps
 備料	esps
@@ -52576,21 +52508,17 @@
 佞笑	esqe
 冬節	esqe
 雞犬升天	esqf
-郵箱	esqf
-垂範	esqg
 𠌾	esqg
 𣪞	esqh
 𤝀	esqi
 䶱	esqj
 丢盔卸甲	esqk
-郵筒	esqk
 𠐼	esql
 供血	esqm
 儖	esqm
 𭀓	esqm
 供氣	esqp
 供气	esqq
-郵船	esqq
 伏笔	esqr
 備	esqt
 備	esqt
@@ -52604,7 +52532,6 @@
 冬節	esqx
 憊	esqy
 低头向暗壁	esrb
-𥡭	esrc
 仁德	esrd
 侕	esre
 白云愁色满苍梧	esrf
@@ -52618,7 +52545,6 @@
 㿨	esrn
 供稿	esro
 䳉	esro
-䳠	esro
 𪀢	esro
 任憑風浪起穩坐釣魚船	esrq
 𠌅	esrr
@@ -52627,26 +52553,25 @@
 冬季	esrv
 借種	esrw
 偌	ess
+𤽒	essb
 𢿎	essb
 冬菇	essc
 依葫芦画瓢	essd
 皐	essd
+皣	essd
+𠎑	essd
 白花花	esse
 冬菜	esse
 丢魂落魄	esse
 亂蓬蓬	esse
-郵資	esse
 楽	essf
 𠋦	essf
 冬藏	essg
 仗著	essh
 㒗	essh
 白茫茫	essi
-垂落	essi
-垂范	essi
 佄	essi
 仁厚	essj
-垂暮	essj
 偌	essl
 采薜荔兮水中	essl
 传布	essm
@@ -52698,14 +52623,12 @@
 𨕊	estp
 佔有慾	estt
 𰠂	estt
-垂手	estu
 𧨻	estu
 作茧自缚	estv
 传颂	estv
 白头翁	estv
 𠉾	estv
 𱏁	estv
-垂钓	estw
 但愿人长久	esty
 但願人長久	esty
 何况人间父子情	esty
@@ -52717,7 +52640,6 @@
 供應	esue
 樂而忘返	esue
 𠎮	esue
-郵差	esuf
 传送	esug
 供养	esug
 供養	esug
@@ -52728,7 +52650,6 @@
 備課	esuj
 伐薪烧炭南山中	esul
 仗着	esum
-垂着	esum
 借火	esuo
 備註	esuo
 𬽻	esuo
@@ -52745,26 +52666,23 @@
 樂而忘返	esus
 信譽度	esus
 位在廉颇之右	esus
-𡐱	esus
 传道	esut
 借道	esut
-垂首	esut
 仁道	esut
 佈道	esut
+供養	esut
 𰤝	esut
 传递	esuv
 仁慈	esuv
 供詞	esuv
 兜头盖脸	esuw
 借調	esuw
-垂詢	esuw
 伏誅	esuw
 𠉋	esuw
 備忘	esuy
 使臣将王命	esuy
 传经	esvb
 乳燕飞华屋	esvb
-垂线	esvf
 侠盗飞车	esvh
 伌	esvi
 㐑	esvi
@@ -52777,7 +52695,6 @@
 僵卧孤村不自哀	esvo
 𠇇	esvo
 伊昔红颜美少年	esvq
-郵費	esvt
 借书	esvv
 传书	esvv
 伝	esvv
@@ -52790,7 +52707,6 @@
 传给	esvy
 儆	esw
 𭶹	eswb
-郵包	eswc
 𰅞	eswc
 儆	eswe
 白云千载空悠悠	eswe
@@ -52802,15 +52718,12 @@
 佛蒙特	eswh
 𠐐	eswh
 䧷	eswi
-𨿠	eswi
 𬿡	eswi
 仗胆	eswj
 借重	eswk
 佈告	eswl
-郵售	eswl
 供銷	eswm
 白云生处有人家	eswo
-𦈼	eswo
 𠊓	eswo
 借進	eswp
 𪝘	eswp
@@ -52823,7 +52736,6 @@
 𤏹	eswu
 𫣾	eswu
 備胎	eswv
-垂釣	esww
 侑	eswy
 冬月	eswy
 仗膽	eswy
@@ -52840,11 +52752,9 @@
 传出	esxx
 供出	esxx
 借出	esxx
-郵戳	esxx
 但愿君心似我心	esxy
 𲍶	esya
 𠐁	esyd
-𡑈	esyd
 𤔽	esyd
 𤾬	esyd
 𬿀	esye
@@ -52853,13 +52763,9 @@
 冬運	esyg
 传情	esyh
 仗恃	esyh
-𢛲	esyi
 䶱	esyj
 𱍇	esyk
 𰂗	esym
-垂憐	esyp
-垂危	esys
-垂怜	esyt
 𠑦	esyv
 𠨝	esyx
 𫢬	esyx
@@ -52885,7 +52791,6 @@
 兜揽	etan
 低	etao
 𠇫	etao
-垂手可得	etar
 仰手接飞猱	etar
 任人摆布	etas
 偷摸	etas
@@ -52965,11 +52870,9 @@
 各自爲戰	etel
 低处	etem
 代人受過	eten
-仙人垂两足	eten
 假人假义	eteo
 伶俐	eter
 信息化	eter
-低垂	etes
 仰仗	etes
 仰看白云天茫茫	etes
 偷偷	etet
@@ -53268,6 +53171,7 @@
 假令风歇时下来	etqf
 低等	etqh
 白银盘里一青螺	etqk
+仙人垂两足	etqn
 俗氣	etqp
 仙乐风飘处处闻	etqp
 俗气	etqq
@@ -53275,6 +53179,7 @@
 低矮	etqr
 份儿	etqr
 兜儿	etqr
+低垂	etqs
 兜风	etqw
 伦	etr
 俗稱	etre
@@ -53313,7 +53218,6 @@
 偷歡	etsl
 仰卧	etsm
 何乐而不为	etso
-垂手而得	etsr
 仰臥	etst
 侩	etsv
 偷运	etsv
@@ -53417,7 +53321,6 @@
 伧	etv
 低缓	etve
 条分缕析	etvf
-垂钓绿湾春	etvg
 伧	etvi
 遥看孟津河	etvi
 兜子	etvk
@@ -53836,6 +53739,7 @@
 信念	euto
 保護傘	eutt
 信手	eutu
+𠐒	eutv
 信息	euty
 白炽灯	euua
 𠋜	euua
@@ -55065,7 +54969,6 @@
 假以辞色	exry
 使君与操耳	exsa
 侵華	exsf
-侵華	exsh
 爭著	exsh
 𭽇	exsi
 健在	exsn
@@ -55073,6 +54976,7 @@
 爭芳	exso
 白发苍苍	exss
 伽藍	exss
+侵華	exss
 伊蘇	exst
 爭雄	exsv
 似有	exsw
@@ -55545,7 +55449,6 @@
 受難	eysf
 受凍	eysf
 愛華	eysf
-愛華	eysh
 受著	eysh
 愛著	eysh
 受落	eysi
@@ -55556,6 +55459,7 @@
 爱犬	eysq
 愛犬	eysq
 𠊱	eysq
+愛華	eyss
 𱭉	eyst
 儋	eysu
 后悔莫及	eysv
@@ -55849,8 +55753,10 @@
 桠杈	fafb
 一事无成	fafd
 三项	fafd
+再接再砺	fafd
 椰樹	fafd
 三項	fafd
+再接再礪	fafd
 求过于供	fafe
 无拘无束	faff
 椰林	faff
@@ -55878,8 +55784,10 @@
 歼击机	fafq
 𰑴	fafq
 天下无敌	fafr
+再接再厉	fafs
 无可救药	fafs
 三下五除二	fafs
+再接再厲	fafs
 橄欖	fafs
 一寸相思一寸灰	fafs
 天下万物生于有	fafs
@@ -56394,6 +56302,7 @@
 一統天下	fbfa
 𣟑	fbfa
 树杈	fbfb
+一忍再忍	fbfb
 桃紅柳綠	fbfb
 𣞽	fbfc
 树枝	fbfd
@@ -56430,7 +56339,6 @@
 三局兩勝	fbfw
 更登楼望尤堪重	fbfw
 機緣巧合	fbfy
-一忍再忍	fbgb
 𱣘	fbgg
 副經理	fbgk
 禁飛區	fbgl
@@ -56717,6 +56625,7 @@
 𣟙	fccp
 㯢	fcct
 五好	fccv
+再好不过	fcda
 一好百好	fcdc
 来如雷霆收震怒	fcdc
 𫡵	fcdd
@@ -56729,6 +56638,8 @@
 天阴雨湿声啾啾	fcdl
 𣛿	fcdm
 𫖟	fcdm
+再好不過	fcdn
+再也不	fcdu
 无限期	fcdw
 五彩	fcef
 五岳	fcef
@@ -57950,7 +57861,6 @@
 一体化	feer
 三伏似清秋	feer
 木欣欣以向荣	fees
-万条垂下绿丝绦	feev
 无条件	feew
 一件件	feew
 相依爲命	feey
@@ -58244,11 +58154,13 @@
 一丘之貉	fepy
 一代繁华地	feqh
 一代风流	feqi
+再使风俗淳	feqi
 格鲁	feqj
 槪算	feqm
 𭪌	feqm
 棉签	feqt
 棉籤	feqt
+万条垂下绿丝绦	feqv
 李凭箜篌引	feqv
 桦	fer
 桦	ferd
@@ -58283,8 +58195,9 @@
 格律	ferx
 楖	ferx
 㭛	fery
-棰	fes
 攻堅	fesb
+再作冯妇	fesc
+再作馮婦	fesc
 相逢苦觉人情好	fesc
 格斗	fesd
 槹	fesd
@@ -58295,7 +58208,6 @@
 一個蘿蔔一個坑	fesh
 柊	fesi
 𣏴	fesi
-棰	fesj
 棉蘭	fesk
 两处茫茫皆不见	fesk
 𣑂	fesk
@@ -58687,6 +58599,7 @@
 本相	fffm
 本想	fffm
 𩕌	fffm
+再三再四	fffn
 檚	fffn
 本校	fffo
 標頭檔案	fffo
@@ -59183,6 +59096,7 @@
 本次	ffse
 攀枝花	ffse
 无功而返	ffse
+再一次	ffse
 一枝花	ffse
 禁藥	ffse
 頭一次	ffse
@@ -59358,6 +59272,7 @@
 杨柳丝丝拂面	ffvg
 林垦	ffvh
 𣖭	ffvh
+𣙆	ffvh
 榗	ffvj
 本子	ffvk
 林子	ffvk
@@ -60592,6 +60507,7 @@
 兩世為人	fhot
 死者为归人	fhot
 ㄡ	fhou
+再教育	fhov
 隸字	fhov
 枺	fhov
 天地良心	fhoy
@@ -61043,6 +60959,7 @@
 相亲相近水中鸥	fifg
 一元	fifh
 一棵	fifj
+一再	fifk
 一潭死水	fifk
 一两	fifk
 一副	fifl
@@ -61099,7 +61016,6 @@
 横剖面	figi
 橫剖面	figi
 樴	figj
-一再	figk
 楊浦區	figl
 一環	figm
 两涧春淙一灵鹫	figo
@@ -61589,6 +61505,7 @@
 两山排闼送青来	fjaf
 查找	fjag
 亞	fjai
+棄暗投明	fjaj
 画押	fjak
 画下	fjak
 三日打鱼两日晒网	fjak
@@ -61720,6 +61637,7 @@
 三男两女	fjfc
 𮟷	fjfc
 查无	fjfd
+東山再起	fjfd
 楊樹	fjfd
 相思樹	fjfd
 五日画一石	fjfd
@@ -61820,7 +61738,6 @@
 𭜩	fjfy
 来日大难	fjgb
 更大	fjgd
-東山再起	fjgd
 画匠	fjge
 東軟	fjge
 椳	fjgf
@@ -62170,6 +62087,7 @@
 𰘿	fjsa
 更緊	fjsb
 巫山云雨	fjsd
+𰘿	fjsd
 㮿	fjsd
 楊花	fjse
 𣠨	fjse
@@ -62177,7 +62095,6 @@
 更難	fjsf
 東華	fjsf
 𪳢	fjsf
-東華	fjsh
 𭪤	fjsh
 柳暗花明	fjsj
 柳暗花明池上山	fjsj
@@ -62204,8 +62121,8 @@
 无时而不移	fjsr
 椯	fjsr
 一时冲动	fjss
+東華	fjss
 相时而动	fjss
-𰘿	fjss
 𣚣	fjst
 𣚣	fjst
 𣕴	fjsu
@@ -62399,18 +62316,25 @@
 两边	fk
 一网打尽	fkab
 求取	fkab
+再聚	fkab
 𭤅	fkab
 两把	fkac
 専	fkac
 无由持一碗	fkad
 救援	fkae
 求援	fkae
+再掀	fkae
+再聽	fkae
+再找	fkag
+再聽	fkag
 救护	fkai
 求職	fkai
+再提	fkaj
 桛	fkak
 求职	fkal
 两可	fkal
 工間操	fkal
+再过	fkap
 𣘥	fkaq
 刺耳	fkar
 两批	fkar
@@ -62431,6 +62355,7 @@
 两居	fkbd
 求欢	fkbe
 棗紅	fkbf
+再續	fkbh
 两届	fkbk
 校内網	fkbk
 校內網	fkbk
@@ -62458,22 +62383,29 @@
 枣阳	fkcj
 棗陽	fkcj
 一败如水	fkck
+再如	fkcl
+再嫁	fkco
 两院	fkco
 贡院	fkco
 𧈫	fkco
 𧈬	fkco
 救險	fkcr
 求婚	fkct
+再婚	fkct
 救险	fkct
 两队	fkct
+再好	fkcv
 丽娜	fkcv
 麗娜	fkcv
 一開始	fkcv
 𣑺	fkcv
 𧉓	fkcv
 楊門女將	fkcx
+再也	fkcy
+再起	fkdb
 𬅆	fkdb
 五里霧	fkdc
+再起	fkdc
 吾见其进也	fkdc
 模里西斯	fkdd
 五里雾	fkde
@@ -62485,6 +62417,7 @@
 两百	fkdj
 求其	fkdj
 贡献	fkdk
+再來	fkdl
 五里雾中	fkdl
 求真	fkdm
 𩒴	fkdm
@@ -62493,6 +62426,7 @@
 梦里不知身是客	fkdo
 相见不相知	fkdq
 𣯕	fkdr
+再不	fkdu
 正见盛时犹怅望	fkdu
 求成	fkdv
 吾见其人矣	fkdv
@@ -62501,9 +62435,9 @@
 求雨	fkdy
 万里故园心	fkdy
 万里故乡情	fkdy
-功败垂成	fked
 丽质	fked
 求值	fked
+再做	fked
 两败俱伤	fkee
 麗質	fkee
 救兵	fkef
@@ -62539,6 +62473,7 @@
 求你	fkey
 求愛	fkey
 棘	fkf
+再三	fkfa
 两三	fkfa
 两栋	fkfa
 枣树	fkfb
@@ -62551,7 +62486,9 @@
 婯	fkfc
 𬜟	fkfc
 两栖	fkfd
+再植	fkfd
 两项	fkfd
+再无	fkfd
 棗樹	fkfd
 桐柏	fkfe
 两枚	fkfe
@@ -62562,6 +62499,7 @@
 𠕂	fkff
 两天	fkfg
 武则天	fkfg
+无由再逢伊面	fkfg
 𫼄	fkfg
 𮲶	fkfg
 两元	fkfh
@@ -62597,6 +62535,7 @@
 汞柱	fkfo
 邐	fkfp
 逦	fkfp
+再来	fkfp
 樱桃	fkfq
 一問三不知	fkfq
 一問一答	fkfq
@@ -62607,6 +62546,7 @@
 鸝	fkfr
 𣰿	fkfr
 万里无云	fkfs
+再开	fkfs
 𣛣	fkfs
 僰	fkft
 機關槍	fkft
@@ -62639,12 +62579,14 @@
 贡奉	fkga
 两大	fkgd
 柍	fkgd
-无由再逢伊面	fkgg
+再轉	fkgg
 敕赐珊瑚白玉鞭	fkgg
 两面	fkgi
 𫞑	fkgi
+再现	fkgk
 丙酮	fkgk
 工業區	fkgl
+再現	fkgm
 𣖮	fkgm
 橍	fkgn
 丙醇	fkgo
@@ -62663,22 +62605,33 @@
 麗珠	fkgw
 工业革命	fkgy
 工業革命	fkgy
+再	fkh
 樸素	fkhb
+𭁥	fkhb
 两地	fkhc
+𮟸	fkhc
 桐城	fkhd
 救世	fkhi
+再世	fkhi
 两者	fkhj
+再者	fkhj
 救場	fkhj
 求神	fkhk
 椒盐	fkhm
+𠕱	fkhm
 两连	fkhp
 亞里士多德	fkhr
 杯水车薪	fkhs
+再转	fkhs
+𱎒	fkhs
+再	fkht
 棘轮	fkht
 柟	fkht
+再	fkht
 機關報	fkhu
 求教	fkhv
 救场	fkhv
+再去	fkhv
 刺青	fkhw
 丽雅	fkhw
 麗雅	fkhw
@@ -62693,6 +62646,7 @@
 万里汉家使	fkie
 求新	fkif
 丽江	fkif
+再添	fkif
 椒江	fkif
 麗江	fkif
 一曲新词酒一杯	fkif
@@ -62711,10 +62665,12 @@
 救濟	fkio
 天上浮云如白衣	fkio
 救济	fkip
+再没	fkiq
 救活	fkir
 相對濕度	fkiu
 相對溼度	fkiu
 救治	fkiv
+再沒	fkiw
 求学	fkiy
 柙	fkj
 相见时难别亦难	fkjb
@@ -62746,16 +62702,19 @@
 𧋔	fkkc
 救赎	fkkd
 丙申	fkke
+棄甲曳兵	fkke
 𫿻	fkke
 丽	fkkf
 求同	fkkf
 贡赋	fkkf
+再開	fkkf
 丽	fkkf
 𣑨	fkkf
 刺蝟	fkkj
 𣜊	fkkj
 𧑖	fkkk
 𰴗	fkkk
+再则	fkkm
 𰄭	fkkm
 𠁖	fkkn
 逦	fkkp
@@ -62768,11 +62727,13 @@
 麗水	fkkv
 求购	fkkw
 校内网	fkkw
+再见	fkkx
 求见	fkkx
 𬢍	fkkx
 鹂	fkky
 櫚	fkl
 求數	fkld
+再听	fkle
 一水中分白鹭洲	fkli
 櫚	fkll
 贡品	fkll
@@ -62806,6 +62767,7 @@
 𧌐	fkmk
 求战	fkml
 两点	fkml
+再則	fkmm
 𧢔	fkmm
 𪑟	fkmn
 远见卓识	fkmo
@@ -62820,6 +62782,7 @@
 𰼶	fkmw
 救助	fkmx
 求助	fkmx
+再見	fkmx
 求見	fkmx
 𧠵	fkmx
 𨳔	fkna
@@ -62837,8 +62800,10 @@
 工業國	fkng
 工業園	fknh
 𬅼	fkni
+再回	fknl
 两步	fknm
 𫔙	fkno
+再過	fknp
 两党	fknq
 相见常日稀	fknr
 𪳡	fknr
@@ -62871,6 +62836,8 @@
 𤰔	fkoi
 两课	fkoj
 万里家在岷峨	fkoj
+再审	fkok
+再让	fkok
 𧋛	fkok
 𧒔	fkok
 救市	fkom
@@ -62879,11 +62846,13 @@
 𩒮	fkom
 𮨗	fkom
 𨁛	fkon
+再议	fkoo
 𠂃	fkoo
 𤥲	fkoo
 逑	fkop
 𨘑	fkop
 两讫	fkoq
+再審	fkoq
 万里方看汗流血	fkoq
 𣪋	fkoq
 𬇶	fkoq
@@ -62895,6 +62864,7 @@
 𪪵	fkos
 求诊	fkot
 远上寒山石径斜	fkot
+再说	fkou
 两旁	fkou
 救灾	fkou
 𤈿	fkou
@@ -62932,6 +62902,7 @@
 刺癢	fkpu
 𣚾	fkpw
 两年	fkqa
+功败垂成	fkqd
 𣤀	fkqe
 𰀓	fkqj
 求知	fkql
@@ -62942,6 +62913,7 @@
 两笔	fkqr
 榜上無名	fkqr
 𠀑	fkqr
+再無	fkqs
 求签	fkqt
 求籤	fkqt
 𠇬	fkqt
@@ -62975,6 +62947,7 @@
 槾	fksb
 樶	fksb
 求同存异	fksc
+再次	fkse
 樱花	fkse
 两次	fkse
 救藥	fkse
@@ -63014,6 +62987,7 @@
 𪴀	fksu
 救药	fksv
 𪱲	fksv
+再有	fksw
 𣓍	fksw
 榻	fksx
 两节	fksx
@@ -63032,6 +63006,7 @@
 万里长征人未还	fktd
 丙	fkte
 枘	fkte
+再版	fkte
 求人	fkte
 救人	fkte
 两人	fkte
@@ -63040,6 +63015,9 @@
 𡗚	fkte
 𭤓	fkte
 𰕏	fkte
+再拜	fktf
+再會	fktf
+再創	fktf
 万里长江一酒杯	fktf
 𭫒	fktf
 两全	fktg
@@ -63061,6 +63039,7 @@
 两个	fktn
 𮭹	fktn
 𰙠	fktn
+再創	fkto
 天上人间	fktp
 两片	fktp
 无肉令人瘦	fktp
@@ -63069,7 +63048,9 @@
 万里长征	fktr
 𪈹	fktr
 𭪣	fktr
+再会	fkts
 两会	fkts
+再版	fkts
 万里长城今犹在	fkts
 𬍈	fkts
 两	fktt
@@ -63083,6 +63064,7 @@
 万里念将归	fktu
 㶮	fktu
 𰞁	fktu
+再创	fktv
 𤯳	fktw
 機關用盡	fktx
 万里长江边	fktx
@@ -63113,9 +63095,11 @@
 万里归来年愈少	fkum
 救火	fkuo
 丙烷	fkuo
+再讓	fkuo
 杜門謝客	fkuo
 𣘸	fkuo
 𨘜	fkup
+再度	fkus
 两瓶	fkus
 救護	fkus
 两道	fkut
@@ -63123,14 +63107,18 @@
 相對論	fkut
 求診	fkut
 求導	fkut
+再說	fkut
 檏	fkut
 𣚠	fkut
 两广	fkuu
+再説	fkuu
+再議	fkuu
 棢	fkuu
 救亡	fkuw
 丙烯	fkuw
 汞	fkv
 𡿴	fkvc
+再续	fkvd
 贡缎	fkve
 枣红	fkvf
 𣱳	fkvi
@@ -63159,6 +63147,7 @@
 刺杀	fkwf
 两集	fkwf
 刺殺	fkwf
+再生	fkwg
 求生	fkwg
 救生	fkwg
 贡生	fkwg
@@ -63169,6 +63158,7 @@
 两重	fkwk
 两千	fkwk
 㭎	fkwl
+再造	fkwl
 求告	fkwl
 求售	fkwl
 两句	fkwl
@@ -63185,6 +63175,7 @@
 两肋	fkwx
 橌	fkwy
 枧	fkx
+再建	fkxa
 一则以喜	fkxd
 覆	fkxe
 ⾑	fkxg
@@ -63192,6 +63183,7 @@
 救驾	fkxl
 救駕	fkxl
 㓰	fkxm
+再以	fkxo
 两边	fkxp
 𣠼	fkxt
 枧	fkxv
@@ -63242,6 +63234,7 @@
 𩰬	flan
 楫	flar
 速描	flas
+𠁱	flas
 逼抢	flat
 逼搶	flat
 速推	flaw
@@ -64223,7 +64216,6 @@
 𣡨	fmec
 相逢	fmed
 想做	fmed
-功敗垂成	fmed
 兩敗俱傷	fmee
 兩段	fmef
 相傳	fmeg
@@ -64562,6 +64554,7 @@
 㯉	fmqa
 相系	fmqb
 𣒹	fmqc
+功敗垂成	fmqd
 相符	fmqe
 想笑	fmqe
 兩節	fmqe
@@ -64919,6 +64912,8 @@
 柵格	fnfe
 杞国无事忧天倾	fnfe
 正本	fnff
+𢀯	fnff
+𢀰	fnff
 开国元老	fnfh
 正元	fnfh
 来回来去	fnfh
@@ -65522,6 +65517,7 @@
 棺椁	fofo
 檳榔	fofo
 棺槨	fofo
+一误再误	fofo
 棕榈	fofp
 核桃	fofq
 相识三十年	fofq
@@ -65576,7 +65572,6 @@
 𪴔	fogm
 𪴥	fogm
 柱	fogn
-一误再误	fogo
 𬃏	fogo
 校医	fogq
 校醫	fogq
@@ -65667,6 +65662,7 @@
 工蜂	foke
 𰗵	foke
 工业	fokg
+再就业	fokg
 工商业	fokg
 工贼	fokg
 天安門廣場	fokh
@@ -65687,6 +65683,7 @@
 校對	foku
 工商業	foku
 校閲	foku
+再就業	foku
 工蟻	foku
 核對	foku
 栐	fokv
@@ -66162,6 +66159,7 @@
 𣙪	fpav
 无迹可寻	fpax
 来势	fpay
+棄之可惜	fpay
 来劲	fpbf
 更闻桑田变成海	fpbi
 楼层	fpbs
@@ -66874,6 +66872,7 @@
 桃符	fqqe
 机箱	fqqf
 一朵朵	fqqf
+再等等	fqqh
 㮽	fqqh
 一篇篇	fqqi
 𠘲	fqqj
@@ -66917,6 +66916,7 @@
 𱣃	fqsi
 天無二日	fqsj
 枡	fqsj
+棰	fqsk
 𣡓	fqsm
 一筆帶過	fqsn
 一般而论	fqso
@@ -68359,6 +68359,7 @@
 𰘹	fsem
 橫條	fsen
 工資條	fsen
+再顾倾人国	fsen
 模仿	fseo
 更与何人说	fseo
 𣓎	fseo
@@ -68386,6 +68387,7 @@
 橱	fsf
 橱	fsfa
 樺	fsfa
+再而三	fsfa
 一二三	fsfa
 型材	fsfa
 板材	fsfa
@@ -68403,6 +68405,7 @@
 一草一木	fsff
 亏本	fsff
 开本	fsff
+一而再再而三	fsff
 權柄	fsff
 桃花开不开	fsff
 梅花开尽百花开	fsff
@@ -68425,6 +68428,7 @@
 横亘	fsfj
 无花无酒锄作田	fsfj
 𫞒	fsfj
+一而再	fsfk
 𰘖	fsfk
 極速	fsfl
 板樓	fsfl
@@ -68497,7 +68501,6 @@
 模式	fsgf
 开球	fsgf
 开幕式	fsgf
-一而再再而三	fsgf
 板式	fsgf
 板球	fsgf
 桟	fsgg
@@ -68508,7 +68511,6 @@
 正反面	fsgi
 开春	fsgj
 𣟞	fsgj
-一而再	fsgk
 橫軸	fsgk
 𣚖	fsgk
 櫙	fsgl
@@ -68525,7 +68527,6 @@
 五花大绑	fsgv
 核苷酸	fsgv
 極爽	fsgw
-樺	fsh
 模块	fshb
 开车	fshc
 机动车	fshc
@@ -68554,7 +68555,6 @@
 一覽表	fshr
 梅花未动意先香	fshr
 𣗩	fshr
-樺	fshs
 开示	fshs
 模考	fshs
 五花连钱旋作冰	fshs
@@ -68836,6 +68836,7 @@
 开国	fsng
 橫跨	fsng
 𣑊	fsnh
+棄舊圖新	fsni
 權當	fsnj
 吾与回言终日	fsnj
 構圖	fsnl
@@ -69031,6 +69032,7 @@
 橫豎	fssb
 權臣	fssc
 树头花落未成阴	fssc
+樺	fssd
 开花	fsse
 𭪶	fsse
 極左	fssf
@@ -69436,11 +69438,13 @@
 三八妇女节	ftcs
 一片降幡出石头	ftcs
 万人如海一身藏	ftcs
+再拜陈三愿	ftcs
 柳婚	ftct
 工人阶级	ftcv
 刑人如恐不胜	ftcw
 一钱如命	ftcy
 一片西飞一片东	ftda
+再拜献大王足下	ftda
 五谷丰登	ftdb
 枪支	ftdb
 求人不如求己	ftdb
@@ -69570,6 +69574,7 @@
 𣜴	ftfy
 棯	ftfy
 栓	ftg
+再拜奉大将军足下	ftga
 𭑜	ftga
 逼人太甚	ftgd
 一从大地起风雷	ftgd
@@ -69853,6 +69858,7 @@
 天人共鉴	ftsn
 松蘑	ftsp
 吾从而师之	ftsp
+再拜而送之	ftsp
 𣗬	ftsq
 桧	ftsv
 松动	ftsv
@@ -70405,6 +70411,8 @@
 恐美人之迟暮	futs
 𫝃	futt
 𣚞	futu
+𣝡	futv
+𣞼	futv
 天将今夜月	futw
 机关用尽不如君	futx
 巧言令色	futy
@@ -70558,6 +70566,7 @@
 楹	fvb
 機緣	fvbb
 根絕	fvbb
+棄絕	fvbb
 橼	fvbd
 无缘对面不相逢	fvbe
 李紅	fvbf
@@ -70594,11 +70603,13 @@
 機務	fvcq
 根除	fvct
 木婚	fvct
+棄除	fvct
 极限	fvcv
 极好	fvcv
 李娜	fvcv
 極限	fvcv
 極好	fvcv
+棄婦	fvcx
 一丝不挂	fvda
 機要	fvdc
 杨磊	fvdd
@@ -70637,7 +70648,6 @@
 極盛	fvdv
 𰘰	fvdv
 李雪	fvdx
-棹经垂猿把	fvea
 李白	fveb
 木质	fved
 木質	fvee
@@ -70761,6 +70771,7 @@
 機巧	fvfs
 極權	fvfs
 木板	fvfs
+棄權	fvfs
 天台一万八千丈	fvfs
 杨柳	fvft
 木栓	fvft
@@ -70827,6 +70838,7 @@
 𣓪	fvhf
 𦤳	fvhf
 晉封	fvhh
+棄世	fvhi
 機場	fvhj
 機臺	fvhl
 天经地义	fvho
@@ -70857,6 +70869,7 @@
 李湘	fvif
 晉江	fvif
 李靖	fvih
+再续汉阳游	fvii
 𠀂	fvii
 极端	fvij
 梦幻泡影	fvij
@@ -70966,6 +70979,7 @@
 𢻽	fvmb
 𨚸	fvmc
 晉劇	fvmd
+棄置	fvmd
 極處	fvme
 极目	fvmf
 極目	fvmf
@@ -70976,6 +70990,7 @@
 機體	fvmk
 极点	fvml
 機罩	fvmm
+棄嬰	fvmm
 𣓶	fvmn
 𦣔	fvmo
 𫎣	fvmo
@@ -70990,7 +71005,6 @@
 晉見	fvmx
 根	fvn
 㯿	fvnb
-𢀰	fvnf
 𣐌	fvnf
 𣓜	fvnf
 𤴕	fvnf
@@ -71012,8 +71026,10 @@
 极	fvo
 李宁	fvoa
 副书记	fvob
+棄官	fvob
 李安	fvoc
 极	fvod
+棄家	fvod
 极夜	fvoe
 梦幻诛仙	fvoe
 極夜	fvoe
@@ -71034,6 +71050,7 @@
 勁旅	fvoq
 東鄉族	fvoq
 木塞	fvos
+棄於	fvot
 更绕衰丛一匝看	fvot
 五线谱	fvou
 勁敵	fvou
@@ -71052,6 +71069,7 @@
 𣗔	fvpd
 𨑼	fvpd
 攻子之盾	fvpe
+棄之	fvpe
 一乡之善士	fvph
 一孔之见	fvpk
 开司米	fvpm
@@ -71065,6 +71083,7 @@
 柀	fvpv
 根究	fvpy
 无丝竹之乱耳	fvqa
+棹经垂猿把	fvqa
 根系	fvqb
 李敏	fvqb
 李凤	fvqb
@@ -71081,7 +71100,6 @@
 木箱	fvqf
 機箱	fvqf
 李鳳	fvqf
-𢀯	fvqf
 𥎨	fvqi
 𬂼	fvqi
 𠘺	fvqj
@@ -71091,6 +71109,7 @@
 橡皮管	fvqo
 木简	fvqp
 木船	fvqq
+棄船	fvqq
 木笔	fvqr
 枪子儿	fvqr
 㭇	fvqr
@@ -71132,6 +71151,7 @@
 𣒝	fvsf
 木头	fvsg
 核弹头	fvsg
+棄	fvsh
 松子落阶声	fvsh
 𱢿	fvsi
 根苗	fvsj
@@ -71152,6 +71172,7 @@
 极有	fvsw
 機警	fvsw
 極有	fvsw
+棄舊	fvsw
 機芯	fvsy
 杨	fvt
 正经八百	fvtd
@@ -71168,6 +71189,7 @@
 极乐	fvtm
 𣙿	fvtm
 𬐠	fvtm
+棄用	fvtn
 杨	fvto
 李铁	fvtq
 三災八難	fvts
@@ -71205,6 +71227,7 @@
 勁道	fvut
 機座	fvut
 極道	fvut
+棄養	fvut
 𱤛	fvut
 李广	fvuu
 榴弹炮	fvuw
@@ -71232,6 +71255,7 @@
 李子	fvvk
 梭子	fvvk
 機子	fvvk
+棄子	fvvk
 𱣌	fvvk
 极强	fvvl
 极了	fvvl
@@ -71289,6 +71313,7 @@
 万缕千丝	fvwv
 李鹏	fvww
 李鵬	fvww
+棄學	fvww
 梅子金黄杏子肥	fvww
 𠃴	fvwx
 𬸉	fvwy
@@ -71389,6 +71414,7 @@
 万物不得不昌	fwdj
 三月不知肉味	fwdl
 一句十回吟	fwdl
+𪎎	fwdl
 格杀不论	fwdo
 正月十六夜	fwdo
 死生契阔君休问	fwdp
@@ -71551,7 +71577,9 @@
 万金油	fwik
 正月端门夜	fwio
 𨾊	fwio
+再生产	fwiq
 攀沿	fwiq
+再生産	fwiq
 万源	fwis
 木雕泥塑	fwiu
 𨿌	fwiu
@@ -71662,9 +71690,11 @@
 𰗬	fwpd
 万米	fwpm
 椈	fwpm
+再造之恩	fwpn
 栅门	fwpn
 棚门	fwpn
 𫔬	fwpn
+再生產	fwps
 死生亦大矣	fwpv
 万物之灵	fwpx
 万年	fwqa
@@ -71746,6 +71776,7 @@
 万历	fwsx
 株	fwt
 万分	fwtb
+再生父母	fwtb
 𠭿	fwtb
 植物人	fwte
 万余	fwtf
@@ -71955,6 +71986,7 @@
 村边杏花白	fxfe
 梳妝檯	fxfh
 无边无垠	fxfh
+𣒈	fxfh
 概查	fxfj
 㯸	fxfm
 𥂉	fxfm
@@ -71974,7 +72006,6 @@
 𠙵	fxgi
 项羽大怒曰	fxgj
 巧发奇中	fxgl
-𣒈	fxgn
 𢀙	fxgo
 功夫	fxgu
 巭	fxgu
@@ -72602,8 +72633,6 @@
 𨌡	gagb
 專車	gagc
 大哥大	gagd
-再接再砺	gagd
-再接再礪	gagd
 車把式	gagf
 大提琴	gagg
 璢	gagj
@@ -72611,9 +72640,7 @@
 專輯	gagl
 專區	gagl
 𨠾	gago
-再接再厉	gags
 奇耻大辱	gags
-再接再厲	gags
 奇恥大辱	gags
 奇珍	gagt
 夹七夹八	gagt
@@ -72817,6 +72844,7 @@
 專差	gauq
 奇謀	gaus
 專座	gaut
+奉養	gaut
 專營	gauu
 專兼	gaux
 奇詭	gauy
@@ -73288,16 +73316,13 @@
 𤩄	gcct
 車隊	gccu
 大姨妈	gccx
-再好不过	gcda
 車載	gcdg
 太阳石	gcdh
 車票	gcdh
 太陽石	gcdh
 太陽電池	gcdi
 車馬	gcdm
-再好不過	gcdn
 欧姆龙	gcdq
-再也不	gcdu
 现阶段	gcef
 現階段	gcef
 秦始皇	gceg
@@ -74176,7 +74201,6 @@
 𫯩	gdsg
 大蒜	gdsh
 大葉	gdsh
-大華	gdsh
 𱖸	gdsh
 大二	gdsi
 瑪莎	gdsi
@@ -74205,6 +74229,7 @@
 𣮡	gdsr
 𩍥	gdsr
 大黃	gdss
+大華	gdss
 大藍	gdss
 大雨落幽燕	gdss
 𫗌	gdss
@@ -74222,7 +74247,6 @@
 𨣖	gdtb
 玉真公主别馆苦雨	gdtd
 大人	gdte
-大锤	gdte
 大會	gdtf
 大全	gdtg
 大鱷	gdtg
@@ -74232,6 +74256,7 @@
 𩌸	gdtn
 𨎧	gdto
 大片	gdtp
+大锤	gdtq
 夫不自见而见彼	gdtr
 大会	gdts
 大错	gdts
@@ -74306,7 +74331,6 @@
 瑚	gdw
 𨣙	gdwc
 𩤄	gdwc
-大錘	gdwe
 瓇	gdwe
 𤫘	gdwe
 大脚	gdwh
@@ -74321,6 +74345,7 @@
 大腕	gdwo
 大脑	gdwp
 大选	gdwq
+大錘	gdwq
 大臉	gdwr
 酿成千顷稻花香	gdwr
 大錯	gdws
@@ -74704,7 +74729,6 @@
 勤儉節約	geqb
 鞭策	geqf
 暫短	geqf
-再使风俗淳	geqi
 碧血	geqm
 𤦍	geqm
 𫯧	geqm
@@ -74752,8 +74776,6 @@
 斬獲	gers
 大樂透	gerv
 𩈛	gery
-再作冯妇	gesc
-再作馮婦	gesc
 玉帛云乎哉	gesd
 大白菜	gese
 𨐂	gese
@@ -74765,7 +74787,6 @@
 𨠌	gesi
 𭸹	gesi
 𰒦	gesi
-㻔	gesj
 𭹐	gesl
 軟卧	gesm
 碧蓝	gesn
@@ -75038,7 +75059,6 @@
 球鞋	gfgh
 球面	gfgi
 珷	gfgn
-再三再四	gfgn
 琼楼玉宇	gfgo
 琳琅	gfgo
 瓊樓玉宇	gfgo
@@ -75108,6 +75128,7 @@
 𨐀	gfji
 𤩾	gfjj
 𨤇	gfjj
+𤩮	gfjq
 𢦱	gfjr
 𤦪	gfjr
 𨌿	gfjr
@@ -75128,6 +75149,7 @@
 𡘟	gfkf
 𤤹	gfkf
 𨋵	gfkf
+𤥆	gfkh
 𪥓	gfkh
 釃	gfki
 𤫟	gfki
@@ -75333,7 +75355,6 @@
 郀	gfsc
 𦫚	gfsc
 𱘼	gfsc
-再一次	gfse
 㰭	gfse
 球莖	gfsf
 夹枪带棒	gfsf
@@ -75765,7 +75786,6 @@
 𨌧	ggkd
 𩈯	ggkd
 𩋊	ggkd
-𤥆	ggkf
 𱑆	ggkg
 琅琅上口	ggkl
 玻璃門	ggkn
@@ -76047,6 +76067,7 @@
 秦王骑虎游八极	ggxf
 𮝝	ggxg
 琴書	ggxh
+𮝝	ggxh
 𫯢	ggxi
 劻	ggxk
 𤨕	ggxk
@@ -76204,7 +76225,6 @@
 大都是	ghjf
 車到山前必有路	ghjn
 琽	ghjo
-𤩮	ghjq
 奢	ghjr
 醏	ghjr
 琽	ghjr
@@ -76280,7 +76300,6 @@
 𮠢	ghoo
 套话	ghor
 或者说	ghou
-再教育	ghov
 套牢	ghow
 奎寧	ghoy
 琏	ghp
@@ -76338,11 +76357,11 @@
 大禍臨頭	ghsf
 奢華	ghsf
 𫻫	ghsg
-奢華	ghsh
 奈葉	ghsh
 𭹮	ghsl
 𱮷	ghsn
 鞭長莫及	ghsq
+奢華	ghss
 王祥卧冰	ghss
 𥘿	ghsu
 鞭長莫及	ghsv
@@ -77033,6 +77052,7 @@
 奋斗	gjsd
 春蕾	gjsd
 㞭	gjsd
+𰢗	gjsd
 鞸	gjsd
 㻫	gjsd
 𨢡	gjsd
@@ -77042,7 +77062,6 @@
 春燕	gjsf
 春華	gjsf
 太岁头上动土	gjsh
-春華	gjsh
 醒著	gjsh
 春草	gjsj
 𨡟	gjsj
@@ -77058,7 +77077,7 @@
 𰹨	gjsp
 瑞	gjsr
 輲	gjsr
-𰢗	gjss
+春華	gjss
 奋进	gjst
 㔴	gjst
 𢎑	gjst
@@ -77160,26 +77179,18 @@
 现	gk
 现在	gk
 现代	gk
-再聚	gkab
-再掀	gkae
-再聽	gkae
-再找	gkag
-再聽	gkag
-再提	gkaj
 现下	gkak
 鞐	gkak
 理事	gkal
 现职	gkal
 碧水东流至此回	gkan
 𢦨	gkao
-再过	gkap
 醉里挑灯看剑	gkat
 軸瓦	gkaw
 现势	gkay
 现居	gkbd
 𰄴	gkbd
 軸線	gkbe
-再續	gkbh
 现已	gkbi
 泰納	gkbk
 规避	gkbl
@@ -77188,7 +77199,6 @@
 專業級	gkbq
 大開綠燈	gkbu
 𫩆	gkbu
-𭁥	gkbu
 專業級	gkbv
 规劝	gkbx
 理屈	gkbx
@@ -77200,35 +77210,24 @@
 泰阳	gkcj
 泰陽	gkcj
 䣍	gkcj
-𮟸	gkcj
-再如	gkcl
 𤤢	gkcn
 𫰹	gkcn
-再嫁	gkco
 大冒險	gkcr
-再婚	gkct
 大冒险	gkct
 现予	gkcu
 𧉾	gkcu
-再好	gkcv
-再也	gkcy
 𧈩	gkcy
 𧈱	gkcy
 奄	gkd
-再起	gkdb
-再起	gkdc
 𬧳	gkdc
 奄	gkdd
 奄	gkdd
 車水馬龍	gkdi
 𬱨	gkdk
-再來	gkdl
 𩓹	gkdm
-再不	gkdu
 现成	gkdv
 太上不辱先	gkdw
 𨋙	gkec
-再做	gked
 现任	gkee
 𩉼	gkee
 规例	gkef
@@ -77242,12 +77241,9 @@
 理化	gker
 專業化	gker
 现价	gket
-再	gkf
-再三	gkfa
+酮	gkf
 𲄸	gkfa
 𢿀	gkfb
-再植	gkfd
-再无	gkfd
 规格	gkfe
 配电柜	gkfg
 𭹅	gkfi
@@ -77256,16 +77252,12 @@
 𩊗	gkfl
 𪻛	gkfl
 理想	gkfm
-再	gkfn
 鬶	gkfn
-再	gkfn
 理工	gkfo
-再来	gkfp
 现楼	gkfp
 规模	gkfs
 理亏	gkfs
 现形	gkfs
-再开	gkfs
 𫯿	gkfs
 玉螺一吹椎髻耸	gkft
 𤫂	gkft
@@ -77281,14 +77273,11 @@
 𨠗	gkgd
 璎珞	gkge
 春水碧于天	gkgf
-再轉	gkgg
 軸套	gkgh
 面對面	gkgi
 碧螺春	gkgj
-再现	gkgk
 大興區	gkgl
 规划	gkgm
-再現	gkgm
 醠	gkgm
 𮡁	gkgm
 𪼙	gkgn
@@ -77300,22 +77289,17 @@
 大興土木	gkhf
 现款	gkhh
 现世	gkhi
-再世	gkhi
-再者	gkhj
 泰坦	gkhj
 碧水青山	gkhj
-再转	gkhs
 理髮	gkhs
 珃	gkht
 泰達	gkhu
 现场	gkhv
-再去	gkhv
 大业末年春暮月	gkhw
 太上老君	gkhx
 现浇	gkia
 專業户	gkie
 專業戶	gkie
-再添	gkif
 现汇	gkig
 理清	gkih
 酣畅淋漓	gkii
@@ -77323,10 +77307,8 @@
 规章	gkij
 现房	gkio
 軸流	gkio
-再没	gkiq
 泰州	gkiq
 碧水浩浩云茫茫	gkis
-再沒	gkiw
 理学	gkiy
 匣	gkj
 现时	gkja
@@ -77350,23 +77332,19 @@
 璎	gkkc
 蠠	gkkc
 𧐧	gkkc
-再開	gkkf
 𪟯	gkkf
 理赔	gkki
 𠥨	gkkk
 𧓨	gkkk
 𤩋	gkkl
 规则	gkkm
-再则	gkkm
 理	gkkn
 理	gkkn
 理由	gkko
 泰迪	gkkp
 大蜘蛛	gkkw
-再见	gkkx
 醉里吴音相媚好	gklc
 𨜀	gklc
-再听	gkle
 𮠾	gklo
 𮞜	gklp
 理喻	gklt
@@ -77384,7 +77362,6 @@
 大同小異	gkmj
 大開眼界	gkmj
 軸體	gkmk
-再則	gkmm
 理縣	gkmm
 𨡬	gkmn
 𱲠	gkmn
@@ -77394,15 +77371,12 @@
 理县	gkmv
 理虧	gkmw
 理当	gkmx
-再見	gkmx
 理路	gkne
 泰国	gkng
 泰國	gkng
 軸距	gkng
 理當	gknj
-再回	gknl
 𪭑	gknm
-再過	gknp
 惠则足以使人	gknt
 軸	gko
 軸	gkoc
@@ -77415,17 +77389,12 @@
 规诫	gkog
 配电室	gkoh
 大興安嶺	gkoj
-再审	gkok
-再让	gkok
 大開方便之門	gkok
 𤤧	gkon
 理该	gkoo
-再议	gkoo
-再審	gkoq
 现实	gkos
 泰诺	gkos
 理论	gkot
-再说	gkou
 鹌鹑	gkov
 鵪鶉	gkov
 𬨺	gkpd
@@ -77446,7 +77415,6 @@
 𤤺	gkqp
 𨋯	gkqp
 𩊒	gkqp
-再無	gkqs
 春水船如天上坐	gkqt
 專業知識	gkqu
 大业年中炀天子	gkqv
@@ -77472,13 +77440,10 @@
 𨢥	gksb
 𨣅	gksb
 泰斗	gksd
-再次	gkse
 规范	gksi
 𤣽	gksi
-𱎒	gksi
 现况	gksl
 瑁	gksm
-𠕱	gksm
 现在	gksn
 现存	gksn
 𰼃	gkso
@@ -77493,22 +77458,17 @@
 醴	gksu
 𩎂	gksu
 现有	gksw
-再有	gksw
 𤦛	gksw
 奪門而出	gksx
 𩌇	gksx
-再版	gkte
 專業版	gkte
 軜	gkte
 靹	gkte
 𠥮	gkte
 𰡱	gkte
 现钱	gktf
-再拜	gktf
 理會	gktf
-再會	gktf
 理念	gktf
-再創	gktf
 𡘂	gkti
 𤩃	gktk
 專業人員	gktl
@@ -77516,14 +77476,10 @@
 现钞	gktm
 理念	gkto
 现今	gkto
-再創	gkto
 碧水长流广濑川	gktq
 理会	gkts
-再会	gkts
-再版	gkts
 專業版	gkts
 𫻯	gktt
-再创	gktv
 现银	gktv
 泰铢	gktw
 璞	gku
@@ -77542,25 +77498,19 @@
 𤦇	gkuj
 𮝚	gkuj
 理該	gkuo
-再讓	gkuo
 现将	gkur
-再度	gkus
 现状	gkus
 酸鹼度	gkus
 泰諾	gkus
 𭺍	gkus
 理論	gkut
-再說	gkut
 𤩶	gkut
 𮡅	gkut
-再説	gkuu
-再議	gkuu
 輞	gkuu
 𪻫	gkuu
 泰康	gkux
 泰	gkv
 𨋈	gkvc
-再续	gkvd
 𪵪	gkvd
 匣子	gkvk
 泰纳	gkvk
@@ -77573,14 +77523,12 @@
 泰	gkvu
 规约	gkvw
 𩍌	gkwa
-再生	gkwg
 大開殺戒	gkwg
 𨏦	gkwi
 𮥽	gkwi
 𲊡	gkwi
 现金	gkwj
 规制	gkwk
-再造	gkwl
 𨊾	gkwl
 𱮴	gkwl
 现身	gkwm
@@ -77592,12 +77540,10 @@
 𨣇	gkwy
 𮝢	gkwy
 规	gkx
-再建	gkxa
 理发	gkxb
 𮸮	gkxe
 䩄	gkxi
 现	gkxn
-再以	gkxo
 规	gkxu
 𦒰	gkxw
 现出	gkxx
@@ -78477,10 +78423,10 @@
 王燕	gnsf
 王華	gnsf
 㔿	gnsf
-王華	gnsh
 王英	gnsk
 王菲	gnsl
 𩰊	gnsn
+王華	gnss
 𨣛	gnss
 大跃进	gnst
 𤥪	gnst
@@ -78809,7 +78755,6 @@
 太晚	gojy
 較晚	gojy
 㻘	goke
-再就业	gokg
 𧏔	gokh
 春寒赐浴华清池	goki
 春郭水泠泠	goki
@@ -78817,7 +78762,6 @@
 大家閨秀	gokr
 理论上	goks
 較上	goks
-再就業	goku
 𤤯	gokv
 𨠕	gokv
 𩈗	gokv
@@ -79738,7 +79682,6 @@
 𪼪	gqqd
 𣘦	gqqf
 醫	gqqg
-再等等	gqqh
 殹	gqqh
 㙠	gqqh
 𩮵	gqqh
@@ -79799,6 +79742,7 @@
 𰼄	gqsj
 大智若愚	gqsk
 蠶繭	gqsk
+㻔	gqsk
 𩊤	gqso
 春风花草香	gqsr
 珧	gqss
@@ -80270,7 +80214,6 @@
 𨣕	gsem
 𪼆	gsem
 戒條	gsen
-再顾倾人国	gsen
 大有作为	gseo
 大有作為	gseo
 大而化之	gsep
@@ -80286,7 +80229,6 @@
 勤务	gsex
 𲊟	gsey
 玙	gsf
-再而三	gsfa
 勤于	gsfa
 䪇	gsfa
 𦨅	gsfa
@@ -80305,6 +80247,7 @@
 𤪣	gsfh
 玙	gsfi
 𨊮	gsfi
+丟盔棄甲	gsfk
 𤨃	gsfl
 大而无当	gsfm
 勤想	gsfm
@@ -80373,9 +80316,6 @@
 弄壞	gsho
 𤧳	gshr
 大雁塔	gshs
-璍	gshs
-鞾	gshs
-𨣄	gshs
 匿報	gshu
 𬍷	gshu
 堇	gsi
@@ -80488,7 +80428,6 @@
 𬥠	gsmb
 酣眠	gsmc
 𠞱	gsmd
-酣睡	gsme
 𤫧	gsmf
 𬴑	gsmg
 𭚙	gsmh
@@ -80500,6 +80439,7 @@
 䩏	gsmo
 𨣱	gsmo
 𬥠	gsmo
+酣睡	gsmq
 㝻	gsmq
 弄髒	gsms
 𧇑	gsmu
@@ -80600,6 +80540,9 @@
 貳臣	gssc
 𡠷	gssc
 勤苦	gssd
+璍	gssd
+鞾	gssd
+𨣄	gssd
 大草原	gsse
 王顾左右而言他	gsse
 堇菜	gsse
@@ -80834,9 +80777,7 @@
 輪姦	gtcc
 奉公如法则上下平	gtch
 珍异	gtcs
-再拜陈三愿	gtcs
 珍禽异兽	gtcu
-再拜献大王足下	gtda
 大人故嫌迟	gtdb
 琴剑飘零	gtdd
 匡人其如予何	gtde
@@ -80851,7 +80792,6 @@
 輪休	gtef
 𠤭	gtef
 酌贪泉而觉爽	gteg
-替人垂泪到天明	gtej
 夾住	gteo
 輪作	gteq
 玉人何处教吹箫	gteq
@@ -80931,7 +80871,6 @@
 𫺡	gtfy
 𭝌	gtfy
 珍奇	gtga
-再拜奉大将军足下	gtga
 𨍓	gtgc
 𩋱	gtgc
 玲珑	gtgd
@@ -81078,6 +81017,7 @@
 𠥣	gtpo
 𠥫	gtpo
 夫人之相与	gtps
+替人垂泪到天明	gtqj
 輸血	gtqm
 輸卵管	gtqo
 𨌝	gtqo
@@ -81113,7 +81053,6 @@
 䤈	gtsm
 珍存	gtsn
 夾在	gtsn
-再拜而送之	gtsp
 玉钗头上风	gtsq
 𩈸	gtsq
 𮴪	gtsq
@@ -81737,6 +81676,7 @@
 轉了一圈	gvfn
 酸梅	gvfq
 玻爾	gvft
+丟棄	gvfv
 𰡼	gvfv
 夷	gvg
 𨌡	gvgb
@@ -81767,7 +81707,6 @@
 𠀊	gvid
 𪥁	gvid
 鸢飞戾天者	gvih
-再续汉阳游	gvii
 玉垒浮云变古今	gvit
 輜	gvj
 璅	gvjf
@@ -82151,9 +82090,7 @@
 𤪅	gwij
 琟	gwin
 醀	gwio
-再生产	gwiq
 珠海	gwiq
-再生産	gwiq
 醉杀洞庭秋	gwir
 瑞脑消金兽	gwiu
 面脆油香新出炉	gwiu
@@ -82262,10 +82199,8 @@
 区间	gwpj
 鞠	gwpm
 珠帘	gwpm
-再造之恩	gwpn
 夫物之不齐	gwpp
 醜類	gwps
-再生產	gwps
 爽身粉	gwpt
 欧文	gwpw
 殴	gwq
@@ -82324,7 +82259,6 @@
 珠	gwt
 欧氏	gwta
 区分	gwtb
-再生父母	gwtb
 欧版	gwte
 区长	gwth
 珠	gwti
@@ -82506,6 +82440,7 @@
 𡙥	gxek
 擊傷	gxeq
 璕	gxfa
+匩	gxfh
 玛丽	gxfk
 璶	gxfm
 𰅅	gxfm
@@ -82525,9 +82460,9 @@
 瓊漿玉液	gxgi
 軋輥	gxgj
 戒骄戒躁	gxgn
-匩	gxgn
 㺩	gxgn
 𠚖	gxgn
+匩	gxgn
 𤨙	gxgo
 玛瑙	gxgv
 大力士	gxhf
@@ -83561,7 +83496,6 @@
 轺	hblv
 祒	hblv
 𡊱	hblv
-𡔝	hblv
 轰鸣	hbly
 毒	hbm
 𨱱	hbma
@@ -83847,6 +83781,7 @@
 塀	hbus
 声道	hbut
 聲道	hbut
+素養	hbut
 𪢲	hbut
 聲訊	hbuv
 声望	hbuw
@@ -85305,12 +85240,9 @@
 𰉡	hesi
 𮰛	hesi
 𮵘	hesi
-埵	hesj
 麦草	hesj
 麦苗	hesj
 𢍛	hesj
-𨲉	hesj
-𩭦	hesj
 釐	hesk
 漦	hesk
 𣺶	hesk
@@ -85587,7 +85519,6 @@
 𰊁	hfeo
 辅佐	hfes
 青天白日摧紫荆	hfes
-青天垂玉钩	hfet
 𣫌	hfev
 辅件	hfew
 士	hff
@@ -85707,6 +85638,7 @@
 𧏚	hfkc
 鬆開	hfkf
 轻工业	hfkg
+𱖝	hfkh
 𡔉	hfki
 𥜰	hfki
 𫀌	hfkk
@@ -85827,6 +85759,7 @@
 士气	hfqq
 𪆪	hfqr
 𡋮	hfqs
+青天垂玉钩	hfqt
 青梅竹马	hfqx
 𢡱	hfqy
 穀	hfr
@@ -86134,7 +86067,6 @@
 埯	hgk
 埯	hgkd
 䄋	hgkd
-𱖝	hgkf
 干肉	hgkt
 𬛴	hgkv
 域	hgl
@@ -87140,14 +87072,14 @@
 世華	hisf
 培華	hisf
 平沙莽莽黄入天	hisf
-世華	hish
-培華	hish
 禅房花木深	hisi
 培英	hisk
 境况	hisl
 教妾若为容	hisp
 礼法有明文	hisp
 𩯮	hisr
+世華	hiss
+培華	hiss
 𡐵	hisu
 增产节约	hisv
 𱘝	hisw
@@ -87165,6 +87097,7 @@
 培訓	hiuq
 轻举妄动	hius
 世道	hiut
+培養	hiut
 𫮡	hiuu
 祝酒詞	hiuv
 世纪	hivb
@@ -90069,6 +90002,7 @@
 圥	hqrt
 熱狗	hqrw
 祣	hqry
+埵	hqs
 熱菜	hqse
 熱帶	hqsf
 去年燕子来	hqsf
@@ -90076,6 +90010,9 @@
 𡉧	hqsj
 𥘥	hqsj
 𢌻	hqsj
+埵	hqsk
+𨲉	hqsk
+𩭦	hqsk
 去年花里逢君别	hqsl
 𰧼	hqsl
 𨱳	hqso
@@ -90971,8 +90908,6 @@
 未有封侯之赏	hshn
 考考	hshs
 平仄平平仄	hshs
-墷	hshs
-𥛵	hshs
 𡉃	hsht
 𫮉	hshu
 考场	hshv
@@ -91033,7 +90968,6 @@
 塔山	hsjs
 𥜒	hsjs
 𪣲	hsjt
-𫭜	hsjt
 𮵝	hsjt
 𬨒	hsjt
 𡎋	hsjv
@@ -91203,6 +91137,8 @@
 示	hss
 坛友	hssb
 聲譽鵲起	hssd
+墷	hssd
+𥛵	hssd
 青花瓷	hsse
 髮菜	hsse
 鬆緊帶	hssf
@@ -91235,6 +91171,7 @@
 ⺭	hsss
 ⽰	hsss
 考进	hsst
+𫭜	hsst
 墴	hsst
 转动	hssv
 转运	hssv
@@ -92271,7 +92208,6 @@
 報個	huen
 𰏨	hueq
 蟄伏	hues
-平郵	hues
 平价	huet
 平信	hueu
 報信	hueu
@@ -92600,6 +92536,7 @@
 平盤	huqq
 𠒀	huqr
 𡊪	huqr
+平郵	huqs
 幸無	huqs
 轻装简从	huqt
 長話短説	huqu
@@ -92717,6 +92654,7 @@
 平手	hutu
 平仓	hutv
 增创	hutv
+𡒶	hutv
 祖师爷	hutw
 平息	huty
 世道人心	huty
@@ -93099,7 +93037,6 @@
 𡏈	hvku
 去见	hvkx
 𤘅	hvky
-夀	hvla
 𩫶	hvla
 𡔽	hvla
 𪤳	hvla
@@ -93251,6 +93188,7 @@
 鬓丝几缕茶烟里	hvqk
 教管	hvqo
 壽筵	hvqq
+𡔝	hvqq
 𩬌	hvqr
 𪣁	hvqr
 到乡翻似烂柯人	hvqt
@@ -93338,6 +93276,7 @@
 教益	hvut
 坡道	hvut
 教導	hvut
+教養	hvut
 𪠢	hvut
 長幼尊卑	hvuw
 教练	hvva
@@ -94003,6 +93942,7 @@
 𩲡	hwus
 塊	hwut
 雅座	hwut
+靜養	hwut
 𩲘	hwut
 牙周炎	hwuu
 熬煎	hwuw
@@ -94956,10 +94896,10 @@
 浇菜	iase
 溫哥華	iasf
 浇头	iasg
-溫哥華	iash
-温哥華	iash
 洗耳恭听	iasl
 𱧳	iasn
+溫哥華	iass
+温哥華	iass
 沏茶	iast
 遍插茱萸少一人	iast
 河运	iasv
@@ -96907,7 +96847,6 @@
 派头	iesg
 户头	iesg
 泊头	iesg
-浮華	iesh
 浮著	iesh
 妾住在横塘	iesh
 激荡	iesi
@@ -96921,7 +96860,6 @@
 𰩡	iesi
 𮵦	iesi
 盜墓	iesj
-涶	iesj
 𭰡	iesj
 浮冰	iesk
 𪾒	iesm
@@ -96930,6 +96868,7 @@
 洑	iesq
 所获	iesr
 激勵	iess
+浮華	iess
 激进	iest
 㴁	iest
 浮灰	iesu
@@ -97540,6 +97479,7 @@
 𬈇	ifkf
 𣶇	ifkf
 鸿业	ifkg
+洅	ifkh
 㴂	ifkh
 灑	ifki
 江天水一泓	ifki
@@ -97799,8 +97739,6 @@
 𬇸	ifsf
 𤂨	ifsg
 𮄾	ifsg
-新華	ifsh
-江華	ifsh
 淋著	ifsh
 浅薄	ifsi
 灑落	ifsi
@@ -97827,6 +97765,8 @@
 新曆	ifsr
 渡远荆门外	ifsr
 𤂉	ifsr
+新華	ifss
+江華	ifss
 新藍	ifss
 淒厲	ifss
 浮桂动丹芳	ifss
@@ -98297,7 +98237,6 @@
 淹	igkd
 意态由来画不成	igkd
 酒興	igkf
-洅	igkf
 酒业	igkg
 𭰙	igkj
 𤄴	igkm
@@ -98554,6 +98493,7 @@
 𱦚	igwy
 肈	igxa
 𣶕	igxg
+𣶕	igxh
 泧	igxi
 𥩡	igxi
 潜力	igxk
@@ -99086,7 +99026,6 @@
 澆菜	ihse
 清冽	ihsf
 清華	ihsf
-清華	ihsh
 满地芦花和我老	ihsh
 𱧌	ihsj
 洘	ihsk
@@ -99097,6 +99036,7 @@
 清苑	ihsr
 渐而	ihsr
 沙平草绿见吏稀	ihsr
+清華	ihss
 沶	ihss
 𣺇	ihss
 渐进	ihst
@@ -100488,6 +100428,7 @@
 意藴	ijsb
 頀	ijsb
 𫖗	ijsd
+𫖛	ijsd
 滭	ijsd
 𪋜	ijsd
 意愿	ijse
@@ -100503,7 +100444,6 @@
 韺	ijsg
 㵹	ijsg
 𩐻	ijsg
-韶華	ijsh
 端蓋	ijsh
 端著	ijsh
 海畔云山拥蓟城	ijsh
@@ -100528,7 +100468,7 @@
 混凝	ijsr
 𤃞	ijsr
 汕	ijss
-𫖛	ijss
+韶華	ijss
 潩	ijst
 混进	ijst
 端茶	ijst
@@ -100625,6 +100565,7 @@
 濕度	ijus
 漫道	ijut
 漫說	ijut
+混養	ijut
 𩑈	ijut
 端詳	ijuu
 漫談	ijuu
@@ -104289,7 +104230,6 @@
 海貝	iqmb
 𤄑	iqmb
 𱐙	iqmd
-没睡	iqme
 漫無目的	iqme
 没戲	iqmf
 𰜘	iqmf
@@ -104306,6 +104246,7 @@
 𬐯	iqmn
 泎	iqmo
 𭱕	iqmp
+没睡	iqmq
 潨	iqms
 𤀤	iqms
 渔具	iqmt
@@ -104453,6 +104394,7 @@
 竔	iqsj
 泛黄	iqsk
 扁舟共济与君同	iqsk
+涶	iqsk
 海况	iqsl
 海蓝	iqsn
 𱦗	iqso
@@ -104480,7 +104422,6 @@
 漫無邊際	iqtc
 没人	iqte
 渔人	iqte
-汽锤	iqte
 𫝸	iqte
 沿途	iqtf
 没钱	iqtf
@@ -104509,6 +104450,7 @@
 海邊	iqtp
 沿邊	iqtp
 遃	iqtp
+汽锤	iqtq
 𪃛	iqtr
 浩气长存	iqts
 没错	iqts
@@ -104591,7 +104533,6 @@
 飒	iqw
 海豚	iqwd
 㵺	iqwd
-汽錘	iqwe
 汽缸	iqwf
 産	iqwg
 产生	iqwg
@@ -104608,6 +104549,7 @@
 剷	iqwm
 海牛	iqwn
 海选	iqwq
+汽錘	iqwq
 没臉	iqwr
 飒然	iqws
 没錯	iqws
@@ -105322,7 +105264,6 @@
 鸿雁连群地亦寒	isho
 溽熱	ishq
 𣾖	ishr
-澕	ishs
 灌输	isht
 混凝土	isht
 溽熱	isht
@@ -105652,6 +105593,7 @@
 活菩薩	issc
 𣵷	issc
 浪花有意千重雪	issd
+澕	issd
 顧左右而言他	isse
 湈	issf
 𣾛	issf
@@ -106789,6 +106731,7 @@
 洋傘	iutt
 洋伞	iutu
 𰝩	iutu
+瀁	iutv
 濂	iuu
 𤅗	iuua
 𪋲	iuua
@@ -106830,6 +106773,7 @@
 瀯	iuur
 㲿	iuus
 濂	iuut
+滋養	iuut
 濙	iuuu
 𰝩	iuuu
 洋炮	iuuw
@@ -107317,6 +107261,7 @@
 涵義	ivuq
 波兰	ivus
 波導	ivut
+涵養	ivut
 酒绿灯红	ivuv
 潛台詞	ivuv
 𱪆	ivuv
@@ -107761,7 +107706,6 @@
 驡	iwmd
 𪚛	iwmd
 𪟍	iwmd
-沒睡	iwme
 𪎁	iwme
 𫿤	iwme
 𪚤	iwme
@@ -107804,6 +107748,7 @@
 龍	iwmo
 漠然置之	iwmp
 淡然處之	iwmp
+沒睡	iwmq
 𦪿	iwmq
 襲	iwmr
 鸗	iwmr
@@ -107967,7 +107912,6 @@
 潘金蓮	iwsg
 举重若轻	iwsh
 潘金莲	iwsh
-龍華	iwsh
 浩荡	iwsi
 浩蕩	iwsi
 沒落	iwsi
@@ -107978,6 +107922,7 @@
 𤡵	iwsq
 浩然与溟涬同科	iwsr
 浮生若夢	iwss
+龍華	iwss
 龍脊	iwss
 涶	iwss
 泡茶	iwst
@@ -108202,6 +108147,8 @@
 𰝐	ixfa
 𱧃	ixff
 江边一盖青	ixfh
+𣵭	ixfh
+𣳫	ixfh
 滍	ixfk
 濜	ixfm
 深加工	ixfo
@@ -108215,8 +108162,6 @@
 𱧄	ixgg
 扇面	ixgi
 扇區	ixgl
-𣵭	ixgn
-𣳫	ixgn
 学习班	ixgu
 扇区	ixgw
 津城	ixhd
@@ -108617,12 +108562,12 @@
 𣻍	iylu
 沵	iyma
 𭱘	iymb
-沉睡	iyme
 深處	iyme
 沁骨	iymg
 染色體	iymk
 学点	iyml
 𭲃	iymn
+沉睡	iymq
 酒色財氣	iymq
 洋快餐	iymr
 洽購	iyms
@@ -109005,6 +108950,7 @@
 晓梦	jaff
 最棒	jafg
 最远	jafh
+𭗦	jafh
 时速	jafl
 最想	jafm
 时政	jafn
@@ -109700,10 +109646,12 @@
 星期五	jdfc
 𫶆	jdfc
 𱢏	jdfc
+時不再來	jdfd
 岁十一月徒杠成	jdfd
 明码标价	jdfe
 岩棉	jdfe
 明碼標價	jdfe
+时不再来	jdff
 星期天	jdfg
 是故无冥冥之志者	jdfh
 星期一	jdfi
@@ -109729,8 +109677,6 @@
 𰎺	jdfy
 早車	jdgc
 𡼟	jdgc
-時不再來	jdgd
-时不再来	jdgf
 𭗨	jdgf
 𰖜	jdgf
 早春	jdgj
@@ -109857,7 +109803,6 @@
 崸	jdmb
 暊	jdmb
 𡺋	jdmb
-早睡	jdme
 巎	jdme
 𡺷	jdme
 暴露目标	jdmf
@@ -109871,6 +109816,7 @@
 巔	jdmm
 岂不罹凝寒	jdmo
 山西省	jdmq
+早睡	jdmq
 早餐	jdmr
 𭧵	jdmr
 𰖛	jdmr
@@ -109945,7 +109891,6 @@
 豔花	jdse
 豐華	jdsf
 明朝有意抱琴来	jdsf
-豐華	jdsh
 暁	jdsh
 𡸳	jdsh
 星期二	jdsi
@@ -109965,6 +109910,7 @@
 㽭	jdsr
 𧰮	jdsr
 岐黃	jdss
+豐華	jdss
 早茶	jdst
 晨起动征铎	jdst
 岂其有他故兮	jdst
@@ -110161,7 +110107,6 @@
 𤲫	jehb
 岂伊地气暖	jehj
 是处青山可埋骨	jehm
-星垂平野阔	jehp
 𧞈	jehr
 𪰋	jehr
 𡵲	jehs
@@ -110300,8 +110245,6 @@
 㫡	jesi
 𡶞	jesi
 𤱞	jesi
-崜	jesj
-𣇦	jesj
 𭖤	jesm
 昕薇	jesr
 略有	jesw
@@ -110853,9 +110796,9 @@
 曬種	jfrw
 褁	jfry
 果冻	jfsa
+𬀽	jfsa
 𰘊	jfsa
 崋	jfsa
-𬀽	jfsa
 果决	jfsb
 题李凝幽居	jfsb
 累五而不坠	jfsc
@@ -111473,8 +111416,6 @@
 𣊝	jhsf
 時薪	jhsi
 疇昔	jhsj
-崋	jhsj
-𬀽	jhsj
 旱冰	jhsk
 易地而處	jhsm
 曉夢	jhsm
@@ -112164,6 +112105,7 @@
 曝	jjs
 𡻞	jjsa
 𭨋	jjsa
+𭨋	jjsd
 𡻞	jjsd
 𫶂	jjsh
 𤴌	jjsj
@@ -112183,7 +112125,6 @@
 明日黄花	jjss
 明日黃花	jjss
 岀	jjss
-𭨋	jjss
 𣌈	jjsu
 映日荷花别样红	jjsv
 山山黄叶飞	jjsv
@@ -113673,6 +113614,7 @@
 𣈨	jqhg
 𡸔	jqhh
 𤲒	jqhh
+星垂平野阔	jqhp
 𰕶	jqhr
 男儿到此是豪雄	jqhs
 男儿到死心如铁	jqht
@@ -113754,12 +113696,14 @@
 暗箭難防	jqsc
 昇華	jqsf
 晴川历历汉阳树	jqsf
-昇華	jqsh
 昇	jqsj
 明年花开时	jqsj
 𣅮	jqsj
+崜	jqsk
+𣇦	jqsk
 𬴙	jqso
 晁	jqss
+昇華	jqss
 明年花开复谁在	jqss
 晀	jqss
 𤱩	jqss
@@ -114205,7 +114149,7 @@
 𱛼	jrxa
 日妝	jrxc
 岁收	jrxe
-𣈧	jrxg
+𣈧	jrxh
 𭥦	jrxj
 照猫畫虎	jrxm
 翙	jrxx
@@ -114318,6 +114262,7 @@
 山头南郭寺	jsdh
 畢	jsdi
 时运不济	jsdi
+崋	jsdi
 㞳	jsdi
 𪰍	jsdi
 日薄西山	jsdj
@@ -114457,11 +114402,7 @@
 晕头转向	jshr
 𪂢	jshr
 𭗧	jshr
-曄	jshs
-曅	jshs
 屵	jshs
-㠏	jshs
-𪩓	jshs
 山勢	jsht
 暴熱	jsht
 㬄	jsht
@@ -114741,6 +114682,10 @@
 山	jss
 照葫芦画瓢	jssd
 照葫蘆畫瓢	jssd
+曄	jssd
+曅	jssd
+㠏	jssd
+𪩓	jssd
 嵌	jsse
 昙花	jsse
 山藥	jsse
@@ -116341,7 +116286,6 @@
 胃藥	jwse
 明華	jwsf
 𩉂	jwsg
-明華	jwsh
 歇著	jwsh
 明月在前轩	jwsh
 𡑅	jwsh
@@ -116356,6 +116300,7 @@
 歇凉	jwso
 明月在云间	jwsp
 猒	jwsq
+明華	jwss
 𡽎	jwss
 崜	jwss
 𣇦	jwss
@@ -116957,7 +116902,6 @@
 𭦴	jylx
 𭟜	jyly
 𬏂	jyma
-晚睡	jyme
 畳	jymi
 𣆹	jymi
 思慮	jymj
@@ -116965,6 +116909,7 @@
 晕眩	jymo
 暈眩	jymo
 𬩫	jymp
+晚睡	jymq
 晚餐	jymr
 𢒠	jymt
 晚睡	jymw
@@ -118045,7 +117990,6 @@
 蟛	kdt
 电钮	kdtb
 电锯	kdtb
-电锤	kdte
 电铲	kdti
 𧋆	kdti
 电钟	kdtl
@@ -118053,6 +117997,7 @@
 蟛	kdto
 蛖	kdto
 𧊑	kdto
+电锤	kdtq
 电铃	kdtt
 电镀	kdtu
 电键	kdtx
@@ -118370,7 +118315,6 @@
 𧊂	kesi
 𫔠	kesi
 败草	kesj
-𧌯	kesj
 贩黄	kesk
 贩运	kesv
 閥芯	kesy
@@ -118723,6 +118667,7 @@
 同业	kfkg
 同工同酬	kfkg
 開天闢地	kfkh
+𧋁	kfkh
 開闊	kfki
 虹残水照断桥梁	kfki
 𧕯	kfki
@@ -118998,7 +118943,6 @@
 興華	kfsf
 𰄒	kfsf
 𰿠	kfsg
-叔本華	kfsh
 開著	kfsh
 開	kfsj
 同遭	kfsj
@@ -119011,6 +118955,7 @@
 𧊞	kfsm
 同在	kfsn
 见机而行	kfsr
+叔本華	kfss
 凹进	kfst
 𨴸	kfst
 開荒	kfsu
@@ -119236,7 +119181,6 @@
 𫊭	kgkc
 閹	kgkd
 𧌄	kgkd
-𧋁	kgkf
 卡夫卡	kgkm
 业内	kgkt
 贼赃	kgku
@@ -122855,6 +122799,7 @@ $	kkmy
 𬠴	kqsa
 同舟共济	kqsi
 同舟共濟	kqsi
+𧌯	kqsk
 䖴	kqss
 𣴝	kqss
 𨴡	kqss
@@ -123557,9 +123502,7 @@ $	kkmy
 最熱	kshq
 最老	kshr
 曲坛	kshs
-𧑍	kshs
 𧔠	kshs
-𨶱	kshs
 则臣视君如国人	ksht
 上報	kshu
 上達	kshu
@@ -123905,6 +123848,8 @@ $	kkmy
 上緊	kssb
 農友	kssb
 则蘧蘧然周也	kssc
+𧑍	kssd
+𨶱	kssd
 𱢵	kssd
 上次	ksse
 上菜	ksse
@@ -125230,7 +125175,6 @@ $	kkmy
 同床共枕	kusf
 對華	kusf
 赚头	kusg
-對華	kush
 對著	kush
 蜷著	kush
 𱿞	kusi
@@ -125250,6 +125194,7 @@ $	kkmy
 则并与斗斛而窃之	kusp
 閲覽	kusq
 閲歷	kusr
+對華	kuss
 刚道有雌雄	kuss
 𫋧	kust
 開卷有益	kusu
@@ -125285,6 +125230,7 @@ $	kkmy
 𪴨	kutt
 對手	kutu
 對公	kutv
+𧓲	kutv
 㒺	kutx
 𠄅	kutx
 蟮	kuu
@@ -125944,6 +125890,7 @@ $	kkmy
 刚烈	kwfr
 刚巧	kwfs
 卡特爾	kwft
+閒棄	kwfv
 𦊋	kwfv
 𫊷	kwfv
 𫋝	kwfv
@@ -127380,6 +127327,7 @@ $	kkmy
 唤起两眸清炯炯	ldfu
 吴越一王兮驷马归	ldfu
 喫勁	ldfv
+鄙棄	ldfv
 嗟哉吾党二三子	ldfv
 㗚	ldfv
 唤起一天明月	ldfw
@@ -128059,12 +128007,10 @@ $	kkmy
 吹	lei
 听潮	leid
 𠴖	leid
-唾沫	leih
 听清	leih
 听音	leij
 喉部	leil
 𭉩	leil
-唾液	leio
 吹	leiv
 吹襲	leiw
 听觉	leiy
@@ -128110,8 +128056,6 @@ $	kkmy
 呵佛骂祖	lelh
 喉嚨	leli
 听唱	lelj
-唾骂	lell
-唾駡	lell
 嘺	lell
 吹嘘	lelm
 吹哨	lelm
@@ -128127,7 +128071,6 @@ $	kkmy
 嗥叫	lelx
 嚼	lem
 嚼	lema
-唾罵	lemd
 呼倫貝爾	lemf
 呈獻	lemf
 𠷒	lemf
@@ -128169,8 +128112,6 @@ $	kkmy
 听诊	leot
 呈交	leot
 听说	leou
-唾弃	leov
-唾棄	leov
 㕭	leov
 唱反调	leow
 𠼮	leow
@@ -128227,7 +128168,6 @@ $	kkmy
 咚	lesi
 吹落	lesi
 𱒊	lesi
-唾	lesj
 𠺦	lesj
 呈覽	lesq
 𰇛	lesq
@@ -128239,7 +128179,6 @@ $	kkmy
 吹散	lesw
 𠲐	leta
 𠴒	letb
-唾余	letf
 𭋿	letf
 𠴓	letf
 喉镜	leti
@@ -128340,7 +128279,6 @@ $	kkmy
 听懂	leys
 听写	leys
 吃白飯	leys
-唾餘	leyt
 虽体解吾犹未变兮	leyt
 听命	leyx
 吹皱	leyx
@@ -128357,7 +128295,6 @@ $	kkmy
 哭天抹泪	lfai
 哭天抹淚	lfai
 忠于职守	lfao
-𫡋	lfao
 呆过	lfap
 吁	lfau
 𠯊	lfau
@@ -128496,6 +128433,7 @@ $	kkmy
 𭋝	lfke
 𠲋	lfkf
 𡃾	lfkg
+𠱻	lfkh
 囇	lfki
 𨤥	lfkk
 𫪃	lfkk
@@ -128674,6 +128612,7 @@ $	kkmy
 啞火	lfuo
 𱒾	lfuo
 啞謎	lfup
+哺養	lfut
 哺	lfuv
 啞炮	lfuw
 别来将为不牵情	lfuy
@@ -128682,6 +128621,7 @@ $	kkmy
 𠴬	lfvf
 𱔶	lfvf
 𠹿	lfvh
+𠾍	lfvh
 棐	lfvi
 呆子	lfvk
 𭇶	lfvk
@@ -128821,7 +128761,6 @@ $	kkmy
 𫬞	lgjw
 唵	lgk
 唵	lgkd
-𠱻	lgkf
 𪡄	lgkj
 𱕯	lgkr
 呈上	lgks
@@ -129105,10 +129044,10 @@ $	kkmy
 嘖	lhmb
 𠰙	lhmd
 𠴼	lhmd
-嗜睡	lhme
 貴遠賤近	lhme
 𭉷	lhmi
 𡂝	lhmm
+嗜睡	lhmq
 嗜睡	lhmw
 𡁜	lhna
 中長跑	lhnw
@@ -129804,6 +129743,7 @@ $	kkmy
 𡃳	lkft
 㘓	lkfu
 𡂛	lkfu
+遺棄	lkfv
 咉	lkgd
 𮧆	lkgd
 𡆏	lkge
@@ -130978,7 +130918,6 @@ $	kkmy
 𠼹	lmej
 數罪併罰	lmem
 𠽁	lmeq
-𱔾	lmes
 𪢛	lmev
 𠵄	lmfa
 吊桶	lmfb
@@ -131137,6 +131076,7 @@ $	kkmy
 吊窗	lmpr
 㗔	lmpw
 嘑	lmqa
+𱔾	lmqk
 吊盘	lmqm
 㗂	lmqm
 𡅗	lmqm
@@ -131591,7 +131531,6 @@ $	kkmy
 中藥	lnse
 中國菜	lnse
 中華	lnsf
-中華	lnsh
 中葉	lnsh
 中落	lnsi
 𠮺	lnsi
@@ -131602,6 +131541,7 @@ $	kkmy
 中国共产党	lnsn
 中國共産黨	lnsn
 中國共產黨	lnsn
+中華	lnss
 𭋌	lnss
 中共	lnst
 中蘇	lnst
@@ -132353,10 +132293,12 @@ $	kkmy
 别無所求	lqif
 別無所求	lqif
 吸溼	lqif
+唾沫	lqih
 吃法	lqih
 蜚短流長	lqih
 吸塵	lqih
 𭍌	lqim
+唾液	lqio
 蜚短流长	lqit
 吸溜	lqit
 中短波	lqiv
@@ -132387,6 +132329,8 @@ $	kkmy
 呼吁	lqlf
 吃喝	lqlj
 听风听雨过清明	lqlj
+唾骂	lqll
+唾駡	lqll
 呼哨	lqlm
 嗟我嗜书终日读	lqlo
 呱呱	lqlq
@@ -132411,6 +132355,7 @@ $	kkmy
 咋	lqm
 𠰚	lqma
 𡀹	lqmb
+唾罵	lqmd
 吃光	lqmh
 吸光	lqmh
 𠵰	lqmh
@@ -132447,6 +132392,8 @@ $	kkmy
 𰈙	lqoq
 听我说	lqou
 吃齋	lqou
+唾弃	lqov
+唾棄	lqov
 𪠾	lqov
 咋辦	lqox
 𡅵	lqpd
@@ -132494,6 +132441,7 @@ $	kkmy
 𠁤	lqrv
 𦉭	lqrv
 吃饱	lqrw
+唾	lqs
 𭋩	lqsa
 非我莫属	lqsb
 非我莫屬	lqsb
@@ -132509,6 +132457,7 @@ $	kkmy
 𡌍	lqsh
 吃草	lqsj
 呏	lqsj
+唾	lqsk
 呼蘭	lqsk
 吸菸	lqso
 𭊔	lqso
@@ -132524,6 +132473,7 @@ $	kkmy
 只几个石头磨过	lqta
 吃人	lqte
 中年人	lqte
+唾余	lqtf
 𠾊	lqtf
 兄长	lqth
 𪢑	lqtl
@@ -132589,6 +132539,7 @@ $	kkmy
 吃食	lqys
 吃飯	lqys
 吸食	lqys
+唾餘	lqyt
 𡅨	lqyu
 吃飽	lqyw
 响	lr
@@ -132970,7 +132921,6 @@ $	kkmy
 𭈹	lsem
 𱿒	lsem
 𭈎	lseo
-唯有垂杨管别离	lsep
 𡂫	lsep
 𠵅	lser
 𡃌	lser
@@ -133038,7 +132988,7 @@ $	kkmy
 𡆖	lsgu
 𭈏	lsgu
 𠺹	lsgv
-嘩	lsh
+囈	lsh
 叶黄素	lshb
 叫苦连天	lshf
 𠿚	lshf
@@ -133051,7 +133001,6 @@ $	kkmy
 𡀽	lshm
 𱒔	lsho
 𠺜	lshr
-嘩	lshs
 口头禅	lshu
 中有老法师	lshu
 囈	lshv
@@ -133083,7 +133032,6 @@ $	kkmy
 𠻶	lsjs
 喵	lsjt
 𠮽	lsjv
-𠯢	lsjv
 𠷋	lsjv
 别有幽愁暗恨生	lsjw
 噶	lsjx
@@ -133200,6 +133148,7 @@ $	kkmy
 𫬠	lsqm
 嘆氣	lsqp
 嚥氣	lsqp
+唯有垂杨管别离	lsqp
 𠰨	lsqr
 𱓄	lsqs
 𠻋	lsqt
@@ -133224,7 +133173,8 @@ $	kkmy
 患難與共	lsrs
 㖇	lsrv
 号称	lsry
-喏	lss
+嘩	lss
+嘩	lssd
 中草藥	lsse
 𭋇	lsse
 㖼	lssf
@@ -133248,9 +133198,11 @@ $	kkmy
 喫苦耐勞	lssu
 吃苦耐勞	lssu
 中草药	lssv
+𠯢	lssv
 只在芦花浅水边	lssx
 㘃	lssy
 囌	lst
+𫡋	lsta
 别有人间行路难	lstb
 唥	lstb
 𠸖	lstb
@@ -133854,6 +133806,7 @@ $	kkmy
 𠿱	lutp
 𨗓	lutp
 𡁾	lutq
+𡂺	lutv
 啖	luu
 忠言逆耳	luua
 𡃛	luub
@@ -134370,6 +134323,7 @@ $	kkmy
 𡀖	lwff
 𪡿	lwff
 唯一	lwfi
+別再	lwfk
 別想	lwfm
 𭈗	lwfm
 唯恐	lwfq
@@ -134377,12 +134331,12 @@ $	kkmy
 別樣	lwfu
 𡄮	lwfu
 𪢜	lwfu
+唾棄	lwfv
 虽千万人吾往矣	lwfv
 㗱	lwfv
 𠵟	lwfv
 𱒞	lwfv
 口脂面药随恩泽	lwgi
-別再	lwgk
 𫬤	lwgm
 𠰮	lwgv
 𭺲	lwgv
@@ -134499,7 +134453,6 @@ $	kkmy
 唯物论	lwot
 唯物主義	lwou
 別字	lwov
-唾棄	lwov
 忠肝义胆	lwow
 別為	lwow
 史迹	lwpp
@@ -134777,6 +134730,7 @@ $	kkmy
 另一	lxfi
 𬺾	lxfi
 嗤	lxfk
+别再	lxfk
 叩頭	lxfl
 别想	lxfm
 嚍	lxfm
@@ -134795,7 +134749,6 @@ $	kkmy
 吳	lxgd
 叫春	lxgj
 叫醒	lxgj
-别再	lxgk
 叫	lxgv
 𠙼	lxgv
 𱒅	lxgv
@@ -135600,7 +135553,6 @@ $	kkmy
 小小	mama
 小財	mama
 小貝	mamb
-小睡	mame
 小販	mame
 小處	mame
 小眾	mame
@@ -135613,6 +135565,7 @@ $	kkmy
 置頂帖	mamm
 小打小鬧	mamn
 小打小闹	mamp
+小睡	mamq
 小販	mams
 小瞧	mamw
 小雀	mamw
@@ -135739,13 +135692,13 @@ $	kkmy
 小華	masf
 小头	masg
 小葉	mash
-小華	mash
 盯著	mash
 小二	masi
 小草	masj
 小布	masm
 小薇	masr
 小蔥	masr
+小華	mass
 小巷	mast
 𦕡	mast
 小有	masw
@@ -136516,14 +136469,13 @@ $	kkmy
 䖛	mdyb
 敗不餒	mdye
 劇情	mdyh
-睡	me
-睡觉	me
-睡眠	me
+瞬	me
+瞬间	me
+瞬息	me
 𢂆	meac
 𧇛	meac
 𪘤	meac
 𮙼	meac
-睡下	meak
 處事	meal
 敗事	meal
 𫞳	meao
@@ -136553,7 +136505,6 @@ $	kkmy
 處女	mecn
 骽	mecn
 眾院	meco
-睡好	mecv
 𥅂	mecy
 𱌝	mecy
 𱲬	mecy
@@ -136575,7 +136526,6 @@ $	kkmy
 𧇚	meeb
 𣃊	meee
 敗兵	meef
-睡袋	meeg
 眾位	meei
 𪾯	meei
 𧸲	meem
@@ -136590,10 +136540,8 @@ $	kkmy
 睬	mef
 肖像权	mefb
 𭭔	mefe
-睡梦	meff
 𪘠	meff
 𱲺	meff
-睡椅	mefg
 𭟼	mefg
 虗	mefi
 𥅔	mefi
@@ -136604,7 +136552,6 @@ $	kkmy
 骺	mefl
 𥅠	mefl
 𪘇	mefl
-睡相	mefm
 具体来说	mefo
 𥈨	mefq
 𧷃	mefq
@@ -136621,7 +136568,6 @@ $	kkmy
 𣂿	mege
 𥅩	megg
 𭾬	megg
-睡醒	megj
 處理	megk
 眾泰	megk
 光彩夺目	megm
@@ -136646,29 +136592,24 @@ $	kkmy
 處世	mehi
 敗者	mehj
 眾神	mehk
-睡到	mehm
 販賣	mehm
 敗壞	meho
 敗勢	mehq
 敗勢	meht
 䖍	mehu
 𫾹	mehu
-睡去	mehv
 𫾴	mehx
 處決	meib
 𰶷	meib
 𮯀	meic
 處所	meie
 䯉	meig
-睡意	meij
-睡房	meio
 𭭄	meio
 逍遥法外	meir
 逍遥池阁凉	meis
 𣣍	meiu
 處治	meiv
 𢁧	meiv
-睡觉	meiy
 瞬时	meja
 𧵆	mejb
 齗	mejc
@@ -136694,7 +136635,6 @@ $	kkmy
 𧠘	mekx
 骼	mel
 逍遥叹	melb
-睡吧	melc
 𢄹	mell
 𥋊	mell
 逍遥嘆	mels
@@ -136712,17 +136652,14 @@ $	kkmy
 𡮂	mema
 𪚅	mema
 𥌣	memb
-睡眠	memc
 處置	memd
 𭤜	memd
 處處	meme
 𧇈	memi
-睡帽	memk
 見仁見智	memq
 處罰	memu
 㡗	memu
 𥉘	memu
-睡眼	memv
 睜眼	memv
 𥅹	memv
 𱜪	memv
@@ -136753,9 +136690,7 @@ $	kkmy
 小便宜	meom
 占便宜	meom
 𧸨	meoo
-睡衣	meor
 處於	meot
-睡熟	meov
 𢁱	meov
 𥇐	mepd
 處之	mepe
@@ -136765,7 +136700,6 @@ $	kkmy
 𧸨	mepo
 敗類	meps
 小乔初嫁了	mepv
-睡袍	mepw
 当务之急	mepy
 處	meq
 𧇡	meqd
@@ -136789,7 +136723,6 @@ $	kkmy
 𥄒	meri
 𫅁	meri
 𲂨	meri
-睡得	merj
 幍	merj
 𥉰	merj
 敗興	merk
@@ -136798,34 +136731,23 @@ $	kkmy
 眾多	merr
 𪅚	merr
 販私	merv
-睡覺	merw
 眽	mery
 𧡒	mery
 𧵬	mery
 齒白脣紅	mesb
 齒白唇紅	mesb
-𬑩	mesd
-睡姿	mese
 小白菜	mese
 𪘡	mesf
-睡蓮	mesg
-睡莲	mesh
 睜著	mesh
 敗落	mesi
 㠽	mesi
 𥄰	mesi
 𧆼	mesi
-睡	mesj
 敗草	mesj
-𩩞	mesj
 战伐有功业	mesk
-睡卧	mesm
-睡夢	mesm
-睡在	mesn
 處在	mesn
 具体而微	mesr
 販黃	mess
-睡臥	mest
 𧆶	mesx
 眾	met
 處分	metb
@@ -136846,13 +136768,11 @@ $	kkmy
 敗訴	meue
 髒亂差	meuf
 𢄰	meul
-睡着	meum
 睜着	meum
 敗火	meuo
 𱲳	meuo
 髒亂差	meuq
 敗北	meur
-睡前	meuw
 敗亡	meuw
 䁻	mevf
 𥉐	mevg
@@ -136861,11 +136781,8 @@ $	kkmy
 處子	mevk
 罦	mevk
 𥆬	mevk
-睡了	mevl
 小泉纯一郎	mevo
 敗退	mevp
-睡乡	mevq
-睡鄉	mevq
 县处级	mevv
 𡭾	mevx
 𥆉	mewb
@@ -136897,7 +136814,6 @@ $	kkmy
 睜	mexv
 瞬即	mexv
 敗將	mexw
-瞬	mey
 瞬	meya
 瞹	meye
 販運	meyg
@@ -137901,6 +137817,7 @@ $	kkmy
 光照	mhjb
 𫤡	mhjb
 𧷿	mhjc
+𫤨	mhjd
 𱑈	mhje
 光是	mhjf
 𠒪	mhjf
@@ -137921,7 +137838,6 @@ $	kkmy
 尘暴	mhjs
 光山	mhjs
 𡷀	mhjs
-𫤨	mhjs
 逻辑思维	mhjv
 光明	mhjw
 𠒫	mhjw
@@ -137959,7 +137875,6 @@ $	kkmy
 𢼯	mhmb
 𧸊	mhmb
 𠓋	mhmd
-瞌睡	mhme
 賬目	mhmf
 𧇲	mhmf
 光辉	mhmh
@@ -137981,6 +137896,7 @@ $	kkmy
 𥌚	mhmm
 𦌷	mhmm
 𪞆	mhmp
+瞌睡	mhmq
 賭具	mhmt
 賬齡	mhmt
 小老虎	mhmu
@@ -138076,12 +137992,12 @@ $	kkmy
 賭友	mhsb
 𧵋	mhsb
 光憑	mhsd
+㒯	mhsd
 見者有份	mhse
 光華	mhsf
 眎	mhsf
 𠓅	mhsf
 光头	mhsg
-光華	mhsh
 光著	mhsh
 帳幕	mhsj
 𧆪	mhsk
@@ -138089,7 +138005,7 @@ $	kkmy
 光臨	mhsq
 罪責難逃	mhsq
 战地黄花分外香	mhsr
-㒯	mhss
+光華	mhss
 黋	mhst
 光芒	mhsu
 𠓚	mhsu
@@ -139586,7 +139502,6 @@ $	kkmy
 罌粟	mmdp
 𬥅	mmds
 𭘶	mmds
-𭿥	mmds
 具體來説	mmdu
 具體來說	mmdu
 䖌	mmdu
@@ -139608,7 +139523,6 @@ $	kkmy
 戲劇化	mmer
 買貨	mmer
 𪈱	mmer
-懸垂	mmes
 縣份	mmet
 睥睨一切	mmfa
 县小更无丁	mmfa
@@ -139892,6 +139806,7 @@ $	kkmy
 𪃦	mmqr
 𪃧	mmqr
 𪈉	mmqr
+懸垂	mmqs
 則無	mmqs
 懸乎	mmqu
 𧸣	mmqv
@@ -139917,6 +139832,7 @@ $	kkmy
 買入	mmru
 𫁅	mmrv
 少見多怪	mmry
+𭿥	mmsa
 貼緊	mmsb
 𥈫	mmsb
 𥈍	mmsb
@@ -140806,6 +140722,7 @@ $	kkmy
 貶職	mqai
 𩨛	mqai
 省下	mqak
+睡下	mqak
 省事	mqal
 貶損	mqal
 省掉	mqam
@@ -140845,6 +140762,7 @@ $	kkmy
 𨙹	mqcj
 少女	mqcn
 省院	mqco
+睡好	mqcv
 少奶	mqcv
 省際	mqcw
 少妇	mqcx
@@ -140875,10 +140793,10 @@ $	kkmy
 貶值	mqed
 省優	mqed
 劣質	mqee
+睡袋	mqeg
 䲣	mqeh
 𣢒	mqei
 少保	mqel
-小艇垂纶初罢	mqem
 小气候	mqen
 小氣候	mqen
 貶斥	mqeo
@@ -140894,8 +140812,11 @@ $	kkmy
 帆樯	mqfd
 帆板	mqfe
 当年万里觅封侯	mqfe
+睡梦	mqff
 少林	mqff
+睡椅	mqfg
 帆檣	mqfh
+睡相	mqfm
 𰆆	mqfm
 𥅸	mqfn
 少校	mqfo
@@ -140908,6 +140829,7 @@ $	kkmy
 𡭟	mqgd
 少年夫妻老来伴	mqge
 目無王法	mqgi
+睡醒	mqgj
 省區	mqgl
 貽笑大方	mqgo
 帙	mqgu
@@ -140924,11 +140846,13 @@ $	kkmy
 骰	mqhg
 帲	mqhh
 省臺	mqhl
+睡到	mqhm
 貶責	mqhm
 𭎇	mqho
 劣勢	mqhq
 劣勢	mqht
 省去	mqhv
+睡去	mqhv
 𪚈	mqia
 目無法紀	mqib
 省立	mqid
@@ -140936,10 +140860,13 @@ $	kkmy
 省親	mqif
 少年学剑术	mqif
 䀢	mqif
+睡意	mqij
 還我河山	mqij
 省油	mqik
 𪿄	mqik
+睡房	mqio
 𬙜	mqiw
+睡觉	mqiy
 当年鏖战急	mqiy
 少时	mqja
 省时	mqja
@@ -140970,6 +140897,7 @@ $	kkmy
 省内	mqkt
 𫴻	mqkt
 少见	mqkx
+睡吧	mqlc
 𨚈	mqlc
 𨚒	mqlc
 少數	mqld
@@ -140983,6 +140911,7 @@ $	kkmy
 𡭝	mqma
 𧵉	mqma
 𮙷	mqmb
+睡眠	mqmc
 齲齒	mqmc
 𨜜	mqmc
 𨝞	mqmc
@@ -140995,6 +140924,7 @@ $	kkmy
 省	mqmf
 省	mqmf
 𩪻	mqmg
+睡帽	mqmk
 𫵆	mqml
 少則	mqmm
 䚇	mqmm
@@ -141009,6 +140939,7 @@ $	kkmy
 𡮏	mqmq
 𧢛	mqmq
 眨眼	mqmv
+睡眼	mqmv
 𥋘	mqmw
 少見	mqmx
 𡮀	mqnk
@@ -141032,10 +140963,12 @@ $	kkmy
 體無完膚	mqom
 𥅷	mqom
 少许	mqoq
+睡衣	mqor
 少於	mqot
 少说	mqou
 虚無主義	mqou
 虛無主義	mqou
+睡熟	mqov
 𱜥	mqov
 省察	mqow
 眨	mqp
@@ -141052,6 +140985,7 @@ $	kkmy
 𮈀	mqpm
 劣迹	mqpp
 小儿麻痹症	mqpp
+睡袍	mqpw
 少年	mqqa
 𪗟	mqqc
 省籍	mqqd
@@ -141063,6 +140997,7 @@ $	kkmy
 㠶	mqqj
 𥃶	mqqj
 𮓟	mqqj
+小艇垂纶初罢	mqqm
 少管	mqqo
 𫶿	mqqo
 帆船	mqqq
@@ -141079,6 +141014,7 @@ $	kkmy
 少年犹可夸	mqrg
 少年兒童	mqri
 省得	mqrj
+睡得	mqrj
 少得	mqrj
 劣种	mqrl
 省外	mqrm
@@ -141089,22 +141025,33 @@ $	kkmy
 小儿名伯禽	mqrt
 𠧽	mqru
 少年犯	mqrv
+睡覺	mqrw
 劣種	mqrw
 目無全牛	mqrw
 𱚪	mqrw
 𩨶	mqry
-眺	mqs
+睡	mqs
 省厅	mqsa
 𥌇	mqsa
 𦌬	mqsa
 𬪥	mqsc
 𡮹	mqsd
+𬑩	mqsd
+睡姿	mqse
+睡蓮	mqsg
+睡莲	mqsh
+睡	mqsk
+𩩞	mqsk
 骨鲠在喉	mqsl
 帆布	mqsm
+睡卧	mqsm
+睡夢	mqsm
+睡在	mqsn
 𡭺	mqsr
 眺	mqss
 𪘈	mqss
 𫅄	mqss
+睡臥	mqst
 幠	mqsu
 瞴	mqsu
 䍢	mqsu
@@ -141134,6 +141081,7 @@ $	kkmy
 𪨆	mqug
 少壮	mquh
 目無尊長	mquh
+睡着	mqum
 少帅	mqum
 貶謫	mquo
 少許	mquq
@@ -141144,6 +141092,7 @@ $	kkmy
 𢆁	mqut
 少説	mquu
 眺望	mquw
+睡前	mquw
 罛	mquw
 㠷	mqvb
 𥄫	mqvb
@@ -141161,10 +141110,13 @@ $	kkmy
 𫎐	mqvi
 骰子	mqvk
 劣绅	mqvk
+睡了	mqvl
 少了	mqvl
 省台	mqvl
 小笨蛋	mqvn
 𪙙	mqvp
+睡乡	mqvq
+睡鄉	mqvq
 省级	mqvv
 𥃼	mqvv
 𰦊	mqwb
@@ -141622,8 +141574,6 @@ $	kkmy
 𭿫	mshm
 虎落平川	mshq
 悬而未决	mshs
-瞱	mshs
-𭘲	mshs
 髒土	msht
 瞞報	mshu
 𮯖	mshw
@@ -141765,6 +141715,8 @@ $	kkmy
 𧢤	msrq
 購入	msru
 販私	msrv
+瞱	mssd
+𭘲	mssd
 㱎	msse
 𣣴	msse
 𢃱	mssf
@@ -142465,6 +142417,7 @@ $	kkmy
 𥈚	mutp
 虎钳	muts
 𰷛	mutu
+𩪴	mutv
 罰息	muty
 虎	muu
 贈言	muua
@@ -142604,7 +142557,6 @@ $	kkmy
 小飞侠	mveg
 𬑧	mvem
 悬停	mveo
-悬垂	mves
 县份	mvet
 𢄛	mvfe
 𭾤	mvfi
@@ -142799,6 +142751,7 @@ $	kkmy
 𥇎	mvqm
 小孩儿	mvqr
 𢁲	mvqr
+悬垂	mvqs
 悬乎	mvqu
 眼簾	mvqu
 𦋆	mvqu
@@ -143863,6 +143816,7 @@ $	kkmy
 贍養	myug
 𱳏	myul
 睁着	myum
+贍養	myut
 瞻望	myuw
 小心謹慎	myuy
 𥈥	myvn
@@ -145095,7 +145049,6 @@ $	kkmy
 黑種	nerw
 𬦱	nery
 图	nes
-𮛺	nesf
 黑头	nesg
 踩著	nesh
 黑著	nesh
@@ -145106,8 +145059,6 @@ $	kkmy
 𨀐	nesi
 黑幕	nesj
 㢢	nesj
-𫵌	nesj
-𮛸	nesj
 路况	nesl
 图存	nesn
 黑莓	nesq
@@ -146732,9 +146683,9 @@ $	kkmy
 躝	nkfu
 𨅽	nkfv
 𨇫	nkfv
+恩同再造	nkfw
 𫏅	nkgd
 赏玩	nkgf
-恩同再造	nkgw
 過關斬將	nkgx
 𨇧	nkhr
 𨀅	nkht
@@ -146909,7 +146860,6 @@ $	kkmy
 回條	nlen
 𨁎	nlen
 临别殷勤重寄词	nleo
-回郵	nles
 回信	nleu
 圖爲	nlew
 圖像	nley
@@ -147144,6 +147094,7 @@ $	kkmy
 圖釋	nlqp
 圓盤	nlqq
 回升	nlqs
+回郵	nlqs
 回答	nlqy
 回穩	nlre
 回程	nlrl
@@ -148596,7 +148547,6 @@ $	kkmy
 𨆦	nqmb
 𠝣	nqmd
 𫏢	nqmd
-临睡	nqme
 四處	nqme
 跌幅	nqmf
 四幅	nqmf
@@ -148611,6 +148561,7 @@ $	kkmy
 𧖭	nqmn
 䟭	nqmo
 四川省	nqmq
+临睡	nqmq
 𰚪	nqmr
 𭍵	nqms
 四眼	nqmv
@@ -148714,6 +148665,7 @@ $	kkmy
 跳	nqs
 躌	nqsa
 四次	nqse
+𮛺	nqsf
 临头	nqsg
 四厂	nqsh
 𨁠	nqsh
@@ -148721,7 +148673,9 @@ $	kkmy
 临摹	nqsj
 𡆼	nqsj
 𧿘	nqsj
+𮛸	nqsj
 四萬	nqsk
+𫵌	nqsk
 𰸩	nqsp
 跳	nqss
 跳进	nqst
@@ -149289,7 +149243,6 @@ $	kkmy
 𲃽	nshr
 𲄕	nshr
 默示	nshs
-𨅯	nshs
 回黄转绿	nshv
 尚志	nshy
 困難户	nsie
@@ -149408,6 +149361,7 @@ $	kkmy
 尚	nss
 黑云压城城欲摧	nssa
 𣀏	nssb
+𨅯	nssd
 𩖓	nssd
 紫荆花	nsse
 紫荊花	nsse
@@ -150060,6 +150014,7 @@ $	kkmy
 𨁹	nuuo
 𪑓	nuuo
 跆拳道	nuut
+圈養	nuut
 𨇾	nuuu
 𧿈	nuuv
 𫏤	nuuw
@@ -150599,7 +150554,6 @@ $	kkmy
 此情不可道	nydu
 临危不惧	nydy
 此恨何时已	nyeb
-四角垂香囊	nyed
 𪑇	nyee
 跪倒	nyeh
 𱡫	nyej
@@ -150663,6 +150617,7 @@ $	kkmy
 辪	nyox
 𨃬	nypd
 旧貌变新颜	nypi
+四角垂香囊	nyqd
 𪐨	nyqj
 𫭓	nyqo
 㘠	nyqp
@@ -151376,10 +151331,10 @@ $	kkmy
 官能	obvw
 主观能动性	obvy
 實錄	obwb
-實錘	obwe
 𬽜	obwi
 译制	obwk
 官腔	obwp
+實錘	obwq
 實然	obws
 實物	obww
 實錘	obww
@@ -151538,12 +151493,12 @@ $	kkmy
 𰌽	oclv
 安眠	ocmc
 安置	ocmd
-安睡	ocme
 案桌	ocmj
 安卓	ocmj
 安贞	ocmk
 安貞	ocmm
 䀂	ocmn
+安睡	ocmq
 𰍚	ocmr
 襄阳小儿齐拍手	ocmt
 安睡	ocmw
@@ -152159,7 +152114,6 @@ $	kkmy
 家燕	odsf
 豪華	odsf
 寡头	odsg
-豪華	odsh
 割草	odsj
 𰌹	odsj
 豪邁	odsk
@@ -152173,6 +152127,7 @@ $	kkmy
 家犬	odsq
 六十而耳顺	odsq
 𰶌	odsr
+豪華	odss
 家进	odst
 熟石灰	odsu
 衣露净琴张	odsv
@@ -152227,6 +152182,7 @@ $	kkmy
 家底	odut
 家道	odut
 主幹道	odut
+家養	odut
 家譜	oduu
 家慈	oduv
 安不忘危	oduy
@@ -152350,7 +152306,6 @@ $	kkmy
 讨价还价	oede
 方便麪	oede
 方便麵	oede
-永垂不朽	oedf
 读后感	oedf
 宿遷	oedg
 客票	oedh
@@ -152432,6 +152387,7 @@ $	kkmy
 放松	oeft
 㝛	oeft
 客機	oefv
+放棄	oefv
 寀	oefv
 𭓭	oefv
 𱣬	oefv
@@ -152473,7 +152429,6 @@ $	kkmy
 客場	oehj
 夜视	oehk
 诉至	oehk
-永垂青史	oehl
 㪣	oehl
 放到	oehm
 放盐	oehm
@@ -152780,7 +152735,6 @@ $	kkmy
 豪华落尽见真淳	oesi
 夜幕	oesj
 𡩤	oesj
-𰵶	oesj
 客觀	oesl
 𫳌	oesl
 放在	oesn
@@ -152839,6 +152793,7 @@ $	kkmy
 诉状	oeus
 額度	oeus
 客座	oeut
+放養	oeut
 宿營	oeuu
 夜鶯	oeuu
 哀的美敦书	oeuv
@@ -154117,6 +154072,7 @@ $	kkmy
 宝座	ogut
 主導	ogut
 寶座	ogut
+寄養	ogut
 主營	oguu
 寄递	oguv
 寄望	oguw
@@ -154302,6 +154258,7 @@ $	kkmy
 寒声一夜传刁斗	ohfs
 寓教于乐	ohft
 谍	ohfv
+割棄	ohfv
 请功	ohfx
 寒鸦栖复惊	ohfy
 讦	ohg
@@ -154471,7 +154428,6 @@ $	kkmy
 诗词	ohov
 方块字	ohov
 方塊字	ohov
-割棄	ohov
 孰轻孰重	ohow
 實報實銷	ohow
 评为	ohox
@@ -155503,7 +155459,6 @@ $	kkmy
 识货	oler
 商品化	oler
 误传	oles
-高郵	oles
 高低	olet
 高价	olet
 高僧	oleu
@@ -155793,6 +155748,7 @@ $	kkmy
 𠑽	olqr
 𬴔	olqr
 高升	olqs
+高郵	olqs
 谁悲失路之人	olqt
 定非知诗人	olqt
 宮	olr
@@ -156163,7 +156119,6 @@ $	kkmy
 剠	ommd
 𠆝	ommd
 𫦄	ommd
-就睡	omme
 𡕹	omme
 京戲	ommf
 𣚏	ommf
@@ -156173,6 +156128,7 @@ $	kkmy
 𡪒	ommj
 寡見少聞	ommk
 市縣	ommm
+就睡	ommq
 就餐	ommr
 𠆚	ommr
 𭯬	ommr
@@ -156279,7 +156235,6 @@ $	kkmy
 安眠藥	omse
 就与	omsf
 京華	omsf
-京華	omsh
 就著	omsh
 刻著	omsh
 刻薄	omsi
@@ -156289,6 +156244,7 @@ $	kkmy
 就在	omsn
 𬤪	omsp
 就與	omsq
+京華	omss
 市井	omst
 语罢暮天钟	omst
 安眠药	omsv
@@ -157414,6 +157370,7 @@ $	kkmy
 㫏	oqdc
 为我起蛰鞭鱼龙	oqdd
 審覈	oqde
+永垂不朽	oqdf
 𫰁	oqdg
 𬀇	oqdg
 宅基	oqdh
@@ -157530,6 +157487,7 @@ $	kkmy
 𱡶	oqhh
 㱾	oqhi
 𬀘	oqhj
+永垂青史	oqhl
 毃	oqhl
 審視	oqhm
 高等教育	oqho
@@ -157842,6 +157800,7 @@ $	kkmy
 高血壓	oqsj
 施壓	oqsj
 𩫆	oqsj
+𰵶	oqsk
 诞辰	oqsn
 说风凉话	oqso
 谁知苍翠容	oqsp
@@ -158715,7 +158674,6 @@ $	kkmy
 塞責	oshm
 寒熱	oshq
 讲坛	oshs
-𡪤	oshs
 宽赦	osht
 寒熱	osht
 寬赦	osht
@@ -158996,6 +158954,7 @@ $	kkmy
 谋	oss
 寬緊	ossb
 寒苦	ossd
+𡪤	ossd
 宏愿	osse
 宏願	osse
 谋	ossf
@@ -159042,7 +159001,6 @@ $	kkmy
 牽著鼻子走	ostd
 寂历斜阳照县鼓	ostd
 䞿	ostd
-实锤	oste
 豪華版	oste
 家在钓台西住	oste
 寨	ostf
@@ -159073,6 +159031,7 @@ $	kkmy
 𢞝	osto
 寬邊	ostp
 𨙇	ostp
+实锤	ostq
 寒铁	ostq
 褰	ostr
 寒舍	ostr
@@ -160487,6 +160446,7 @@ $	kkmy
 敵手	outu
 辯手	outu
 寄言全盛红颜子	outv
+𭥉	outv
 谈	ouu
 谈判	ouua
 商討	ouua
@@ -160963,7 +160923,6 @@ $	kkmy
 弃置	ovmd
 棄置	ovmd
 𠛑	ovmd
-熟睡	ovme
 敦睦	ovmh
 熟慮	ovmj
 玄虚	ovmk
@@ -160975,6 +160934,7 @@ $	kkmy
 𡧾	ovmn
 𬬘	ovmo
 玅	ovmq
+熟睡	ovmq
 夣	ovmr
 育齡	ovmt
 𡦨	ovmu
@@ -161288,6 +161248,7 @@ $	kkmy
 高纬度	ovus
 高強度	ovus
 熟道	ovut
+畜養	ovut
 字首	ovut
 良善	ovuu
 字詞	ovuv
@@ -161371,7 +161332,6 @@ $	kkmy
 畜牲	ovww
 良朋	ovww
 玄學	ovww
-棄學	ovww
 𨿾	ovww
 育雛	ovwx
 育	ovwy
@@ -161516,9 +161476,7 @@ $	kkmy
 调侃	owel
 调停	oweo
 就重华而陈词	oweo
-率先垂範	oweq
 调货	ower
-率先垂范	owes
 调价	owet
 调低	owet
 六月份	owet
@@ -161742,10 +161700,12 @@ $	kkmy
 𬤮	owqk
 谁知	owql
 义气	owqq
+率先垂範	owqq
 刻錄盤	owqq
 𡬃	owqq
 宪	owqr
 诜	owqr
+率先垂范	owqs
 𡨷	owqt
 安然無恙	owqu
 牢穩	owre
@@ -162324,6 +162284,7 @@ $	kkmy
 密林	oyff
 衣冠楚楚	oyff
 𡩃	oyff
+𫳬	oyfh
 诗情画意	oyfi
 诚心正意	oyfi
 寓情于景	oyfj
@@ -162340,7 +162301,6 @@ $	kkmy
 𣄈	oygc
 高尔夫球	oygg
 𡫍	oygi
-𫳬	oygk
 密医	oygq
 密醫	oygq
 高尔夫	oygu
@@ -164151,7 +164111,6 @@ $	kkmy
 疼	pesi
 变化莫测	pesi
 之二	pesi
-𤷣	pesj
 𮇴	pesj
 之夢	pesm
 𧚜	pesm
@@ -164341,12 +164300,10 @@ $	kkmy
 空位	pfei
 補位	pfei
 𥺚	pfej
-闲来垂钓碧溪上	pfek
 症候	pfen
 補償	pfen
 補修	pfen
 補貨	pfer
-空郵	pfes
 襟	pff
 穷极无聊	pffa
 门禁森严	pffa
@@ -164508,6 +164465,7 @@ $	kkmy
 䊂	pfkf
 𧙞	pfkf
 𪽲	pfkg
+𫁌	pfkh
 空闊	pfki
 襹	pfki
 㿛	pfki
@@ -164688,6 +164646,7 @@ $	kkmy
 㲁	pfqh
 闲篇	pfqi
 空竹	pfqk
+闲来垂钓碧溪上	pfqk
 補血	pfqm
 𤶰	pfqm
 之死矢靡它	pfqo
@@ -164697,6 +164656,7 @@ $	kkmy
 補氣	pfqp
 空气	pfqq
 闲气	pfqq
+空郵	pfqs
 病笃	pfqx
 闲鱼	pfqy
 空行	pfra
@@ -164809,6 +164769,7 @@ $	kkmy
 空座	pfut
 補益	pfut
 空論	pfut
+補養	pfut
 空談	pfuu
 空前	pfuw
 空炮	pfuw
@@ -164989,7 +164950,6 @@ $	kkmy
 𥦩	pgkd
 裺	pgkd
 类同	pgkf
-𫁌	pgkf
 齐达内	pgkt
 麻鞋见天子	pgkv
 窥	pgkx
@@ -165095,6 +165055,7 @@ $	kkmy
 療	pgum
 𥺭	pgus
 𫋾	pgus
+療養	pgut
 𤺂	pgut
 𥨤	pguu
 𰩜	pguu
@@ -165389,7 +165350,6 @@ $	kkmy
 𤵫	phsb
 精减	phsd
 精華	phsf
-精華	phsh
 穿著	phsh
 𬒵	phsi
 精英	phsk
@@ -165397,6 +165357,7 @@ $	kkmy
 𧙲	phsk
 精萃	phso
 精鹽	phsq
+精華	phss
 𱷄	phss
 精进	phst
 精魂	phsv
@@ -165863,12 +165824,12 @@ $	kkmy
 𥧭	pjmb
 𧜞	pjmb
 𭼡	pjmb
-裸睡	pjme
 𥧤	pjmg
 裸體	pjmk
 瘟	pjmn
 褞	pjmn
 瘟	pjmn
+裸睡	pjmq
 裸眼	pjmv
 裸睡	pjmw
 糧囤	pjna
@@ -168052,6 +168013,7 @@ $	kkmy
 疫苗	pqsj
 𮕭	pqsj
 𰪮	pqsj
+𤷣	pqsk
 𤸨	pqsm
 𮇚	pqso
 闻风而逃	pqsq
@@ -169770,6 +169732,7 @@ $	kkmy
 闻道欲来相问讯	puto
 糖片	putp
 𥽌	putp
+癢	putv
 糕	puu
 间道归应速	puuf
 阅卷	puug
@@ -170740,6 +170703,7 @@ $	kkmy
 𥧃	pxft
 𥩒	pxfu
 断根	pxfv
+離棄	pxfv
 𤷲	pxfv
 离奇	pxga
 離奇	pxga
@@ -171636,7 +171600,6 @@ $	kkmy
 𮆢	qasg
 𱸬	qasg
 我厂	qash
-年華	qash
 簼	qash
 年薪	qasi
 簎	qasj
@@ -171645,6 +171608,7 @@ $	kkmy
 無可厚非	qasl
 年曆	qasr
 箝	qass
+年華	qass
 鵝黃	qass
 年历	qasx
 年节	qasx
@@ -172010,6 +171974,7 @@ $	kkmy
 凤尾鱼	qbqy
 𭞠	qbqy
 𥰦	qbrb
+垂緌饮清露	qbrd
 繁衍	qbri
 𥬩	qbri
 每种	qbrl
@@ -172037,7 +172002,6 @@ $	kkmy
 繁難	qbsf
 繁華	qbsf
 氯苯	qbsf
-繁華	qbsh
 𥿅	qbsi
 𰩷	qbsi
 知难而上	qbsk
@@ -172051,6 +172015,7 @@ $	kkmy
 鱼贯而入	qbsr
 鱼贯而行	qbsr
 知难而进	qbss
+繁華	qbss
 𥷽	qbst
 鱼戏莲叶北	qbsu
 知难而退	qbsv
@@ -172271,6 +172236,7 @@ $	kkmy
 𡳽	qdbh
 𦨟	qdbu
 𱷲	qdbu
+郵電局	qdbv
 顺民	qdca
 顺导	qdca
 順民	qdca
@@ -172328,6 +172294,8 @@ $	kkmy
 风雨无阻	qdfc
 𦩬	qdfc
 𬕚	qdfc
+失不再來	qdfd
+失不再来	qdff
 𥶺	qdff
 顺天	qdfg
 順天	qdfg
@@ -172346,8 +172314,6 @@ $	kkmy
 鳡	qdfy
 䉞	qdfy
 𥱺	qdgc
-失不再來	qdgd
-失不再来	qdgf
 籖	qdgf
 𫂰	qdgf
 𬶸	qdgf
@@ -172472,7 +172438,6 @@ $	kkmy
 𩑏	qdmb
 𩑡	qdmb
 𪟕	qdmd
-午睡	qdme
 智慧財產權	qdmf
 𬴓	qdmg
 𥮖	qdmi
@@ -172484,6 +172449,7 @@ $	kkmy
 𫖦	qdmn
 𰙺	qdmn
 𩡨	qdmp
+午睡	qdmq
 午餐	qdmr
 𬱍	qdms
 䈯	qdmt
@@ -172893,6 +172859,7 @@ $	kkmy
 笑駡	qell
 簥	qell
 𦪞	qell
+郵遞員	qelm
 筗	qeln
 𨙍	qelp
 符号	qels
@@ -173000,7 +172967,6 @@ $	kkmy
 笗	qesi
 鿴	qesi
 笑靨	qesj
-箠	qesj
 年近花甲	qesk
 篷布	qesm
 失仁而后义	qeso
@@ -173097,7 +173063,9 @@ $	kkmy
 策略	qf
 短期	qf
 竽	qfa
+垂死挣扎	qfaa
 短打	qfaa
+垂死掙扎	qfaa
 矫枉过正	qfaf
 竹枝歌送菊花杯	qfaf
 卸職	qfai
@@ -173119,6 +173087,7 @@ $	kkmy
 第五縱隊	qfbc
 短刀	qfbd
 短剧	qfbd
+郵政編碼	qfbd
 𥬣	qfbd
 第一線	qfbe
 短線	qfbe
@@ -173135,6 +173104,7 @@ $	kkmy
 𥶥	qfbp
 鳳尾	qfbr
 𮅸	qfbt
+郵政局	qfbv
 𱸟	qfby
 筇	qfc
 筇	qfcj
@@ -173163,6 +173133,7 @@ $	kkmy
 剁碎	qfdo
 知死不可让	qfdo
 𫁲	qfdo
+垂頭喪氣	qfdq
 知无不言	qfdu
 短期	qfdw
 第一期	qfdw
@@ -173219,7 +173190,9 @@ $	kkmy
 短工	qffo
 短板	qffs
 短枪	qfft
+垂杨柳	qfft
 短槍	qfft
+垂楊柳	qfft
 我本楚狂人	qfft
 𥱓	qfft
 血本无归	qffu
@@ -173399,6 +173372,7 @@ $	kkmy
 短劇	qfmd
 短處	qfme
 箱	qfmf
+垂三光之明者	qfmh
 𥴙	qfmj
 船形帽	qfmk
 箱體	qfmk
@@ -173417,6 +173391,7 @@ $	kkmy
 短見	qfmx
 箭无虚发	qfmx
 卸	qfn
+垂天雌霓云端下	qfna
 𤬙	qfna
 𤮬	qfna
 𦉑	qfna
@@ -173476,6 +173451,7 @@ $	kkmy
 筑牢	qfow
 築牢	qfow
 𫚉	qfoy
+垂死病中惊坐起	qfpd
 無本之木	qfpf
 短袜	qfph
 短袖	qfpk
@@ -173756,6 +173732,7 @@ $	kkmy
 迭起	qgdc
 節奏感	qgdf
 䉐	qgdg
+垂鞭直拂五云车	qgdh
 顺理成章	qgdi
 順理成章	qgdi
 笛奏龙吟水	qgdk
@@ -174115,6 +174092,7 @@ $	kkmy
 等來	qhdl
 𱻶	qhdl
 短者不为不足	qhdn
+垂老不得安	qhdo
 矢志不移	qhdr
 等值	qhed
 等價	qhed
@@ -174384,6 +174362,7 @@ $	kkmy
 𥶅	qiaj
 無所措手足	qian
 风流才子	qiav
+垂泪对宫娥	qibc
 籠絡	qibe
 簗	qibf
 𥱋	qibf
@@ -174453,6 +174432,7 @@ $	kkmy
 簿	qif
 簿	qifa
 𬔿	qifa
+垂涎三尺	qifb
 儿童相唤踏春阳	qifc
 𬕙	qiff
 𬕠	qiff
@@ -174626,6 +174606,7 @@ $	kkmy
 每況愈下	qita
 血汗钱	qitf
 𡓆	qith
+垂涎欲滴	qiti
 𥵄	qitj
 鱼游釜中	qitl
 风流人物	qitw
@@ -175790,7 +175771,6 @@ $	kkmy
 盘货	qmer
 衇	qmer
 衆	qmes
-𰪚	qmes
 𮆔	qmet
 怎的	qmew
 血仇	qmey
@@ -176070,6 +176050,7 @@ $	kkmy
 衆籌	qmqh
 𬆢	qmqh
 𥶋	qmqj
+𰪚	qmqk
 算盘	qmqm
 盘算	qmqm
 算算	qmqm
@@ -176817,6 +176798,7 @@ $	kkmy
 𦪻	qoso
 䉴	qosr
 𤬞	qosr
+簔	qosr
 瓜熟蒂落	qoss
 管井	qost
 夙夜在公	qost
@@ -176893,6 +176875,7 @@ $	kkmy
 艈	qovq
 𥬱	qovq
 鳏寡孤独	qovr
+郵寄費	qovt
 鳏寡孤独废疾者皆有所养	qovu
 𥰁	qowg
 管脚	qowh
@@ -177187,6 +177170,7 @@ $	kkmy
 我离虽则岁物改	qplb
 氣數	qpld
 悉數	qpld
+垂帘听政	qplf
 乏味	qplh
 氣味	qplh
 翻唱	qplj
@@ -177462,6 +177446,7 @@ $	kkmy
 气候	qq
 气息	qq
 我年过半百	qqad
+垂簾聽政	qqaf
 簇簇歌台舞榭	qqaf
 𦩆	qqag
 𬕆	qqag
@@ -177480,6 +177465,7 @@ $	kkmy
 鲧	qqb
 盤繞	qqbh
 盤結	qqbh
+垂竿已羡磻溪老	qqbh
 盤剝	qqbk
 𪵥	qqbm
 𫂂	qqbm
@@ -177800,6 +177786,7 @@ $	kkmy
 气压	qqsh
 船厂	qqsh
 翻翻菱荇满回塘	qqsh
+箠	qqsk
 𥮂	qqsl
 𱜷	qqsm
 盤存	qqsn
@@ -178229,6 +178216,7 @@ $	kkmy
 無援	qsae
 無藥可救	qsaf
 升職	qsai
+垂下	qsak
 升职	qsal
 無損	qsal
 無可	qsal
@@ -178239,6 +178227,7 @@ $	kkmy
 等而下之	qsap
 顺藤摸瓜	qsaq
 順藤摸瓜	qsaq
+垂拱	qsas
 無措	qsas
 無聊	qsat
 风动护花铃	qsat
@@ -178253,8 +178242,10 @@ $	kkmy
 舞剧	qsbd
 無線	qsbe
 無縫	qsbe
+垂線	qsbe
 𫞿	qsbf
 第二屆	qsbh
+郵編	qsbi
 無已	qsbi
 第二届	qsbk
 逃避	qsbl
@@ -178267,6 +178258,7 @@ $	kkmy
 升級	qsbq
 無級	qsbq
 第二层	qsbs
+郵展	qsbs
 舨	qsbu
 第二層	qsbu
 㷩	qsbu
@@ -178274,6 +178266,8 @@ $	kkmy
 𥎮	qsbu
 𱇖	qsbu
 升級	qsbv
+郵局	qsbv
+郵發	qsbv
 無級	qsbv
 逃难	qsbw
 無忌	qsby
@@ -178290,6 +178284,7 @@ $	kkmy
 無妨	qsco
 风头如刀面如割	qsco
 𱼧	qscp
+郵務	qscq
 舞姬	qscs
 风云际会	qsct
 逃婚	qsct
@@ -178305,19 +178300,24 @@ $	kkmy
 升起	qsdc
 翻云覆雨	qsdd
 無碼	qsdd
+郵碼	qsdd
 𬲁	qsdd
 無故	qsde
 升遷	qsdg
 艦載	qsdg
 𥯶	qsdg
 逃票	qsdh
+郵票	qsdh
 气冲霄汉	qsdi
 𥫲	qsdi
 𫁵	qsdi
 逃走	qsdk
+郵電	qsdk
+垂直	qsdm
 风花雪夜	qsdo
 無辜	qsdo
 笑而不答心自闲	qsdp
+垂头丧气	qsdq
 舞龙	qsdq
 笑而不答	qsdq
 無礙	qsdr
@@ -178339,7 +178339,9 @@ $	kkmy
 升任	qsee
 箔头作茧丝皓皓	qsee
 逃兵	qsef
+垂体	qsef
 篱落似江村	qsef
+郵袋	qseg
 𥱙	qseh
 升位	qsei
 兆位	qsei
@@ -178348,6 +178350,7 @@ $	kkmy
 竿头彩挂虹蜺晕	qsej
 𥴃	qsej
 無保	qsel
+郵遞	qsem
 𬇒	qsem
 無償	qsen
 無傷	qseq
@@ -178356,9 +178359,13 @@ $	kkmy
 無與倫比	qser
 繁花似锦	qset
 舞伴	qseu
+郵儲	qseu
+郵件	qsew
 繁花似錦	qsew
 無爲	qsew
 升爲	qsew
+垂爱	qsey
+垂愛	qsey
 無愛	qsey
 我云何足怪	qsey
 舞	qsf
@@ -178401,6 +178408,7 @@ $	kkmy
 𥲭	qsfm
 𩓕	qsfm
 𬐳	qsfm
+郵政	qsfn
 升檔	qsfn
 𨅐	qsfn
 风云榜	qsfo
@@ -178410,6 +178418,7 @@ $	kkmy
 𨗼	qsfp
 几次三番	qsfq
 鳞次栉比	qsfr
+垂死	qsfr
 知有杏园无路入	qsfr
 鷡	qsfr
 𠓺	qsfr
@@ -178419,6 +178428,7 @@ $	kkmy
 無權	qsfs
 籃板	qsfs
 無極	qsfs
+垂柳	qsft
 矫菌桂以纫蕙兮	qsft
 無	qsfu
 𥷀	qsfu
@@ -178436,16 +178446,19 @@ $	kkmy
 無妻	qsfx
 𠢬	qsfx
 無瑕	qsgb
+郵車	qsgc
 逃奔	qsgd
 𥯬	qsgd
 籃球	qsgf
 䇳	qsgg
 舞鞋	qsgh
 無奈	qsgh
+郵匯	qsgi
 無理	qsgk
 舞王	qsgn
 𨖲	qsgp
 逃匿	qsgs
+郵輪	qsgt
 無軌	qsgy
 艦長	qsha
 無聲	qshb
@@ -178468,19 +178481,22 @@ $	kkmy
 升到	qshm
 無視	qshm
 𬼕	qshm
+郵址	qshn
 鲁有兀者叔山无趾	qshn
 籃壇	qsho
 𫖼	qsho
 升勢	qshq
-𦪠	qshs
 兆赫	qsht
 升勢	qsht
 無赦	qsht
 𡉼	qsht
 升平	qshu
+郵報	qshu
 舞场	qshv
 第二场	qshv
 無垠	qshv
+郵去	qshv
+垂青	qshw
 竺	qsi
 我有所感事	qsia
 𫗀	qsib
@@ -178488,6 +178504,7 @@ $	kkmy
 無所	qsie
 無法	qsih
 我昔游锦城	qsih
+垂淚	qsii
 升温	qsij
 無意	qsij
 無端	qsij
@@ -178497,7 +178514,9 @@ $	kkmy
 𲋄	qsij
 竺	qsik
 𮆗	qsil
+垂泪	qsim
 升溫	qsin
+垂涎	qsiq
 無顔	qsiq
 𣱖	qsiq
 無涯	qsis
@@ -178539,30 +178558,53 @@ $	kkmy
 舞男	qsjx
 篝	qsk
 無聞	qska
+甀	qska
+㩾	qskb
+郵	qskc
+𥡭	qskc
+𩣷	qskd
+𣂩	qske
 逃開	qskf
+𭏀	qskg
 𭑟	qskg
 篝	qskh
 𥱏	qskh
 𦩷	qskh
+𬼓	qskh
 無間	qskj
 𱸑	qskk
+垂問	qskl
+𠝶	qskm
 𥲙	qskn
+𨔠	qskp
+𨙔	qskp
+䳠	qskr
+垂	qsks
 舞曲	qsks
 升上	qsks
 無上	qsks
+𡐱	qsks
 𫧪	qsks
 𮠚	qsks
+𱗼	qsks
 簧	qskt
+𡙇	qskt
 𦪗	qskt
 𬶫	qskt
 𬲈	qskt
 無業	qsku
 無關	qskv
+𦈼	qskw
+𨿠	qskw
+𡑈	qsky
+𢛲	qsky
 無數	qsld
 無味	qslh
 無非	qsli
 無遺	qslk
+郵品	qsll
 𰦝	qsll
+垂吊	qslm
 㔐	qslm
 𠮮	qslv
 𥬡	qslv
@@ -178582,16 +178624,21 @@ $	kkmy
 無羈	qsmg
 無光	qsmh
 我昔少年日	qsmj
+垂體	qsmk
 無罪	qsml
 無虞	qsml
 𬜗	qsml
+垂懸	qsmm
 𠛻	qsmm
 𱈛	qsmm
 𥂐	qsmn
 𱈙	qsmo
 𥶃	qsmr
+郵購	qsms
+垂悬	qsmv
 無助	qsmx
 舞蹈	qsne
+郵路	qsne
 無路	qsne
 𥲙	qsnf
 我在路中央	qsnk
@@ -178606,14 +178653,17 @@ $	kkmy
 無蹤	qsnr
 籃圈	qsnu
 逃跑	qsnw
+郵亭	qsoa
 升官	qsob
 血压计	qsod
 無害	qsod
 舞客	qsoe
+郵寄	qsog
 無主	qsog
 無害	qsoh
 逃课	qsoj
 升高	qsol
+郵市	qsom
 箇舊市	qsom
 𰢠	qsom
 知雄守雌	qson
@@ -178623,9 +178673,11 @@ $	kkmy
 知荣守辱	qsos
 無效	qsot
 無敵	qsou
+郵商	qsou
 繁荣富强	qsov
 無字	qsov
 無良	qsov
+垂询	qsow
 龜苓膏	qsow
 無為	qsow
 升為	qsow
@@ -178638,9 +178690,11 @@ $	kkmy
 無補	qspf
 無病	qspf
 逃窜	qspl
+垂问	qspl
 𬲄	qspl
 舞迷	qspp
 风云突变	qspp
+垂暮之年	qspq
 逃竄	qspr
 我有迷魂招不得	qspr
 無顏	qsps
@@ -178656,8 +178710,11 @@ $	kkmy
 無憑無據	qsqa
 艦艇	qsqe
 第二節	qsqe
+郵箱	qsqf
+垂範	qsqg
 籃筐	qsqg
 箬竹	qsqk
+郵筒	qsqk
 𥬇	qsqk
 無知	qsql
 𥷷	qsql
@@ -178665,6 +178722,7 @@ $	kkmy
 艦	qsqm
 𦨚	qsqo
 艦船	qsqq
+郵船	qsqq
 失而复得	qsqr
 年头儿	qsqr
 籅	qsqt
@@ -178711,23 +178769,27 @@ $	kkmy
 𮧤	qssb
 𫑜	qssc
 升斗	qssd
+𦪠	qssd
 失魂落魄	qsse
 舞姿	qsse
+郵資	qsse
 篏	qsse
 逃難	qssf
 無華	qssf
 𫂋	qssf
 兆头	qssg
 升压	qssh
-無華	qssh
 舞藝	qssh
 𰆁	qssh
 兆	qssi
+垂落	qssi
+垂范	qssi
 矯若驚龍	qssi
 气蒸云梦泽	qssi
 䇞	qssi
 𫠐	qssi
 𬻝	qssi
+垂暮	qssj
 升壓	qssj
 𠒮	qssj
 𥮎	qssj
@@ -178747,6 +178809,7 @@ $	kkmy
 风萧萧兮易水寒	qsso
 逃	qssp
 鴵	qssr
+無華	qsss
 簧	qsst
 𦪗	qsst
 逃荒	qssu
@@ -178779,7 +178842,9 @@ $	kkmy
 𲋋	qstp
 舞会	qsts
 無慾	qstt
+垂手	qstu
 风云人物	qstw
+垂钓	qstw
 無牌	qstw
 無息	qsty
 𫗃	qsty
@@ -178795,6 +178860,7 @@ $	kkmy
 無計	qsud
 鳜	qsue
 𦪘	qsue
+郵差	qsuf
 無語	qsuf
 舞美	qsug
 𫖿	qsug
@@ -178802,23 +178868,27 @@ $	kkmy
 逃課	qsuj
 無誤	qsul
 舞弊	qsum
+垂着	qsum
 篝火	qsuo
 𥱇	qsuo
 简而言之	qsup
 簡而言之	qsup
 𬱹	qsur
 無度	qsus
+垂首	qsut
 無論	qsut
 無益	qsut
 無底	qsut
 無道	qsut
 逃亡	qsuw
 無望	qsuw
+垂詢	qsuw
 無前	qsuw
 艦炮	qsuw
 𥭶	qsuw
 𱇮	qsuw
 無恙	qsuy
+垂线	qsvf
 𥱘	qsvf
 风花飞有态	qsvg
 無疆	qsvh
@@ -178832,6 +178902,7 @@ $	kkmy
 系在红罗襦	qsvp
 𫗁	qsvp
 𫗂	qsvp
+郵費	qsvt
 升级	qsvv
 风姿绰约	qsvv
 無幾	qsvv
@@ -178849,6 +178920,7 @@ $	kkmy
 矱	qswb
 籆	qswb
 艧	qswb
+郵包	qswc
 䉈	qswe
 第二集	qswf
 𭬷	qswf
@@ -178857,6 +178929,7 @@ $	kkmy
 兆周	qswh
 無錫	qswj
 舞動	qswk
+郵售	qswl
 𥰄	qswl
 鲅	qswo
 𥎱	qswo
@@ -178870,6 +178943,7 @@ $	kkmy
 升腾	qswu
 升騰	qswu
 無腦	qswv
+垂釣	qsww
 無雙	qsww
 無物	qsww
 升學	qsww
@@ -178888,6 +178962,7 @@ $	kkmy
 𫚋	qsxo
 𰩮	qsxo
 逃出	qsxx
+郵戳	qsxx
 無出	qsxx
 無翼	qsxx
 艨	qsy
@@ -178905,9 +178980,12 @@ $	kkmy
 逃逸	qsyl
 無懼	qsym
 𰰏	qsym
+垂憐	qsyp
 無悔	qsyq
+垂危	qsys
 升冪	qsys
 我甘心做一条水草	qsys
+垂怜	qsyt
 無餘	qsyt
 無解	qsyt
 無愧	qsyw
@@ -178925,6 +179003,7 @@ $	kkmy
 签押	qtak
 𦨢	qtao
 𤬕	qtaq
+垂手可得	qtar
 签批	qtar
 籤批	qtar
 知余歌者劳	qtas
@@ -179126,6 +179205,7 @@ $	kkmy
 𥬋	qtsk
 每人而悦之	qtsp
 我欲与君相知	qtsq
+垂手而得	qtsr
 鲙	qtsv
 𥭉	qtsv
 籤	qtt
@@ -179157,6 +179237,7 @@ $	kkmy
 𥬄	qtuk
 舱	qtv
 延长线	qtvf
+垂钓绿湾春	qtvg
 舱	qtvi
 䲝	qtvi
 签子	qtvk
@@ -179431,6 +179512,7 @@ $	kkmy
 箭镞	quto
 瓜片	qutp
 知識分子	qutv
+𥶑	qutv
 簡訊息	quty
 风烟含越鸟	quty
 瓜	quu
@@ -182247,7 +182329,6 @@ $	kkmy
 稻穀	rehf
 敌视	rehk
 斂	rehl
-名垂青史	rehl
 𣬲	rehm
 囱	rehn
 饭辙	reho
@@ -182430,10 +182511,6 @@ $	kkmy
 𮂽	resi
 稻草	resj
 穩壓	resj
-䅜	resj
-𢔝	resj
-𦥻	resj
-𩗰	resj
 𪁦	resm
 积伐而美者以犯之	resp
 稱譽	resq
@@ -182513,7 +182590,6 @@ $	kkmy
 𦠷	revw
 徭	rew
 𢖟	rewb
-名垂千古	rewd
 斂錢	rewg
 敌特	rewh
 𩀒	rewi
@@ -182719,6 +182795,7 @@ $	kkmy
 往来无白丁	rffa
 多于机上之工女	rffc
 徽標	rffd
+從頭再來	rffd
 独木桥	rffe
 風格	rffe
 獨木橋	rffe
@@ -182773,7 +182850,6 @@ $	kkmy
 微型車	rfgc
 𨟃	rfgc
 風大	rfgd
-從頭再來	rfgd
 𢓍	rfgd
 𪟩	rfgd
 微軟	rfge
@@ -182911,6 +182987,8 @@ $	kkmy
 𢓣	rfkf
 𤞸	rfkf
 种植业	rfkg
+𤞕	rfkh
+𦦍	rfkh
 𬓭	rfkh
 穲	rfki
 𪈳	rfki
@@ -183189,7 +183267,6 @@ $	kkmy
 風姿	rfse
 風華	rfsf
 𱮉	rfsf
-風華	rfsh
 往来而不绝者	rfsh
 微薄	rfsi
 風壓	rfsj
@@ -183205,6 +183282,7 @@ $	kkmy
 黴菌	rfsn
 多于在庾之粟粒	rfsp
 乘机而入	rfsr
+風華	rfss
 風冷	rfst
 懲惡勸善	rfsu
 微动	rfsv
@@ -183557,9 +183635,7 @@ $	kkmy
 𩗷	rgkd
 𬲼	rgkd
 全開	rgkf
-𤞕	rgkf
 𥞗	rgkf
-𦦍	rgkh
 全數	rgld
 乘醉听萧鼓	rgld
 稢	rglf
@@ -185433,7 +185509,6 @@ $	kkmy
 𱝫	rksc
 独资	rkse
 𢖢	rkse
-興華	rksh
 得见有恒者	rksh
 䑙	rksi
 𢓏	rksi
@@ -185446,6 +185521,7 @@ $	kkmy
 𫝙	rksn
 多见而识之	rksp
 𮃦	rksq
+興華	rkss
 穠	rkss
 㺜	rkss
 𪇌	rkss
@@ -187959,6 +188035,7 @@ $	kkmy
 𱮌	rqhg
 和气致祥	rqhh
 𥝻	rqhh
+名垂青史	rqhl
 𣫍	rqhl
 復刊	rqhm
 頹勢	rqhq
@@ -188201,6 +188278,10 @@ $	kkmy
 𮂷	rqsi
 𦧌	rqsj
 𮂶	rqsj
+䅜	rqsk
+𢔝	rqsk
+𦥻	rqsk
+𩗰	rqsk
 秋风落叶	rqsl
 𠓔	rqsr
 𥟺	rqsr
@@ -188294,6 +188375,7 @@ $	kkmy
 行舟绿水前	rqvu
 𥝠	rqvv
 𬌫	rqvv
+名垂千古	rqwd
 𢔃	rqwe
 復生	rqwg
 𬎸	rqwg
@@ -189174,7 +189256,6 @@ $	kkmy
 行行出状元	rrxf
 行行出狀元	rrxf
 𭐾	rrxf
-𢔷	rrxg
 比劃	rrxh
 比畫	rrxh
 𢔷	rrxh
@@ -189400,8 +189481,6 @@ $	kkmy
 微觀世界	rshj
 行云去后遥山暝	rshj
 独与老翁别	rshl
-䅿	rshs
-𫛓	rshs
 舉報	rshu
 科達	rshu
 科教	rshv
@@ -189548,7 +189627,6 @@ $	kkmy
 獨幕劇	rsmd
 多幕劇	rsmd
 剰	rsmd
-甜睡	rsme
 科目	rsmf
 舉目	rsmf
 𭛪	rsmf
@@ -189559,6 +189637,7 @@ $	kkmy
 獲罪	rsml
 𥠯	rsml
 𥣫	rsmo
+甜睡	rsmq
 徒有虚名	rsmr
 徒有虛名	rsmr
 𩙛	rsmr
@@ -189682,6 +189761,8 @@ $	kkmy
 毛茸茸	rssa
 街头巷尾	rssb
 梨花带雨	rssd
+䅿	rssd
+𫛓	rssd
 甜菜	rsse
 乱蓬蓬	rsse
 犹有花枝俏	rsse
@@ -190670,7 +190751,6 @@ $	kkmy
 街道口	rulv
 𱶚	ruly
 入眠	rumc
-入睡	rume
 徶	rume
 獙	rume
 𥢭	rume
@@ -190684,6 +190764,7 @@ $	kkmy
 入帳	rumh
 乘虚	rumk
 税則	rumm
+入睡	rumq
 入帐	rumt
 𥞻	rumt
 入眼	rumv
@@ -192600,6 +192681,8 @@ $	kkmy
 𢕧	rxfe
 独出机杼	rxff
 獨出機杼	rxff
+𢓸	rxfh
+𤝵	rxfh
 㺈	rxfk
 乱想	rxfm
 皆以枉法论	rxfo
@@ -192612,8 +192695,6 @@ $	kkmy
 乱套	rxgh
 𠚉	rxgh
 𥟔	rxgj
-𢓸	rxgn
-𤝵	rxgn
 𤜟	rxgq
 學習班	rxgu
 𢞪	rxgy
@@ -196011,6 +196092,7 @@ $	kkmy
 散似秋云无觅处	sere
 秶	serh
 𫈪	serh
+𱾇	serh
 花	seri
 𫈇	seri
 花	seri
@@ -196018,7 +196100,6 @@ $	kkmy
 藥香	serj
 蓞	serj
 𦰎	serk
-𱾇	serk
 原名	serl
 原种	serl
 菜名	serl
@@ -196067,7 +196148,6 @@ $	kkmy
 有凭有据	sesa
 花茎	sesb
 𦯱	sesc
-𦸙	sesc
 花蕾	sesd
 蓓蕾	sesd
 蓬萊	sesd
@@ -196098,8 +196178,6 @@ $	kkmy
 盗墓	sesj
 花苗	sesj
 藥草	sesj
-厜	sesj
-菙	sesj
 荏苒	sesk
 荷蘭	sesk
 花萼	sesl
@@ -196741,11 +196819,8 @@ $	kkmy
 左端	sfij
 薑湯	sfij
 華章	sfij
-丗	sfij
 㐀	sfij
-𠀍	sfij
 𠥻	sfij
-𬻂	sfij
 与	sfik
 華潤	sfik
 芳林新叶催陈叶	sfil
@@ -196761,6 +196836,9 @@ $	kkmy
 難産	sfiq
 荊州	sfiq
 華海	sfiq
+丗	sfis
+𠀍	sfis
+𬻂	sfis
 艱深	sfiy
 荔枝新熟鸡冠色	sfiy
 苟无济代心	sfiy
@@ -196816,6 +196894,7 @@ $	kkmy
 華興	sfkf
 荆棘上参天	sfkf
 茦	sfkf
+𫇶	sfkh
 䕻	sfki
 𧅳	sfki
 云开见日	sfkj
@@ -197410,6 +197489,7 @@ $	kkmy
 𦽯	sfvf
 𮎾	sfvg
 𮏌	sfvg
+𮑒	sfvh
 云树绕堤沙	sfvi
 𰏇	sfvi
 燕巢	sfvj
@@ -197664,7 +197744,6 @@ $	kkmy
 𦬗	sggj
 𠫁	sggj
 𦻘	sggj
-𢦫	sggj
 𫻦	sggk
 藏區	sggl
 𮒺	sggl
@@ -197676,6 +197755,7 @@ $	kkmy
 藏醫	sggq
 藏匿	sggs
 𮶸	sggs
+𢦫	sggs
 䔷	sggv
 藏区	sggw
 黄玫瑰	sggw
@@ -197719,7 +197799,6 @@ $	kkmy
 头晚	sgjy
 菴	sgk
 菴	sgkd
-𫇶	sgkf
 头上	sgks
 𦴼	sgkv
 𫉏	sglc
@@ -197986,7 +198065,6 @@ $	kkmy
 压挤	shap
 𭊬	shar
 压抑	shat
-華聯	shav
 𦍟	shbc
 𦍮	shbc
 头鬓眉须皆似雪	shbd
@@ -197996,7 +198074,6 @@ $	kkmy
 压轴戏	shbg
 𧅥	shbj
 凌遲	shbk
-華納	shbk
 𦽎	shbk
 菱紗	shbm
 䓯	shbm
@@ -198004,10 +198081,8 @@ $	kkmy
 在劫难逃	shbq
 𬝚	shbs
 䓯	shbs
-華通	shbt
 魂去尸长留	shbt
 𪠦	shbu
-華約	shbw
 厍	shc
 薩達姆	shcb
 與世隔絕	shcb
@@ -198018,21 +198093,15 @@ $	kkmy
 压阵	shch
 觀者如堵	shch
 著陸	shch
-華陽	shcj
 䓉	shcj
 敬老院	shco
 压队	shct
-華陰	shct
 与世隔绝	shcv
 若到越溪逢越女	shdc
-華碩	shdd
 暮去朝来颜色故	shdd
 驚世駭俗	shde
 𦰗	shdi
 布坎南	shdk
-華南	shdk
-華電	shdk
-華夏	shdm
 𩔎	shdm
 压碎	shdo
 冰封雪裹	shdo
@@ -198046,14 +198115,10 @@ $	kkmy
 二者不可得兼	shdu
 原封不動	shdw
 歡聲雷動	shdw
-華西	shdx
 凌亂	sheb
 布達佩斯	shed
-華僑	shee
 压条	shef
-華彩	shef
 压倒	sheh
-黃髮垂髫	sheh
 𦳙	sheh
 𫨃	sheh
 𮏀	sheh
@@ -198066,7 +198131,6 @@ $	kkmy
 𧄚	shek
 𦵞	shen
 压住	sheo
-華佗	sheo
 蓋住	sheo
 𦼆	sheo
 𱾏	sheo
@@ -198078,7 +198142,6 @@ $	kkmy
 压低	shet
 压价	shet
 凌轹白猿公	shet
-華爲	shew
 厂务	shex
 葉	shf
 𧂔	shfb
@@ -198088,15 +198151,12 @@ $	kkmy
 压栈	shff
 藝林	shff
 葉柄	shff
-華林	shff
 𧄠	shff
 荆轲刺秦王	shfg
 雁声远过潇湘去	shfh
-華東	shfj
 䕐	shfj
 𮓎	shfj
 𱢯	shfj
-華麗	shfk
 蒜頭	shfl
 蓋頭	shfl
 蓋樓	shfl
@@ -198104,7 +198164,6 @@ $	kkmy
 著想	shfm
 𦏙	shfm
 有志于此	shfn
-華政	shfn
 著述	shfo
 藝校	shfo
 压榨	shfp
@@ -198133,7 +198192,6 @@ $	kkmy
 芉	shgj
 ⺸	shgj
 厂规	shgk
-華泰	shgk
 葉輪	shgt
 𩺁	shgt
 冰封王座	shgu
@@ -198166,9 +198224,7 @@ $	kkmy
 𧡋	shhm
 厂址	shhn
 𰆢	shhq
-華表	shhr
 蒜	shhs
-華髮	shhs
 藝考	shhs
 原封未动	shhs
 有礼者敬人	shht
@@ -198179,23 +198235,18 @@ $	kkmy
 𦱾	shhu
 𧄍	shhx
 凌志	shhy
-華埠	shhy
 蒜泥	shib
 莲池	shic
 莲湖	shid
-華立	shid
 劳教所	shie
 茅臺酒	shig
 若到江南赶上春	shig
 压韵	shij
 蓋章	shij
 觀世音	shij
-華章	shij
 𦭓	shij
-華潤	shik
 𦹷	shil
 𦿖	shil
-華沙	shim
 压扁	shin
 厂房	shio
 莲房	shio
@@ -198203,7 +198254,6 @@ $	kkmy
 著涼	shio
 压产	shiq
 凌海	shiq
-華海	shiq
 蓋州	shiq
 藝海	shiq
 荃者所以在鱼	shiq
@@ -198228,10 +198278,7 @@ $	kkmy
 著	shjr
 著	shjr
 凌晨	shjs
-華山	shjs
-華晨	shjs
 𫊔	shju
-華星	shjw
 𬂈	shjw
 赜	shk
 赜	shkb
@@ -198240,7 +198287,6 @@ $	kkmy
 厔	shkh
 荎	shkj
 厂里	shkk
-華里	shkk
 𦷯	shkk
 葉問	shkl
 有福同享有难同当	shkm
@@ -198255,21 +198301,17 @@ $	kkmy
 𱿆	shku
 冷却水	shkv
 願者上鉤	shkw
-華胄	shkw
 願者上鈎	shkw
 薹	shl
 著呢	shlb
 薹	shlh
-華貴	shlk
 著哩	shlk
 監視器	shll
 散熱器	shll
-華嚴	shll
 警報器	shll
 藝品	shll
 藝員	shlm
 𧀺	shlm
-華中	shln
 薳	shlp
 𨘏	shlp
 𦸉	shlq
@@ -198318,15 +198360,12 @@ $	kkmy
 共青團員	shnl
 蓋過	shnp
 茉	sho
-華亭	shoa
 著實	shob
-華安	shoc
 压	shod
 厂家	shod
 厫	shoe
 蔜	shoe
 准考证	shof
-華宇	shof
 厂方	shog
 斗地主	shog
 压宝	shog
@@ -198338,20 +198377,16 @@ $	kkmy
 有志於此	shon
 蒜瓣	shoq
 蒜毫	shor
-華裔	shor
 蘾	shor
 黄土高原	shos
 黃土高原	shos
 犬牙交错	shot
 有神论	shot
 厂商	shou
-華商	shou
 落地为兄弟	shou
 𰆠	shov
 犬牙交錯	show
-華為	show
 𰆛	shox
-華寧	shoy
 莲	shp
 压痛	shpb
 药到病除	shpc
@@ -198365,12 +198400,10 @@ $	kkmy
 鹊声穿树喜新晴	shpj
 著迷	shpp
 落地窗	shpr
-華容	shpt
 压弯	shpv
 压痕	shpv
 蓋被	shpv
 著文	shpw
-華文	shpw
 著魔	shpw
 压断	shpx
 𮐦	shqa
@@ -198380,13 +198413,13 @@ $	kkmy
 凌	shqe
 菱	shqe
 𧁈	shqf
+黃髮垂髫	shqh
 㓐	shqh
 𦿳	shqh
 有增無減	shqi
 昔者禹抑洪水	shqk
 压盘	shqm
 𦵬	shqm
-華航	shqo
 蓺	shqo
 𠪑	shqo
 有教無類	shqp
@@ -198420,7 +198453,7 @@ $	kkmy
 𦾫	shrh
 荖	shri
 蓍	shrj
-華興	shrk
+𠦶	shrj
 著名	shrl
 藝名	shrl
 厂外	shrm
@@ -198428,15 +198461,14 @@ $	kkmy
 𪙐	shrm
 布穀鳥	shro
 𩿫	shro
-華科	shrs
 凌乱	shrx
+𩍞	shrx
 著称	shry
 𫈒	shry
 蕻	shs
 凌辱	shsa
 云鬓花颜金步摇	shsa
 有世臣之谓也	shsc
-𩏧	shsc
 莲藕	shsd
 葉茂	shsd
 莲花	shse
@@ -198445,32 +198477,22 @@ $	kkmy
 原聲帶	shsf
 菁華	shsf
 在地愿为连理枝	shsf
-𣟦	shsf
-𧃹	shsf
 蒜头	shsg
 落地有声	shsh
 蒜薹	shsh
-華蓋	shsh
-菁華	shsh
 落地有聲	shsh
 葉芽	shsh
-華藝	shsh
 蓋著	shsh
 著落	shsi
-華	shsj
 蒜苗	shsj
 葉蔓	shsj
 䒬	shsj
-𬟠	shsj
-華	shsj
 菁英	shsk
 蒜黄	shsk
 葉蔓	shsk
-𦾏	shsk
 𫇷	shsk
 𦭃	shsk
 蓋布	shsm
-𱐤	shsm
 动静有常	shsn
 有志在四方	shso
 𬟂	shso
@@ -198481,33 +198503,27 @@ $	kkmy
 薔薇	shsr
 藝苑	shsr
 荞麦花开白雪香	shsr
-鷨	shsr
 凌厲	shss
+菁華	shss
 蓋茨	shss
 蒜黃	shss
 花鬘斗薮龙蛇动	shss
 蕻	shst
-𪏥	shst
 凌云	shsv
 左辅右弼	shsv
 蒜苔	shsv
 著有	shsw
 蓋有	shsw
-華擎	shsw
 若轻云之蔽月	shsw
-𩀵	shsw
-𪟥	shsx
 有声有色	shsy
 原声带	shsy
 有聲有色	shsy
 凌	sht
-華氏	shta
 𮐦	shta
 压铸	shtd
 𧃻	shtd
 凌	shte
 菱	shte
-華人	shte
 藝人	shte
 凌	shte
 菱	shte
@@ -198550,7 +198566,6 @@ $	kkmy
 苹	shu
 落地灯	shua
 𧨅	shua
-華燈	shub
 准考證	shub
 草長鶯飛	shub
 落地燈	shub
@@ -198559,10 +198574,7 @@ $	kkmy
 㓑	shud
 𫈐	shud
 苹	shue
-華府	shue
-華語	shuf
 𠫃	shuf
-華美	shug
 䔗	shug
 压库	shuh
 𫉷	shuh
@@ -198580,18 +198592,14 @@ $	kkmy
 䕮	shup
 𰄍	shup
 𰻗	shup
-華誕	shuq
-華北	shur
 𮒸	shur
 莲座	shut
 有神論	shut
 𦶗	shut
 𧅹	shut
-華榮	shuu
 𧂞	shuu
 𬋖	shuu
 𭶢	shuu
-華訊	shuv
 𠪼	shuv
 𮒛	shuv
 著調	shuw
@@ -198627,11 +198635,9 @@ $	kkmy
 凌弱	shvs
 运输费	shvt
 著书	shvv
-華強	shvv
 䒧	shvv
 𠩂	shvv
 藝能	shvw
-華能	shvw
 𠄳	shvx
 𦿋	shvx
 菁	shw
@@ -198663,11 +198669,9 @@ $	kkmy
 𠘒	shwq
 荺	shws
 压腿	shwv
-華銀	shwv
 𧂮	shwv
 压服	shwx
 荼毒生灵	shwx
-華服	shwx
 菁	shwy
 凊	shwy
 蕼	shxa
@@ -198687,9 +198691,7 @@ $	kkmy
 蓋飯	shye
 黄埔军校	shyf
 黃埔軍校	shyf
-華師	shyf
 二者必居其一	shyf
-華軍	shyg
 厊	shyh
 莲心	shyi
 冴	shyi
@@ -199712,6 +199714,7 @@ $	kkmy
 苗木	sjfv
 壓根	sjfv
 蘋果機	sjfv
+厭棄	sjfv
 菓	sjfv
 菒	sjfv
 草棚	sjfw
@@ -199833,9 +199836,7 @@ $	kkmy
 昔時	sjjh
 蘲	sjjh
 𦸋	sjjh
-卅	sjjj
 藟	sjjj
-卌	sjjj
 廾	sjjj
 卄	sjjj
 卝	sjjj
@@ -200782,7 +200783,6 @@ $	kkmy
 難上難	sksf
 英華	sksf
 黄莲	sksh
-英華	sksh
 冰蓋	sksh
 蓬門蓽户	sksi
 蓬門蓽戶	sksi
@@ -200804,6 +200804,7 @@ $	kkmy
 蘭蔻	skso
 𨔸	sksp
 萬曆	sksr
+英華	skss
 花開花落	skss
 冰藍	skss
 蕽	skss
@@ -202340,7 +202341,6 @@ $	kkmy
 𠄱	snsc
 在華	snsf
 萵苣	snsg
-在華	snsh
 存著	snsh
 有国有家者	snsh
 𫨋	snsh
@@ -202355,6 +202355,7 @@ $	kkmy
 蓝莓	snsq
 厚此薄彼	snsr
 舉國若狂	snsr
+在華	snss
 𱾽	snss
 𫈁	snst
 存有	snsw
@@ -202806,7 +202807,6 @@ $	kkmy
 凜冽	sosf
 芳華	sosf
 菸葉	sosh
-芳華	sosh
 𫉲	sosh
 芳草	sosj
 薰衣草	sosj
@@ -202826,6 +202826,7 @@ $	kkmy
 有说有笑	sosq
 蘘	sosr
 𦻫	sosr
+芳華	soss
 𦺦	soss
 凉茶	sost
 藆	sost
@@ -202909,6 +202910,7 @@ $	kkmy
 薺	sous
 凉席	sous
 蓄謀	sous
+蓄養	sout
 萬家燈火	souu
 蓄	sov
 𦹐	sovc
@@ -203295,7 +203297,6 @@ $	kkmy
 二氧化碳	sqed
 犬儒	sqed
 二氧化硫	sqed
-暮年垂泪对桓伊	sqee
 舉例	sqef
 舉債	sqeh
 在我的心头荡漾	sqei
@@ -203470,7 +203471,6 @@ $	kkmy
 蓟	sqmd
 𦶯	sqmd
 𬜱	sqmd
-臨睡	sqme
 舉目	sqmf
 㯺	sqmf
 𠩎	sqmf
@@ -203491,6 +203491,7 @@ $	kkmy
 𠖽	sqmo
 𤪋	sqmo
 𥽏	sqmp
+臨睡	sqmq
 𡮻	sqmq
 𡮼	sqmq
 𦲩	sqmq
@@ -203561,6 +203562,7 @@ $	kkmy
 臨川	sqqc
 𦽮	sqqc
 运算符	sqqe
+暮年垂泪对桓伊	sqqe
 萬般無奈	sqqg
 𮐏	sqqg
 蒰	sqqh
@@ -203627,6 +203629,7 @@ $	kkmy
 㦛	sqry
 𱊭	sqry
 蕪	sqs
+𦸙	sqsc
 凄风苦雨	sqsd
 凄风冷雨	sqsd
 𣂀	sqsd
@@ -203645,6 +203648,8 @@ $	kkmy
 臨摹	sqsj
 𦬱	sqsj
 有血有肉	sqsk
+厜	sqsk
+菙	sqsk
 𰆧	sqsl
 蕃薯	sqsm
 𥃉	sqsm
@@ -203900,7 +203905,6 @@ $	kkmy
 而未	srhe
 薐	srhe
 𬝺	srhe
-𠦶	srhg
 𦽂	srhh
 苏黎世	srhi
 蘇黎世	srhi
@@ -203924,7 +203928,6 @@ $	kkmy
 有德者必有言	srhu
 而去	srhv
 𦹤	srhw
-𩍞	srhx
 葕	sria
 而立	srid
 𦷏	srid
@@ -204218,7 +204221,6 @@ $	kkmy
 而与	srsf
 凝凍	srsf
 凝華	srsf
-凝華	srsh
 蔥蘢	srsi
 歷遭	srsj
 𦲢	srsj
@@ -204235,6 +204237,7 @@ $	kkmy
 而與	srsq
 歷歷	srsr
 萎黃	srss
+凝華	srss
 蔥黃	srss
 𦽕	srss
 藇	srst
@@ -204420,6 +204423,7 @@ $	kkmy
 蘭花指	ssar
 𱾤	ssas
 厌恶	ssau
+華聯	ssav
 㽍	ssaw
 花花綠綠	ssbb
 落英繽紛	ssbb
@@ -204431,6 +204435,7 @@ $	kkmy
 黃紅	ssbf
 𠗻	ssbh
 𦸃	ssbh
+華納	ssbk
 黃網	ssbk
 藖	ssbm
 𫉶	ssbm
@@ -204439,6 +204444,7 @@ $	kkmy
 𦳺	ssbp
 莱布尼茨	ssbs
 萊布尼茨	ssbs
+華通	ssbt
 黃紙	ssbt
 有苦难言	ssbu
 藍屏	ssbu
@@ -204448,6 +204454,7 @@ $	kkmy
 凞	ssbu
 𠨹	ssbu
 劳动局	ssbv
+華約	ssbw
 落落难合	ssby
 邯	ssc
 𮏁	ssca
@@ -204465,54 +204472,69 @@ $	kkmy
 黃陵	ssch
 邯	sscj
 茝	sscj
+華陽	sscj
 莲花始信两飞峰	sscj
 茞	sscj
 某女	sscn
 𦵘	sscn
 𰋽	sscn
+華陰	ssct
 藍隊	sscu
 𠘕	sscu
 𬞭	sscu
 黃陂	sscv
 燕草如碧丝	sscv
+華	ssd
 藏头露尾	ssdb
 顾头不顾尾	ssdb
 𮐻	ssdb
 𮐼	ssdb
 若要	ssdc
 而有斯疾也	ssdc
+𩏧	ssdc
 蓬蓬勃勃	ssdd
 英姿勃勃	ssdd
 歡歡喜喜	ssdd
+華碩	ssdd
 黃磊	ssdd
 反反覆覆	ssdd
 黄莺不语东风起	ssdd
 冰魂雪魄	ssde
 茫茫走胡兵	ssde
 甘霖	ssdf
+𣟦	ssdf
+𧃹	ssdf
 苗而不秀者有矣夫	ssdg
 黃石	ssdh
 黃碟	ssdh
 郁郁不得志	ssdh
 凄凄不似向前声	ssdh
 𦯰	ssdh
+華	ssdi
 苍茫不晓神灵意	ssdi
 𠦂	ssdi
 𦬠	ssdi
 𰰩	ssdi
+華	ssdi
 葡萄乾	ssdj
 㽑	ssdj
+𬟠	ssdj
 甘南	ssdk
+華南	ssdk
+華電	ssdk
 蒙在鼓里	ssdk
 落花逐流水	ssdk
 凌厉越万里	ssdk
+𦾏	ssdk
 𧏆	ssdk
 惹來	ssdl
 𦸮	ssdl
+華夏	ssdm
 黃頁	ssdm
 䫱	ssdm
 𦷔	ssdm
 𧂪	ssdm
+𱐤	ssdm
 甘露	ssdn
 厉而不爽些	ssdn
 动荡不安	ssdo
@@ -204522,17 +204544,22 @@ $	kkmy
 黃磷	ssdp
 𦿅	ssdq
 黄花不负秋	ssdr
+鷨	ssdr
 云蒸霞蔚	ssds
 若需	ssds
 蘑菇雲	ssds
 黃驊	ssds
 郁郁不乐	ssdt
+𪏥	ssdt
 若不	ssdu
 存而不論	ssdu
 芭蕉不展丁香结	ssdv
 压而不服	ssdw
 壓而不服	ssdw
+𩀵	ssdw
+華西	ssdx
 藍雪	ssdx
+𪟥	ssdx
 恭敬不如从命	ssdy
 恭敬不如從命	ssdy
 𧂋	ssdy
@@ -204544,10 +204571,12 @@ $	kkmy
 劳动保险	ssec
 葵藿倾太阳	ssec
 藍盾	ssed
+華僑	ssee
 芳草何年恨即休	ssee
 𱿅	ssee
 甘休	ssef
 若使	ssef
+華彩	ssef
 凌云健笔意纵横	ssef
 𬎱	ssef
 苍茫值晚春	sseg
@@ -204566,6 +204595,7 @@ $	kkmy
 蒝	ssem
 某個	ssen
 藍條	ssen
+華佗	sseo
 荏苒冬春谢	sseo
 郁郁何所为	sseo
 𦮮	sseo
@@ -204579,6 +204609,7 @@ $	kkmy
 𬝩	sset
 厌倦	sseu
 某件	ssew
+華爲	ssew
 甘爲	ssew
 𦴱	ssex
 甘受	ssey
@@ -204603,6 +204634,7 @@ $	kkmy
 花草树木	ssff
 藍本	ssff
 花草樹木	ssff
+華林	ssff
 萧萧枫树林	ssff
 𤯏	ssff
 𰱒	ssff
@@ -204617,14 +204649,18 @@ $	kkmy
 芙蓉楼送辛渐	ssfi
 𦬵	ssfi
 𰰠	ssfi
+華東	ssfj
 黃楊	ssfj
 莽莽万重山	ssfj
+若再	ssfk
+華麗	ssfk
 黃鸝	ssfk
 黃豆	ssfl
 蓮蓬頭	ssfl
 若想	ssfm
 蔕	ssfm
 𠝺	ssfm
+華政	ssfn
 荟萃一堂	ssfn
 𤯅	ssfn
 𪲣	ssfn
@@ -204700,8 +204736,8 @@ $	kkmy
 靥	ssgi
 荦荦大端	ssgi
 花花太岁	ssgj
-若再	ssgk
 黃酮	ssgk
+華泰	ssgk
 黃軸	ssgk
 萧萧班马鸣	ssgl
 𮐣	ssgm
@@ -204752,7 +204788,9 @@ $	kkmy
 敬而遠之	sshp
 而蒙世俗之尘埃乎	sshq
 蒙头转向	sshr
+華表	sshr
 𰢩	sshr
+華髮	sshs
 仄仄平平平仄仄	sshs
 仄仄平平仄	sshs
 仄仄平平仄仄	sshs
@@ -204765,12 +204803,14 @@ $	kkmy
 葡萄牙	sshy
 藍牙	sshy
 勵志	sshy
+華埠	sshy
 甘	ssi
 黃河	ssia
 莽汉	ssib
 脊梁	ssib
 黃粱	ssib
 花有清香月有阴	ssic
+華立	ssid
 二愿妾身常健	ssie
 黃浦	ssif
 黃江	ssif
@@ -204785,6 +204825,7 @@ $	kkmy
 亖	ssii
 甘	ssij
 若有所思	ssij
+華章	ssij
 黃湯	ssij
 𦫽	ssij
 ⽢	ssij
@@ -204793,8 +204834,10 @@ $	kkmy
 英雄所见略同	ssik
 黃油	ssik
 英雄所見略同	ssik
+華潤	ssik
 某部	ssil
 运营部	ssil
+華沙	ssim
 黃沙	ssim
 英姿飒爽犹酣战	ssim
 英姿飒爽来酣战	ssim
@@ -204802,6 +204845,7 @@ $	kkmy
 净资产	ssiq
 黃海	ssiq
 黃州	ssiq
+華海	ssiq
 蒌蒿满地芦芽短	ssiq
 芙蓉泣露香兰笑	ssiq
 萎蒿满地芦芽短	ssiq
@@ -204846,9 +204890,7 @@ $	kkmy
 落花时节读华章	ssji
 蓸	ssjj
 𠦌	ssjj
-𢌽	ssjj
 𦬇	ssjj
-𦬢	ssjj
 𪏈	ssjj
 蒸蒸日上	ssjk
 黄花岗	ssjk
@@ -204879,7 +204921,9 @@ $	kkmy
 𪏛	ssjr
 雁荡山	ssjs
 黃山	ssjs
+華山	ssjs
 雁蕩山	ssjs
+華晨	ssjs
 𦿩	ssjs
 䵎	ssjs
 黃	ssjt
@@ -204901,6 +204945,7 @@ $	kkmy
 黅	ssjv
 䵍	ssjv
 黃易	ssjw
+華星	ssjw
 藍星	ssjw
 䵋	ssjw
 𪏁	ssjw
@@ -204928,6 +204973,7 @@ $	kkmy
 厣	sskj
 某甲	sskj
 䒓	sskj
+華里	sskk
 䗣	sskk
 𧅆	sskk
 𧒤	sskk
@@ -204959,6 +205005,7 @@ $	kkmy
 左右開弓	sskv
 黃蠟	sskv
 花落水流红	sskv
+華胄	sskw
 勵	sskx
 勵	sskx
 厲	ssky
@@ -204974,11 +205021,14 @@ $	kkmy
 若非	ssli
 𬝛	ssli
 运动员	sslk
+華貴	sslk
 蠚	sslk
 𧍷	sslk
 邯鄲	ssll
+華嚴	ssll
 䖃	ssll
 𥂠	sslm
+華中	ssln
 黃忠	ssln
 逽	sslp
 驚歎號	ssls
@@ -205034,8 +205084,10 @@ $	kkmy
 艱難困苦	ssns
 荐	ssnv
 卧薪尝胆	ssnw
+華亭	ssoa
 左右为难	ssob
 郁郁寡欢	ssob
+華安	ssoc
 某家	ssod
 厲害	ssod
 萬丈高樓平地起	ssod
@@ -205044,6 +205096,7 @@ $	kkmy
 𱽌	ssod
 英雄豪傑	ssoe
 英雄豪杰	ssof
+華宇	ssof
 蓬莱定不远	ssof
 花蔓宜阳春	ssog
 厲害	ssoh
@@ -205053,6 +205106,7 @@ $	kkmy
 落草为寇	ssoo
 散在六合间	ssop
 蒙蒙亮	ssoq
+華裔	ssor
 藍衣	ssor
 左右為難	ssos
 甘於	ssot
@@ -205061,13 +205115,16 @@ $	kkmy
 运营商	ssou
 若说	ssou
 黃帝	ssou
+華商	ssou
 厌弃	ssov
 甘為	ssow
+華為	ssow
 甘为	ssox
 𮑠	ssox
 菠萝蜜	ssoy
 落落寡合	ssoy
 菠蘿蜜	ssoy
+華寧	ssoy
 黃麻	sspa
 黄花闺女	sspc
 蕨类	sspg
@@ -205079,9 +205136,11 @@ $	kkmy
 蓬莱文章建安骨	sspm
 芝蘭之室	sspo
 蕨類	ssps
+華容	sspt
 葡萄糖	sspu
 萧萧闻雁飞	sspv
 𭺯	sspv
+華文	sspw
 黃袍	sspw
 藍魔	sspw
 厌	ssq
@@ -205102,6 +205161,7 @@ $	kkmy
 𫊗	ssqm
 𮓔	ssqm
 藍	ssqm
+華航	ssqo
 盗墓笔记	ssqo
 惹氣	ssqp
 𮇽	ssqp
@@ -205139,6 +205199,7 @@ $	kkmy
 黃島	ssrj
 荋	ssrj
 𭺬	ssrj
+華興	ssrk
 某种	ssrl
 黃毛	ssrm
 藍劍	ssrm
@@ -205158,6 +205219,7 @@ $	kkmy
 甘甜	ssrs
 甘苦與共	ssrs
 藍猫	ssrs
+華科	ssrs
 芬芳馥郁	ssrs
 落花犹似坠楼人	ssrt
 有草名含羞	ssru
@@ -205170,7 +205232,7 @@ $	kkmy
 左右皆曰可杀	ssrw
 𭞍	ssry
 𮏣	ssry
-飙	sss
+卅	sss
 历历在耳	sssa
 有憑有據	sssa
 歷歷在耳	sssa
@@ -205202,7 +205264,9 @@ $	kkmy
 莲蓬头	sssg
 黃蓮	sssg
 蘣	sssg
+華蓋	sssh
 黃葉	sssh
+華藝	sssh
 惹著	sssh
 藍芽	sssh
 𮑢	sssh
@@ -205216,6 +205280,7 @@ $	kkmy
 芳菲菲其弥章	sssi
 莽	sssj
 甘草	sssj
+𦬢	sssj
 𦸳	sssj
 莽	sssj
 冷冰冰	sssk
@@ -205245,6 +205310,7 @@ $	kkmy
 飆	sssr
 黃曆	sssr
 𣯬	sssr
+卌	ssss
 郁郁葱葱	ssss
 某某	ssss
 恭恭敬敬	ssss
@@ -205258,6 +205324,7 @@ $	kkmy
 甘藍	ssss
 甘苦與共	ssss
 䔸	ssss
+𢌽	ssss
 𦓢	ssss
 𰆪	ssss
 𮳿	ssss
@@ -205273,6 +205340,7 @@ $	kkmy
 有头有脸	sssw
 若有	sssw
 甘菊	sssw
+華擎	sssw
 壓壓驚	sssw
 黄芦苦竹绕宅生	sssw
 草芽菜甲一时生	sssw
@@ -205286,6 +205354,7 @@ $	kkmy
 蔷薇带刺攀应懒	sssy
 脊	sst
 黃昏	ssta
+華氏	ssta
 𤯄	ssta
 芷葺兮荷屋	sstb
 𮶣	sstb
@@ -205294,6 +205363,7 @@ $	kkmy
 𮏮	sstc
 某人	sste
 惹人	sste
+華人	sste
 若有人知春去处	sste
 𦱽	sste
 藍領	sstf
@@ -205346,14 +205416,18 @@ $	kkmy
 𧆒	ssty
 蕨	ssu
 𤯆	ssua
+華燈	ssub
 英姿煥發	ssub
 黃燈	ssub
 藍燈	ssub
 厌烦	ssud
 𧂱	ssud
 蕨	ssue
+華府	ssue
+華語	ssuf
 葡萄美酒夜光杯	ssuf
 甘美	ssug
+華美	ssug
 黃羊	ssug
 臣与将军戮力而攻秦	ssug
 凌云壮志	ssuh
@@ -205370,7 +205444,9 @@ $	kkmy
 燛	ssuo
 𠗇	ssuo
 𦭹	ssuo
+華誕	ssuq
 脊背	ssur
+華北	ssur
 藍瓶	ssus
 黃道	ssut
 藍底	ssut
@@ -205378,8 +205454,10 @@ $	kkmy
 㽐	ssut
 黃鶯	ssuu
 若説	ssuu
+華榮	ssuu
 𤯇	ssuu
 𤯋	ssuu
+華訊	ssuv
 荷花半成子	ssuv
 藍調	ssuw
 英姿焕发	ssux
@@ -205411,9 +205489,11 @@ $	kkmy
 芸	ssvv
 花花绿绿	ssvv
 落英缤纷	ssvv
+華強	ssvv
 蒲苇纫如丝	ssvv
 𦱚	ssvv
 若能	ssvw
+華能	ssvw
 萬有引力	ssvx
 魇	ssw
 菡萏生泥玩亦难	sswb
@@ -205454,6 +205534,7 @@ $	kkmy
 花花肠子	sswv
 花花腸子	sswv
 薄荷腦	sswv
+華銀	sswv
 莘莘學子	sswv
 云散月明谁点缀	sswv
 某物	ssww
@@ -205461,6 +205542,7 @@ $	kkmy
 黃鑽	ssww
 藍鑽	ssww
 运动服	sswx
+華服	sswx
 某月	sswy
 藍月	sswy
 䒴	sswy
@@ -205492,7 +205574,9 @@ $	kkmy
 凄凄惨惨戚戚	ssyd
 葉落歸根	ssyf
 落葉歸根	ssyf
+華師	ssyf
 𦴇	ssyf
+華軍	ssyg
 藍軍	ssyg
 䑓	ssyh
 甘心	ssyi
@@ -206580,6 +206664,7 @@ $	kkmy
 𦳼	suft
 菜单栏	sufu
 花言巧語	sufu
+荒棄	sufv
 𮶢	sufv
 莫逆于心	sufy
 䔿	suga
@@ -206847,6 +206932,7 @@ $	kkmy
 菧	suto
 荒谷	sutt
 灰谷	sutt
+𧁙	sutv
 有奖销售	sutw
 𦿯	sutw
 有席卷天下	suua
@@ -207280,6 +207366,7 @@ $	kkmy
 菡	svkx
 𠗙	svkx
 冶	svl
+夀	svla
 𦶁	svlc
 𫉳	svlc
 𮐞	svlc
@@ -207858,7 +207945,6 @@ $	kkmy
 散伙	sweu
 准信	sweu
 有信	sweu
-二月垂杨未挂丝	swev
 有的	swew
 散件	swew
 有爲	swew
@@ -208369,6 +208455,7 @@ $	kkmy
 有氧	swqu
 𦳍	swqu
 有進無退	swqv
+二月垂杨未挂丝	swqv
 警风	swqw
 动脑筋	swqw
 葬身鱼腹	swqw
@@ -208560,6 +208647,7 @@ $	kkmy
 敬煙	swud
 虅	swud
 敬語	swuf
+黃鐘譭棄	swuf
 有关	swug
 散养	swug
 散養	swug
@@ -208606,6 +208694,7 @@ $	kkmy
 有益	swut
 有底	swut
 散座	swut
+散養	swut
 𰲑	swut
 有勞	swuu
 𬟙	swuu
@@ -208845,7 +208934,6 @@ $	kkmy
 萧条	sxef
 节后	sxef
 历代	sxeg
-黄发垂髫	sxeh
 荍	sxeh
 专修	sxen
 蕭條	sxen
@@ -209001,6 +209089,7 @@ $	kkmy
 𦲭	sxlw
 冯	sxm
 𡭡	sxma
+𮊷	sxma
 𦿥	sxmd
 𫥳	sxmd
 難以置信	sxme
@@ -209063,6 +209152,7 @@ $	kkmy
 专断	sxpx
 历年	sxqa
 𦵼	sxqc
+黄发垂髫	sxqh
 𮰉	sxqj
 莙	sxql
 专管	sxqo
@@ -209998,7 +210088,6 @@ $	kkmy
 𲇷	tama
 自投羅網	tamb
 𠛊	tamd
-昏睡	tame
 人事處	tame
 𥄇	tamf
 自投罗网	tamk
@@ -210007,6 +210096,7 @@ $	kkmy
 創可貼	tamm
 𬥰	tamm
 昏眩	tamo
+昏睡	tamq
 手挥目送	tamu
 手揮目送	tamu
 帋	tamv
@@ -210082,7 +210172,6 @@ $	kkmy
 昏蒙	tasy
 𬇊	tata
 𱑹	tatb
-钉锤	tate
 看取人间傀儡棚	tatf
 𡑘	tath
 人歌人哭水声中	tatl
@@ -210090,6 +210179,7 @@ $	kkmy
 𫎛	tatm
 公事公辦	tato
 钙片	tatp
+钉锤	tatq
 铙钹	tats
 手拉手	tatu
 𰓅	tatu
@@ -210236,7 +210326,6 @@ $	kkmy
 分体	tbef
 印刷体	tbef
 攽	tbeh
-坐观垂钓者	tbeh
 𫼿	tbeh
 𣢏	tbei
 分作	tbeq
@@ -210477,6 +210566,7 @@ $	kkmy
 贫穷	tbpx
 分離	tbpx
 分節	tbqe
+坐观垂钓者	tbqh
 𩸿	tbqh
 𭂭	tbqj
 𰾽	tbqk
@@ -211162,7 +211252,6 @@ $	kkmy
 锋	te
 锋利	te
 锋芒	te
-锤打	teaa
 锻打	teaa
 八仙过海各显神通	teab
 锊	teac
@@ -211486,7 +211575,6 @@ $	kkmy
 𤖼	tery
 𮍙	tery
 𰽸	tery
-锤	tes
 锦葵	tesb
 人臣	tesc
 人各有所好	tesc
@@ -211499,9 +211587,7 @@ $	kkmy
 锻压	tesh
 人各有志	tesh
 鮗	tesi
-锤	tesj
 钦慕	tesj
-𩸫	tesj
 长使英雄泪满襟	tesp
 长使英雄泪沾襟	tesp
 人各有一癖	tesp
@@ -211529,7 +211615,6 @@ $	kkmy
 人魚	tety
 鯽魚	tety
 锻炼	teua
-锤炼	teua
 人證	teub
 人煙	teud
 钦差	teuf
@@ -211547,7 +211632,6 @@ $	kkmy
 人参	tevg
 𮬊	tevg
 版纳	tevk
-锤子	tevk
 版子	tevk
 劉伯承	tevk
 䱐	tevk
@@ -212057,6 +212141,7 @@ $	kkmy
 會同	tfkf
 手工业	tfkg
 欲速则不达	tfkg
+𲌴	tfkh
 鱺	tfki
 㑹	tfkj
 䱨	tfkm
@@ -212286,6 +212371,7 @@ $	kkmy
 拜年	tfqa
 余年	tfqa
 今年	tfqa
+人棄我取	tfqa
 人工智慧	tfqd
 含笑	tfqe
 钱箱	tfqf
@@ -212442,7 +212528,6 @@ $	kkmy
 會試	tfug
 倉庫	tfug
 令尊	tfug
-領養	tfug
 铺天盖地	tfuh
 钱庄	tfuh
 铺装	tfuh
@@ -212473,6 +212558,7 @@ $	kkmy
 會診	tfut
 敘說	tfut
 領導	tfut
+領養	tfut
 頷首	tfut
 會議	tfuu
 會談	tfuu
@@ -212876,7 +212962,6 @@ $	kkmy
 𤗎	tgkd
 𩸆	tgkd
 全開	tgkf
-𲌴	tgkf
 介面卡	tgkm
 银环蛇	tgko
 钢琴曲	tgks
@@ -213933,12 +214018,12 @@ $	kkmy
 𫽺	tjmb
 留置	tjmd
 𭄁	tjmd
-鼾睡	tjme
 鼻尖	tjmg
 𲈒	tjmh
 谷幽光未显	tjmj
 留点	tjml
 鰛	tjmn
+鼾睡	tjmq
 介山当驿秀	tjmr
 鼾睡	tjmw
 𩻠	tjmw
@@ -214041,6 +214126,7 @@ $	kkmy
 自是人生长恨水长东	tjta
 今岁今宵尽	tjtb
 𱆶	tjtc
+自暴自棄	tjtf
 留念	tjtf
 人山人海	tjti
 钿	tjtj
@@ -214201,7 +214287,6 @@ $	kkmy
 自由体操	tkea
 自白	tkeb
 自反	tkeb
-創業垂統	tkeb
 铜质	tked
 钢条	tkef
 自体	tkef
@@ -214229,7 +214314,6 @@ $	kkmy
 自備	tkes
 铜价	tket
 自信	tkeu
-创业垂统	tkev
 自樂	tkev
 自爱	tkey
 铜像	tkey
@@ -214276,6 +214360,7 @@ $	kkmy
 𬮀	tkft
 𩽥	tkfu
 自剄	tkfv
+自棄	tkfv
 𬵬	tkfv
 钢构	tkfw
 自奉	tkga
@@ -214448,6 +214533,7 @@ $	kkmy
 贫贱之知不可忘	tkpu
 自恋	tkpy
 自我	tkqa
+創業垂統	tkqb
 铜川	tkqc
 自筹	tkqd
 自籌	tkqh
@@ -214460,6 +214546,7 @@ $	kkmy
 自管	tkqo
 𮍚	tkqo
 钢笔	tkqr
+创业垂统	tkqv
 钢筋	tkqw
 自行	tkra
 自衛	tkrc
@@ -215958,8 +216045,6 @@ $	kkmy
 鯨	toma
 貪財	toma
 𨱉	toma
-贪睡	tome
-貪睡	tome
 众寡悬殊	tomf
 人為財死	tomf
 貪贓	tomg
@@ -215968,6 +216053,8 @@ $	kkmy
 领罪	toml
 領罪	toml
 长安尘染坐禅衣	tomo
+贪睡	tomq
+貪睡	tomq
 人為財死鳥為食亡	tomu
 铈	tomv
 领巾	tomv
@@ -216038,7 +216125,6 @@ $	kkmy
 創痛	topb
 含糊	topd
 𮞃	topd
-人家帘幕垂	tope
 领空	topf
 領空	topf
 人谓之不死	topf
@@ -216047,6 +216133,7 @@ $	kkmy
 领袖	topk
 領袖	topk
 今夜闻君琵琶语	topo
+人家帘幕垂	topq
 领料	tops
 領料	tops
 創痕	topv
@@ -216394,13 +216481,13 @@ $	kkmy
 镂	tpc
 邊民	tpca
 人间随处有乘除	tpcc
-邊陲	tpce
 今之隐机者	tpch
 用之如泥沙	tpci
 今之矜也忿戾	tpci
 镂	tpcn
 𱆹	tpcn
 邊防	tpco
+邊陲	tpcq
 邊際	tpcw
 邊陲	tpcw
 分文不取	tpda
@@ -216659,6 +216746,7 @@ $	kkmy
 铁匠	tq
 锇	tqa
 铁打	tqaa
+锤打	tqaa
 迎风招展	tqab
 锇	tqag
 𩷦	tqag
@@ -216894,7 +216982,7 @@ $	kkmy
 𧠆	tqrk
 铁饼	tqru
 铁律	tqrx
-铫	tqs
+锤	tqs
 全智賢	tqsb
 今年花落颜色改	tqsb
 舍鱼而取熊掌者也	tqsc
@@ -216903,6 +216991,8 @@ $	kkmy
 𡯛	tqsf
 𬵚	tqsi
 铁幕	tqsj
+锤	tqsk
+𩸫	tqsk
 𡰛	tqsm
 𪙄	tqsm
 𮫳	tqso
@@ -216916,7 +217006,6 @@ $	kkmy
 铁芯	tqsy
 铁钉	tqta
 铁人	tqte
-铁锤	tqte
 铁锨	tqte
 铅版	tqte
 铅印	tqtf
@@ -216926,6 +217015,7 @@ $	kkmy
 今年八月十五夜	tqto
 铁片	tqtp
 公乎公乎挂罥于其间	tqtp
+铁锤	tqtq
 铁锹	tqtr
 铁锈	tqtr
 铁钳	tqts
@@ -216935,6 +217025,7 @@ $	kkmy
 全知全能	tqtv
 铁钩	tqtw
 今年人日空相忆	tqty
+锤炼	tqua
 𩶈	tqua
 铁床	tquf
 铁拳	tqug
@@ -216952,6 +217043,7 @@ $	kkmy
 铁线	tqvf
 䰴	tqvi
 𨰿	tqvi
+锤子	tqvk
 钓鱼台	tqvl
 𫓷	tqvn
 铁皮	tqvp
@@ -217034,7 +217126,6 @@ $	kkmy
 自得其乐	trdt
 余秋雨	trdy
 舍	tre
-须得垂杨相发挥	trea
 舍	tree
 𤗄	treh
 𰾊	treh
@@ -217182,6 +217273,7 @@ $	kkmy
 𰾺	trps
 全德之君子	trpv
 铭文	trpw
+须得垂杨相发挥	trqa
 𩺶	trqe
 𮬑	trqe
 𩼈	trqg
@@ -217222,7 +217314,6 @@ $	kkmy
 耸入云霄	trsd
 自称臣是酒中仙	trse
 劉德華	trsf
-劉德華	trsh
 用得著	trsh
 𫇙	trsm
 人皆有之	trsp
@@ -217230,6 +217321,7 @@ $	kkmy
 人得而诛之	trsp
 愈往而不知其所穷	trsp
 舍監	trsq
+劉德華	trss
 鱮	trst
 人皆有兄弟	trsu
 人皆有不忍人之心	trsy
@@ -217410,6 +217502,7 @@ $	kkmy
 自决权	tsfb
 臭棋	tsfd
 人而无信	tsfe
+从头再来	tsff
 版本	tsff
 长而无述焉	tsff
 片云天共远	tsff
@@ -217445,7 +217538,6 @@ $	kkmy
 𰾖	tsfw
 欲与王为好	tsgc
 𩹓	tsgd
-从头再来	tsgf
 版式	tsgf
 会面	tsgi
 版面	tsgi
@@ -217476,7 +217568,6 @@ $	kkmy
 昏头转向	tshr
 𩺆	tshr
 会考	tshs
-𩻮	tshs
 𫭣	tsht
 会场	tshv
 版塊	tshw
@@ -217684,6 +217775,7 @@ $	kkmy
 臯	tssd
 㒪	tssd
 𠑳	tssd
+𩻮	tssd
 版次	tsse
 坐井觀天	tssf
 𩹮	tssf
@@ -218888,6 +218980,7 @@ $	kkmy
 𮘐	tutu
 镀银	tutv
 手创	tutv
+鱶	tutv
 鮮魚	tuty
 手	tuu
 會議廳	tuua
@@ -219847,7 +219940,6 @@ $	kkmy
 劉華	twsf
 斧头	twsg
 人生在世	twsh
-劉華	twsh
 人生莫放酒杯干	twsh
 钧	twsi
 自然资源	twsi
@@ -219861,6 +219953,7 @@ $	kkmy
 𮸌	twsm
 人生在世间	twsp
 锤	twss
+劉華	twss
 𩸫	twss
 𮫶	twsv
 自然而然	twsw
@@ -221146,6 +221239,7 @@ $	kkmy
 變樣	ubfu
 首尾相應	ubfu
 蠻勁	ubfv
+廢棄	ubfv
 𧨇	ubfv
 記功	ubfx
 變大	ubgd
@@ -221278,9 +221372,9 @@ $	kkmy
 座对贤人酒	ubni
 變回	ubnl
 變頻	ubnm
-𣍄	ubno
 記過	ubnp
 廢柴	ubnr
+𣍄	ubnt
 廢黜	ubnx
 𧬲	ubnx
 烬	ubo
@@ -221438,6 +221532,7 @@ $	kkmy
 𧩱	ubus
 燈座	ubut
 彎道	ubut
+認養	ubut
 訓練營	ubuu
 𭙎	ubuu
 證詞	ubuv
@@ -222308,6 +222403,7 @@ $	kkmy
 訴權	uefs
 总的来看	ueft
 道傍榆荚仍似钱	ueft
+背信棄義	uefu
 𢊒	uefu
 庥	uefv
 烌	uefv
@@ -222522,9 +222618,6 @@ $	kkmy
 炵	uesi
 庝	uesi
 應募	uesj
-諈	uesj
-𭙣	uesj
-𱫘	uesj
 𧭕	uesm
 鹰犬	uesq
 鷹犬	uesq
@@ -222739,6 +222832,7 @@ $	kkmy
 师娘	ufco
 师院	ufco
 差异	ufcs
+𫤋	ufcx
 誣陷	ufcy
 庑	ufd
 普林斯顿	ufda
@@ -222889,6 +222983,7 @@ $	kkmy
 𬊃	ufkf
 养殖业	ufkg
 𤒊	ufkg
+𢈖	ufkh
 普天同慶	ufki
 廲	ufki
 𢌒	ufki
@@ -223125,7 +223220,6 @@ $	kkmy
 师爷	uftw
 𤐨	uftw
 𧭉	uftw
-𫤋	uftx
 火树银花合	ufty
 并吞八荒之心	ufty
 𩺃	ufty
@@ -223218,8 +223312,10 @@ $	kkmy
 𧦯	ufwt
 煉焦	ufwu
 𲁴	ufwv
+廢棄物	ufww
 壮烈牺牲	ufww
 𫌿	ufxc
+前功盡棄	ufxf
 床架	ufxl
 归来寻旧蹊	ufxn
 誱	ufxn
@@ -223655,7 +223751,6 @@ $	kkmy
 䛳	ugkd
 养蜂	ugke
 養蜂	ugke
-𢈖	ugkf
 美甲	ugkj
 蠤	ugkk
 𭚏	ugkk
@@ -223926,7 +224021,6 @@ $	kkmy
 庫藏	ugsg
 美菱	ugsh
 試著	ugsh
-養著	ugsh
 謹	ugsi
 廑	ugsi
 美萍	ugsi
@@ -224064,6 +224158,7 @@ $	kkmy
 𧩊	ugus
 試論	ugut
 誇說	ugut
+豢養	ugut
 羊羔	uguu
 养廉	uguu
 美談	uguu
@@ -224743,7 +224838,6 @@ $	kkmy
 总教练	uhva
 譸	uhva
 燽	uhva
-𤐭	uhva
 𦏟	uhva
 庄子	uhvk
 諸子	uhvk
@@ -225252,8 +225346,8 @@ $	kkmy
 单于	ujfa
 曾于	ujfa
 焊材	ujfa
-𤊢	ujfa
 㷸	ujfa
+𤊢	ujfa
 单项	ujfd
 課標	ujfd
 单板	ujfe
@@ -225338,7 +225432,6 @@ $	kkmy
 曾祖	ujhm
 姜是老的辣	ujho
 課表	ujhr
-㷸	ujhs
 𧨚	ujht
 識時達變	ujhu
 𤈡	ujhw
@@ -225498,6 +225591,9 @@ $	kkmy
 𤒹	ujsa
 前男友	ujsb
 应时而变者也	ujsc
+爗	ujsd
+𤒃	ujsd
+𤒹	ujsd
 熚	ujsd
 𧫤	ujsd
 𱛅	ujse
@@ -225517,9 +225613,6 @@ $	kkmy
 曾获	ujsr
 諯	ujsr
 𪹷	ujsr
-爗	ujss
-𤒃	ujss
-𤒹	ujss
 廙	ujst
 爆冷	ujst
 兾	ujst
@@ -226046,7 +226139,6 @@ $	kkmy
 誷	ukuu
 焹	ukuu
 𧦋	ukva
-度曲绿云垂	ukve
 𣴎	ukvg
 烛台	ukvl
 赢了	ukvl
@@ -226054,6 +226146,7 @@ $	kkmy
 普及	ukvo
 𣲱	ukvo
 𤆩	ukvo
+度曲绿云垂	ukvq
 𢇤	ukvu
 並能	ukvw
 並集	ukwf
@@ -227522,7 +227615,6 @@ $	kkmy
 火头	uosg
 美寶蓮	uosg
 美宝莲	uosh
-訪華	uosh
 該著	uosh
 关塞莽然平	uosh
 火苗	uosj
@@ -227531,6 +227623,7 @@ $	kkmy
 讓	uosr
 半夜凉初透	uosr
 爙	uosr
+訪華	uoss
 火井	uost
 北方有佳人	uost
 話裏有話	uosu
@@ -228372,6 +228465,9 @@ $	kkmy
 義無反顧	uqsi
 䛂	uqsj
 𤆭	uqsj
+諈	uqsk
+𭙣	uqsk
+𱫘	uqsk
 𢊙	uqsl
 託夢	uqsm
 𠝡	uqsm
@@ -228604,7 +228700,6 @@ $	kkmy
 庇佑	ures
 将佐	ures
 誘供	ures
-北郵	ures
 前程似锦	uret
 背信	ureu
 前程似錦	urew
@@ -228667,6 +228762,8 @@ $	kkmy
 桨	urfv
 北极	urfv
 北極	urfv
+背棄	urfv
+譭棄	urfv
 𪹊	urfv
 奖	urg
 計程車	urgc
@@ -228942,6 +229039,7 @@ $	kkmy
 𭙢	urqr
 䛢	urqr
 護衛艦	urqs
+北郵	urqs
 護衞艦	urqs
 𤏓	urqs
 營私舞弊	urqu
@@ -229489,7 +229587,6 @@ $	kkmy
 𮳫	usgu
 遮醜	usgw
 席勒	usgx
-譁	ush
 席地	ushc
 煤车	ushc
 并未	ushe
@@ -229513,8 +229610,6 @@ $	kkmy
 望而却步	ushn
 講壇	usho
 半落青天外	ushr
-譁	ushs
-燁	ushs
 并转	ushs
 兰考	ushs
 護髮	ushs
@@ -229838,6 +229933,8 @@ $	kkmy
 鄺	ussc
 遮荫	ussc
 遮蔭	ussc
+譁	ussd
+燁	ussd
 并茂	ussd
 𠦸	ussd
 兰花	usse
@@ -230002,11 +230099,13 @@ $	kkmy
 遮護	usus
 瓶底	usut
 講座	usut
+護養	usut
 𱝀	usut
 关节炎	usuu
 諮詢	usuw
 𧨔	usuw
 讀萬卷書	usux
+𤐭	usva
 𠬌	usve
 并线	usvf
 灯芯绒	usvg
@@ -230205,6 +230304,7 @@ $	kkmy
 首飛	utbk
 導納	utbk
 𩠧	utbl
+養母	utbm
 𧩒	utbm
 𬢶	utbm
 道統	utbo
@@ -230229,6 +230329,7 @@ $	kkmy
 美人如花隔云端	utci
 益阳	utcj
 益陽	utcj
+養女	utcn
 𩠟	utcn
 說媒	utcs
 𩠯	utcs
@@ -230245,6 +230346,7 @@ $	kkmy
 誨人不倦	utde
 前人栽树	utdf
 庆父不死	utdf
+養豬	utdh
 前人栽樹後人乘涼	utdi
 首页	utdk
 導電	utdk
@@ -230261,6 +230363,7 @@ $	kkmy
 道破	utdv
 說破	utdv
 說成	utdv
+養成	utdv
 首期	utdw
 試用期	utdw
 美人不来空断肠	utdw
@@ -230272,6 +230375,7 @@ $	kkmy
 底價	uted
 首任	utee
 首例	utef
+養兵	utef
 𦍏	uteg
 𫷷	utei
 首位	utei
@@ -230280,11 +230384,13 @@ $	kkmy
 益处	utem
 首個	uten
 說個	uten
+養傷	uteq
 底货	uter
 底貨	uter
 望今后有远行	uter
 底价	utet
 庂	uteu
+養雞	utev
 論爭	utex
 說你	utey
 論	utf
@@ -230350,11 +230456,14 @@ $	kkmy
 論述	utfo
 𫗹	utfo
 𮩢	utfo
+𱃮	utfo
 底楼	utfp
 道来	utfp
 座机	utfq
 单片机	utfq
 美人一笑褰珠箔	utfq
+養殖	utfr
+𡗍	utfr
 首开	utfs
 底板	utfs
 導板	utfs
@@ -230364,12 +230473,16 @@ $	kkmy
 底樣	utfu
 𩠤	utfu
 㢘	utfu
+養	utfv
 座機	utfv
 庈	utfv
 訡	utfv
 𩠳	utfw
+𩁥	utfw
+𩴽	utfw
 首功	utfx
 論功	utfx
+㔦	utfx
 遂令天下父母心	utfy
 𭶖	utfy
 𮙄	utfy
@@ -230379,6 +230492,7 @@ $	kkmy
 詮	utg
 道奇	utga
 首車	utgc
+養大	utgd
 馘	utgf
 首輔	utgf
 𩉕	utgg
@@ -230411,12 +230525,14 @@ $	kkmy
 首都	uthj
 道場	uthj
 首場	uthj
+養神	uthk
 導刊	uthm
 說到	uthm
 底墒	utho
 論壇	utho
 𰝾	utho
 導熱	uthq
+養老	uthr
 望长城内外	uthr
 首轮	utht
 底土	utht
@@ -230447,6 +230563,8 @@ $	kkmy
 首演	utio
 導演	utio
 羡长江之无穷	utip
+養活	utir
+養漢	utis
 診治	utiv
 道学	utiy
 熘	utj
@@ -230469,6 +230587,7 @@ $	kkmy
 𧪭	utjt
 道明	utjw
 說明	utjw
+養胃	utjw
 𮩥	utjw
 首	utk
 詯	utka
@@ -230476,6 +230595,7 @@ $	kkmy
 𧌶	utkc
 首	utke
 底閥	utke
+養蜂	utke
 ⾸	utke
 首開	utkf
 說開	utkf
@@ -230542,6 +230662,7 @@ $	kkmy
 道具	utmt
 㡻	utmu
 說罷	utmv
+養眼	utmv
 𬳘	utmw
 盲人瞎马	utmx
 鹢	utmy
@@ -230552,6 +230673,7 @@ $	kkmy
 夔	utne
 道路	utne
 底图	utne
+養路	utne
 美人踏上歌舞来	utnf
 𩠲	utnf
 酋长国	utng
@@ -230577,6 +230699,7 @@ $	kkmy
 羚	utob
 道家	utod
 首家	utod
+養家	utod
 說客	utoe
 𢉄	utoe
 首富	utof
@@ -230608,6 +230731,7 @@ $	kkmy
 論敵	utou
 关键字	utov
 关键词	utov
+養育	utov
 庈	utov
 訡	utov
 道义	utow
@@ -230624,6 +230748,7 @@ $	kkmy
 𨓍	utpd
 底阀	utpe
 𬳛	utpe
+養病	utpf
 𣜦	utpf
 診療	utpg
 說穿	utph
@@ -230639,6 +230764,8 @@ $	kkmy
 㘏	utpr
 䆃	utpr
 底料	utps
+養料	utps
+養顏	utps
 底裤	utpu
 底褲	utpu
 前人之述备矣	utpv
@@ -230660,6 +230787,7 @@ $	kkmy
 導管	utqo
 底氣	utqp
 詮釋	utqp
+養氣	utqp
 底气	utqq
 底盤	utqq
 底儿	utqr
@@ -230702,6 +230830,7 @@ $	kkmy
 首季	utrv
 道學	utrw
 應用科學	utrw
+養狗	utrw
 烩	uts
 益友	utsb
 道友	utsb
@@ -230714,12 +230843,14 @@ $	kkmy
 首次	utse
 座次	utse
 半自动化	utse
+養花	utse
 論難	utsf
 道藏	utsg
 𮩠	utsg
 論著	utsh
 論藝	utsh
 說著	utsh
+養著	utsh
 底薪	utsi
 座落	utsi
 𦍰	utsj
@@ -230750,9 +230881,11 @@ $	kkmy
 燧人氏	utta
 庸人自擾	utta
 道岔	uttb
+養分	uttb
 道人	utte
 底版	utte
 試用版	utte
+養人	utte
 𢊦	utte
 𢊿	utte
 𢋌	utte
@@ -230799,10 +230932,12 @@ $	kkmy
 𧧡	uttv
 𩠠	uttv
 底牌	uttw
+養父	uttw
 𬳖	uttx
 鯗	utty
 美人魚	utty
 炒魷魚	utty
+養魚	utty
 熄灯	utua
 導言	utua
 𧦌	utua
@@ -230832,6 +230967,7 @@ $	kkmy
 首度	utus
 導護	utus
 說謊	utus
+養護	utus
 底座	utut
 首座	utut
 废铜烂铁	utut
@@ -230845,6 +230981,7 @@ $	kkmy
 𩠬	utut
 座談	utuu
 論説	utuu
+養廉	utuu
 𭙕	utuu
 座前	utuw
 道謝	utuw
@@ -230861,8 +230998,10 @@ $	kkmy
 炝	utvi
 底细	utvj
 底子	utvk
+養子	utvk
 導彈	utvl
 說了	utvl
+養了	utvl
 導引	utvn
 道统	utvo
 論及	utvo
@@ -230887,12 +231026,14 @@ $	kkmy
 半自動化	utwe
 診脈	utwe
 𩠩	utwe
+養生	utwg
 座鐘	utwi
 半自動	utwk
 首鋼	utwk
 議會制	utwk
 說動	utwk
 首告	utwl
+養身	utwm
 𭶣	utwm
 羚牛	utwn
 熗鍋	utwn
@@ -230945,7 +231086,9 @@ $	kkmy
 𩠱	utyp
 首飾	utyq
 美人懒态燕脂愁	utyr
+養貓	utys
 𢊧	utyu
+養性	utyw
 𩼊	utyw
 广	uu
 广大	uu
@@ -231540,7 +231683,6 @@ $	kkmy
 庭前芍药妖无格	uusf
 炯炯有神	uush
 卷烟厂	uush
-榮華	uush
 烂	uusi
 熒幕	uusj
 螢幕	uusj
@@ -231559,6 +231701,7 @@ $	kkmy
 榮譽	uusq
 善舉	uusq
 炎黃	uuss
+榮華	uuss
 灼灼芙蓉姿	uuss
 𤊼	uuss
 謙恭	uust
@@ -231686,6 +231829,7 @@ $	kkmy
 談論	uuut
 議論	uuut
 談說	uuut
+營養	uuut
 燫	uuut
 譧	uuut
 燚	uuuu
@@ -232897,6 +233041,7 @@ $	kkmy
 調度	uwus
 前導	uwut
 誰說	uwut
+調養	uwut
 廆	uwuu
 盲肠炎	uwuu
 調羹	uwuu
@@ -234485,7 +234630,6 @@ $	kkmy
 及其使人也	vdec
 颇佳	vdeh
 頗佳	vdeh
-终古垂杨有暮鸦	vdeh
 续保	vdel
 绑住	vdeo
 经不住	vdeo
@@ -234637,6 +234781,7 @@ $	kkmy
 疏不间亲	vdpi
 迅疾	vdpq
 终朝风不休	vdqe
+终古垂杨有暮鸦	vdqh
 续篇	vdqi
 乃不知有汉	vdqi
 幾十年如一日	vdqj
@@ -234910,8 +235055,6 @@ $	kkmy
 孔丘盗跖俱尘埃	vesh
 终	vesi
 绵薄	vesi
-缍	vesj
-𢏴	vesj
 缓冲	vesl
 缓存	vesn
 缴存	vesn
@@ -234926,12 +235069,12 @@ $	kkmy
 书何氏宅壁	vetb
 终须	vetd
 买受人	vete
-纵使长条似旧垂	vete
 绵长	veth
 𰬐	veti
 𮱵	veti
 绺	vetl
 缴销	vetm
+纵使长条似旧垂	vetq
 缓手	vetu
 缴公	vetv
 绵羊	veug
@@ -235886,7 +236029,6 @@ $	kkmy
 張華	vhsf
 𪤘	vhsf
 辔头	vhsg
-張華	vhsh
 绝世而独立	vhsi
 结冰	vhsk
 𫷟	vhsk
@@ -235894,6 +236036,7 @@ $	kkmy
 参考资料	vhsp
 參考資料	vhsp
 孤城落日斗兵稀	vhsr
+張華	vhss
 垦荒	vhsu
 结节	vhsx
 張莊	vhsx
@@ -237889,7 +238032,6 @@ $	kkmy
 统分	votb
 子为父隐	votc
 𮉬	votd
-纺锤	vote
 缩印	votf
 参谋长	voth
 张家长	voth
@@ -237901,6 +238043,7 @@ $	kkmy
 孤高耸天宫	voto
 幼为长所育	voto
 细语人不闻	votp
+纺锤	votq
 参议会	vots
 恳谈会	vots
 孤客自悲凉	vots
@@ -238411,7 +238554,6 @@ $	kkmy
 𡕬	vqeq
 𠒕	vqer
 鵕	vqer
-鄉郵	vqes
 及第后寄长安故人	vqet
 皴	vqev
 𭘁	vqev
@@ -238588,6 +238730,7 @@ $	kkmy
 孤舟	vqqo
 𦩉	vqqo
 孤儿	vqqr
+鄉郵	vqqs
 響箭	vqqu
 丝竹管弦	vqqv
 乡风	vqqw
@@ -238620,6 +238763,8 @@ $	kkmy
 孤苦	vqsd
 乡愿	vqse
 鄉愿	vqse
+缍	vqsk
+𢏴	vqsk
 弧菌	vqsn
 𱲄	vqss
 乡井	vqst
@@ -239724,6 +239869,7 @@ $	kkmy
 能説會道	vutu
 能說會道	vutu
 弹仓	vutv
+𩜒	vutv
 结庐锦水边	vutx
 缮	vuu
 災變	vuub
@@ -241515,8 +241661,8 @@ $	kkmy
 䏪	wary
 𦔰	wary
 特拉華	wasf
-特拉華	wash
 重操舊業	wask
+特拉華	wass
 射进	wast
 月下花前	wasu
 𮢂	watb
@@ -241545,7 +241691,6 @@ $	kkmy
 釘子	wavk
 鑷子	wavk
 鈍響	wavq
-釘錘	wawe
 射杀	wawf
 射殺	wawf
 𱰈	wawg
@@ -241556,6 +241701,7 @@ $	kkmy
 肘腕	wawo
 缻	wawo
 射進	wawp
+釘錘	wawq
 釘錘	waww
 肫	wax
 肫	waxg
@@ -241958,7 +242104,6 @@ $	kkmy
 𱐸	wcem
 包修	wcen
 包住	wceo
-包郵	wces
 包伙	wceu
 肥仔	wcev
 包你	wcey
@@ -242086,6 +242231,7 @@ $	kkmy
 𦠈	wcql
 包管	wcqo
 𨥨	wcqp
+包郵	wcqs
 𱐻	wcqt
 金陵凤凰台	wcqv
 𱂿	wcrf
@@ -242145,6 +242291,7 @@ $	kkmy
 包庇	wcur
 包席	wcus
 重阳席上赋白菊	wcus
+包養	wcut
 包缝	wcve
 包子	wcvk
 刨子	wcvk
@@ -242767,7 +242914,6 @@ $	kkmy
 䥤	wdwc
 𦡕	wdwc
 腰肢	wdwd
-鐵錘	wdwe
 鐵鍁	wdwe
 針鋒	wdwe
 䥳	wdwe
@@ -242788,6 +242934,7 @@ $	kkmy
 鐵牛	wdwn
 鐵腕	wdwo
 鐵勺	wdwo
+鐵錘	wdwq
 鐵鍬	wdwr
 鐵鉗	wdws
 膨胀	wdwt
@@ -242848,7 +242995,6 @@ $	kkmy
 胳	we
 胳膊	we
 胳臂	we
-錘打	weaa
 鍛打	weaa
 然后可以为民父母	weab
 脟	weac
@@ -242932,7 +243078,6 @@ $	kkmy
 𨯎	wedx
 脑体倒挂	weea
 𬂗	weee
-脑垂体	weef
 腺体	weef
 鍁	weei
 𦜓	weei
@@ -243073,7 +243218,6 @@ $	kkmy
 肥皂劇	wemd
 缺斤少两	wemf
 缺斤少兩	wemf
-腦垂體	wemk
 腺體	wemk
 𦜵	weml
 𨪾	wemt
@@ -243169,29 +243313,24 @@ $	kkmy
 䐚	werx
 脈	wery
 䤨	wery
-錘	wes
 錦葵	wesb
 重修舊好	wesc
 錄像帶	wesf
 錦華	wesf
 𮣏	wesf
-錦華	wesh
 鉖	wesi
 𠣒	wesi
 𦙭	wesi
-錘	wesj
 牧草	wesj
 鍛壓	wesj
 欽慕	wesj
-腄	wesj
-䍋	wesj
-𨉡	wesj
 𨦜	wesk
 杀伐决断	wesp
 𤚓	wesp
 牧犬	wesq
 𨦛	wesq
 𭯡	wesr
+錦華	wess
 身后有余忘缩手	west
 𮉹	west
 𮣆	west
@@ -243238,7 +243377,6 @@ $	kkmy
 集体经济	wevi
 牝雞司晨	wevj
 脬	wevk
-錘子	wevk
 鋢	wevk
 𤙤	wevk
 𦈴	wevk
@@ -243260,7 +243398,6 @@ $	kkmy
 錚錚	wewe
 胳膊	wewf
 鍛鍊	wewf
-錘鍊	wewf
 服务生	wewg
 脑白金	wewj
 腦白金	wewj
@@ -243431,7 +243568,6 @@ $	kkmy
 殺傷	wfeq
 鋪貨	wfer
 告一段落	wfes
-集郵	wfes
 杀价	wfet
 周杰伦	wfet
 周杰倫	wfet
@@ -243447,7 +243583,6 @@ $	kkmy
 𩏴	wffc
 生死相依	wffe
 鋪板	wffe
-千株万片绕林垂	wffe
 千树万树梨花开	wfff
 千村万落生荆杞	wfff
 𰘞	wfff
@@ -243466,6 +243601,7 @@ $	kkmy
 𡯀	wffm
 𨭣	wffn
 杀机	wffq
+千株万片绕林垂	wffq
 杀死	wffr
 肛裂	wffr
 殺死	wffr
@@ -243592,6 +243728,7 @@ $	kkmy
 𨦉	wfkf
 𨶓	wfkf
 重工业	wfkg
+𦛍	wfkh
 𨰣	wfki
 殺蟲	wfkk
 刹閘	wfkk
@@ -243784,6 +243921,7 @@ $	kkmy
 腰板儿	wfqr
 𪄅	wfqr
 𪄅	wfqr
+集郵	wfqs
 𦈪	wfqs
 𤍁	wfqu
 金枪鱼	wfqy
@@ -244220,7 +244358,6 @@ $	kkmy
 䤶	wgkd
 𨉚	wgkd
 𩳢	wgkd
-𦛍	wgkf
 生业	wgkg
 𨧄	wgkj
 膩蟲	wgkk
@@ -244430,6 +244567,7 @@ $	kkmy
 生煤	wgus
 𦜮	wgus
 𨨆	wgus
+生養	wgut
 生理半人禽	wgut
 𨭼	wguu
 生詞	wguv
@@ -245738,6 +245876,7 @@ $	kkmy
 鏎	wjsa
 𨯮	wjsa
 月照花林皆似霰	wjsd
+𨯮	wjsd
 魓	wjsd
 鏎	wjsd
 金花	wjse
@@ -245746,7 +245885,6 @@ $	kkmy
 錄影帶	wjsf
 金蓮	wjsg
 金莲	wjsh
-金華	wjsh
 錌	wjsh
 金莎	wjsi
 𨥉	wjsj
@@ -245767,7 +245905,7 @@ $	kkmy
 𣎦	wjsr
 𰹄	wjsr
 金黃	wjss
-𨯮	wjss
+金華	wjss
 𦝈	wjst
 𩴜	wjst
 𩲀	wjsu
@@ -246057,7 +246195,6 @@ $	kkmy
 千伏	wkes
 製備	wkes
 銅仁	wkes
-重郵	wkes
 𠏳	wket
 䰠	wkeu
 制件	wkew
@@ -246391,6 +246528,7 @@ $	kkmy
 𫒗	wkqp
 然则我何为乎	wkqq
 千兆	wkqs
+重郵	wkqs
 𤊝	wkqu
 鋼筋	wkqw
 鋼筆	wkqx
@@ -248725,6 +248863,7 @@ $	kkmy
 先	wq
 先生	wq
 先进	wq
+錘打	wqaa
 选择	wqab
 选取	wqab
 先哲	wqae
@@ -248804,6 +248943,7 @@ $	kkmy
 先例	wqef
 肌体	wqef
 选段	wqef
+脑垂体	wqef
 𦠱	wqeg
 躲债	wqeh
 躲債	wqeh
@@ -248998,6 +249138,7 @@ $	kkmy
 肌膚	wqmj
 𤚞	wqmj
 肌體	wqmk
+腦垂體	wqmk
 选战	wqml
 䥷	wqmm
 𪱢	wqmm
@@ -249119,6 +249260,7 @@ $	kkmy
 选秀	wqrv
 先後	wqrv
 忽复乘舟梦日边	wqrx
+錘	wqs
 𨮧	wqsa
 𭩐	wqsa
 先决	wqsb
@@ -249134,6 +249276,10 @@ $	kkmy
 赞慕	wqsj
 贊慕	wqsj
 𱆗	wqsj
+錘	wqsk
+腄	wqsk
+䍋	wqsk
+𨉡	wqsk
 躲在	wqsn
 朓	wqss
 脁	wqss
@@ -249196,6 +249342,7 @@ $	kkmy
 肐	wqvi
 釳	wqvi
 股子	wqvk
+錘子	wqvk
 鉛彈	wqvl
 𠒒	wqvn
 𦛔	wqvn
@@ -249211,6 +249358,7 @@ $	kkmy
 先鋒	wqwe
 𣀹	wqwe
 选集	wqwf
+錘鍊	wqwf
 先生	wqwg
 肌肤	wqwg
 腹脹	wqwh
@@ -249820,8 +249968,6 @@ $	kkmy
 鑉	wshm
 𠤅	wshm
 郵址	wshn
-鏵	wshs
-𦠜	wshs
 𡉲	wsht
 郵報	wshu
 𦢃	wshu
@@ -250087,6 +250233,8 @@ $	kkmy
 郵	wssc
 千難萬險	wssc
 𥡭	wssc
+鏵	wssd
+𦠜	wssd
 𩣷	wssd
 郵資	wsse
 𮢞	wsse
@@ -251555,6 +251703,7 @@ $	kkmy
 脱手	wutu
 隻言片語	wutu
 𰯧	wutu
+䑆	wutv
 脱钩	wutw
 𭩍	wutw
 鬼	wuu
@@ -252048,12 +252197,12 @@ $	kkmy
 銀華	wvsf
 躱藏	wvsg
 胎压	wvsh
-銀華	wvsh
 𰼠	wvsi
 銀幕	wvsj
 胎壓	wvsj
 銀英	wvsk
 躱在	wvsn
+銀華	wvss
 臘黃	wvss
 䐞	wvss
 𨉱	wvss
@@ -252943,7 +253092,6 @@ $	kkmy
 鍾華	wwsf
 千金散尽还复来	wwsf
 𤙊	wwsf
-鍾華	wwsh
 學藝	wwsh
 覺著	wwsh
 學著	wwsh
@@ -252962,6 +253110,7 @@ $	kkmy
 錘	wwss
 千千萬萬	wwss
 雙黃	wwss
+鍾華	wwss
 鬱鬱蔥蔥	wwss
 肌肤冰雪莹	wwss
 腄	wwss
@@ -253987,7 +254136,6 @@ $	kkmy
 包心菜	wyse
 月華	wysf
 月头	wysg
-月華	wysh
 月薪	wysi
 月落	wysi
 脆薄	wysi
@@ -253999,6 +254147,7 @@ $	kkmy
 𦞕	wysq
 𨩀	wysq
 月曆	wysr
+月華	wyss
 忽惊二十五万丈	wyss
 𦡽	wyst
 膽	wysu
@@ -254967,6 +255116,7 @@ $	kkmy
 发货单	xeuj
 收訖	xeuq
 收益	xeut
+收養	xeut
 马后炮	xeuw
 收归	xeux
 收缴	xeve
@@ -255079,14 +255229,19 @@ $	kkmy
 以一奉百	xfgd
 𩧩	xfgg
 尋醫	xfgq
+𢼟	xfhb
+𣢫	xfhe
 卫士	xfhf
 卫视	xfhk
 盡責	xfhm
 尋到	xfhm
 盡到	xfhm
 尋址	xfhn
+𤝶	xfhs
+𡉚	xfht
 牀墊	xfhu
 盡孝	xfhv
+𢙌	xfhy
 尋親	xfif
 㞢	xfig
 卫	xfij
@@ -255297,7 +255452,6 @@ $	kkmy
 𩧼	xgds
 骑兵	xgef
 驱使	xgef
-𣢫	xgei
 驱迫	xgep
 骑术	xgfo
 𬳹	xgfs
@@ -255342,14 +255496,12 @@ $	kkmy
 𰷍	xglm
 𫻶	xglv
 马大哈	xgly
-𢼟	xgmb
 戕賊	xgmg
 𤖙	xgmn
 𨡰	xgmn
 奬勤罰懶	xgmy
 獎勤罰懶	xgmy
 㞷	xgng
-𡉚	xgng
 发达国家	xgno
 发奋图强	xgnv
 马革裹尸	xgob
@@ -255415,7 +255567,6 @@ $	kkmy
 骑马	xgxm
 加班加點	xgxn
 马达加斯加	xgxx
-𢙌	xgyi
 𫵯	xgyi
 𢍿	xgyp
 奘	xh
@@ -256949,11 +257100,11 @@ $	kkmy
 𢑴	xpbg
 彞	xpbs
 边民	xpca
-边陲	xpce
 边际	xpch
 𩨇	xpcn
 边防	xpco
 出门如见大宾	xpco
+边陲	xpcq
 𨑏	xpdj
 边	xpdk
 𲅎	xpdm
@@ -257373,7 +257524,6 @@ $	kkmy
 尋歡作樂	xsee
 君臣佐使	xsee
 𫘪	xsem
-翼若垂天之云	xses
 出厂价	xset
 出头的椽子先烂	xseu
 加在一起	xsfd
@@ -257410,7 +257560,6 @@ $	kkmy
 𢑔	xslv
 𱅆	xslv
 𬴐	xslw
-𮊷	xsmo
 君臣尚论兵	xsne
 君与恩铭不老松	xsnf
 𠡘	xsnh
@@ -257427,6 +257576,7 @@ $	kkmy
 驱动盘	xsqm
 狀	xsqp
 狀	xsqp
+翼若垂天之云	xsqs
 𤖐	xsqt
 加减乘除	xsrc
 君莫向秋浦	xsri
@@ -259393,7 +259543,6 @@ $	kkmy
 𩜧	ybeq
 怪傑	yber
 情緒化	yber
-快郵	ybes
 惯偷	ybet
 慣偷	ybet
 快信	ybeu
@@ -259535,6 +259684,7 @@ $	kkmy
 心織筆耕	ybqd
 快艇	ybqe
 𠑾	ybqr
+快郵	ybqs
 𠈽	ybqt
 怩	ybr
 飽經風霜	ybrd
@@ -259595,6 +259745,7 @@ $	kkmy
 怪道	ybut
 怪論	ybut
 快說	ybut
+慣養	ybut
 快説	ybuu
 怪談	ybuu
 快递	ybuv
@@ -260559,8 +260710,6 @@ $	kkmy
 貌偷花色老暂去	yesh
 㤏	yesi
 𧲴	yesi
-𢛉	yesj
-𩜀	yesj
 𢥕	yesk
 合歡	yesl
 飲譽	yesq
@@ -261310,7 +261459,6 @@ $	kkmy
 合理化	yger
 運貨	yger
 軍備	yges
-軍郵	yges
 軍樂	ygev
 𢣥	ygey
 軍棋	ygfd
@@ -261458,6 +261606,7 @@ $	kkmy
 怄气	ygqq
 𩜚	ygqq
 軍艦	ygqs
+軍郵	ygqs
 争奈乍圆还缺	ygqw
 運行	ygra
 餞行	ygra
@@ -261546,6 +261695,7 @@ $	kkmy
 𦒣	ygxe
 𢝎	ygxg
 軍裝	ygxh
+𢝎	ygxh
 怴	ygxi
 軍力	ygxk
 運力	ygxk
@@ -262573,6 +262723,7 @@ $	kkmy
 悍将	yjur
 龜背	yjur
 慢道	yjut
+餵養	yjut
 𢘏	yjvj
 兔崽子	yjvk
 𢚼	yjvo
@@ -262959,7 +263110,6 @@ $	kkmy
 𬅠	ylei
 悜	ylen
 𩛦	ylen
-免郵	yles
 免俗	ylet
 逸樂	ylev
 免受	yley
@@ -263102,6 +263252,7 @@ $	kkmy
 𩚶	ylqr
 𬷖	ylqr
 免	ylqr
+免郵	ylqs
 𩆟	ylqs
 𫥎	ylqs
 𠒾	ylqs
@@ -264579,6 +264730,8 @@ $	kkmy
 𢚮	yqsf
 餓著	yqsh
 𢗢	yqsj
+𢛉	yqsk
+𩜀	yqsk
 𢥸	yqsm
 杂乎芒芴之间	yqsp
 𧲶	yqsq
@@ -265079,7 +265232,6 @@ $	kkmy
 惊魂未定	ysho
 心荡神迷	yshp
 心蕩神迷	yshp
-㦊	yshs
 𢘪	ysht
 愣头青	yshw
 𫻄	yshw
@@ -265315,6 +265467,7 @@ $	kkmy
 慌乱	ysrx
 𢤄	ysry
 食	yss
+㦊	yssd
 飯菜	ysse
 危難	yssf
 𢜮	yssf
@@ -266112,6 +266265,7 @@ $	kkmy
 解頤	ytsd
 䝥	ytsd
 𢡋	ytsd
+𧤻	ytsd
 解藥	ytse
 𧤼	ytse
 解凍	ytsf
@@ -266143,7 +266297,6 @@ $	kkmy
 拿获	ytsr
 蟹黃	ytss
 𧣑	ytss
-𧤻	ytss
 觵	ytst
 觾	ytsu
 触动	ytsv
@@ -266535,6 +266688,8 @@ $	kkmy
 惦念	yuto
 𱞧	yuto
 悦铃	yutt
+懩	yutv
+䭥	yutv
 𢣶	yuua
 惦記	yuub
 㦪	yuub
@@ -266822,6 +266977,7 @@ $	kkmy
 惱火	yvuo
 懇託	yvuq
 惨状	yvus
+飼養	yvut
 懇談	yvuu
 慘	yvv
 厹	yvvf
@@ -267691,6 +267847,7 @@ $	kkmy
 争权	yxfb
 𭣰	yxfe
 快马一鞭	yxfg
+𢚇	yxfh
 急救	yxfk
 𩝚	yxfk
 急速	yxfl
@@ -267708,7 +267865,6 @@ $	kkmy
 𢎍	yxgf
 急轉	yxgg
 争春	yxgj
-𢚇	yxgn
 煞车	yxhc
 㦎	yxhf
 𢙳	yxhf
