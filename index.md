@@ -82,6 +82,8 @@ nav_order: 1
 
 [![宇浩输入法宋体字根图](./image/宇浩输入法宋体字根图v2olkb.png)](./image/宇浩输入法宋体字根图v2olkb.png)
 
+[宇浩输入法字根归并详表](https://github.com/forFudan/yuhao/releases/download/v3.0.0/default.pdf)列出部分易混淆字根的归并和录属关系。本表依据实际需求而更新。
+
 当前，宇浩输入法的核心维护工作 90% 以上内容是修正和完善「宇浩拆分」、优化 Rime 平台功能。
 
 ## 特点
