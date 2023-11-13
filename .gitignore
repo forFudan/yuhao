@@ -20,6 +20,7 @@ _site/
 # Ignore distributions
 /dist/*.zip
 /dist/yuhao/*.png
+/dist/hamster
 
 # Ignore extra key maps
 /beta/mabiao/*.png
