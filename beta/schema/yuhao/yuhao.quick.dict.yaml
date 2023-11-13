@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20231106
+# 版本: 20231105
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.quick"
-version: "20231106"
+version: "20231105"
 sort: original
 columns:
   - text
@@ -397,7 +397,7 @@ columns:
 瞪	mb
 眠	mc
 置	md
-瞬	me
+睡	me
 目	mf
 骨	mg
 光	mh
@@ -1015,7 +1015,7 @@ columns:
 小事	ma
 瞪大	mb
 置换	md
-瞬间	me
+睡觉	me
 目前	mf
 骨头	mg
 光线	mh
@@ -1616,7 +1616,7 @@ columns:
 盯住	ma
 瞪眼	mb
 置身	md
-瞬息	me
+睡眠	me
 目标	mf
 骨髓	mg
 光芒	mh
@@ -1966,6 +1966,7 @@ columns:
 踅	aen
 拆	aeo
 逝	aep
+捶	aes
 誓	aeu
 挺	aex
 授	aey
@@ -2276,7 +2277,6 @@ columns:
 彝	bpb
 屎	bpm
 紋	bpw
-綞	bqs
 紇	bqv
 屐	brd
 總	bre
@@ -2370,6 +2370,7 @@ columns:
 妊	cen
 妖	ceo
 韜	cer
+陲	ces
 娇	cet
 嫒	cey
 妩	cfd
@@ -2895,7 +2896,7 @@ columns:
 佞	esc
 佐	esf
 仁	esi
-借	esj
+垂	esj
 螽	esk
 佑	esl
 佈	esm
@@ -3007,6 +3008,7 @@ columns:
 棉	fem
 檄	feo
 桦	fer
+棰	fes
 桥	fet
 桴	fev
 梃	fex
@@ -3064,7 +3066,6 @@ columns:
 惡	fjy
 贡	fkb
 棘	fkf
-再	fkh
 柙	fkj
 樱	fkk
 櫚	fkl
@@ -3161,6 +3162,7 @@ columns:
 歿	frw
 邢	fsc
 橱	fsf
+樺	fsh
 模	fsj
 巧	fsk
 權	fsl
@@ -3319,7 +3321,7 @@ columns:
 奋	gjt
 鞨	gjw
 奄	gkd
-酮	gkf
+再	gkf
 鞅	gkg
 匣	gkj
 理	gkk
@@ -3581,7 +3583,6 @@ columns:
 垛	hqf
 轶	hqg
 祚	hqm
-埵	hqs
 圪	hqv
 耋	hrh
 耆	hrj
@@ -4449,7 +4450,6 @@ columns:
 叽	lqj
 咋	lqm
 兄	lqr
-唾	lqs
 呱	lqu
 叱	lri
 嘚	lrj
@@ -4460,13 +4460,13 @@ columns:
 啾	lru
 嗬	lse
 嘆	lsf
-囈	lsh
+嘩	lsh
 喵	lsj
 喱	lsk
 饕	lsm
 嚆	lso
 吠	lsq
-嘩	lss
+喏	lss
 囌	lst
 噘	lsu
 呃	lsv
@@ -4552,6 +4552,7 @@ columns:
 處	meq
 眾	met
 睜	mex
+瞬	mey
 盱	mfa
 齬	mfc
 賦	mfg
@@ -4634,7 +4635,7 @@ columns:
 省	mqm
 帆	mqo
 眨	mqp
-睡	mqs
+眺	mqs
 劣	mqx
 餐	mrb
 眊	mrm
@@ -5878,7 +5879,6 @@ columns:
 藜	srw
 蓐	ssa
 邯	ssc
-華	ssd
 茨	sse
 某	ssf
 靥	ssg
@@ -5888,6 +5888,7 @@ columns:
 惹	ssl
 茬	ssn
 厌	ssq
+飙	sss
 脊	sst
 蕨	ssu
 芸	ssv
@@ -6017,6 +6018,7 @@ columns:
 铬	tel
 锦	tem
 铧	ter
+锤	tes
 钨	tew
 铤	tex
 铻	tfc
@@ -6113,7 +6115,7 @@ columns:
 钏	tqc
 铅	tql
 钒	tqo
-锤	tqs
+铫	tqs
 舍	tre
 穌	trh
 仑	tri
@@ -6356,6 +6358,7 @@ columns:
 瓶	usa
 羡	use
 度	usf
+譁	ush
 兰	usi
 謨	usj
 講	usk
@@ -6643,6 +6646,7 @@ columns:
 鉻	wel
 錦	wem
 脈	wer
+錘	wes
 鑠	wev
 膊	wfa
 牾	wfc
@@ -6759,7 +6763,6 @@ columns:
 鉛	wql
 胙	wqm
 选	wqp
-錘	wqs
 胍	wqu
 赞	wqw
 歃	wre
@@ -7289,7 +7292,6 @@ columns:
 豸	ykk
 豕	dss
 糸	bss
-卅	sss
 僉	rll
 囗	nww
 殳	qhh
@@ -8085,6 +8087,7 @@ columns:
 角	ywh
 毒	hbs
 羞	uqb
+垂	wss
 呈	len
 羌	uqr
 韭	fnn
@@ -11032,10 +11035,10 @@ columns:
 𩡬	dsi
 𥐧	dsj
 𥐫	dsj
+𩡧	dsj
 𧟤	dsj
 𧟥	dsj
 𨑇	dsn
-𩡧	dss
 𩡮	dte
 𡯈	dte
 𥐙	dti
@@ -11189,9 +11192,9 @@ columns:
 𠂢	ery
 𠈄	esc
 𠀉	esi
+𤽒	esj
 𤝡	esq
 𤝀	esq
-𤽒	ess
 𠆧	ete
 𡕓	eti
 𠇩	etm
@@ -12233,7 +12236,7 @@ columns:
 𠲬	lsc
 𠮡	lsi
 𠮽	lsj
-𠯢	lss
+𠯢	lsj
 𠃢	lti
 𠰭	ltm
 𠰩	ltn
@@ -13394,8 +13397,8 @@ columns:
 𦬔	sek
 𦣠	sen
 𦬰	sen
-𠥻	sfi
 𠀍	sfi
+𠥻	sfi
 𠗒	sfu
 𨊦	sgc
 𡘡	sgd
@@ -13460,11 +13463,11 @@ columns:
 𦣩	ssc
 𦫽	ssi
 𠦌	ssj
+𢌽	ssj
 𦬇	ssj
+𦬢	ssj
 𦬫	ssq
 𦓔	ssr
-𦬢	sss
-𢌽	sss
 𦫸	ste
 𦤄	stk
 𦤅	stk
@@ -14197,6 +14200,7 @@ columns:
 𤕬	xfi
 𡗖	xgd
 𢦐	xgg
+𡉚	xgn
 𨟻	xgo
 𢍿	xgy
 𥘐	xhs
@@ -15001,7 +15005,7 @@ columns:
 𬨗	hox
 𬨁	hrm
 𬷔	hro
-𫭜	hss
+𫭜	hsj
 𬛱	hte
 𫭗	hti
 𫭡	htp
@@ -17042,6 +17046,7 @@ columns:
 杞	fbj
 𣑭	fnc
 𣏃	fxl
+再	gkf
 玥	gwy
 切	hbd
 𥘦	heh
