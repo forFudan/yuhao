@@ -248,7 +248,7 @@ yuhao_macro:
           end
 
 punctuator:
-  import_preset: symbols_yuhao
+  import_preset: yuhao.symbols
   half_shape:
     "%": "%"
     "*": "*"

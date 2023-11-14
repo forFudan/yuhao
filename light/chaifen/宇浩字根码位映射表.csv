@@ -60,7 +60,6 @@ repr,font,zhu_code
 臣,臣,Sc
 至,至,Hk
 艹,艹,Sj
-廿,廿,Sj
 {冓上},,Sj
 龷,龷,Sj
 卄,卄,Sj
@@ -212,6 +211,8 @@ repr,font,zhu_code
 食,食,Ys
 饣,饣,Rs
 鬼,鬼,Wu
+甶,甶,Wu
+{鬼左},鬼,Wu
 {卑上},,Wu
 魚,魚,Ty
 鱼,鱼,Qy
