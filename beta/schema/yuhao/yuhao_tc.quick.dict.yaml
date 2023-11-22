@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231113
+# 版本: 20231122
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.quick"
-version: "20231113"
+version: "20231122"
 sort: original
 columns:
   - text
@@ -1652,7 +1652,8 @@ columns:
 彝	bpb
 屡	bpc
 屎	bpm
-属	bqk
+屄	bpx
+属	bql
 綞	bqs
 屐	brd
 屜	brh
@@ -1664,6 +1665,7 @@ columns:
 履	brq
 屁	brr
 縱	brt
+綉	brv
 遐	bsb
 毋	bso
 纜	bsq
@@ -1795,6 +1797,7 @@ columns:
 婌	ckm
 妯	cko
 娉	cks
+嫺	ckw
 隅	cky
 絮	clb
 娱	clf
@@ -2927,7 +2930,7 @@ columns:
 軼	gqg
 医	gqi
 玑	gqj
-瑀	gqk
+瑀	gql
 酢	gqm
 璠	gqp
 翳	gqq
@@ -3469,7 +3472,7 @@ columns:
 泅	int
 浞	inv
 翩	inx
-泞	ioa
+汴	ioa
 涫	iob
 濠	iod
 液	ioe
@@ -4400,7 +4403,7 @@ columns:
 虔	mpw
 帙	mqg
 骰	mqh
-齲	mqk
+齲	mql
 省	mqm
 帆	mqo
 貶	mqp
@@ -4562,8 +4565,8 @@ columns:
 跺	nqf
 跌	nqg
 临	nqj
-踽	nqk
-踟	nql
+览	nqk
+踽	nql
 监	nqm
 蹯	nqp
 党	nqr
@@ -4628,6 +4631,7 @@ columns:
 黜	nxx
 诹	oab
 讨	oac
+卞	oak
 诃	oal
 亭	oan
 讳	oav
@@ -4728,7 +4732,7 @@ columns:
 刻	omd
 寰	omf
 宜	omi
-卞	omo
+讣	omo
 宵	omw
 谑	omx
 稟	onl
@@ -5180,7 +5184,7 @@ columns:
 簍	qld
 鲱	qli
 智	qlj
-簣	qlk
+禹	qlk
 簞	qll
 舯	qln
 籮	qmb
@@ -5387,6 +5391,7 @@ columns:
 獠	rgu
 穗	rgy
 衎	rha
+頴	rhd
 舆	rhf
 秆	rhg
 猪	rhj
@@ -7128,6 +7133,7 @@ columns:
 龢	ynr
 惝	yns
 慍	ynt
+忭	yoa
 館	yob
 丸	yod
 愃	yof
@@ -7926,7 +7932,6 @@ columns:
 兕	khw
 忺	yei
 圻	hej
-讣	omo
 蠃	ukc
 萁	sdj
 縻	pbs
@@ -8026,6 +8031,7 @@ columns:
 觃	kvk
 賅	moi
 痓	phk
+冇	skf
 魛	tbd
 魴	tog
 訢	uej
@@ -8064,6 +8070,7 @@ columns:
 羌	uqr
 处	ete
 异	bsj
+冇	swy
 㠯	bnb
 袓	pmi
 囝	nvk
@@ -8189,7 +8196,6 @@ columns:
 屖	box
 辺	bpd
 迉	bpd
-屄	bpx
 紃	bqc
 癹	bqh
 凥	bqj
@@ -9181,7 +9187,6 @@ columns:
 冴	shy
 苙	sid
 蔍	sil
-冇	skf
 荲	skk
 蓾	skl
 菛	skn
@@ -12995,6 +13000,7 @@ columns:
 𤬋	qna
 𥳬	qne
 𠂛	qni
+𠂜	qni
 𥭽	qnv
 𠁽	qod
 𪛝	qod
@@ -13540,7 +13546,6 @@ columns:
 𥁚	tmn
 𥁎	tmn
 𤗑	tmu
-𤗕	tmu
 𩷪	tmx
 𩹢	tna
 𩻤	tne
@@ -15663,7 +15668,6 @@ columns:
 𭘕	mhe
 𭎭	mht
 𮓛	mht
-𮓠	mis
 𭕆	mkb
 𮓡	mkg
 𭇢	mlv
@@ -16671,7 +16675,6 @@ columns:
 𱲫	mcb
 𱺷	mdo
 𱚦	mgi
-𱥽	mkv
 𲃕	mnv
 𱲹	mnv
 𲅌	mpd
@@ -17173,7 +17176,6 @@ columns:
 々	yod
 𮸾	ypw
 亇	qvi
-冇	swy
 宂	oqr
 尐	mvi
 峀	jjt

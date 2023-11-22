@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231113
+# 版本: 20231122
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20231113"
+version: "20231122"
 sort: original
 columns:
   - text
@@ -52536,7 +52536,7 @@ columns:
 大吵	gdlm
 大災	gdvu
 大醉	gdgo
-大禹	gdqk
+大禹	gdql
 大舅	gdrj
 大變	gdub
 有節	swqe
@@ -67559,7 +67559,7 @@ columns:
 西峽	dxjg
 梅西	fqdx
 複用	pqtn
-禹州	qkiq
+禹州	qliq
 很軟	rvge
 很爛	rvuk
 每隊	qbcu
@@ -74385,7 +74385,7 @@ columns:
 千龍	wkiw
 行測	raim
 復變	rqub
-禹城	qkhd
+禹城	qlhd
 微視	rfhm
 番外	qprm
 很懶	rvyf

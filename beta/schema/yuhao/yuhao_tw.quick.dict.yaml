@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20231113
+# 版本: 20231122
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tw.quick"
-version: "20231113"
+version: "20231122"
 sort: original
 columns:
   - text
@@ -1644,7 +1644,7 @@ columns:
 彝	bpb
 屡	bpc
 屎	bpm
-属	bqk
+属	bql
 彘	bqr
 綞	bqs
 級	bqv
@@ -3251,7 +3251,7 @@ columns:
 泅	int
 浞	inv
 翩	inx
-泞	ioa
+汴	ioa
 涫	iob
 濠	iod
 液	ioe
@@ -4095,7 +4095,7 @@ columns:
 虔	mpw
 帙	mqg
 骰	mqh
-齲	mqk
+齲	mql
 省	mqm
 帆	mqo
 貶	mqp
@@ -4246,7 +4246,7 @@ columns:
 跌	nqg
 临	nqj
 囧	nqk
-踟	nql
+踽	nql
 监	nqm
 党	nqr
 跳	nqs
@@ -4309,6 +4309,7 @@ columns:
 黜	nxx
 诹	oab
 讨	oac
+卞	oak
 诃	oal
 亭	oan
 讳	oav
@@ -4403,7 +4404,7 @@ columns:
 刻	omd
 寰	omf
 宜	omi
-卞	omo
+讣	omo
 宵	omw
 谑	omx
 稟	onl
@@ -4826,7 +4827,7 @@ columns:
 簍	qld
 鲱	qli
 智	qlj
-簣	qlk
+禹	qlk
 簞	qll
 籮	qmb
 篾	qmd
@@ -6568,6 +6569,7 @@ columns:
 龠	ync
 惝	yns
 慍	ynt
+忭	yoa
 館	yob
 丸	yod
 懷	yom
@@ -7261,6 +7263,7 @@ columns:
 鎬	wol
 緙	bge
 莧	smx
+冇	swy
 㠯	bnb
 着	umf
 还	dpd
@@ -7397,7 +7400,6 @@ columns:
 兕	khw
 忺	yei
 圻	hej
-讣	omo
 蠃	ukc
 萁	sdj
 炆	upw
@@ -7412,6 +7414,7 @@ columns:
 雱	dog
 戋	fgg
 峁	jtm
+屄	bpx
 茝	ssc
 钡	tkb
 碓	dwi
@@ -7439,6 +7442,7 @@ columns:
 咥	lhk
 邡	ocj
 呣	lbm
+冇	skf
 舁	rsj
 绱	vns
 圯	hck
@@ -7696,7 +7700,6 @@ columns:
 蜆	kmx
 幃	mci
 齔	mri
-冇	swy
 尐	mvi
 臿	hrj
 昋	ejr
@@ -7760,7 +7763,6 @@ columns:
 吔	lcy
 冄	ksi
 畠	ejt
-屄	bpx
 冴	shy
 旉	fog
 羏	uto
@@ -7768,7 +7770,6 @@ columns:
 鋹	wha
 痋	pkc
 訞	ueo
-冇	skf
 雮	drm
 伷	eko
 釭	wfo
@@ -12658,6 +12659,7 @@ columns:
 𤬋	qna
 𥳬	qne
 𠂛	qni
+𠂜	qni
 𥭽	qnv
 𠁽	qod
 𪛝	qod
@@ -13203,7 +13205,6 @@ columns:
 𥁎	tmn
 𥁚	tmn
 𤗑	tmu
-𤗕	tmu
 𩷪	tmx
 𩹢	tna
 𩻤	tne
@@ -15326,7 +15327,6 @@ columns:
 𭘕	mhe
 𭎭	mht
 𮓛	mht
-𮓠	mis
 𭕆	mkb
 𮓡	mkg
 𭇢	mlv
@@ -16334,7 +16334,6 @@ columns:
 𱲫	mcb
 𱺷	mdo
 𱚦	mgi
-𱥽	mkv
 𱲹	mnv
 𲃕	mnv
 𲅌	mpd

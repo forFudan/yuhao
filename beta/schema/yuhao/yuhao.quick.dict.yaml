@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20231114
+# 版本: 20231122
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.quick"
-version: "20231114"
+version: "20231122"
 sort: original
 columns:
   - text
@@ -2055,7 +2055,7 @@ columns:
 摈	aoe
 拄	aog
 搞	aol
-抃	aom
+掠	aom
 擅	aon
 抗	aoq
 攘	aos
@@ -3814,7 +3814,7 @@ columns:
 泅	int
 浞	inv
 翩	inx
-泞	ioa
+汴	ioa
 涫	iob
 濠	iod
 滨	ioe
@@ -3822,7 +3822,7 @@ columns:
 注	iog
 淙	ioh
 泳	iok
-汴	iom
+涼	iom
 澶	ion
 滓	ioo
 沆	ioq
@@ -4832,6 +4832,7 @@ columns:
 躍	nxx
 诹	oab
 讨	oac
+卞	oak
 诃	oal
 宁	oan
 讳	oav
@@ -4923,7 +4924,7 @@ columns:
 刻	omd
 寰	omf
 宜	omi
-卞	omo
+讣	omo
 市	omv
 宵	omw
 谑	omx
@@ -5839,7 +5840,7 @@ columns:
 芳	sog
 蔼	soj
 蒿	sol
-苄	som
+凉	som
 凛	son
 蔟	soq
 菀	sor
@@ -7011,6 +7012,7 @@ columns:
 惝	yns
 慍	ynt
 歸	ynx
+忭	yoa
 館	yob
 久	yod
 懷	yom
@@ -7820,7 +7822,6 @@ columns:
 忺	yei
 圻	hej
 皁	edi
-讣	omo
 蠃	ukc
 炆	upw
 縻	pbs
@@ -7833,6 +7834,7 @@ columns:
 訢	uej
 戋	fgg
 峁	jtm
+屄	bpx
 茝	ssc
 钡	tkb
 碓	dwi
@@ -7857,6 +7859,7 @@ columns:
 锂	tkk
 咥	lhk
 邡	ocj
+冇	skf
 舁	rsj
 绱	vns
 圯	hck
@@ -8088,6 +8091,7 @@ columns:
 呈	len
 羌	uqr
 韭	fnn
+冇	swy
 龜	yjm
 㠯	bnb
 袓	pmi
@@ -8129,7 +8133,6 @@ columns:
 吔	lcy
 冄	ksi
 畠	ejt
-屄	bpx
 冴	shy
 軲	gdg
 旉	fog
@@ -8138,7 +8141,6 @@ columns:
 鋹	wha
 痋	pkc
 訞	ueo
-冇	skf
 雮	drm
 伷	eko
 釭	wfo
@@ -13018,6 +13020,7 @@ columns:
 𤬋	qna
 𥳬	qne
 𠂛	qni
+𠂜	qni
 𥭽	qnv
 𠁽	qod
 𪛝	qod
@@ -13563,7 +13566,6 @@ columns:
 𥁚	tmn
 𥁎	tmn
 𤗑	tmu
-𤗕	tmu
 𩷪	tmx
 𩹢	tna
 𩻤	tne
@@ -15686,7 +15688,6 @@ columns:
 𭘕	mhe
 𭎭	mht
 𮓛	mht
-𮓠	mis
 𭕆	mkb
 𮓡	mkg
 𭇢	mlv
@@ -16694,7 +16695,6 @@ columns:
 𱲫	mcb
 𱺷	mdo
 𱚦	mgi
-𱥽	mkv
 𲃕	mnv
 𱲹	mnv
 𲅌	mpd
@@ -17195,7 +17195,6 @@ columns:
 𮲁	ykx
 々	yod
 𮸾	ypw
-冇	swy
 尐	mvi
 臿	hrj
 亇	qvi

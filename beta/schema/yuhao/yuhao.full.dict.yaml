@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20231114
+# 版本: 20231122
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20231114"
+version: "20231122"
 sort: original
 columns:
   - text
@@ -4934,7 +4934,7 @@ columns:
 蕪	sqsu
 颁	tbdk
 缀	vbbb
-汴	iomo
+汴	ioak
 釜	twhu
 伎	edbu
 詐	uqmo
@@ -5828,7 +5828,7 @@ columns:
 囪	rtod
 浚	ivte
 刴	vfmd
-卞	omob
+卞	oakd
 孀	cdfm
 泗	inqr
 谙	oijr
@@ -7716,6 +7716,7 @@ columns:
 轳	hmbh
 锛	tgds
 潾	ipra
+嫺	ckwy
 鲵	qrqr
 熵	uoul
 馑	rgsi
@@ -7812,6 +7813,7 @@ columns:
 峁	jtms
 鏊	hwew
 秭	rqxq
+屄	bpxh
 鲅	qsbo
 瘢	pqqh
 茼	skfl
@@ -8161,6 +8163,7 @@ columns:
 蝰	kghh
 劁	wumd
 慊	yuxt
+冇	skfo
 崦	jgkd
 酹	geac
 冏	ktlv
@@ -8261,6 +8264,7 @@ columns:
 藁	sofv
 牾	wfcl
 镡	tdjd
+丅	akkk
 籴	rpmu
 佴	eare
 昃	jste
@@ -8563,10 +8567,10 @@ columns:
 垌	hkfl
 瘛	pdby
 煺	uvpd
+忭	yoak
 滠	iabb
 蛲	kaqh
 锓	txyb
-忭	yomo
 倓	euuo
 壸	hyau
 峣	jaqh
@@ -8718,10 +8722,10 @@ columns:
 硇	drwl
 堍	hylo
 舄	rwuo
-苄	somo
 醵	gmds
 酴	gtff
 舾	qdxo
+苄	soak
 琯	gobb
 崒	jotd
 夼	gqcd
@@ -8891,6 +8895,7 @@ columns:
 箨	qaba
 洑	iesq
 浐	iiqp
+峯	jedn
 晅	jfjf
 衎	rhah
 迮	qmpd
@@ -8961,7 +8966,7 @@ columns:
 鳢	qksu
 鳙	quxw
 螬	ksjj
-抃	aomo
+抃	aoak
 姞	chlv
 砫	dogn
 偡	edxi
@@ -9104,6 +9109,7 @@ columns:
 揌	ajyi
 妧	cfhw
 觱	dflt
+栢	fdjr
 栴	fqwo
 玼	gnri
 麑	irqr
@@ -9173,6 +9179,7 @@ columns:
 蹠	nusu
 宬	odvi
 勍	omxk
+粧	puht
 褯	pusm
 鳀	qjfn
 矰	qujj
@@ -9186,6 +9193,7 @@ columns:
 礞	dsyd
 塆	hpvg
 燐	upra
+綉	brvj
 碔	dfgn
 碏	dsjr
 雰	dtbd
@@ -9325,6 +9333,7 @@ columns:
 蒄	syfa
 忳	yaxg
 铷	tclv
+綫	bggg
 叚	bsbb
 揅	dfst
 佖	eyqp
@@ -9490,6 +9499,7 @@ columns:
 腒	wbdg
 魎	wfmr
 鶵	wxwr
+羣	xqlu
 勠	xxtx
 鲴	qndg
 鲺	qvqk
@@ -9531,6 +9541,7 @@ columns:
 暵	jsfg
 昤	jtob
 蟫	kdjd
+丄	ksss
 咡	larv
 嵒	lllj
 噂	luga
@@ -9752,6 +9763,7 @@ columns:
 菍	stoy
 蔃	svlk
 掱	tttu
+鱻	ttty
 烻	uqnx
 諉	urcn
 譭	urfq
@@ -9801,6 +9813,7 @@ columns:
 媄	cugd
 陎	cwti
 嬥	cxxw
+驫	dddm
 磹	ddjd
 豮	ddsk
 碫	defq
@@ -9889,6 +9902,7 @@ columns:
 漹	ifnu
 汏	igds
 潖	iggc
+滙	igwi
 潓	igyi
 瀔	ihfr
 洘	ihsk
@@ -9973,6 +9987,7 @@ columns:
 鳒	quxt
 鳛	qxxe
 徛	rgal
+頴	rhdm
 穡	rhtl
 馧	rjjm
 穙	rkug
@@ -10661,6 +10676,7 @@ columns:
 淯	ifvw
 鳐	qwwo
 觯	ywhd
+冇	swyo
 冏	kqlv
 瑨	gfvj
 焓	utfl
@@ -11247,7 +11263,6 @@ columns:
 蝺	kqlk
 菈	said
 姰	cwjr
-嫺	ckwy
 讬	oqai
 鲶	qtoy
 僜	ebfu
@@ -11259,7 +11274,6 @@ columns:
 畠	ejtb
 嫰	cfle
 俬	ervv
-屄	bpxh
 暍	jjwx
 媗	coff
 祙	hhes
@@ -11323,7 +11337,6 @@ columns:
 卐	xfnf
 袴	pgfs
 齮	mgal
-冇	skfo
 雮	drmy
 幷	qhqh
 皝	egmh
@@ -11357,7 +11370,6 @@ columns:
 佷	evne
 檛	fnpd
 靘	hwyc
-丅	akkk
 崐	jjrr
 釆	qpmp
 弻	vfnv
@@ -11684,7 +11696,6 @@ columns:
 劙	bdkm
 尅	dqac
 祔	heac
-峯	jedn
 蚇	kbod
 寯	owkf
 鎙	wuxw
@@ -12031,7 +12042,6 @@ columns:
 霙	dskg
 豤	dvns
 験	dyte
-栢	fdjr
 鬵	gqgn
 坵	hefi
 滛	iewo
@@ -12165,7 +12175,6 @@ columns:
 睍	mmxf
 逌	mnbp
 袿	phht
-粧	puht
 穉	rbkw
 稧	rdbg
 秗	reoh
@@ -12193,7 +12202,6 @@ columns:
 毦	armr
 絙	bfjf
 屇	bjth
-綉	brvj
 発	bsqr
 嫃	cdmt
 姵	cqfm
@@ -12635,7 +12643,6 @@ columns:
 耹	atov
 搊	awxx
 抈	awyo
-綫	bggg
 躄	blon
 絁	bqcy
 繙	bqpj
@@ -13503,7 +13510,6 @@ columns:
 脃	wycb
 斨	xejp
 旹	xfjr
-羣	xqlu
 羾	xxfo
 顟	xxtm
 翍	xxvp
@@ -13762,7 +13768,6 @@ columns:
 鄷	ksfc
 蠂	kshf
 甹	ksko
-丄	ksss
 婓	lcni
 氀	ldlr
 咃	lecy
@@ -15932,8 +15937,8 @@ columns:
 迯	rmpd
 帠	rmvj
 顚	rmxm
+犿	roak
 徖	rohs
-犿	romo
 氊	ronf
 稡	rotd
 稸	rovj
@@ -16095,7 +16100,6 @@ columns:
 豃	ttle
 谽	ttll
 豂	ttlt
-鱻	ttty
 鯳	tuto
 忩	tvyi
 鯓	twmy
@@ -16139,9 +16143,9 @@ columns:
 讜	unne
 訿	unri
 熅	untm
+炞	uoak
 羜	uoan
 爎	uogm
-炞	uomo
 譠	uonf
 煷	uoqj
 譲	uotr
@@ -16966,7 +16970,6 @@ columns:
 馶	ddbu
 嫑	ddcn
 壴	ddd
-驫	dddm
 驦	ddfm
 磦	ddhs
 雼	ddhy
@@ -17960,6 +17963,7 @@ columns:
 鞇	gngd
 鞝	gnse
 珿	gnvn
+玣	goak
 輐	gofh
 琓	gofh
 璸	gofm
@@ -17968,7 +17972,6 @@ columns:
 輆	goic
 奒	goid
 輬	goma
-玣	gomo
 迏	gopd
 瓋	goup
 迋	gpdn
@@ -18386,7 +18389,6 @@ columns:
 啔	iglv
 㳠	igpd
 瀭	igtm
-滙	igwi
 漺	igww
 泧	igxi
 溸	ihbs
@@ -19778,8 +19780,8 @@ columns:
 筃	qngd
 艡	qnjt
 簻	qnpd
+笇	qoak
 箮	qoff
-笇	qomo
 箷	qoqc
 籏	qoqd
 笐	qoqj
@@ -19933,7 +19935,6 @@ columns:
 颫	rguf
 飉	rgum
 秲	rhac
-頴	rhdm
 獟	rhhh
 徺	rhhh
 穘	rhhh
@@ -21764,10 +21765,10 @@ columns:
 戃	ynne
 怬	ynqr
 龣	ynxk
+飰	yoak
 㣺	yodi
 飳	yogn
 怺	yokv
-飰	yomo
 粂	yopm
 餏	yory
 悙	yovl
@@ -30506,6 +30507,7 @@ columns:
 𡇶	bnye
 𦄎	boab
 𥿾	boac
+𥾽	boak
 𦂃	boan
 𦆌	bobg
 𦆥	bobk
@@ -30535,7 +30537,6 @@ columns:
 𦁖	boko
 𧴾	bomb
 𠞂	bomd
-𥾽	bomo
 𣥉	boni
 𦂛	boqc
 𡱛	boqg
@@ -33762,6 +33763,8 @@ columns:
 𨀂	dnvh
 𩃈	dnvy
 𥒔	dnxn
+𥑃	doak
+𩡼	doak
 𩤙	doan
 𥖶	dobm
 𩦿	dobm
@@ -33794,8 +33797,6 @@ columns:
 𢽚	domb
 𠁇	domi
 𩤒	domi
-𥑃	domo
-𩡼	domo
 𩇊	donc
 𧾍	donf
 𩆐	donr
@@ -33976,7 +33977,6 @@ columns:
 𥢝	drer
 𩖘	drfi
 𧾘	drfq
-𠔧	drft
 𩖲	drfu
 𩗏	drfx
 𩄏	drfy
@@ -34469,7 +34469,6 @@ columns:
 𩤀	dukg
 𧾡	dukh
 𧾃	dukj
-𩧣	dula
 𩤎	duml
 𥕤	dumn
 𤇈	duoh
@@ -34479,6 +34478,7 @@ columns:
 𩣇	duqr
 𥖄	duse
 𩇅	dusg
+𩧣	dush
 𥕒	dusj
 𧻓	dusj
 𩂦	dusj
@@ -35857,7 +35857,6 @@ columns:
 𠐿	esmr
 𢁹	esmv
 𠈚	esnh
-𠂜	esns
 𠋮	esnt
 𠭧	esob
 𨒟	espd
@@ -37239,6 +37238,7 @@ columns:
 𢘫	fnyi
 𠝙	fnym
 𣑋	foac
+𣏣	foak
 𣘨	foar
 𣗈	focf
 𣟊	fodr
@@ -37253,7 +37253,6 @@ columns:
 𣐚	fokv
 𣛡	foky
 𣠐	foln
-𣏣	fomo
 𣟎	fomr
 𪛜	fooo
 𠑺	foqr
@@ -37521,6 +37520,7 @@ columns:
 𣨵	frjx
 𣩝	frkf
 𣨃	frko
+𠔧	frkt
 𢱵	frkt
 𣧍	frkt
 𣧻	frkt
@@ -38164,6 +38164,7 @@ columns:
 𣕲	fyff
 𣘰	fyff
 𣏒	fyfi
+𤣉	fyhs
 𢖶	fyio
 𢗦	fyiv
 𣑢	fyjr
@@ -46345,6 +46346,7 @@ columns:
 𧋥	knvc
 𧊫	knwq
 𪉼	koab
+𨳲	koak
 𤱤	koan
 𧉞	koan
 𧓍	kobm
@@ -46370,7 +46372,6 @@ columns:
 𠕑	kolv
 𧌬	koma
 𧑙	komd
-𨳲	komo
 𪊉	komr
 𧉽	komv
 𠕘	koom
@@ -48008,6 +48009,7 @@ columns:
 𦑬	lnxt
 𠻕	loab
 𠱔	loac
+𠯴	loak
 𠷥	loan
 𠼁	loar
 𠴨	lobb
@@ -48038,7 +48040,6 @@ columns:
 𡁞	lomb
 𡅹	lomf
 𠵌	lomi
-𠯴	lomo
 𡃩	lomr
 𠿞	lonf
 𡀀	lonh
@@ -51348,6 +51349,7 @@ columns:
 𣦗	nntt
 𠁴	nnww
 𨄒	noab
+𩰍	noak
 𨀉	noan
 𪑬	noan
 𡝷	nocn
@@ -51371,7 +51373,6 @@ columns:
 𠱵	nokg
 𨃤	nolv
 𨂙	noma
-𩰍	nomo
 𨆁	nonf
 𨀸	noqa
 𪐦	noqj
@@ -51947,6 +51948,7 @@ columns:
 𦕺	oarl
 𡪉	oatm
 𡨔	oatt
+𠂫	oavj
 𡧗	oawb
 𡪛	oaxm
 𩕽	oaxm
@@ -52445,7 +52447,6 @@ columns:
 𠆴	omte
 𡨋	omti
 𢒌	omto
-𠂫	omvj
 𦚍	omwy
 𢂷	omye
 𢜇	omyi
@@ -55751,6 +55752,7 @@ columns:
 𦪷	qnht
 𥸙	qnim
 𠂛	qnip
+𠂜	qnip
 𥶛	qnjn
 𥳙	qnjs
 𥷎	qnmm
@@ -61936,6 +61938,7 @@ columns:
 𩵝	taqp
 𦔴	tare
 𦔯	tari
+𤗕	tasq
 𤯁	tass
 𡑘	tath
 𠨥	tatm
@@ -62451,6 +62454,7 @@ columns:
 𩶥	tkcy
 𤖾	tkfl
 𩽥	tkfu
+𩀹	tkfw
 𩓿	tkhm
 𩶎	tkht
 𠇚	tkje
@@ -62549,7 +62553,6 @@ columns:
 𢴞	tmtt
 𢰿	tmtu
 𤗑	tmup
-𤗕	tmup
 𩵿	tmvl
 𩼟	tmwk
 𩷪	tmxy
@@ -62905,7 +62908,6 @@ columns:
 𦤠	tssu
 𩸜	tssv
 𧞠	tssw
-𩀹	tssw
 𩺀	tssw
 𩻆	tstb
 𩻓	tstf
@@ -65798,6 +65800,7 @@ columns:
 𥀰	vnwv
 𥝁	vnwv
 𦒩	vnwx
+𠂪	voak
 𨘁	vobp
 𢏸	vobs
 𢎚	vodg
@@ -65813,7 +65816,6 @@ columns:
 𠮸	volv
 𨝣	vomc
 𠚵	vomd
-𠂪	vomo
 𢐹	vonv
 𠬊	voot
 𨸍	vopm
@@ -66745,6 +66747,7 @@ columns:
 𩲬	wfwt
 𩳃	wfwu
 𨥼	wfxi
+𣋤	wfxj
 𦈮	wfxk
 𤙶	wfxn
 𦘵	wfyf
@@ -68319,7 +68322,7 @@ columns:
 𦠼	wvka
 𦚦	wvkf
 𦜎	wvkf
-𦡳	wvko
+𦡳	wvks
 𩲇	wvku
 𦞪	wvku
 𦜕	wvkv
@@ -68781,7 +68784,6 @@ columns:
 𥃞	xfux
 𠃛	xfvi
 𨳈	xfvx
-𣋤	xfwj
 𦫹	xfxf
 𢑕	xfxx
 𦐉	xfxx
@@ -69803,7 +69805,6 @@ columns:
 𠖪	yghk
 𩜪	yghs
 𢝣	ygjr
-𤣉	ygls
 𢢰	ygmm
 𧡡	ygmx
 𤣬	ygod
@@ -72809,10 +72810,10 @@ columns:
 𪽔	jmxt
 𪩊	jngy
 𪰊	jnir
+𪨨	joak
 𫑦	jocc
 𪱄	joft
 𪫉	jojt
-𪨨	jomo
 𪱒	josr
 𪰧	josv
 𪨬	jovo
@@ -74893,13 +74894,13 @@ columns:
 𪽄	wnsg
 𫆟	wnxk
 𫒙	woac
+𫆘	woak
 𫒴	woel
 𫓕	wofm
 𫒭	wogo
 𫒜	wohx
 𫓜	woju
 𪱧	wolq
-𫆘	womo
 𫓃	womt
 𪱭	wopr
 𫏫	woqa
@@ -81294,6 +81295,7 @@ columns:
 𭡑	axlj
 𬻎	axlv
 𭡈	axnf
+𮓠	axqi
 𮓞	axqw
 𬺶	axvi
 𭡝	axvs
@@ -84826,7 +84828,6 @@ columns:
 𭿛	mifu
 𭕌	mijy
 𮊈	miog
-𮓠	misu
 𮙻	mjfi
 𭿝	mjfk
 𭘩	mjft
@@ -85278,6 +85279,7 @@ columns:
 𮙉	oaer
 𮡢	oakc
 𬽛	oako
+𬽅	oalv
 𭤶	oarg
 𮊯	oaug
 𭝵	oayi
@@ -85392,7 +85394,6 @@ columns:
 𭓪	omhw
 𬽈	omib
 𭓶	omjd
-𬽅	omlv
 𭓥	omlv
 𭒲	ommc
 𭯬	ommr
@@ -86625,6 +86626,7 @@ columns:
 𮏭	sfrm
 𭘉	sfrq
 𮐾	sfru
+𮐣	sfsm
 𮏂	sfst
 𮓕	sftf
 𭂜	sftk
@@ -86862,7 +86864,6 @@ columns:
 𮐻	ssdb
 𮐼	ssdb
 𮒃	ssfn
-𮐣	ssgm
 𭆍	ssjd
 𭂥	ssjh
 𮫙	sskd
@@ -87415,11 +87416,11 @@ columns:
 𭶏	unpd
 𮬨	unro
 𭐱	unte
+𮗾	uoak
 𮭴	uobr
 𮘨	uoel
 𭴟	uofa
 𮘵	uoft
-𮗾	uomo
 𭶦	uomr
 𮙆	uosu
 𮘯	uotf
@@ -87987,12 +87988,12 @@ columns:
 𮡹	wnsw
 𮌘	wnvy
 𭀸	wnwl
+𮡬	woak
 𮉵	wodl
 𮣉	wodt
 𮢓	woeh
 𭩋	woft
 𮢖	wogu
-𮡬	womo
 𮍁	womr
 𭅈	womv
 𭨳	wory
@@ -89293,10 +89294,10 @@ columns:
 𰷻	enrt
 𰂮	ensm
 𰂱	entu
+𰕞	eoak
 𱊯	eoey
 𰤗	eoib
 𰂶	eokr
-𰕞	eomo
 𰃀	eoqj
 𰂹	eosv
 𰠄	eotd
@@ -91105,6 +91106,7 @@ columns:
 𰸡	nysj
 𰸣	nyxy
 𰵹	oabb
+𰆴	oabu
 𰵕	oabu
 𰥡	oamf
 𱅴	oanl
@@ -91196,7 +91198,6 @@ columns:
 𰒣	olly
 𰌺	olxj
 𰵬	olxm
-𰆴	ombu
 𰕆	ombu
 𰻯	omcj
 𰥐	omfi
@@ -91911,10 +91912,10 @@ columns:
 𰃦	rnnn
 𰳮	rnoa
 𱃶	rnte
+𱃴	roak
 𰩀	rody
 𰚬	roet
 𰡑	rojt
-𱃴	romo
 𰨺	roqk
 𰚡	rotd
 𰡁	roti
@@ -93594,7 +93595,6 @@ columns:
 𱠣	awan
 𱡇	awll
 𱟬	axio
-𱮪	axqo
 𲍛	axro
 𱛄	axsv
 𲍭	axya
@@ -94048,6 +94048,7 @@ columns:
 𲋵	efdm
 𱬻	effv
 𱛛	efjs
+𱎮	efkf
 𱕎	eflc
 𱏔	eflk
 𲅜	efpd
@@ -94115,7 +94116,6 @@ columns:
 𱞃	eryi
 𲆂	esep
 𱏌	esfk
-𱎮	eske
 𱏁	estv
 𱫃	esuo
 𲍶	esya
@@ -94292,6 +94292,7 @@ columns:
 𱤟	fsjx
 𱣸	fsmb
 𱣩	fsqs
+𱥽	fssk
 𱤂	fsut
 𱣏	fswl
 𱤁	fsyc
@@ -94317,6 +94318,7 @@ columns:
 𱚧	fwyp
 𱣻	fxlk
 𱮡	fxqo
+𱮪	fxqo
 𱣠	fyfi
 𱤵	fyim
 𱤍	fyjt
@@ -95135,6 +95137,7 @@ columns:
 𱛩	jflv
 𲋭	jfnt
 𱛞	jfqo
+𱰰	jftd
 𱢭	jfwe
 𱢡	jfwf
 𱏭	jfwh
@@ -95301,7 +95304,6 @@ columns:
 𱐐	kflm
 𲅨	kfrp
 𲀊	kfrt
-𱰰	kftf
 𱿲	kgec
 𲈯	kglt
 𲈱	kgpd
@@ -95699,7 +95701,6 @@ columns:
 𲅗	mkpd
 𱜳	mksq
 𱼄	mktt
-𱥽	mkvu
 𱜻	mlll
 𱰣	mmfu
 𱲱	mmgd
@@ -95792,9 +95793,9 @@ columns:
 𲉡	nbbn
 𲉛	nbbv
 𲄐	nbfu
+𱖿	nbha
 𱘌	nbhg
 𱗓	nbhk
-𱖿	nbhm
 𱥁	nblv
 𲃥	nbos
 𱑸	nbus
@@ -99666,7 +99667,6 @@ columns:
 黙	nsuo
 袛	ptaf
 歔	mxfe
-冇	swyo
 獚	rsst
 皊	etfb
 媺	cjhe
@@ -100922,6 +100922,7 @@ columns:
 𠓾	rgrg
 𠔠	tbsf
 𠔥	tfxu
+𠔧	hrti
 𠔹	wwrt
 𠔻	kflt
 𠕆	swfi
@@ -102998,7 +102999,6 @@ columns:
 𩦻	txlo
 𩧀	dgge
 𩧅	dwwg
-𩧣	duso
 𩧴	xrgn
 𩨌	xksx
 𩨗	msxi
@@ -103817,7 +103817,7 @@ columns:
 𮎏	qlen
 𮎺	slen
 𮏴	sywx
-𮐣	ssgt
+𮐣	sfst
 𮐦	shqa
 𮐹	sslu
 𮑒	sfvh

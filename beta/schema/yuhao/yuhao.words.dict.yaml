@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20231113
+# 版本: 20231122
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words"
-version: "20231113"
+version: "20231122"
 sort: original
 columns:
   - text
@@ -45142,7 +45142,7 @@ columns:
 大吵	gdlm
 大灾	gdou
 大醉	gdgo
-大禹	gdqk
+大禹	gdql
 大舅	gdrj
 大变	gdpb
 有节	swsx
@@ -68472,7 +68472,7 @@ columns:
 西峡	dxjg
 梅西	fqdx
 复用	qjtn
-禹州	qkiq
+禹州	qliq
 很软	rvhe
 很烂	rvuu
 每队	qbct
@@ -74587,7 +74587,7 @@ columns:
 千龙	wkdq
 行测	raik
 复变	qjpb
-禹城	qkhd
+禹城	qlhd
 微视	rfhk
 番外	qprm
 很懒	rvyf
