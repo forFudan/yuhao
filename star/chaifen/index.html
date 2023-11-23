@@ -37,29 +37,15 @@
                 <div class="col-md-12">
                     <div class="mx-auto">
                         <br>
-                        <h1 class=>宇浩·星陳</h1>
-                        <h2 class=>查詢99000個漢字拆分</h2>
-                        <p>
-                            本表包含至 CJK-I、部首區、兼容區全漢字拆分
-                            <br> 「拆分」欄字形標準取自 <a href="https://www.unicode.org/versions/Unicode15.1.0/">The Unicode Standard</a>
-                            <br> 字形優先級: 陸臺港日韓越 GTHJKV
-                            <br> 「臺拆」和「臺碼」欄額外顯示臺灣標準字形拆分和編碼
-                            <!-- <br> 點擊漢字可進入「字統网」查看詳細字形信息 -->
-                        </p>
-                        <h6>(<a href="https://zhuyuhao.com/yuhao/">點擊這裏返回宇浩官網首頁</a>)</h6>
+                        <h2 class=>宇浩拆分·星陳編碼</h2>
+                        <h6><a href="https://zhuyuhao.com/yuhao/">點擊返回官網首頁</a></h6>
+                        <br>
                         <form id="form">
                             <div class="input-group input-group-newsletter">
-                                <input class="form-control" id="user-input" placeholder="輸入單字或詞語">
-                                <br>
-                                <br>
-                                <br>
-                                <br>
-                                <div class="boton input-group-append" id="boton">
-                                    <button class="boton btn btn-secondary" type="button" id="button">查詢宇浩拆分
-                                    </button>
-                                </div>
+                                <input class="form-control" id="user-input" placeholder="輸入字詞句">
                             </div>
                         </form>
+                        <br>
                         <table class="table" cellpadding="10">
                             <thead>
                                 <tr>
@@ -71,9 +57,25 @@
                                     <th scope="col">字集</th>
                                 </tr>
                             </thead>
-                            <tbody style="font-family: YuhaoSongti;">
+                            <tbody style="font-family: YuhaoSongti;" id="tbody">
                                 <script src="app.js"></script>
                             </tbody>
+                        </table>
+                        <!-- <table class="table" cellpadding="10">
+                            <thead>
+                                <tr>
+                                    <th scope="col">字</th>
+                                    <th scope="col">拆分</th>
+                                    <th scope="col">全碼</th>
+                                    <th scope="col">臺拆</th>
+                                    <th scope="col">臺碼</th>
+                                    <th scope="col">字集</th>
+                                </tr>
+                            </thead>
+                            <tbody style="font-family: YuhaoSongti;" id="tbody2">
+                                <script src="app.js"></script>
+                            </tbody>
+                        </table> -->
                     </div>
                 </div>
             </div>
