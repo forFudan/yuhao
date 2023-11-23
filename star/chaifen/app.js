@@ -2,7 +2,6 @@ d3.csv("https://zhuyuhao.com/yuhao/star/chaifen/宇浩星陳全漢字拆分表.c
     var dictionary = data;
     var button = d3.select("#button");
     var form = d3.select("#form");
-    button.on("click", runEnter);
     form.on("keyup", runEnter);
 
     // Defining the function
