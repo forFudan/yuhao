@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20231122
+# 版本: 20231127
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao.full"
-version: "20231122"
+version: "20231127"
 sort: original
 columns:
   - text
@@ -7415,6 +7415,7 @@ columns:
 鼱	rbhw
 蕎	sell
 牝	wrin
+韙	jfnc
 屼	jhws
 薌	svqc
 冪	ysjm
@@ -11168,7 +11169,6 @@ columns:
 檥	fuqg
 轕	gsjx
 轇	gxxt
-韙	jfnc
 鬩	nrqr
 癇	pkwy
 艫	qmjm
@@ -62820,6 +62820,7 @@ columns:
 𩶰	trrk
 𠐂	trrl
 𣯝	trrm
+𩿌	trro
 𦦦	trru
 𦦭	trru
 𩽯	trru
@@ -69043,7 +69044,6 @@ columns:
 𠆦	xtfi
 𡴡	xtfl
 𩨈	xtfm
-𩿌	xtfr
 𩧴	xtgn
 𣎵	xtig
 𣇓	xtjr
@@ -98483,7 +98483,6 @@ columns:
 搢	aauj
 㨮	aetq
 撝	aeww
-扝	afsk
 掩	agkd
 捐	alwy
 㩬	amkg
@@ -98491,6 +98490,7 @@ columns:
 𢬌	aqdo
 聰	arey
 拔	asbo
+扝	asxi
 捨	atre
 𩐊	atsf
 鄑	aujc
@@ -98498,10 +98498,11 @@ columns:
 聠	ausj
 摷	avjf
 摾	avlk
-抱	awck
+抱	awbj
 晉	axnj
 揤	axvx
 掃	axym
+志	ayio
 挽	aylq
 紀	bbjs
 邔	bcjj
@@ -98513,7 +98514,6 @@ columns:
 貫	bmbm
 刃	bodd
 忍	boyi
-㣇	btmv
 勇	btxk
 縂	buly
 絣	busj
@@ -98656,7 +98656,6 @@ columns:
 𥛅	htqj
 報	hudb
 壷	hyfj
-志	hyif
 堍	hylo
 売	hyqj
 竮	ibus
@@ -98938,7 +98937,7 @@ columns:
 唐	uxnl
 𠔥	uxnu
 乁	viii
-弢	vjdb
+弢	vjbu
 鄛	vjfc
 巢	vjfv
 甾	vjtc
@@ -98947,7 +98946,7 @@ columns:
 巡	vpdc
 蠁	vqok
 災	vuoc
-弢	vxbu
+弢	vxfw
 𦉇	wbqh
 包	wcky
 卑	wdiu
@@ -98987,6 +98986,7 @@ columns:
 屮	xggg
 書	xhjr
 即	xmxj
+㣇	xtmv
 䀈	xvgm
 䊠	xvgp
 旣	xvgq
@@ -99010,7 +99010,7 @@ columns:
 鼏	ymxt
 丸	yodf
 惇	yovk
-悔	yqbm
+悔	yqbd
 冤	yqbo
 𧲨	yqhh
 冗	yqjm

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231122
+# 版本: 20231127
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yuhao_tc.words"
-version: "20231122"
+version: "20231127"
 sort: original
 columns:
   - text
@@ -21,6 +21,7 @@ columns:
 
 卽使	eref
 主義	oguq
+呵呵	lala
 很大	rvgd
 二十	sidi
 有人	swte
@@ -9061,7 +9062,6 @@ columns:
 最先	jawq
 最高	jaol
 量子	jfvk
-呵呵	lala
 只見	ltmx
 回國	nlng
 丹麥	wode
@@ -56637,6 +56637,7 @@ columns:
 短斤少兩	qemf
 熱鍋上的螞蟻	hwkk
 嗯嗯	lnln
+中軸線	lgbe
 啜飲	lbye
 艶女	kscn
 若再	ssfk

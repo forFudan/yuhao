@@ -3,15 +3,19 @@
 
 schema:
   schema_id: yustar
-  name: 宇浩·星陳
+  name: 宇浩·星陳·繁簡平衡
   version: 20231001
   author:
     - 發明人 朱宇浩
     - Rime方案 <https://zhuyuhao.com/yustar/>
     - 官方QQ群 735728797
   description: |
-    宇浩·星陈，繁简通打。
-    只設置少量一簡字詞、二簡字詞和避重三簡字。
+    宇浩·星陳·繁簡平衡，簡碼設置適合主單副詞的繁簡通打派.
+    只設置少量一簡字詞、二簡字詞和避重三簡字 600 餘個:
+      - 一簡字詞是繁/簡方案共用的字詞,加上「這这爲」三字
+      - 二簡字詞是繁/簡方案共用的字詞
+      - 三簡字詞只用於避重.出簡後,動態重碼率低於 0.005%.
+    可以在 yustar.dict.yaml 文件中手動開啓詞庫。
   dependencies:
     - yuhao_pinyin
     - yustar_chaifen
@@ -59,9 +63,10 @@ switches:
 
 engine:
   processors:
+    - lua_processor@*yuhao.yuhao_switch_proc@yuhao_macro
     - ascii_composer
     - recognizer
-    - lua_processor@yuhao_chaifen_processor
+    - lua_processor@*yuhao.yuhao_chaifen_processor
     - key_binder
     - speller
     - punctuator
@@ -79,14 +84,15 @@ engine:
     - history_translator@history
     - reverse_lookup_translator
     - table_translator
+    - lua_translator@*yuhao.yuhao_switch_tr@yuhao_macro
   filters:
-    - lua_filter@yuhao_autocompletion_filter
-    - lua_filter@yuhao_char_first
-    - lua_filter@yuhao_char_only
-    - lua_filter@yuhao_postpone_full_code
+    - lua_filter@*yuhao.yuhao_autocompletion_filter
+    - lua_filter@*yuhao.yuhao_char_first
+    - lua_filter@*yuhao.yuhao_char_only
+    - lua_filter@*yuhao.yuhao_postpone_full_code
     - simplifier@traditionalize
     - simplifier@simplify
-    - lua_filter@yuhao_chaifen
+    - lua_filter@*yuhao.yuhao_chaifen_filter
     - uniquifier
 
 traditionalize:
@@ -155,8 +161,46 @@ reverse_lookup:
     - xform/([nl])ue/$1üe/
     - xform/([jqxy])v/$1u/
 
+# 自定義宏
+yuhao_macro:
+  funckeys:
+    macro: [ 0x2f ] # 當輸入串以 "/" 開頭時, 認爲是宏調用
+  macros:
+    help:
+      - { type: tip, name: ❖配置中心 }
+      - { type: radio, names: [ yuhao_chaifen.off, yuhao_chaifen.lv1, yuhao_chaifen.lv2, yuhao_chaifen.lv3 ], states: [ ☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解 ] }
+      - { type: switch, name: traditionalization, states: [ ☐簡保持, ☑簡轉繁 ] }
+      - { type: switch, name: simplification, states: [ ☐繁保持, ☑繁轉簡 ] }
+    date:
+      - { type: eval, name: ☀日期, expr: return os.date("%Y-%m-%d") }
+      - { type: eval, name: ⛅年月日, expr: return os.date("%Y年%m月%d日") }
+    time:
+      - { type: eval, name: ⌚時間, expr: return os.date("%H:%M:%S") }
+      - { type: eval, name: Ⓣ時間, expr: return os.date("%Y%m%d%H%M") }
+      - { type: eval, name: Ⓢ時間戳, expr: return tostring(os.time()) }
+    div:
+      - { type: radio, names: [ yuhao_chaifen.off, yuhao_chaifen.lv1, yuhao_chaifen.lv2, yuhao_chaifen.lv3 ], states: [ ☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解 ] }
+    trad:
+      - { type: switch, name: traditionalization, states: [ ☐不轉換, ☑簡轉繁 ] }
+    simp:
+      - { type: switch, name: simplification, states: [ ☐不轉換, ☑繁轉簡 ] }
+    dist:
+      - type: eval
+        expr: >
+          return function(args)
+            return string.format("librime: [%s]", rime_api.get_rime_version())
+          end
+      - type: eval
+        expr: >
+          return function(args)
+            return string.format("distribution: [%s](%s/%s)",
+              rime_api.get_distribution_name(),
+              rime_api.get_distribution_code_name(),
+              rime_api.get_distribution_version())
+          end
+
 punctuator:
-  import_preset: symbols_yuhao
+  import_preset: yuhao.symbols
   half_shape:
     "#": "#"
     "%": "%"

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20231122
+# 版本: 20231127
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.words"
-version: "20231122"
+version: "20231127"
 sort: original
 columns:
   - text
@@ -20,6 +20,7 @@ columns:
 
 即使	xvef
 主义	ogow
+呵呵	lala
 很大	rvgd
 二十	sidi
 有人	swte
@@ -9055,7 +9056,6 @@ columns:
 最先	jawq
 最高	jaol
 量子	jfvk
-呵呵	lala
 只见	ltkx
 回国	nlng
 丹麦	wohe
@@ -47684,6 +47684,7 @@ columns:
 短斤少两	qemf
 热锅上的蚂蚁	atkk
 嗯嗯	lnln
+中轴线	lhvf
 塔吉克斯坦	hhdh
 挨户	avie
 四清	nqih

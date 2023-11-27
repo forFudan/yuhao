@@ -76,10 +76,10 @@ switches:
 
 engine:
   processors:
-    - lua_processor@yuhao_switch_proc@yuhao_macro
+    - lua_processor@*yuhao.yuhao_switch_proc@yuhao_macro
     - ascii_composer
     - recognizer
-    - lua_processor@yuhao_chaifen_processor
+    - lua_processor@*yuhao.yuhao_chaifen_processor
     - key_binder
     - speller
     - punctuator
@@ -99,20 +99,20 @@ engine:
     - reverse_lookup_translator
     - table_translator@fixed
     - table_translator
-    - lua_translator@yuhao_helper # 幫助文檔
-    - "table_translator@zaoci" # 用户造詞
-    - lua_translator@yuhao_switch_tr@yuhao_macro
+    - lua_translator@*yuhao.yuhao_helper # 幫助文檔
+    - table_translator@zaoci # 用户造詞
+    - lua_translator@*yuhao.yuhao_switch_tr@yuhao_macro
   filters:
-    - lua_filter@yuhao_autocompletion_filter
-    - lua_filter@yuhao_single_char_only_for_full_code
-    - lua_filter@yuhao_char_first
-    - lua_filter@yuhao_char_only
-    - lua_filter@yuhao_sc_first
-    - lua_filter@yuhao_postpone_full_code
+    - lua_filter@*yuhao.yuhao_autocompletion_filter
+    - lua_filter@*yuhao.yuhao_single_char_only_for_full_code
+    - lua_filter@*yuhao.yuhao_char_first
+    - lua_filter@*yuhao.yuhao_char_only
+    - lua_filter@*yuhao.yuhao_sc_first
+    - lua_filter@*yuhao.yuhao_postpone_full_code
     - simplifier@traditionalize
     - simplifier@simplify
-    - lua_filter@yuhao_chaifen
-    - lua_filter@yuhao_embeded_cands@embeded_cands
+    - lua_filter@*yuhao.yuhao_chaifen_filter
+    - lua_filter@*yuhao.yuhao_embeded_cands@embeded_cands
     - uniquifier
 
 traditionalize:
@@ -264,7 +264,7 @@ yuhao_macro:
           end
 
 punctuator:
-  import_preset: symbols_yuhao
+  import_preset: yuhao.symbols
   half_shape:
     "%": "%"
     "*": "*"

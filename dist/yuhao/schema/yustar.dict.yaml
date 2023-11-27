@@ -1,24 +1,27 @@
 # encoding: utf-8
 #
 # 宇浩·星陳
-# 版本: 20231105
+# 版本: 20231127
 #
 ---
 name: "yustar"
-version: "20231105"
+version: "20231127"
 sort: original
 import_tables:
-  # 以下是單字全碼
-  - yuhao/yustar.full
   # 以下是簡碼字詞，可注釋掉
+  - yuhao/yustar.quick
+  - yuhao/yustar.quick_words
   # - yuhao/yustar_tc.quick
   # - yuhao/yustar_sc.quick
-  - yuhao/yustar.quick
+  # 以下是單字全碼
+  - yuhao/yustar.full
   # 以下是擴展詞庫
   - yuhao/yuhao.private
   # 以下是全碼詞庫，可注釋掉
   # - yuhao/yustar_tc.words
   # - yuhao/yustar_sc.words
+  # - yuhao/yustar_tc.words_literature
+  # - yuhao/yustar_sc.words_literature
   # 以下是擴展詞庫
   - yuhao/yuhao.extended
 columns:

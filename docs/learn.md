@@ -146,9 +146,9 @@ nav_order: 12
 
 繁体特有的字根只有22个，主要是位于左侧的偏旁部首。不打繁体的话，可以不用记忆。
 
-[![宇浩输入法宋体字根图](../image/宇浩输入法宋体字根图v2olkb.png)](../image/宇浩输入法宋体字根图v2olkb.png)
+[![宇浩输入法宋体字根图](../image/yulight.png)](../image/yulight.png)
 
-[![yustar](http://zhuyuhao.com/yustar/image/yustar.png)](http://zhuyuhao.com/yustar/image/yustar.png)
+[![yustar](./image/yustar.png)](./image/yustar.png)
 
 ### 光华方案字根编码规律
 <!-- {: .no_toc } -->
@@ -543,7 +543,7 @@ for div_i, div_j in permutation(divs, 2):  # 俩俩取候选拆分比较
     unique_j = div_j.difference(common)  # 非共同的拆分部分
     # leaning_root_strokes(div) 是局部拆分中歪斜根的笔画数
     # 非共同字根中,非歪斜根笔画多的保留
-    if leaning_root_strokes(unique_i) < leaning_root_strokes(unique_j):
+    if leaning_root_strokes(unique_i) > leaning_root_strokes(unique_j):
         divs.remove(div_i)
     if len(divs) == 1:
         break  # 剩下唯一拆分候选,则停止判断

@@ -78,9 +78,9 @@ nav_order: 1
 | 严格优化键位分布           | ❌         | ✅         |
 | Z 键反查                   | ✅         | ✅         |
 
-[![yustar](http://zhuyuhao.com/yustar/image/yustar.png)](http://zhuyuhao.com/yustar/image/yustar.png)
+[![yustar](./image/yustar.png)](./image/yustar.png)
 
-[![宇浩输入法宋体字根图](./image/宇浩输入法宋体字根图v2olkb.png)](./image/宇浩输入法宋体字根图v2olkb.png)
+[![宇浩输入法宋体字根图](./image/yulight.png)](./image/yulight.png)
 
 [宇浩输入法字根归并详表](https://github.com/forFudan/yuhao/releases/download/v3.0.0/default.pdf)列出部分易混淆字根的归并和录属关系。本表依据实际需求而更新。
 
