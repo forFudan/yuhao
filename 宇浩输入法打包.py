@@ -26,6 +26,12 @@ copy_tree("./beta/mabiao", "./dist/yuhao/mabiao")
 copy_tree("./beta/schema", "./dist/yuhao/schema")
 copy_tree("./beta/hotfix", "./dist/yuhao/hotfix")
 
+#%%
+# Hamster IME
+make_archive(
+    f"./dist/hamster/yuhao_light_{version}", "zip", "./dist/yuhao/schema"
+)
+
 # %%
 # copy yustar
 for file_name in [
