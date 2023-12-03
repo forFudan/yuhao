@@ -410,8 +410,9 @@ y_1: float  # = f(x_1) 當前各指標加權分值
 x_1_best, y_1_best = x_1, y_1  # 最優解
 # 外層淬火 開始
 for k in range(1, k_max):
-    x_2, y_2 = x_1, y_1
-    x_2_best, y_2_best = x_1, y_1
+    x_2 = rand(x_1)  # 隨機擾動
+    y_2 = f(x_2)
+    x_2_best, y_2_best = x_2, y_2
     # 内層貪婪 開始
     for l in range(1, l_max):
         # 同大碼字根組遍歷 開始
