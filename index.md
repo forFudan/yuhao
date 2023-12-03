@@ -29,8 +29,8 @@ nav_order: 1
 >[**星陳**(exe)](https://github.com/forFudan/yuhao/releases/download/v3.1.0/yuhao_star_practice_tool.exe) · 
 >[**星陳**字根(安卓)](https://github.com/forFudan/yuhao/releases/download/v3.0.0/yuhao_star_anki.apkg)  
 >在线练习: 
->[**光華(字根)**](./docs/practice.html) · 
->[**星陳(字根)**](./star/practice/practice.html)  
+>[**光華字根**](./docs/practice.html) · 
+>[**星陳字根**](./star/practice/practice.html)  
 >拆分及编码查询: 
 >[**光華方案**](https://zhuyuhao.com/yuhao/light/chaifen/) · 
 >[**星陳方案**](https://zhuyuhao.com/yuhao/star/chaifen/)  
