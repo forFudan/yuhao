@@ -2,7 +2,7 @@
 title: 详细教程
 layout: default
 nav_order: 12
-parent: 宇浩一代·卿雲
+parent: 宇浩v1
 ---
 
 <!-- omit in toc -->

@@ -17,7 +17,7 @@ nav_order: 88
 
 本頁面主要展示「宇浩拆分」和「宇浩方案」較重大的更新。一般的更新説明可在 [release](https://github.com/forFudan/yuhao/releases) 頁面查看。
 
-## 宇浩·光華和宇浩·星陳
+## Version 3
 
 ### 2023年11月27日
 
@@ -93,7 +93,7 @@ v3.0.0 發佈。
 
 修正若干拆分。
 
-## 宇浩·光華
+## Version 2
 
 ### 2023年10月1日
 
@@ -747,7 +747,7 @@ RIME 增加拼音註解。現總共爲四重註解。
 
 增加一個自定義碼表：yuhao.private.dict.yaml，優先級高於官方詞庫。原自定義碼表 yuhao.private.dict.yaml 優先級低於官方詞庫。
 
-## 宇浩·卿雲（爲宇浩·光華所取代）
+## Version 1
 
 ### 2023年5月12日
 
