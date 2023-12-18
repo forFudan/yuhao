@@ -1,8 +1,8 @@
----
+<!-- ---
 title: 快速入门
 layout: default
 nav_order: 11
----
+--- -->
 
 <!-- omit in toc -->
 # 十分钟入门宇浩输入法
