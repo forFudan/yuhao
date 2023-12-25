@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231127
+# 版本: 20231223
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.quick"
-version: "20231127"
+version: "20231223"
 sort: original
 columns:
   - text
@@ -1467,7 +1467,7 @@ columns:
 揄	atf
 拴	atg
 扒	ati
-擤	atj
+擼	atj
 拥	atn
 聆	ato
 擒	atp
@@ -1906,6 +1906,7 @@ columns:
 隐	cyx
 驟	dab
 寿	dac
+雫	dak
 硗	daq
 焘	dau
 砘	dax
@@ -2129,6 +2130,7 @@ columns:
 磏	dux
 𧻞	dvf
 碜	dvg
+乭	dvi
 盛	dvm
 硍	dvn
 破	dvp
@@ -2363,6 +2365,7 @@ columns:
 貨	erm
 倪	erq
 侈	err
+俬	erv
 傻	erw
 傉	esa
 佞	esc
@@ -4246,7 +4249,7 @@ columns:
 嗲	ltw
 唁	lua
 嗟	luf
-咩	lug
+咲	lug
 噌	luj
 吖	lun
 嗌	lut
@@ -5016,7 +5019,7 @@ columns:
 產	psw
 疬	psx
 瘩	psy
-阍	pta
+衹	pta
 粉	ptb
 闪	pte
 癒	ptf
@@ -5758,7 +5761,7 @@ columns:
 蓝	snq
 菌	snr
 葶	soa
-菅	sob
+丼	sob
 菪	sod
 蓿	soe
 萱	sof
@@ -6634,9 +6637,7 @@ columns:
 绐	vvl
 书	vvn
 级	vvo
-丝	vvs
 绋	vvt
-鸶	vvy
 孢	vwc
 绸	vwh
 维	vwi
@@ -7918,6 +7919,7 @@ columns:
 尕	vma
 邝	ucj
 祜	hdg
+咩	lug
 柘	fdh
 郅	hcj
 綦	dbs
@@ -8019,6 +8021,7 @@ columns:
 舥	qcb
 縞	bol
 碁	ddh
+辻	dpd
 倀	eha
 伣	ekx
 梩	fkk
@@ -8060,6 +8063,7 @@ columns:
 反	sbu
 及	qvb
 角	ywh
+着	uqm
 亮	oqr
 差	uqf
 毒	hbs
@@ -8261,7 +8265,6 @@ columns:
 韐	cye
 隖	cyw
 尌	dac
-雫	dak
 矴	dan
 駬	dar
 瓳	daw
@@ -8322,7 +8325,6 @@ columns:
 豥	doi
 碻	dol
 騂	dox
-辻	dpd
 逨	dpd
 遤	dpd
 硛	dpi
@@ -8342,7 +8344,6 @@ columns:
 駠	dtm
 砽	dtn
 諅	dua
-乭	dvi
 矷	dvk
 豤	dvn
 皷	dvp
@@ -9195,7 +9196,6 @@ columns:
 萀	smu
 芇	smv
 莡	snv
-丼	sob
 厗	sox
 蔴	spa
 迖	spd
@@ -10550,6 +10550,7 @@ columns:
 𦗣	ane
 𡬝	ans
 𢮐	ans
+𠫓	aod
 𢍺	aod
 𢳀	apa
 𨑜	apd
@@ -11282,7 +11283,6 @@ columns:
 𡤼	fvl
 𣎸	fvl
 𢆰	fvo
-𠫓	fvv
 𠫔	fvv
 𤯔	fwg
 𨾊	fwi
@@ -12998,6 +12998,7 @@ columns:
 𩾇	qmu
 𤫽	qmx
 𤬋	qna
+𠂨	qnc
 𥳬	qne
 𠂛	qni
 𠂜	qni
@@ -13277,7 +13278,6 @@ columns:
 𠓜	rru
 𠓞	rsi
 𠂥	rsj
-𠂨	rsj
 𥝑	rsk
 𩖮	rsq
 𩿁	rsq
@@ -17205,6 +17205,7 @@ columns:
 𩡧	dsn
 𩣌	dxf
 𪉤	uqk
+𠮟	lxf
 ⻆	ywh
 ⻱	yjm
 ⾓	ywh
@@ -17214,6 +17215,7 @@ columns:
 亮	oqr
 全	rgn
 龜	yjm
+着	uqm
 㔕	qfv
 及	qvb
 呈	len

@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20231127
+# 版本: 20231223
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tw.quick"
-version: "20231127"
+version: "20231223"
 sort: original
 columns:
   - text
@@ -1273,6 +1273,7 @@ columns:
 摄	aab
 揶	aac
 敢	aae
+撤	aao
 挝	aap
 挠	aaq
 拣	aav
@@ -1330,7 +1331,6 @@ columns:
 揸	afj
 揀	afn
 扛	afo
-撤	afv
 捷	afx
 捧	aga
 拒	agb
@@ -1417,12 +1417,12 @@ columns:
 搞	aol
 掠	aom
 擅	aon
-抗	aoq
-攘	aos
+充	aoq
+棄	aos
 捽	aot
 擠	aou
 擁	aov
-擦	aow
+育	aow
 擰	aoy
 搂	apc
 过	apd
@@ -1933,6 +1933,7 @@ columns:
 砸	dgm
 裁	dgo
 硖	dgu
+遷	dgv
 截	dgw
 越	dgx
 甄	dha
@@ -2605,10 +2606,8 @@ columns:
 極	fvl
 根	fvn
 极	fvo
-充	fvq
-棄	fvs
+梭	fvq
 梭	fvt
-育	fvw
 榭	fwa
 榫	fwd
 亙	fwf
@@ -2689,7 +2688,6 @@ columns:
 式	gfo
 夸	gfs
 輔	gfu
-轍	gfv
 琦	gga
 琶	ggc
 軾	ggf
@@ -2870,6 +2868,7 @@ columns:
 琤	gyx
 寺	hac
 坷	hal
+辙	hao
 垭	hau
 祎	hav
 辄	hax
@@ -3082,6 +3081,7 @@ columns:
 浙	iae
 柒	iaf
 汀	ian
+流	iao
 浇	iaq
 洱	iar
 沌	iax
@@ -3732,6 +3732,7 @@ columns:
 啦	lai
 吓	lak
 叮	lan
+唷	lao
 哓	laq
 哑	lau
 噸	lax
@@ -3793,7 +3794,6 @@ columns:
 喇	lfl
 咧	lfr
 哺	lfu
-唷	lfv
 郢	lgc
 囀	lgg
 喹	lgh
@@ -4945,7 +4945,7 @@ columns:
 筝	qyx
 彻	rab
 桀	raf
-舛	rao
+徹	rao
 饶	raq
 饵	rar
 饨	rax
@@ -5973,6 +5973,7 @@ columns:
 諍	uyx
 纣	vac
 敢	vae
+统	vao
 绕	vaq
 弭	var
 缙	vau
@@ -6133,8 +6134,6 @@ columns:
 孕	vvk
 书	vvn
 级	vvo
-丝	vvs
-鸶	vvy
 孢	vwc
 绸	vwh
 维	vwi
@@ -7208,6 +7207,7 @@ columns:
 忐	kyi
 丕	dfi
 汨	ijr
+舛	rao
 痱	pli
 囷	nrh
 嚙	lmc
@@ -7469,6 +7469,7 @@ columns:
 廆	uwu
 玘	gbj
 窅	pmf
+辻	dpd
 牂	xug
 猇	rmu
 杩	fxm
@@ -7581,6 +7582,7 @@ columns:
 魛	tbd
 羓	ucb
 鸤	bya
+乭	dvi
 惎	dyi
 杕	fgd
 琟	gwi
@@ -7590,11 +7592,13 @@ columns:
 洣	ipm
 呇	klv
 舠	qbd
+丼	sob
 荄	soi
 煒	uci
 鉚	wtm
 乸	cbm
 岊	cjs
+雫	dak
 偭	egi
 梩	fkk
 朳	fti
@@ -7795,7 +7799,6 @@ columns:
 綨	bdj
 乇	qai
 詧	wua
-辻	dpd
 髠	hqj
 紦	bcb
 巿	fmv
@@ -8174,7 +8177,6 @@ columns:
 砇	dpw
 鴀	dro
 鶆	dro
-乭	dvi
 趡	dwi
 怘	dyi
 夅	eao
@@ -8247,7 +8249,6 @@ columns:
 夘	rxj
 莤	sgo
 苿	she
-丼	sob
 厱	srl
 冾	sye
 忈	syi
@@ -8297,7 +8298,6 @@ columns:
 妏	cpw
 陙	csn
 阞	cxk
-雫	dak
 騏	ddj
 赾	dej
 奀	dgd
@@ -10204,6 +10204,7 @@ columns:
 𦗣	ane
 𡬝	ans
 𢮐	ans
+𠫓	aod
 𢍺	aod
 𢳀	apa
 𨑜	apd
@@ -10937,7 +10938,6 @@ columns:
 𡤼	fvl
 𣎸	fvl
 𢆰	fvo
-𠫓	fvv
 𠫔	fvv
 𤯔	fwg
 𨾊	fwi
@@ -12657,6 +12657,7 @@ columns:
 𩾇	qmu
 𤫽	qmx
 𤬋	qna
+𠂨	qnc
 𥳬	qne
 𠂛	qni
 𠂜	qni
@@ -12935,7 +12936,6 @@ columns:
 𠓜	rru
 𠓞	rsi
 𠂥	rsj
-𠂨	rsj
 𥝑	rsk
 𩖮	rsq
 𩿁	rsq

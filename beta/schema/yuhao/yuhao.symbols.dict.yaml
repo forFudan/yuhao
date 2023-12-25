@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20231127
+# 版本: 20231223
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.symbols"
-version: "20231127"
+version: "20231223"
 sort: original
 columns:
   - text
@@ -304,6 +304,10 @@ $	kkmy
 ə	kke
 ɛ	kke
 ɡ	kkg
+ɴ	kkn
+ɹ	kkr
+ɻ	kkr
+ʁ	kkr
 ʃ	kks
 ʄ	kkj
 ʅ	kks
@@ -644,6 +648,7 @@ $	kkmy
 ひ	kkhi
 び	kkbi
 ぴ	kkpi
+ふ	kkfu
 ふ	kkhu
 ぶ	kkbu
 ぷ	kkpu
@@ -731,6 +736,7 @@ $	kkmy
 ヒ	kkhi
 ビ	kkbi
 ピ	kkpi
+フ	kkhu
 フ	kkfu
 ブ	kkbu
 プ	kkpu
@@ -1428,6 +1434,7 @@ $	kkmy
 ひ	ryhi
 び	rybi
 ぴ	rypi
+ふ	ryfu
 ふ	ryhu
 ぶ	rybu
 ぷ	rypu
@@ -1515,6 +1522,7 @@ $	kkmy
 ヒ	ryhi
 ビ	rybi
 ピ	rypi
+フ	ryhu
 フ	ryfu
 ブ	rybu
 プ	rypu
@@ -1616,6 +1624,7 @@ $	kkmy
 ひ	jmhi
 び	jmbi
 ぴ	jmpi
+ふ	jmfu
 ふ	jmhu
 ぶ	jmbu
 ぷ	jmpu
@@ -1703,6 +1712,7 @@ $	kkmy
 ヒ	jmhi
 ビ	jmbi
 ピ	jmpi
+フ	jmhu
 フ	jmfu
 ブ	jmbu
 プ	jmpu
