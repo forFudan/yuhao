@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繼往聖
-# 版本: 20231223
+# 版本: 20231226
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao_tc.words_literature"
-version: "20231223"
+version: "20231226"
 sort: original
 columns:
   - text
@@ -15721,8 +15721,6 @@ columns:
 與民更始	rcfc
 扇枕温衾	ifit
 不敢問來人	dvkt
-閒來垂釣碧溪上	kdqk
-坐觀垂釣者	tsqh
 舉杯銷愁愁更愁	rfwr
 牆裏開花牆外香	xokr
 無限風光在險峯	qcrj
@@ -15762,7 +15760,6 @@ columns:
 鳳凰台上鳳凰遊	qqvo
 坐地日行八萬裏	thjo
 久在樊籠裏	ysfo
-萬條垂下綠絲絛	seqe
 鳳去台空江自流	qhvi
 沾衣欲濕杏花雨	iotd
 同居長幹裏	kbho
@@ -15782,7 +15779,6 @@ columns:
 惶恐灘頭説惶恐	yfif
 但見淚痕濕	emii
 最是橙黃橘綠時	jjfj
-星垂平野闊	jqhk
 曉看紅濕處	jtbm
 桃花塢裏桃花庵	fshu
 獨學而無友	rrss
@@ -15804,7 +15800,6 @@ columns:
 會向瑤台月下逢	trge
 萬户搗衣聲	siah
 若非羣玉山頭見	slxm
-垂淚對宮娥	qikc
 千古興亡多少事	wdra
 最喜小兒無賴	jdmf
 把吳鈎看了	alwv
@@ -15816,7 +15811,6 @@ columns:
 羣山萬壑赴荊門	xjsk
 紅顏棄軒冕	bpok
 血色羅裙翻酒污	qymi
-替人垂淚到天明	gtqj
 蠶叢及魚鳧	gkvr
 歌管樓台聲細細	aqfb
 江州司馬青衫濕	iivi
@@ -15857,7 +15851,6 @@ columns:
 將軍金甲夜不脱	xyww
 又疑瑤台鏡	brgw
 尚思為國戍輪台	njov
-對此如何不淚垂	kncq
 不覺碧山暮	drgs
 敢將十指誇針巧	vxdf
 細雨濕流光	bdim
@@ -15879,7 +15872,6 @@ columns:
 他年錦裏經祠廟	eqwu
 悵卧新春白袷衣	ysio
 三萬裏河東入海	fsoi
-終古垂楊有暮鴉	bdqh
 煩君最相警	uxjs
 北山白雲裏	ujeo
 肯與鄰翁相對飲	nrpy
@@ -15889,7 +15881,6 @@ columns:
 見善如不及	mucv
 衙齋卧聽蕭蕭竹	rosq
 漸覺東風料峭寒	irfo
-垂死病中驚坐起	qfpd
 及時當勉勵	vjns
 不知其幾千裏也	dqdc
 學不成名誓不還	rddm
@@ -15985,7 +15976,6 @@ columns:
 沉澱着彩虹似的夢	iius
 內舉不失親	krdi
 波光裏的豔影	imoj
-人家簾幕垂	toqq
 更加鬱鬱葱葱	fxfs
 則與鬥卮酒	mrni
 此去泉台招舊部	nhei
@@ -16081,9 +16071,8 @@ columns:
 指如削葱根	acmf
 夫人之相與	gtpr
 暮及隴山頭	svcf
-翼若垂天之雲	xsqd
 色與春庭暮	yrgs
-青天垂玉鈎	hfqw
+青天垂玉鈎	hfww
 樂與數晨夕	erlr
 鳥度屏風裏	rubo
 其可怪也歟	dayr
@@ -16115,7 +16104,6 @@ columns:
 寒梅着花未	ofuh
 玄都觀裏桃千樹	ohsf
 與君都蓋洛陽城	rxhh
-垂緌飲清露	qbyd
 而能與世推移	svrr
 與衣狐貉者立	rori
 興酣落筆搖五嶽	rgsj
@@ -16132,9 +16120,7 @@ columns:
 空水共氤氲	pksq
 人間望玉鈎	tkuw
 與日月兮同光	rjwm
-度曲綠雲垂	ukbq
 嶺南萬户皆春色	jdsy
-垂釣綠灣春	qwbg
 舉所佩玉玦以示之者三	rief
 照我羅牀幃	jqmm
 舉頭聞鵲喜	rfkd
@@ -16150,7 +16136,6 @@ columns:
 於吾言無所不説	ofuu
 西上太白峯	dkgj
 負命者上鈎	yyhw
-垂三光之明者	qfmh
 我亦舉家清	qpri
 相攜及田家	favo
 説盡平生意	uxhi
@@ -16257,7 +16242,6 @@ columns:
 中峯倚紅日	ljej
 春江欲入户	giti
 三春濕黃精	fgip
-四角垂香囊	nyqd
 醉裏得真如	gorc
 坐覺長安空	trhp
 則學孔子也	mrvc
@@ -16268,7 +16252,6 @@ columns:
 於予與何誅	ocru
 一二老寡妻	fshd
 自到青冥裏	thho
-垂老不得安	qhdo
 舉鞭訪前途	rgut
 非鈎無察也	lwqc
 若耶溪歸興	sair
@@ -16313,7 +16296,6 @@ columns:
 霓衣不濕雨	dodd
 及為忠善者	volh
 凡卉與時謝	qdru
-仙人垂兩足	etqn
 何時返故鄉	ejev
 遣興莫過詩	lrsu
 杵臼及程嬰	frvm
@@ -16341,7 +16323,6 @@ columns:
 每人而悦之	qtsp
 笑啼俱不敢	qlev
 章台從掩映	ivrj
-郵亭寄人世	qooh
 別户穿虛明	lipj
 細雨濕高城	bdih
 紀叟黃泉裏	brso
@@ -16428,7 +16409,6 @@ columns:
 羈離暫愉悦	mpgy
 憶與高李輩	yrol
 因招樊噲出	nafx
-棹經垂猿把	fbqa
 寄與愛茶人	oret
 拾此充飢腸	anow
 已覺春心動	brgw
@@ -16478,7 +16458,6 @@ columns:
 聊逍遙兮容與	amwr
 遵赤水而容與	uhkr
 從我者其由與	rqhr
-小艇垂綸初罷	mqqm
 覺宇宙之無窮	roop
 范增説項羽曰	shuj
 與物相刃相靡	rwfp
@@ -16589,7 +16568,6 @@ columns:
 紅蓮池裏白蓮開	bsik
 柳雖無言不解愠	flqy
 未覺杭潁誰雌雄	hrfs
-須得垂楊相發揮	trqa
 金羈立馬怯晨興	wmir
 東閣官梅動詩興	fkor
 未得與項羽相見	hrrm
@@ -16607,13 +16585,11 @@ columns:
 風吹仙袂飄颻舉	rler
 應是西陵古驛台	ujdv
 未及前賢更勿疑	hvur
-二月垂楊未掛絲	swqb
 鴻雁連羣地亦寒	isgo
 吹沙走浪幾千裏	lido
 舉長矢兮射天狼	rhqr
 一去可憐終不返	fhae
 東來坐閲七寒暑	fdtj
-垂天雌霓雲端下	qfna
 竊攀屈宋宜方駕	pfbx
 唯我與爾有是夫	lqrg
 就中最憶吳江隈	oljc
@@ -16630,7 +16606,6 @@ columns:
 閒引鴛鴦香徑裏	kvro
 唯説山中有桂枝	lujf
 年年歲歲一牀書	qqnx
-垂竿已羨磻溪老	qqbh
 半盞屠蘇猶未舉	ugbr
 重重疊疊上瑤台	wwjv
 陽台碧峭十二峯	cvgj
@@ -16642,7 +16617,6 @@ columns:
 便覺此身如在蜀	ernm
 幸與松筠相近栽	hrfd
 户服艾以盈要兮	iwst
-千株萬片繞林垂	wfsq
 卧房階下插魚竿	sicq
 飛入君家彩屏裏	brxo
 犬上階眠知地濕	skci
@@ -16693,14 +16667,12 @@ columns:
 千門萬户雪花浮	wksi
 驚起妻孥一笑譁	sddu
 銜泥點污琴書內	rink
-暮年垂淚對桓伊	sqqe
 不覺青林沒晚潮	drhi
 最惜杜鵑花爛漫	jyfi
 學而知之者次也	rsqc
 萬丈丹梯尚可攀	sswf
 贈衞尉張卿二首	mrbu
 客子光陰詩卷裏	ovmo
-唯有垂楊管別離	lsqp
 也應攀折他人手	cuft
 兵過黃河疑未反	ense
 還應説着遠行人	muut
@@ -16717,8 +16689,6 @@ columns:
 春風吹盡不同攀	grlf
 君子學道則愛人	xvrt
 未敢忘危負歲華	hvus
-縱使長條似舊垂	behq
-垂鞭直拂五雲車	qgdg
 秦王與趙王會飲	ggry
 鬱鬱葱葱佳氣浮	ffsi
 餘因得遍觀羣書	ynrx
@@ -17062,7 +17032,6 @@ columns:
 鋒棱瘦骨成	wfpd
 涼生爲室空	iwep
 沛公奉卮酒爲壽	itgh
-青天垂玉鉤	hfqw
 集芙蓉以爲裳	wssn
 胡蝶之夢爲周與	dkpr
 爲力不同科	exdr
