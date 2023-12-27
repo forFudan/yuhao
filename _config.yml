@@ -39,7 +39,7 @@ callouts:
     title: 重要
     color: blue
   example:
-    # title: 举例
+    title: 例子
     color: green
   note:
     title: 备注

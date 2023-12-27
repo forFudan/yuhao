@@ -3,7 +3,7 @@
 
 schema:
   schema_id: yuhao_tc
-  name: 光華·陸繁
+  name: 光華·古籍簡碼
   version: 20230522
   author:
     - 發明人 朱宇浩
@@ -197,24 +197,38 @@ reverse_lookup:
 # 默認顯示效果爲:
 # 浩¹ 泃² 竘³
 embeded_cands:
-  option_name: embeded_cands                         # 嵌入候選開關
-  index_indicators: [ ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ⁰ ] # 嵌入候選的序號顯示格式
-  first_format: "${候選}${Comment}${Seq}"            # 首選的渲染格式
-  next_format: "${候選}${Comment}${Seq}"             # 非首選的渲染格式
-  separator: " "                                     # 候選之間的分隔符
+  option_name: embeded_cands # 嵌入候選開關
+  index_indicators: [¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ⁰] # 嵌入候選的序號顯示格式
+  first_format: "${候選}${Comment}${Seq}" # 首選的渲染格式
+  next_format: "${候選}${Comment}${Seq}" # 非首選的渲染格式
+  separator: " " # 候選之間的分隔符
 
 # 自定義宏
 yuhao_macro:
   funckeys:
-    macro: [ 0x2f ] # 當輸入串以 "/" 開頭時, 認爲是宏調用
+    macro: [0x2f] # 當輸入串以 "/" 開頭時, 認爲是宏調用
   macros:
     help:
       - { type: tip, name: ❖配置中心 }
-      - { type: switch, name: embeded_cands, states: [ ☐嵌入, ☑嵌入 ] }
-      - { type: switch, name: yuhao_single_char_only_for_full_code, states: [ ☐字詞, ☑純單 ] }
-      - { type: radio, names: [ yuhao_chaifen.off, yuhao_chaifen.lv1, yuhao_chaifen.lv2, yuhao_chaifen.lv3 ], states: [ ☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解 ] }
-      - { type: switch, name: traditionalization, states: [ ☐簡保持, ☑簡轉繁 ] }
-      - { type: switch, name: simplification, states: [ ☐繁保持, ☑繁轉簡 ] }
+      - { type: switch, name: embeded_cands, states: [☐嵌入, ☑嵌入] }
+      - {
+          type: switch,
+          name: yuhao_single_char_only_for_full_code,
+          states: [☐字詞, ☑純單],
+        }
+      - {
+          type: radio,
+          names:
+            [
+              yuhao_chaifen.off,
+              yuhao_chaifen.lv1,
+              yuhao_chaifen.lv2,
+              yuhao_chaifen.lv3,
+            ],
+          states: [☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解],
+        }
+      - { type: switch, name: traditionalization, states: [☐簡保持, ☑簡轉繁] }
+      - { type: switch, name: simplification, states: [☐繁保持, ☑繁轉簡] }
     date:
       - { type: eval, name: ☀日期, expr: return os.date("%Y-%m-%d") }
       - { type: eval, name: ⛅年月日, expr: return os.date("%Y年%m月%d日") }
@@ -223,15 +237,29 @@ yuhao_macro:
       - { type: eval, name: Ⓣ時間, expr: return os.date("%Y%m%d%H%M") }
       - { type: eval, name: Ⓢ時間戳, expr: return tostring(os.time()) }
     char:
-      - { type: switch, name: yuhao_single_char_only_for_full_code, states: [ ☐字詞, ☑純單 ] }
+      - {
+          type: switch,
+          name: yuhao_single_char_only_for_full_code,
+          states: [☐字詞, ☑純單],
+        }
     div:
-      - { type: radio, names: [ yuhao_chaifen.off, yuhao_chaifen.lv1, yuhao_chaifen.lv2, yuhao_chaifen.lv3 ], states: [ ☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解 ] }
+      - {
+          type: radio,
+          names:
+            [
+              yuhao_chaifen.off,
+              yuhao_chaifen.lv1,
+              yuhao_chaifen.lv2,
+              yuhao_chaifen.lv3,
+            ],
+          states: [☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解],
+        }
     embed:
-      - { type: switch, name: embeded_cands, states: [ ☐嵌入, ☑嵌入 ] }
+      - { type: switch, name: embeded_cands, states: [☐嵌入, ☑嵌入] }
     trad:
-      - { type: switch, name: traditionalization, states: [ ☐不轉換, ☑簡轉繁 ] }
+      - { type: switch, name: traditionalization, states: [☐不轉換, ☑簡轉繁] }
     simp:
-      - { type: switch, name: simplification, states: [ ☐不轉換, ☑繁轉簡 ] }
+      - { type: switch, name: simplification, states: [☐不轉換, ☑繁轉簡] }
     dist:
       - type: eval
         expr: >
@@ -289,8 +317,8 @@ key_binder:
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
     - { when: has_menu, accept: Tab, send: 4 } # 製表符四选
-    - { when: has_menu, accept: minus, send: Page_Up }    #減號上翻頁
-    - { when: has_menu, accept: equal, send: Page_Down }    #等號下翻頁
+    - { when: has_menu, accept: minus, send: Page_Up } #減號上翻頁
+    - { when: has_menu, accept: equal, send: Page_Down } #等號下翻頁
 
 recognizer:
   import_preset: default
@@ -298,12 +326,11 @@ recognizer:
     uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
     reverse_lookup: "^z([a-z]+?)*$"
     zaoci: "^[a-y]*`[a-y`]*$"
-    punct: '^/([0-9]0?|[A-Za-z]+)?$'
+    punct: "^/([0-9]0?|[A-Za-z]+)?$"
 
 style:
   horizontal: false
   inline_preedit: true
   preedit_type: preview
-
 # menu:
 #   page_size: 5
