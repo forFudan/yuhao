@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·开来学
-# 版本: 20231227
+# 版本: 20231229
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yuhao.quick"
-version: "20231227"
+version: "20231229"
 sort: original
 columns:
   - text
@@ -4466,7 +4466,7 @@ columns:
 饕	lsm
 嚆	lso
 吠	lsq
-喏	lss
+嘩	lss
 囌	lst
 咴	lsu
 呃	lsv
@@ -5880,6 +5880,7 @@ columns:
 藜	srw
 蓐	ssa
 邯	ssc
+華	ssd
 茨	sse
 某	ssf
 靥	ssg

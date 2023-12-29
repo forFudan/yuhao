@@ -2729,8 +2729,6 @@ aser 𢯘
 asf 攤
 asfa 撶
 asfa 𬚦
-asfd 撶
-asfd 𬚦
 asfe 擹
 asfg 𢴁
 asfh 𢯥
@@ -2850,6 +2848,8 @@ asro 㧫
 asro 䳲
 asrr 聏
 asrw 𦓓
+assd 撶
+assd 𬚦
 assf 𢱖
 assi 拑
 assi 𦕐
@@ -3863,6 +3863,7 @@ ayio 抋
 ayio 志
 ayir 恥
 ayj 捣
+ayjd 𪮱
 ayjr 𢬐
 ayjr 𫽰
 ayjs 捣
@@ -6269,7 +6270,6 @@ bsen 𦆬
 bsep 纄
 bser 𰫩
 bsfa 𦅠
-bsfd 𦅠
 bsff 𦁜
 bsfi 𥾰
 bsfm 𦄂
@@ -6364,6 +6364,7 @@ bsrs 𥿶
 bsry 𦇎
 bss 糸
 bssa 𡱕
+bssd 𦅠
 bssd 𭕝
 bssd 𭕰
 bssi 紺
@@ -9483,8 +9484,6 @@ csfa 嬅
 csfa 韡
 csfb 𲉑
 csfc 𡡙
-csfd 嬅
-csfd 韡
 csfd 𧱞
 csff 隓
 csff 㯐
@@ -9620,6 +9619,8 @@ csrn 𡤌
 csrq 𫲛
 csrv 𡟃
 css 媒
+cssd 嬅
+cssd 韡
 cssf 媒
 cssh 𨼣
 cssi 姏
@@ -10320,6 +10321,8 @@ cyib 𰑈
 cyii 𭞈
 cyin 㣽
 cyin 𡚿
+cyjd 豫
+cyjh 𫮻
 cyjk 𭒗
 cyjm 𡤞
 cyjm 䶯
@@ -14550,9 +14553,6 @@ dsfa 礡
 dsfa 驊
 dsfa 𧠁
 dsfa 𬒢
-dsfd 驊
-dsfd 𧠁
-dsfd 𬒢
 dsfe 𣤂
 dsff 枽
 dsff 𥗪
@@ -14574,6 +14574,7 @@ dsfr 𧱼
 dsfr 𪄐
 dsfr 𫧥
 dsfs 𩦦
+dsft 𥕾
 dsfu 驠
 dsfu 𥗕
 dsfu 𧽬
@@ -14746,6 +14747,9 @@ dsrr 𩣄
 dsrv 𥔙
 dsry 需
 dss 豕
+dssd 驊
+dssd 𧠁
+dssd 𬒢
 dssi 雸
 dssi 𥑠
 dssi 𩢨
@@ -19224,8 +19228,6 @@ esfa 𤾹
 esfa 𰱕
 esfa 皣
 esfa 𠎑
-esfd 皣
-esfd 𠎑
 esfg 傼
 esfh 𡐏
 esfi 𠇐
@@ -19341,6 +19343,8 @@ ess 偌
 essb 𤽒
 essb 𢿎
 essd 皐
+essd 皣
+essd 𠎑
 essf 楽
 essf 𠋦
 essh 㒗
@@ -20249,6 +20253,8 @@ eyie 伈
 eyii 𬅟
 eyij 𢗹
 eyin 𢗩
+eyjd 像
+eyjd 像
 eyjj 𰂬
 eyjk 𫣒
 eyjm 𱏜
@@ -24462,7 +24468,6 @@ fsfa 橱
 fsfa 樺
 fsfa 𣝍
 fsfa 𭫿
-fsfd 樺
 fsfe 𣞔
 fsff 𠄯
 fsff 𣘇
@@ -24662,6 +24667,7 @@ fsrt 𧅦
 fsrv 栭
 fsry 𣞷
 fss 橫
+fssd 樺
 fsse 𭪶
 fssf 楳
 fssh 𣜉
@@ -25751,6 +25757,7 @@ fyio 𢖶
 fyiu 𮲆
 fyiv 杺
 fyiv 𢗦
+fyjd 橡
 fyjk 𪳥
 fyjm 櫷
 fyjr 𣑢
@@ -29276,9 +29283,6 @@ gsfa 𦨅
 gsfa 璍
 gsfa 鞾
 gsfa 𨣄
-gsfd 璍
-gsfd 鞾
-gsfd 𨣄
 gsff 𡘲
 gsff 𣞤
 gsff 𣟒
@@ -29472,6 +29476,9 @@ gsrv 璓
 gsrv 𤧌
 gss 鞯
 gssc 𡠷
+gssd 璍
+gssd 鞾
+gssd 𨣄
 gsse 𭅜
 gssf 䤂
 gssf 𤧀
@@ -30758,6 +30765,7 @@ gyio 𨠉
 gyiu 𢗤
 gyiy 忒
 gyiy 𢖼
+gyjd 𤩪
 gyje 𱯾
 gyje 𱯿
 gyjr 𩌞
@@ -34456,8 +34464,6 @@ hsep 𡓄
 hser 埖
 hsfa 墷
 hsfa 𥛵
-hsfd 墷
-hsfd 𥛵
 hsfg 𩮽
 hsfg 𰊚
 hsfh 𡒣
@@ -34591,6 +34597,8 @@ hsrn 𩯺
 hsrr 𡏗
 hsrs 𮁮
 hss 示
+hssd 墷
+hssd 𥛵
 hssf 禖
 hssf 𡎡
 hssi 坩
@@ -36108,6 +36116,8 @@ hyiy 𢗬
 hyj 壺
 hyja 壺
 hyjd 𫯉
+hyjd 𫮧
+hyjd 𮂚
 hyjf 𡕏
 hyjm 𥃕
 hyjn 㚄
@@ -40277,7 +40287,6 @@ isf 懑
 isfa 𪷏
 isfa 澕
 isfc 𡣩
-isfd 澕
 isfd 𣂎
 isfe 𤁤
 isff 𣷞
@@ -40499,6 +40508,7 @@ isry 𤁬
 isry 𤃉
 iss 氵
 issc 𣵷
+issd 澕
 issf 湈
 issf 𣾛
 issh 𥫍
@@ -41728,6 +41738,7 @@ iyi 沁
 iyim 𰝳
 iyis 沁
 iyj 溟
+iyjd 潒
 iyjg 𭑞
 iyjm 𪷾
 iyjs 峃
@@ -42796,7 +42807,6 @@ jfry 褁
 jfsa 𬀽
 jfsa 𰘊
 jfsa 崋
-jfsd 崋
 jfsg 𰙁
 jfsj 岍
 jfsj 𰢹
@@ -44748,6 +44758,7 @@ jsdd 𡾷
 jsde 㪤
 jsdf 𡿛
 jsdi 畢
+jsdi 崋
 jsdi 㞳
 jsdi 𪰍
 jsdk 颛
@@ -44771,10 +44782,6 @@ jsfa 曄
 jsfa 曅
 jsfa 㠏
 jsfa 𪩓
-jsfd 曄
-jsfd 曅
-jsfd 㠏
-jsfd 𪩓
 jsfe 𣋸
 jsfg 暵
 jsfg 𤳉
@@ -44907,6 +44914,10 @@ jsrs 峏
 jsry 𬏋
 jsry 𱢒
 jss 山
+jssd 曄
+jssd 曅
+jssd 㠏
+jssd 𪩓
 jsse 嵌
 jsse 𭖳
 jssh 塁
@@ -46081,6 +46092,7 @@ jyir 𢗭
 jyir 𣅵
 jyit 思
 jyj 暝
+jyjd 嶑
 jyjf 𣉰
 jyjk 𭧛
 jyjm 𱢲
@@ -49598,8 +49610,6 @@ ksfb 𪩰
 ksfc 艶
 ksfc 鄷
 ksfc 𰶣
-ksfd 𧑍
-ksfd 𨶱
 ksfd 𩤰
 ksfg 𧋞
 ksfg 𧰅
@@ -49753,6 +49763,8 @@ ksro 䳙
 ksro 𱈦
 ksrr 𠕝
 kss 上
+kssd 𧑍
+kssd 𨶱
 kssd 𱢵
 kssf 䗋
 kssf 𪉴
@@ -50811,6 +50823,7 @@ kyis 忐
 kyiv 𢗨
 kyiy 愚
 kyj 螟
+kyjd 蟓
 kyjj 𨶧
 kyjk 䦰
 kyjm 𨷟
@@ -53950,7 +53963,6 @@ lsf 嘆
 lsfa 嘩
 lsfa 𠾇
 lsfa 𭇻
-lsfd 嘩
 lsff 𭌖
 lsfg 嘆
 lsfg 嘆
@@ -54078,7 +54090,8 @@ lsrm 𣭖
 lsrn 嚦
 lsro 鴞
 lsrv 㖇
-lss 喏
+lss 嘩
+lssd 嘩
 lsse 𭋇
 lssf 㖼
 lssi 咁
@@ -54965,6 +54978,7 @@ lyii 悲
 lyim 㘛
 lyiv 吣
 lyiv 𢗀
+lyjd 𱔠
 lyjf 𠶒
 lyjk 𠼓
 lyjm 𪚩
@@ -58253,8 +58267,6 @@ msf 髒
 msfa 㡡
 msfa 瞱
 msfa 𭘲
-msfd 瞱
-msfd 𭘲
 msff 𩩥
 msff 𩪄
 msff 𭿘
@@ -58377,6 +58389,8 @@ msrn 𩪸
 msrn 𪙽
 msro 鶪
 msrq 𧢤
+mssd 瞱
+mssd 𭘲
 msse 㱎
 msse 𣣴
 mssf 𢃱
@@ -59439,6 +59453,8 @@ myif 𪫩
 myiu 虑
 myiu 𧆹
 myj 瞑
+myjd 𢄵
+myjd 𬙧
 myjj 𧈘
 myjr 𧇅
 myjr 𫘲
@@ -61539,7 +61555,6 @@ nsey 𨆸
 nsf 蹒
 nsfa 蹰
 nsfa 𨅯
-nsfd 𨅯
 nsff 𨂏
 nsff 𪑞
 nsfi 𡆨
@@ -61630,6 +61645,7 @@ nsrn 𪓀
 nss 尚
 nssa 𫡋
 nssb 𣀏
+nssd 𨅯
 nssd 𩖓
 nssf 𰸜
 nssi 黚
@@ -62367,6 +62383,7 @@ nyhh 𲄖
 nyia 𪬋
 nyic 𢘁
 nyis 𭝒
+nyjd 𫏡
 nyjj 𱋹
 nyjk 𩰘
 nyjm 鬮
@@ -64964,7 +64981,6 @@ osem 𰍏
 osem 𰵺
 oser 𧜍
 osfa 𡪤
-osfd 𡪤
 osff 𭓵
 osfi 㝍
 osfp 𨘛
@@ -65031,6 +65047,7 @@ osrx 勷
 osry 襄
 osry 𮕱
 oss 谋
+ossd 𡪤
 ossf 谋
 ossf 𰍇
 ossi 𬣠
@@ -70505,6 +70522,7 @@ pyim 𥹀
 pyin 闷
 pyiw 忞
 pyix 𥥁
+pyjd 襐
 pyjf 𥧵
 pyjg 𰩘
 pyjk 䆴
@@ -73170,7 +73188,6 @@ qofm 𮎕
 qofn 𦩘
 qofn 𬕖
 qofr 簑
-qofr 簔
 qoft 𥳄
 qofv 筞
 qofv 𮆥
@@ -73261,9 +73278,9 @@ qory 𮕦
 qosc 𮅬
 qosh 簺
 qoso 𦪻
+qosr 簔
 qosr 䉴
 qosr 𤬞
-qosr 簔
 qosv 𥏕
 qot 鲛
 qotd 箤
@@ -73825,7 +73842,6 @@ qsfc 𨛙
 qsfc 𨝬
 qsfc 𬪡
 qsfc 𲆜
-qsfd 𦪠
 qsff 橆
 qsff 𣞣
 qsff 𰙄
@@ -73946,6 +73962,7 @@ qssa 𤭈
 qssb 鼗
 qssb 𮧤
 qssc 𫑜
+qssd 𦪠
 qsse 篏
 qssf 𫂋
 qssh 𰆁
@@ -74960,6 +74977,8 @@ qyhc 𩽼
 qyij 𰐻
 qyik 𬔰
 qyiq 忥
+qyjd 𫂤
+qyjd 𬶲
 qyjj 𰦢
 qyjm 𦫉
 qyjt 䈿
@@ -79033,8 +79052,6 @@ rsex 𬓯
 rsey 𢝩
 rsfa 䅿
 rsfa 𫛓
-rsfd 䅿
-rsfd 𫛓
 rsff 𤟬
 rsff 𦧤
 rsfg 𤡉
@@ -79220,6 +79237,8 @@ rsrn 𩙖
 rsrq 𭸄
 rsrr 𤡫
 rss 饣
+rssd 䅿
+rssd 𫛓
 rssf 𭸘
 rssi 甜
 rssi 𠤔
@@ -80739,6 +80758,9 @@ ryi ィ
 ryih 𢘳
 ryio 𩾽
 ryiu 𠓣
+ryjd 𤡸
+ryjd 𮃯
+ryjd 𱄇
 ryjh ゜
 ryjk 穐
 ryjm 䆋
@@ -82485,6 +82507,7 @@ sfjw 𦻽
 sfjx 𦼰
 sfjy 𦼇
 sfk 颟
+sfkb 𦮆
 sfkb 𦵪
 sfkb 𰱀
 sfkb 𰲌
@@ -82718,36 +82741,34 @@ sfs 荆
 sfsa 華
 sfsa 華
 sfsc 𩏧
-sfsd 華
-sfsd 華
 sfsf 𠦜
 sfsf 𢀡
 sfsf 𣟦
-sfsf 𧃹
 sfsf 𦽯
+sfsf 𧃹
 sfsg 𦴐
 sfsj 茾
 sfsj 㕃
 sfsj 𢌱
-sfsj 𬟠
 sfsj 𢌱
 sfsj 𢌱
+sfsj 𬟠
 sfsk 芌
-sfsk 𦾏
 sfsk 𱽒
+sfsk 𦾏
 sfsm 荆
 sfsm 荊
 sfsm 𮐣
 sfsm 𱐤
 sfso 𦴡
-sfsr 鷨
 sfsr 𱶟
+sfsr 鷨
 sfss 𦴑
 sfss 𧂦
 sfst 𢮠
 sfst 𦶓
-sfst 𪏥
 sfst 𮏂
+sfst 𪏥
 sfst 𮐣
 sfsw 𩀵
 sfsx 𪟥
@@ -83933,8 +83954,8 @@ sjrt 𭨂
 sjs 蓽
 sjsa 蓽
 sjsa 㓖
+sjsa 𦸩
 sjsd 蓽
-sjsd 𦸩
 sjsd 𧅭
 sjsd 㓖
 sjsg 𧄊
@@ -84223,7 +84244,6 @@ skru 𪞗
 skrw 𲇩
 sksb 蔓
 sksb 蕞
-sksb 𦮆
 sksc 𨞼
 sksd 𦻶
 sksd 𦽹
@@ -86080,19 +86100,32 @@ sscn 𦵘
 sscn 𰋽
 sscu 𠘕
 sscu 𬞭
+ssd 華
 ssdb 𮐻
 ssdb 𮐼
+ssdc 𩏧
+ssdf 𣟦
+ssdf 𧃹
 ssdh 𦯰
+ssdi 華
 ssdi 𠦂
 ssdi 𦬠
 ssdi 𰰩
+ssdi 華
 ssdj 㽑
+ssdj 𬟠
+ssdk 𦾏
 ssdk 𧏆
 ssdl 𦸮
 ssdm 䫱
 ssdm 𦷔
 ssdm 𧂪
+ssdm 𱐤
 ssdq 𦿅
+ssdr 鷨
+ssdt 𪏥
+ssdw 𩀵
+ssdx 𪟥
 ssdy 𧂋
 sse 茨
 ssee 𱿅
@@ -88015,6 +88048,7 @@ syij 𭜑
 syin 𢛚
 syir 恧
 syiy 𬟔
+syjd 𦺨
 syjf 𫉂
 syjg 𬝫
 syjr 𮎴
@@ -91069,7 +91103,6 @@ tser 𰔀
 tsex 𩼚
 tsfa 𩼬
 tsfa 𩻮
-tsfd 𩻮
 tsff 𩸏
 tsfh 𦤧
 tsfi 𲇮
@@ -91192,6 +91225,7 @@ tssc 𨝲
 tssd 臯
 tssd 㒪
 tssd 𠑳
+tssd 𩻮
 tssf 𩹮
 tssf 𪮍
 tssi 钳
@@ -92264,6 +92298,7 @@ tyin 𱞍
 tyip 𬌓
 tyip 𬌔
 tyiy 𩵽
+tyjd 鱌
 tyjs 𩺒
 tykb 𫙿
 tykd 𱆰
@@ -94139,7 +94174,7 @@ ujed 𮳴
 ujes 𤒫
 ujf 課
 ujfa 𤊢
-ujfd 㷸
+ujfa 㷸
 ujfe 𪹖
 ujfg 𪪙
 ujfg 𰞮
@@ -94234,6 +94269,7 @@ ujsa 爗
 ujsa 𤒃
 ujsa 𤒹
 ujsd 爗
+ujsd 㷸
 ujsd 𤒃
 ujsd 𤒹
 ujsd 熚
@@ -95970,8 +96006,6 @@ usfb 𡳴
 usfb 𢾖
 usfb 𤋨
 usfb 度
-usfd 譁
-usfd 燁
 usfd 𢋳
 usfd 𤉻
 usfe 㫂
@@ -96198,6 +96232,8 @@ usry 𤑢
 uss 煤
 ussb 𫸌
 ussc 鄺
+ussd 譁
+ussd 燁
 ussd 𠦸
 ussf 謀
 ussf 煤
@@ -97791,6 +97827,8 @@ uyig 恙
 uyio 𤆸
 uyiu 応
 uyiw 忘
+uyjd 𧬛
+uyjd 𭶆
 uyjm 𪚱
 uyjm 𤒅
 uyjm 𪚯
@@ -100401,6 +100439,8 @@ vyij 𫹭
 vyik 孞
 vyin 恳
 vyiv 𱝼
+vyjd 𢇐
+vyjd 𢐣
 vyjm 𪚷
 vyjs 𱺟
 vyks 𰬛
@@ -104465,8 +104505,6 @@ wsfb 㩾
 wsfb 𤚿
 wsfc 郵
 wsfc 𥡭
-wsfd 鏵
-wsfd 𦠜
 wsfd 𩣷
 wsfd 𮢃
 wsfe 𣂩
@@ -104698,6 +104736,8 @@ wssa 甀
 wssb 㩾
 wssc 郵
 wssc 𥡭
+wssd 鏵
+wssd 𦠜
 wssd 𩣷
 wsse 𮢞
 wsse 𣂩
@@ -106524,6 +106564,7 @@ wyim 𰑢
 wyin 𰑆
 wyiy 𢗯
 wyiy 𦙦
+wyjd 鐌
 wyjf 𦝇
 wyjj 𰯐
 wyjk 𪚲
@@ -109557,15 +109598,26 @@ yjab 𢢇
 yjaj 𧳠
 yjb 恺
 yjbj 恺
+yjda 𬥆
 yjdd ䷹
+yjdf 𰶯
 yjdg ䷞
 yjdh 𩜠
 yjdh 𱔋
 yjdi 𭜬
+yjdk 𲀔
 yjdk ䷮
 yjdl ䷰
+yjdm 𩕓
 yjdn ䷬
+yjdp 𨖶
 yjdq ䷪
+yjdr 䴂
+yjds 象
+yjdw 𬂏
+yjdw 𬂖
+yjdw 𲂢
+yjdx 勨
 yjdx ䷛
 yjdz ䷐
 yjef 𪚺
@@ -111097,7 +111149,6 @@ ysfa 𩟛
 ysfa 𭞭
 ysfa 㦊
 ysfc 𫎍
-ysfd 㦊
 ysff 𢞑
 ysfg 𠖉
 ysfg 𢠦
@@ -111247,6 +111298,7 @@ ysrs 𱃦
 ysrv 𭝪
 ysry 𢤄
 yss 食
+yssd 㦊
 yssf 𢜮
 yssf 𩝇
 yssi 㤌
@@ -112167,7 +112219,6 @@ ywhd 𧤰
 ywhd 𧤷
 ywhd 𧥃
 ywhd 𧥉
-ywhd 𧤻
 ywhd 𮗶
 ywhe 觼
 ywhe 𧣊
@@ -112672,6 +112723,9 @@ yyie 𢙅
 yyii 㤈
 yyii 𢗰
 yyis 𱃤
+yyjd 𢠽
+yyjd 𩞧
+yyjd 𬥌
 yyjr 𬲑
 yyjt 慏
 yykg 愌
