@@ -14,8 +14,10 @@ _site/
 .DS_Store
 
 # Ignore locally-generated dictionary files
-/mabiao
-/schema
+/_archived
+/beta/hotfix
+/beta/mabiao
+/beta/schema
 
 # Ignore distributions
 /dist/*.zip
