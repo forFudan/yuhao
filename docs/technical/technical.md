@@ -18,7 +18,7 @@ has_children: true
 {:toc}
 </details>
 
-宇浩输入法开发非一日之功,使用了很多 Python (numpy, pandas, porlas...) 程序的辅助决策.这里,谨将部分编程相关的内容予以展示和讨论,以供输入法或数据分析的同好参研,以期共同进步.
+宇浩输入法开发非一日之功,使用了很多 Python (numpy, pandas, porlas...) 程序的辅助决策.这里,谨将部分编程相关的内容予以展示和讨论,供输入法或数据分析的同好参研,以期共同进步.
 
 本文的写作也不会是一朝一夕,我将逐渐往里面增加内容.
 
@@ -50,7 +50,7 @@ import typing
 import numpy.typing as npt
 ```
 
-本文其他代码都使用本引用.
+本文其他代码都使用以上引用.
 
 ```python
 def get_static_dup_rate(
@@ -76,7 +76,7 @@ def get_static_dup_rate(
 
 ### 字频加权选重率
 
-字频加权选重率,有可以称为「动态选重率」,可以表达为:
+字频加权选重率,又可以称为「动态选重率」,可以表达为:
 
 $$N_{d} = \sum\limits_{i \in I, j \in J_i/\{1\}} p(z_{ij}).$$
 
@@ -94,7 +94,7 @@ def get_dynamic_dup_rate(
         freq (npt.NDArray): 元素为汉字对应的字频.
         idx_sorted_freq (npt.NDArray[np.dtype): 根据字频进行降序排列的索引.
             一般的: idx_sorted_freq = np.argsort(-freq)
-            因为这一项操作只需要进行一次.不需要放入函数中循环.
+            因为这一项操作只需要进行一次,故而不需要放入函数中循环.
 
     Returns:
         float: 字频加权选重率.
