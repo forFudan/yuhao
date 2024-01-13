@@ -85631,7 +85631,7 @@ char,division,code,division_tw,code_tw,region
 𮋛,耂匕丁口,HNJL,,,CJK-F
 𮋜,耂匕士口,HNHL,,,CJK-F
 𮋝,耂上日,HJJr,,,CJK-F
-𮋞,耂匕口未,HNLF,,,CJK-F
+𮋞,耂乚口未,HELF,,,CJK-F
 𮋟,山而千又,USMB,,,CJK-F
 𮋠,氵亠厶而,NANS,氵七丶而,NXKS,CJK-F
 𮋡,亠丷丨而,AQUS,,,CJK-F
@@ -98543,8 +98543,8 @@ char,division,code,division_tw,code_tw,region
 㔕,气力,GSlⓠ,𠂉一乙力,,兼容補充
 勇,マ用力,BSSl,,,兼容補充
 勉,⺈口儿力,XLWS,,,兼容補充
-勤,革二力,SISl,,,兼容補充
-勺,勹丶,WKdⓑ,,,兼容補充
+勤,艹口龶力,SLHS,,,兼容補充
+勺,勹一,WFiⓑ,,,兼容補充
 包,勹巳,WOsⓑ,,,兼容補充
 匆,勹丶,WCKd,,,兼容補充
 北,丬匕,QNbⓠ,,,兼容補充
@@ -98552,10 +98552,10 @@ char,division,code,division_tw,code_tw,region
 卑,十,DGiⓖ,,,兼容補充
 博,十甫寸,GNKc,,,兼容補充
 即,彐卩,BUAj,,,兼容補充
-卽,白一乚卩,DFEA,,,兼容補充
-卿,丿日卩,KGJA,,,兼容補充
-卿,丿白卩,KGDA,,,兼容補充
-卿,丿白卩,KGDA,,,兼容補充
+卽,白匕卩,DNAj,,,兼容補充
+卿,卯日匕,KJNb,,,兼容補充
+卿,卯白厶,KDNa,,,兼容補充
+卿,卯白匕,KDNb,,,兼容補充
 𠨬,⺁匕,DNbⓙ,,,兼容補充
 灰,厂火,VIhⓗ,,,兼容補充
 及,乃乀,GKdⓝ,丿乛又,GYBⓞ,兼容補充
@@ -98693,7 +98693,7 @@ char,division,code,division_tw,code_tw,region
 拼,扌䒑卄,FQSo,,,兼容補充
 捨,扌人舌,FRLs,,,兼容補充
 掃,扌彐冖巾,FBXU,,,兼容補充
-揤,扌彐厶卩,FBNA,,,兼容補充
+揤,扌白匕卩,FDNA,,,兼容補充
 𢯱,扌宀火又,FIIB,,,兼容補充
 搢,扌丌䒑日,FLQJ,扌一厶日,FFNJ,兼容補充
 揅,石一卄手,VFSF,,,兼容補充
@@ -98845,7 +98845,7 @@ char,division,code,division_tw,code_tw,region
 𥘦,示夊,JTuⓢ,,,兼容補充
 祖,示且,JJqⓢ,,,兼容補充
 𥚚,示虎,JUhⓢ,,,兼容補充
-𥛅,示丿田,JKGV,,,兼容補充
+𥛅,示卯田,JKVt,,,兼容補充
 福,示一口田,JFLV,,,兼容補充
 秫,禾木丶,MAKd,,,兼容補充
 䄯,禾一卄,MFSo,,,兼容補充
@@ -98989,7 +98989,7 @@ char,division,code,division_tw,code_tw,region
 邔,己阝,OYfⓙ,,,兼容補充
 郱,䒑卄阝,QSYf,,,兼容補充
 鄑,丌䒑日阝,LQJY,一厶厶阝,FNNY,兼容補充
-𨜮,丿白阝,KGDY,,,兼容補充
+𨜮,白阝,KDUY,,,兼容補充
 鄛,巛日木阝,LJAY,,,兼容補充
 鈸,金又丶,TEBK,金乂丶,TESK,兼容補充
 鋗,金口月,TLWy,,,兼容補充
