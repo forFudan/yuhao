@@ -80,9 +80,11 @@ nav_order: 2
 - 提供四码只出单字功能，适合单字派。
 - 提供生僻字后置、生僻字屏蔽功能。
 
-![四重注解](../image/四重.png)
-
 在安装了 Rime（小狼毫、鼠须管、同文、iRime）后，[在这个页面下载最新版本的 Rime 方案](https://github.com/forFudan/yuhao/releases)。 文件夹下的**所有文件**复制到**用户文件夹**下（可以右击 Rime 图标后点击「用户文件夹」来打开）。点击「部署」之后即可使用。
+
+宇浩输入法 windows 安装视频教程。
+
+{% include youtube.html id='326571384&bvid=BV1xw411E7ak&cid=1414823103&p=1' %}
 
 方案文件介绍：
 
