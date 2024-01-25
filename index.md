@@ -28,7 +28,7 @@ nav_order: 1
 >[Bilibili视频讲解](https://www.bilibili.com/video/BV1xw411E7ak/?spm_id_from=333.999.0.0&vd_source=10095df69b76db338d94ec79ead8f5bc)  
 >在线练习小程序: 
 >[**光華字根**](./docs/practice.html) ·
->[**星陳字根**](https://damon-kwok.github.io/yuhao/practice_star.html)  
+>[**星陳字根**](./star/practice/practice.html)  
 >拆分及编码查询: 
 >[**光華方案**](https://zhuyuhao.com/yuhao/light/chaifen/) ·
 >[**星陳方案**](https://zhuyuhao.com/yuhao/star/chaifen/)  
@@ -137,7 +137,7 @@ nav_order: 1
 
 ## 聚类？分区？乱序？三码？
 
-我们都有。
+都有。
 
 宇浩输入法的核心是对于汉字的拆分，其次是对于字根排布的设计。字根一共有 200 多个，但字母只有 26 个，因此，每个按键上都会有大约10个左右的字根。字根如何排布，直接决定了它的学习难度、维护难度、手感、连贯度等等。大体上：
 
