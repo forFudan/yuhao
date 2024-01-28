@@ -2,7 +2,6 @@
 title: 技术文档
 layout: default
 nav_order: 31
-has_children: true
 ---
 
 <!-- omit in toc -->

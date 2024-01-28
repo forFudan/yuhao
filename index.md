@@ -155,7 +155,7 @@ nav_order: 1
 - 「目且貝見」和「日曰早」都在 J 上。
 - 「亦文(夂)亥(豕)亡方」都在 T 上。
 
-[![yustar](./image/yustar.png)](./image/yustar.png)
+[![yustar](../yustar/image/yustar.png)](../yustar/image/yustar.png)
 
 ### 宇浩·光華
 
@@ -192,6 +192,7 @@ nav_order: 1
 基于宇浩输入法的拆分，部分用户还创制了其他的**衍生方案**。
 
 #### 吉旦饼
+{: .no_toc }
 
 [**吉旦饼**](https://lost-melody.github.io/wafel)，是阿吉、王牌餅乾发起的一项衍生方案。它采用乱序字根设计、三码定长、延迟顶字。「吉旦饼」这个名字，来自三名主要开发人：阿吉，forFudan，王牌餅乾。取义于 華夫餅 (wafel)，其汉语翻译应有「鸡蛋饼」之义。
 
@@ -226,6 +227,7 @@ nav_order: 1
  -->
 
 #### 卿雲爛兮
+{: .no_toc }
 
 [**卿雲爛兮**](https://zhuyuhao.com/yujoy)，是钱多多发起的一项衍生方案，特点是**乱序、单编、消灭小码**。方案名取自《尚書大傳》之「卿雲爛兮，糺縵縵兮」。取码规则共两条：
 
