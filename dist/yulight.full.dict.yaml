@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20240128
+# 版本: 20240301
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yulight.full"
-version: "20240128"
+version: "20240301"
 sort: original
 columns:
   - text

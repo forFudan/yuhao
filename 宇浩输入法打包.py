@@ -9,7 +9,7 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v3.4.3-beta"
+version = "v3.4.3"
 
 # %%
 for _ in range(2):
