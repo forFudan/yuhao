@@ -155,7 +155,7 @@ nav_order: 1
 - 「目且貝見」和「日曰早」都在 J 上。
 - 「亦文(夂)亥(豕)亡方」都在 T 上。
 
-[![yustar](../yustar/image/yustar.png)](../yustar/image/yustar.png)
+[![yustar](../image/yustar.png)](../image/yustar.png)
 
 ### 宇浩·光華
 

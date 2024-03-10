@@ -216,7 +216,7 @@ language: zh
 ### 星陳方案字根编码规律
 <!-- {: .no_toc } -->
 
-[![yustar](../yustar/image/yustar.png)](../yustar/image/yustar.png)
+[![yustar](../image/yustar.png)](../image/yustar.png)
 
 #### 字根大码
 {: .no_toc }
