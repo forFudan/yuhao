@@ -7,3 +7,5 @@ gem "jekyll", "~> 4.3" # installed by `gem jekyll`
 gem "just-the-docs"        # always download the latest release
 
 gem "webrick", "~> 1.7"
+
+gem "liquid", "4.0.4"
