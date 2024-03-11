@@ -30,8 +30,8 @@ nav_order: 1
 >[**光華字根**](./docs/practice.html) ·
 >[**星陳字根**](./star/practice/practice.html)  
 >拆分及编码查询: 
->[**光華方案**](https://zhuyuhao.com/yuhao/light/chaifen/) ·
->[**星陳方案**](https://zhuyuhao.com/yuhao/star/chaifen/)  
+>[**光華方案**](./light/chaifen/) ·
+>[**星陳方案**](./star/chaifen/)  
 
 <!-- {: .note }
 >本页面介绍的是宇浩·光華，其他版本信息请移步导航栏 -->

@@ -4,7 +4,7 @@
 # 版本: 20240301
 
 # 朱宇浩 开发
-# Rime方案 forFudan <https://zhuyuhao.com/yuhao>
+# Rime方案 forFudan <https://yuhao.forfudan.com>
 # 官方QQ群 735728797
 
 # 单字全码
@@ -17,8 +17,7 @@ sort: original
 columns:
   - text
   - code
-...
-
+---
 的	ewod
 一	fii
 不	duu

@@ -1,4 +1,4 @@
-d3.csv("https://zhuyuhao.com/yuhao/joy/chaifen/宇浩卿雲全漢字拆分表.csv", function (data) {
+d3.csv("https://yuhao.forfudan.com/joy/chaifen/宇浩卿雲全漢字拆分表.csv", function (data) {
     var dictionary = data;
     var button = d3.select("#button");
     var form = d3.select("#form");

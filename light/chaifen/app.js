@@ -1,4 +1,4 @@
-d3.csv("https://zhuyuhao.com/yuhao/light/chaifen/宇浩輸入法全漢字拆分表.csv", function (data) {
+d3.csv("https://yuhao.forfudan.com/light/chaifen/宇浩輸入法全漢字拆分表.csv", function (data) {
     var dictionary = data;
     var button = d3.select("#button");
     var form = d3.select("#form");
@@ -17,23 +17,23 @@ d3.csv("https://zhuyuhao.com/yuhao/light/chaifen/宇浩輸入法全漢字拆分�
             var output = _.sortBy(filteredDictionary, 'code')
             for (var i = 0; i < filteredDictionary.length; i++) {
                 d3.select("tbody").insert("tr").html(
-                    "<td><a href='https://zi.tools/zi/" + (output[i]['char']) + "'>" + (output[i]['char']) + "</a></td>" 
+                    "<td><a href='https://zi.tools/zi/" + (output[i]['char']) + "'>" + (output[i]['char']) + "</a></td>"
                     +
-                    "<td>" + (output[i]['division']) + "</td>" 
+                    "<td>" + (output[i]['division']) + "</td>"
                     +
-                    "<td>" + (output[i]['code']) + "</td>" 
+                    "<td>" + (output[i]['code']) + "</td>"
                     +
                     // "<td>" + (output[i]['quick_simp']) + "</td>" +
-                    "<td>" + (output[i]['division_tw']) + "</td>" 
+                    "<td>" + (output[i]['division_tw']) + "</td>"
                     +
-                    "<td>" + (output[i]['code_tw']) + "</td>" 
+                    "<td>" + (output[i]['code_tw']) + "</td>"
                     +
-                    "<td>" + (output[i]['region']) + "</td>" 
+                    "<td>" + (output[i]['region']) + "</td>"
                     // +
                     // "<td>" + (output[i]['details']) + "</td>" 
                     // +
                     // "<td>" + (output[i]['comments']) + "</td>"
-                    )
+                )
             }
         }
     };

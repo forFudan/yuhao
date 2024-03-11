@@ -194,6 +194,6 @@ ABCZza 贯序移除 a>z 直到小于等于四码
 
 ABCZza\[:4\]
 
-[宇浩输入法官网](https://zhuyuhao.com/yuhao/) · 
+[宇浩输入法官网](https://yuhao.forfudan.com/) · 
 官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk) · 
 官方 Telegram 群: [yuhaoim](https://t.me/yuhaoim)  
