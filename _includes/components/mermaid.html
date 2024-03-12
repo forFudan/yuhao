@@ -18,7 +18,7 @@ If a user is using a custom mermaid file and doesn't specify a version, we defau
   {% if site.mermaid.path %}
   import mermaid from '{{ site.mermaid.path | relative_url }}';
   {% else %}
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@{{ site.mermaid.version }}/dist/mermaid.esm.min.mjs';
+  import mermaid from 'https://unpkg.com/mermaid@{{ site.mermaid.version }}/dist/mermaid.esm.min.mjs';
   {% endif %}
 
   var config = {% include mermaid_config.js %};
@@ -33,7 +33,7 @@ If a user is using a custom mermaid file and doesn't specify a version, we defau
 {% if site.mermaid.path %}
   <script src="{{ site.mermaid.path | relative_url }}"></script>
 {% else %}
-  <script src="https://cdn.jsdelivr.net/npm/mermaid@{{ site.mermaid.version }}/dist/mermaid.min.js"></script>
+  <script src="https://unpkg.com/mermaid@{{ site.mermaid.version }}/dist/mermaid.min.js"></script>
 {% endif %}
 
 <script>
