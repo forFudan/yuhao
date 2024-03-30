@@ -62,11 +62,15 @@ repr,font,zhu_code
 艹,艹,Sj
 {冓上},,Sj
 龷,龷,Sj
-卄,卄,Sj
+卄,廾,Sj
 卝,卝,Sj
+卄,卄,Sj
+{華中},,Sj
 西,西,Dx
+西,覀,Dx
 襾,襾,Dx
 豕,豕,Ds
+豕,,Ds
 走,走,Dk
 車,車,Gc
 叀,叀,Gc
@@ -148,7 +152,7 @@ repr,font,zhu_code
 匕,匕,Ri
 千,千,Wk
 卯,卯,Tm
-{齊右},{齊右},Tm
+{齊右},,Tm
 {卯左},,Tm
 {乐上},,Tm
 {卬左},,Tm
@@ -182,9 +186,11 @@ repr,font,zhu_code
 烏,烏,Yw
 {烏上},,Yw
 爪,爪,Ek
+爪,爫,Ek
 片,片,Tp
 牛,牛,Wn
 ⺧,⺧,Wn
+牛,牜,Wn
 犭,犭,Rq
 瓜,瓜,Qu
 生,生,Wg
@@ -211,7 +217,7 @@ repr,font,zhu_code
 饣,饣,Rs
 鬼,鬼,Wu
 甶,甶,Wu
-{鬼左},鬼,Wu
+{鬼左},,Wu
 {卑上},,Wu
 魚,魚,Ty
 鱼,鱼,Qy
@@ -238,7 +244,7 @@ repr,font,zhu_code
 {乍下},,Mo
 {龍右},,Mo
 口,口,Lv
-口,{黽上},Lv
+口,,Lv
 咼,咼,Na
 冎,冎,Na
 囗,囗,Nw
@@ -291,6 +297,7 @@ repr,font,zhu_code
 𠄎,𠄎,Vi
 亅,亅,Vi
 乛,乛,Vi
+乛,㇆,Vi
 乁,乁,Vi
 㔾,㔾,Vi
 乛,乙,Vi
@@ -307,6 +314,7 @@ repr,font,zhu_code
 屮,屮,Xg
 丱,丱,Xg
 丩,丩,Xg
+丩,,Xg
 刀,刀,Bd
 力,力,Xk
 卩,卩,Xj
@@ -314,8 +322,9 @@ repr,font,zhu_code
 又,又,Bu
 マ,マ,Bu
 癶,癶,Bu
-コ,コ,Bu
+コ,ユ,Bu
 ス,ス,Bu
+コ,コ,Bu
 女,女,Cn
 子,子,Vk
 尸,尸,Bh
@@ -330,7 +339,7 @@ repr,font,zhu_code
 廴,廴,Xn
 弓,弓,Vg
 彐,彐,Xl
-{反彐},彐,Xl
+{反彐},,Xl
 肀,肀,Xl
 母,母,Bm
 彑,彑,Bm
