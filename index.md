@@ -4,7 +4,10 @@ layout: home
 nav_order: 1
 ---
 
-<head><meta http-equiv="refresh" content="0; url=http://zhuyuhao.com/yu/" /></head>
+<html lang="en-US">
+<head><meta http-equiv="refresh" content="0; url=https://zhuyuhao.com/yu/?q="></meta></head>
+<body><p><a href="https://zhuyuhao.com/yu/?q=">宇浩輸入法官方網站加載中……</a></p></body>
+</html>
 
 <!-- omit in toc -->
 # 宇浩输入法方案发布仓库
@@ -12,7 +15,8 @@ nav_order: 1
 {: .highlight }
 >[官方网站·简化汉字](https://yuhao.forfudan.com)  
 >[官方網站·傳統漢字](https://yuhao.forfudan.com/tw)
->
+
+<!-- >
 >官方 QQ 群: [735728797](https://jq.qq.com/?_wv=1027&k=2OYDP4Tk)  
 >官方 TG 群: [yuhaoim](https://t.me/yuhaoim)  
 >
@@ -25,4 +29,4 @@ nav_order: 1
 >
 >[在线练习](https://yuhao.forfudan.com/practice/root.html)
 >
->[拆分及编码查询](https://yuhao.forfudan.com/chaifen/?q=)
+>[拆分及编码查询](https://yuhao.forfudan.com/chaifen/?q=) -->

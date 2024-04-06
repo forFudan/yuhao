@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·繁简通
-# 版本: 20240330
+# 版本: 20240406
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -12,7 +12,7 @@
 
 ---
 name: "yulight.full"
-version: "20240330"
+version: "20240406"
 sort: original
 columns:
   - text
@@ -11648,7 +11648,7 @@ columns:
 釿	wejj
 貎	yrqr
 扠	abod
-斲	gbje
+斲	jeja
 暸	jgum
 喛	lehb
 奌	mlgd
@@ -19361,7 +19361,6 @@ columns:
 鬪	nfla
 躎	nftw
 踕	nfxn
-鬭	ngbe
 歫	ngbu
 欭	ngei
 爴	ngle
@@ -19376,6 +19375,7 @@ columns:
 圔	nhvm
 踥	nicn
 蹗	nilv
+鬭	njej
 躢	nkjx
 蹪	nlkm
 圚	nlkm
@@ -23657,7 +23657,6 @@ columns:
 㺲	gbcn
 䤙	gbdk
 䤆	gbfg
-㓸	gbjm
 䡶	gblo
 㻵	gbvv
 㻕	gbxx
@@ -24671,6 +24670,7 @@ columns:
 㫛	jlqr
 㟕	jlsd
 㞻	jlsk
+㓸	jmda
 㟵	jmfn
 㠠	jmjm
 㠊	jmkg
@@ -31479,8 +31479,6 @@ columns:
 𨺇	cfxn
 𡞗	cgao
 𡞮	cgbf
-𡟳	cgbj
-𨻉	cgbj
 𨸽	cgbu
 𡝀	cgcn
 𡞍	cgcn
@@ -31583,6 +31581,8 @@ columns:
 𡣄	civs
 𡡔	cjab
 𨼥	cjab
+𨻉	cjaj
+𡟳	cjan
 𡡻	cjbm
 𨻽	cjbs
 𩏞	cjbs
@@ -35313,7 +35313,6 @@ columns:
 𤔇	efxv
 𨿁	efxw
 𠏞	egam
-𠍄	egbj
 𠋾	egbm
 𥿝	egbs
 𤔋	egbu
@@ -35444,6 +35443,7 @@ columns:
 𢮣	eitu
 𤚶	eiww
 𠊘	eiwy
+𠍄	ejae
 𨙅	ejbp
 𠊗	ejbu
 𠈦	ejeh
@@ -38327,12 +38327,7 @@ columns:
 𤤻	gbgn
 𢀦	gbie
 𤣱	gbin
-𠁁	gbja
 𨊲	gbjc
-𨜹	gbjc
-𧡸	gbjm
-𩔡	gbjm
-𧞐	gbjr
 𤧱	gbkl
 𠢌	gblx
 𧷄	gbmb
@@ -42696,7 +42691,6 @@ columns:
 𣸝	ifxx
 𤄄	ifyr
 𣴰	igao
-𤂊	igbe
 𣵹	igbh
 𧕎	igbk
 𣯸	igbr
@@ -42924,6 +42918,7 @@ columns:
 𩐾	ijeb
 𣺿	ijed
 𢾚	ijeh
+𤂊	ijej
 𩐙	ijej
 𣽞	ijel
 𥫔	ijem
@@ -44169,6 +44164,7 @@ columns:
 𣻰	iywi
 𣹠	iyyo
 𣾫	iyyy
+𠁁	jaaa
 𣌍	jaaa
 𡽨	jabs
 𡸘	jabu
@@ -44248,6 +44244,7 @@ columns:
 𡺿	jche
 𡻴	jche
 𡺨	jcis
+𨜹	jcja
 𨚰	jcjd
 𧒛	jckk
 𡵆	jcks
@@ -44300,6 +44297,7 @@ columns:
 𡼎	jdlv
 𣇊	jdlv
 𡺋	jdmb
+𩔡	jdmb
 𡺷	jdme
 𡸜	jdmi
 𡸽	jdmi
@@ -44375,6 +44373,7 @@ columns:
 𡶜	jeod
 𡽄	jeoe
 𡸌	jeog
+𧞐	jeor
 𡹢	jepd
 𨓒	jepd
 𨓤	jepd
@@ -44939,6 +44938,7 @@ columns:
 𡹺	jmwm
 𣌉	jmws
 𣆺	jmwy
+𧡸	jmxa
 𡺕	jmxk
 𢅇	jmxr
 𡷹	jmxs
@@ -46038,7 +46038,6 @@ columns:
 𪉪	kgao
 𤬺	kgaw
 𤭄	kgaw
-𨷖	kgbe
 𨳽	kgbu
 𨋉	kgcv
 𪉗	kgdl
@@ -46183,6 +46182,7 @@ columns:
 𨴝	kjdn
 𨷒	kjdt
 𧏢	kjed
+𨷖	kjej
 𧐋	kjel
 𧐣	kjel
 𧍋	kjfa
@@ -47788,13 +47788,13 @@ columns:
 𠱃	lkfi
 𩇷	lkfl
 𡂛	lkfu
-𡆏	lkge
 𠲁	lkgg
 𠹃	lkgm
 𠾽	lkgn
 𡀊	lkgo
 𡄢	lkhj
 𠽫	lkhy
+𡆏	lkje
 𠴲	lkjr
 𣆊	lkjr
 𡅿	lkjv
@@ -48058,10 +48058,10 @@ columns:
 𠯬	lnfv
 𠳁	lnfv
 𡁴	lnga
-𡆞	lnge
 𨞱	lnhc
 𠶁	lnht
 𠯽	lniv
+𡆞	lnje
 𡄅	lnkl
 𠸱	lnlh
 𠲛	lnlv
@@ -49187,7 +49187,6 @@ columns:
 𩩛	mgal
 𡭻	mgax
 𧵪	mgbd
-𥉝	mgbj
 𥄷	mgbu
 𦊐	mgbu
 𦍈	mgdn
@@ -49434,6 +49433,7 @@ columns:
 𥊴	mjab
 𪙦	mjab
 𦋂	mjac
+𥉝	mjaf
 𩩚	mjaj
 𥉹	mjbs
 𧷳	mjbs
@@ -52295,7 +52295,6 @@ columns:
 𢚠	ofyi
 𩫎	ofym
 𨐣	ogbf
-𧞗	ogbr
 𩍯	ogbt
 𠅌	ogdl
 𩒊	ogdm
@@ -52375,6 +52374,7 @@ columns:
 𠭇	ojbu
 𡪻	ojcd
 𣢿	ojei
+𧞗	ojer
 𣄍	ojfn
 𡨕	ojft
 𡩳	ojgh
@@ -63812,7 +63812,6 @@ columns:
 𧪇	ugar
 𧩆	ugbh
 𢀻	ugbj
-𧪧	ugbj
 𢜂	ugby
 𨡡	ugcf
 𨌅	ugcg
@@ -64038,6 +64037,7 @@ columns:
 𢉊	uixn
 𢊖	uiyf
 𤊀	uiyv
+𧪧	ujaa
 𢈷	ujaj
 𧨬	ujaj
 𤌖	ujbm
@@ -66848,9 +66848,7 @@ columns:
 𩳣	wgal
 𨉀	wgao
 𨨹	wgar
-𨮕	wgbe
 𦟊	wgbj
-𨪐	wgbj
 𤋝	wgbu
 𩳛	wgcu
 𠣞	wgcy
@@ -67077,6 +67075,7 @@ columns:
 𩴙	wiyf
 𨬥	wiym
 𨭅	wjah
+𨪐	wjaj
 𦜠	wjaj
 𦠙	wjbm
 𦜧	wjcb
@@ -67085,6 +67084,7 @@ columns:
 𦣂	wjdu
 𨰘	wjdu
 𦜄	wjeh
+𨮕	wjej
 𨩟	wjel
 𨨌	wjen
 𤙰	wjfa
@@ -89648,7 +89648,6 @@ columns:
 𰋳	gbbm
 𰋝	gbgd
 𰼔	gbhl
-𰴛	gbjk
 𰹡	gbkm
 𰹒	gbkv
 𰑋	gbyi
@@ -90482,6 +90481,7 @@ columns:
 𰖔	jkjr
 𰎖	jkmd
 𱉃	jkur
+𰴛	jkxa
 𰎵	jllx
 𰎶	jllx
 𰎘	jlqo
