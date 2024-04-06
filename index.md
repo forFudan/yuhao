@@ -6,7 +6,6 @@ nav_order: 1
 
 <!-- omit in toc -->
 # 宇浩输入法
-{: .no_toc }
 
 {: .highlight }
 >[官方网站·简化汉字](https://yuhao.forfudan.com)  
