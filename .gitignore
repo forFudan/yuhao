@@ -17,7 +17,7 @@ _site/
 /_archived
 /beta/hotfix
 /beta/mabiao
-/beta/schema
+/beta/schema/yuhao
 
 # Ignore distributions
 /dist/*.zip
