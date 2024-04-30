@@ -1,0 +1,58 @@
+# encoding: utf-8
+#
+# 宇浩·繼往聖
+# 版本: 20240421
+#
+# 發明人 朱宇浩
+# Rime方案 forFudan <https://zhuyuhao.com/yuhao>
+# 官方QQ群 735728797
+#
+# 介紹：
+# - 這是筆者用來寫小説的自用方案。
+# - 單字排序，以繁體字頻爲主，簡體字頻爲輔。
+# - 字形選取依照大陸唯一繁體字字形標準《古籍印刷通用字規範字形表》。
+# - <https://www.zhihu.com/question/494817799/answer/2647217480>
+#
+# 碼表排列:
+# - 一二三級簡碼
+# - 單字全碼
+# - 臺灣、香港、大陸古籍繁體字形兼容補充
+# - 易錯拆分容錯碼
+# - 傳統字核心詞庫
+# - 简化字核心词库
+# - 特殊符號
+# - 用户自定義詞庫
+#
+# 可選導入:
+# - 简化字增广词库（成语、诗词）
+---
+name: "yulight_tc"
+version: "20240421"
+sort: original
+import_tables:
+  # 去除下方的 # 符号以导入词库
+  - yuhao/yulight_tc.quick
+  - yuhao/yulight.full
+  - yuhao/yuhao.private
+  - yuhao/yulight_tc.words
+  - yuhao/yulight.words
+  - yuhao/yulight_tc.words_literature
+  #  - yuhao/yulight.words_literature
+  - yuhao/yuhao.symbols
+  - yuhao/yuhao.extended
+columns:
+  - text
+  - code
+encoder:
+  exclude_patterns:
+    - "^[a-z]$" # 一简
+    - "[^a-z]"
+  rules:
+    - length_equal: 2
+      formula: "AaAbBaBb"
+    - length_equal: 3
+      formula: "AaBaCaCb"
+    - length_in_range: [4, 20]
+      formula: "AaBaCaZa"
+...
+
