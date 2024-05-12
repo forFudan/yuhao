@@ -21360,7 +21360,7 @@ char,division,code,division_tw,code_tw,region
 㔑,艹𠂤辛刀,DWJJ,,,CJK-A
 㔒,山隹冂刂,JOQO,,,CJK-A
 㔓,千力,JSl,,,CJK-A
-㔔,力口〇,SKKv,,,CJK-A
+㔔,力口〇,SKKl,,,CJK-A
 㔕,气力,ISl,𠂉一乙力,,CJK-A
 㔖,力口乛,SKOi,,,CJK-A
 㔗,弓力,JRSl,,,CJK-A
@@ -22788,7 +22788,7 @@ char,division,code,division_tw,code_tw,region
 㪰,文米,ETm,,,CJK-A
 㪱,文⺈冂大,EOQM,,,CJK-A
 㪲,⺀十乛,AROi,,,CJK-A
-㪳,⺀十〇,ARKv,,,CJK-A
+㪳,⺀十〇,ARKl,,,CJK-A
 㪴,一兀⺀十,FOAR,,,CJK-A
 㪵,丷⺀十,LAAR,,,CJK-A
 㪶,丆日⺀十,VJAR,,,CJK-A
@@ -98236,7 +98236,7 @@ char,division,code,division_tw,code_tw,region
 ㇠,乙,Oi,,,筆畫
 ㇡,𠄎,Oi,,,筆畫
 ㇢,亅,Oi,,,筆畫
-㇣,〇,Kv,,,筆畫
+㇣,〇,Kl,,,筆畫
 豈,山一口䒑,JFKL,,,兼容文字
 更,一日乂,FJCi,,,兼容文字
 車,車,Xc,,,兼容文字
@@ -99231,7 +99231,7 @@ char,division,code,division_tw,code_tw,region
 鼻,自田丌,CSOj,,,兼容補充
 𪘀,齒䒑廾,NLDn,,,兼容補充
 々,⺈丶,OId,,,符號標點
-〇,〇,Kv,,,符號標點
+〇,〇,Kl,,,符號標點
 〢,〢,Ls,,,符號標點
 〣,〣,Ls,,,符號標點
 ㈱,木牛八,APMb,,,圈字月份

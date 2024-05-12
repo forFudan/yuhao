@@ -21,7 +21,7 @@
 
 ---
 name: "yulight_chaifen_tw"
-version: 20240425
+version: 20240511
 sort: by_weight
 columns:
   - text
@@ -18220,7 +18220,7 @@ columns:
 醾	[酉麻米,GPPm,mí,GBK,91BE]
 醿	[酉麻糸,GPBs,mí,GBK,91BF]
 釀	[酉{襄頭}{冓上}𧘇,GOSR,niàng_niáng,GBK,91C0]
-釁	[月臼宀刀,WROB,xìn,GBK,91C1]
+釁	[月臼丨刀,WRNB,xìn,GBK,91C1]
 釂	[酉爪罒寸,GEMA,jiào,GBK,91C2]
 釃	[酉一{冂丶}鹿,GFKI,shāi_shī_lí,GBK,91C3]
 釄	[酉麻非,GPLi,mí,GBK,91C4]
@@ -71335,7 +71335,7 @@ columns:
 𪫐	[彳冖口丶,RYLO,,CJK-C,2AAD0]
 𪫑	[彳田{畏下},RJGf,,CJK-C,2AAD1]
 𪫒	[彳止宀匕,RNOR,,CJK-C,2AAD2]
-𪫓	[彳彐キ丨,RXAN,,CJK-C,2AAD3]
+𪫓	[彳彐キ亅,RXAV,,CJK-C,2AAD3]
 𪫔	[彳鱼人,RQTe,,CJK-C,2AAD4]
 𪫕	[彳糸夊,RBEh,,CJK-C,2AAD5]
 𪫖	[彳{專上}寸,RGAc,,CJK-C,2AAD6]
@@ -84804,16 +84804,16 @@ columns:
 𭾃	[扌刀口皿,ABLM,,CJK-F,2DF83]
 𭾄	[扌卜口皿,AMLM,,CJK-F,2DF84]
 𭾅	[宀夕㔾皿,ORVM,,CJK-F,2DF85]
-𭾆	[冂乛コ皿,KVBM,,CJK-F,2DF86]
+𭾆	[丨乛乛皿,NVVM,,CJK-F,2DF86]
 𭾇	[𡗗日皿,GJMn,,CJK-F,2DF87]
 𭾈	[土厶欠皿,HVEM,,CJK-F,2DF88]
 𭾉	[由冫二皿,KSSM,,CJK-F,2DF89]
 𭾊	[彐丿由皿,XQKM,,CJK-F,2DF8A]
-𭾋	[冂乛コ皿,KVBM,,CJK-F,2DF8B]
+𭾋	[丨乛乛皿,NVVM,,CJK-F,2DF8B]
 𭾌	[土𠂉古皿,HQDM,,CJK-F,2DF8C]
 𭾍	[气米皿,QPMn,,CJK-F,2DF8D]
 𭾎	[糹文皿,BPMn,,CJK-F,2DF8E]
-𭾏	[冂乛コ皿,KVBM,,CJK-F,2DF8F]
+𭾏	[丨乛乛皿,NVVM,,CJK-F,2DF8F]
 𭾐	[丅彐丿皿,AXQM,,CJK-F,2DF90]
 𭾑	[臣舌皿,SRMn,,CJK-F,2DF91]
 𭾒	[豸艮皿,YVMn,,CJK-F,2DF92]
