@@ -17,7 +17,7 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
     char_is_in_unicode_blocks, string_is_in_unicode_blocks
     string_is_in_charset_or_not_in_cjk
 ---------------------------
---]]
+]]
 
 local core = {}
 
@@ -83,13 +83,13 @@ function core.is_intersected(set1, set2)
     return false
 end
 
-core.cjk_blocks = { -- CJK 區塊(非符號區)
-    { 0x4E00, 0x9FFF }, -- 中日韓統一表意文字
-    { 0x3400, 0x4DBF }, -- 中日韓統一表意文字擴展區A
+core.cjk_blocks = {       -- CJK 區塊(非符號區)
+    { 0x4E00, 0x9FFF },   -- 中日韓統一表意文字
+    { 0x3400, 0x4DBF },   -- 中日韓統一表意文字擴展區A
     { 0x20000, 0x323AF }, -- 中日韓統一表意文字擴展區B到擴展區H
     { 0x2EBF0, 0x2EE5F }, -- 中日韓統一表意文字擴展區I
-    { 0x2E80, 0x2EFF }, -- 中日韓漢字部首補充
-    { 0x2F00, 0x2FDF }, -- 康熙部首
+    { 0x2E80, 0x2EFF },   -- 中日韓漢字部首補充
+    { 0x2F00, 0x2FDF },   -- 康熙部首
     -- 表意文字描述字符 不收
     -- 中日韓符號和標點 不收
     { 0x31C0, 0x31EF }, -- 中日韓筆畫
@@ -99,7 +99,7 @@ core.cjk_blocks = { -- CJK 區塊(非符號區)
     -- 中日韓兼容形式 不收
     -- 帶圈表意文字補充 不收
     { 0x2F800, 0x2FA1F }, -- 中日韓兼容表意文字補充
-    { 0xE000, 0xF8FF } -- 私用區 宇浩字根在此區
+    { 0xE000, 0xF8FF }    -- 私用區 宇浩字根在此區
 }
 
 ---@param unicode_of_char integer

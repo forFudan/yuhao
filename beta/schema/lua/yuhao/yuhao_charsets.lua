@@ -16,7 +16,7 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 - 常用繁簡漢字 (通用規範漢字 + 國字常用字 + 部分古籍通規字).
 - 通用規範漢字表 8500 字.
 -------------------------
---]]
+]]
 
 local this = {}
 this.common = [[

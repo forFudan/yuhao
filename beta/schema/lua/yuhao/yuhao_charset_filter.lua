@@ -36,7 +36,7 @@ So a lua filter would be helpful to filter the frequently used
     入 yuhao_charset.lua 文件.增加一項判斷: 始終不過濾非 CJK 字符.
     增加常用繁簡字符集和通規字符集
 ------------------------------------------------------------------------
---]]
+]]
 
 local core = require("yuhao.yuhao_core")
 local yuhao_charsets = require("yuhao.yuhao_charsets")
