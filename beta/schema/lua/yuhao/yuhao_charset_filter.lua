@@ -17,7 +17,10 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
     單獨出来作爲插件.
 所以我寫了這個 lua 腳本過濾:
     - 常用繁簡漢字 (通用規範漢字 + 國字常用字 + 部分古籍通規字).
-    - 通用規範漢字表 8500 字.
+    - 通用規範漢字表約 8000 字.
+    - 調和大陸繁體標準約 8000 字.
+        古籍通規繁體標準 及 調和大陸繁體標準 詳見
+        <https://github.com/forFudan/GujiCC>
 非 CJK 的字符以及 CJK 中的符号區不會被過濾.
 
 Description:
@@ -42,6 +45,7 @@ local core = require("yuhao.yuhao_core")
 local yuhao_charsets = require("yuhao.yuhao_charsets")
 local set_of_common_chars = core.set_from_str(yuhao_charsets.common)
 local set_of_tonggui_chars = core.set_from_str(yuhao_charsets.tonggui)
+local set_of_harmonic_chars = core.set_from_str(yuhao_charsets.harmonic)
 
 local function yuhao_charset_filter_common(input, env)
     local switch_on = env.engine.context:get_option("yuhao_charset_filter_common")
@@ -65,7 +69,19 @@ local function yuhao_charset_filter_tonggui(input, env)
     end
 end
 
+local function yuhao_charset_filter_harmonic(input, env)
+    local switch_on = env.engine.context:get_option("yuhao_charset_filter_harmonic")
+    for cand in input:iter() do
+        local is_charset_or_not_cjk = core.string_is_in_charset_or_not_in_cjk(cand.text, set_of_harmonic_chars)
+        -- 三種情況顯示字符: (1) 常用 (2) 非 CJK (3) 過濾器關閉
+        if is_charset_or_not_cjk or not switch_on then
+            yield(cand)
+        end
+    end
+end
+
 return {
     yuhao_charset_filter_common = yuhao_charset_filter_common,
-    yuhao_charset_filter_tonggui = yuhao_charset_filter_tonggui
+    yuhao_charset_filter_tonggui = yuhao_charset_filter_tonggui,
+    yuhao_charset_filter_harmonic = yuhao_charset_filter_harmonic
 }
