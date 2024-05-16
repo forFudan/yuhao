@@ -16,14 +16,15 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 20240512: 重構函數, 寫成 len_of_set, string_is_in_set,
     char_is_in_unicode_blocks, string_is_in_unicode_blocks
     string_is_in_charset_or_not_in_cjk
+20240514: 增加 string_starts_with
 ---------------------------
 ]]
 
 local core = {}
 
+--- 將字符串轉化爲 set
 ---@param text string
 ---@return table
--- 將字符串轉化爲 set
 function core.set_from_str(text)
     local t = {}
     for p, c in utf8.codes(text) do
@@ -32,9 +33,9 @@ function core.set_from_str(text)
     return t
 end
 
+--- 計算 set 的元素數目
 ---@param set table
 ---@return integer
--- 計算 set 的元素數目
 function core.len_of_set(set)
     local count = 0
     for k, v in pairs(set) do
@@ -43,10 +44,10 @@ function core.len_of_set(set)
     return count
 end
 
+--- 判斷第一個 set 是不是第二個 set 的子集
 ---@param set1 table
 ---@param set2 table
 ---@return boolean
--- 判斷第一個 set 是不是第二個 set 的子集
 function core.is_subset(set1, set2)
     for k, v in pairs(set1) do
         if not set2[k] then
@@ -56,19 +57,19 @@ function core.is_subset(set1, set2)
     return true
 end
 
+--- 判斷一個字符串的所有字符是不是都在 set 中
 ---@param text string
 ---@param set table
 ---@return boolean
--- 判斷一個字符串的所有字符是不是都在 set 中
 function core.string_is_in_set(text, set)
     local set_of_text = core.set_from_str(text)
     return core.is_subset(set_of_text, set)
 end
 
+--- 判斷第一個 set 中是否包含第二個 set 的元素
 ---@param set1 table
 ---@param set2 table
 ---@return boolean
--- 判斷第一個 set 中是否包含第二個 set 的元素
 function core.is_intersected(set1, set2)
     local len_of_set1 = core.len_of_set(set1)
     -- 首表爲空也算相交
@@ -102,10 +103,10 @@ core.cjk_blocks = {       -- CJK 區塊(非符號區)
     { 0xE000, 0xF8FF }    -- 私用區 宇浩字根在此區
 }
 
+--- 判斷一個字符是不是在一組 Unicode 區位中
 ---@param unicode_of_char integer
 ---@param unicode_blocks table
 ---@return boolean
--- 判斷一個字符是不是在一組 Unicode 區位中
 function core.char_is_in_unicode_blocks(unicode_of_char, unicode_blocks)
     for i, c in ipairs(unicode_blocks) do
         if (unicode_of_char >= c[1]) and (unicode_of_char <= c[2]) then
@@ -115,10 +116,10 @@ function core.char_is_in_unicode_blocks(unicode_of_char, unicode_blocks)
     return false
 end
 
+--- 判斷一個字符串的所有字符是否都在一組 Unicode 區位中
 ---@param text string
 ---@param unicode_blocks table
 ---@return boolean
--- 判斷一個字符串的所有字符是否都在一組 Unicode 區位中
 function core.string_is_in_unicode_blocks(text, unicode_blocks)
     for p, unicode_of_char in utf8.codes(text) do
         if not core.char_is_in_unicode_blocks(unicode_of_char, unicode_blocks) then
@@ -128,14 +129,22 @@ function core.string_is_in_unicode_blocks(text, unicode_blocks)
     return true
 end
 
+--- 判斷一個字符串的所有字符都在一個指定集合中,或有一個非 CJK 漢字
 ---@param text string
 ---@param charset table
 ---@return boolean
--- 判斷一個字符串的所有字符都在一個指定集合中,或有一個非 CJK 漢字
 function core.string_is_in_charset_or_not_in_cjk(text, charset)
     local is_in_charset = core.string_is_in_set(text, charset)
     local is_in_cjk = core.string_is_in_unicode_blocks(text, core.cjk_blocks)
     return is_in_charset or not is_in_cjk
+end
+
+---To check whether the first string begins with the second string
+---@param text string
+---@param start string
+---@return boolean
+function core.string_starts_with(text, start)
+    return text:sub(1, #start) == start
 end
 
 return core
