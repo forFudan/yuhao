@@ -14,6 +14,7 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 20240514, 朱宇浩: 注意到有時第二選項並不是第一選項的頭幾個字,用户可能在
     不覺中上屏了其他的字.因此進行一個判斷，只有當第二選項是第一個選項的
     頭幾個字的時候纔會選擇上屏.用户可以指定候選區最多顯示的漢字數.
+20240517, 朱宇浩: 續上.第一選項有時是第三候選,因此加一個判斷上屏之.
 ---------------------------------------
 ]]
 
@@ -50,6 +51,7 @@ function this.func(key_event, env)
     end
     local first_candidate = segment:get_candidate_at(0)
     local second_candidate = segment:get_candidate_at(1)
+    local third_candidate = segment:get_candidate_at(2)
     if not first_candidate or not second_candidate then
         return kNoop
     end
@@ -58,6 +60,10 @@ function this.func(key_event, env)
     end
     if core.string_starts_with(first_candidate.text, second_candidate.text) then
         env.engine:process_key(KeyEvent('2'))
+        return kNoop
+    end
+    if core.string_starts_with(first_candidate.text, third_candidate.text) then
+        env.engine:process_key(KeyEvent('3'))
         return kNoop
     end
     return kNoop
