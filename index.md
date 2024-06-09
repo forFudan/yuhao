@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 <html lang="en-US">
-<head><meta http-equiv="refresh" content="0; url=https://zhuyuhao.com/yu/?q="></meta></head>
+<head><meta http-equiv="refresh" content="0; url=https://yuhao.forfudan.com"></meta></head>
 <body><p><a href="https://zhuyuhao.com/yu/?q=">宇浩輸入法官方網站加載中……</a></p></body>
 </html>
 

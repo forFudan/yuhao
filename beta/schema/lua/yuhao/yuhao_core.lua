@@ -147,4 +147,13 @@ function core.string_starts_with(text, start)
     return text:sub(1, #start) == start
 end
 
+---通過 unicode 編碼輸入字符 @lost-melody
+function core.unicode()
+    local space = utf8.codepoint(" ")
+    return function(args)
+        local code = tonumber(string.format("0x%s", args[1] or ""))
+        return utf8.char(code or space)
+    end
+end
+
 return core

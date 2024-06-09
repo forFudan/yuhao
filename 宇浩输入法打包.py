@@ -28,6 +28,8 @@ copyfile("./beta/schema/yuhao/yulight.full.dict.yaml", f"./dist/yulight.full.dic
 copy_tree("./beta/mabiao", "./dist/yulight/mabiao")
 copy_tree("./beta/schema", "./dist/yulight/schema")
 copy_tree("./beta/hotfix", "./dist/yulight/hotfix")
+copy_tree("./beta/trime", "./dist/yulight/trime")
+copy_tree("./beta/custom", "./dist/yulight/custom")
 
 # %%
 # Hamster IME

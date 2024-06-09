@@ -16,6 +16,10 @@ patch:
 
 重新部署后即可使用。
 
+## custom
+
+/custom 中的文件爲 Rime 輸入法各平臺（小狼毫、鼠鬚管）方案的自定義設定。
+
 ## hotfix
 
 /hotfix 中的文件，用於 Android 平臺的「中文輸入法」，以及一些 Rime 内核較老的程序。使用時，直接將文件覆蓋 /schema 下的原文件即可。
