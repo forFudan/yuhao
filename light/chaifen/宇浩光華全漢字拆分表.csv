@@ -8904,7 +8904,7 @@ char,division,code,division_tw,code_tw,region
 烆,火彳亍,URAh,,,CJK
 烇,火人王,UTGn,火入王,URGn,CJK
 烈,一夕刂灬,FRMU,,,CJK
-烉,火,YUoⓥ,⺈冂儿火,,CJK
+烉,火,YUoⓥ,,,CJK
 烊,火羊,UUgⓞ,,,CJK
 烋,亻木灬,EFUo,,,CJK
 烌,火亻木,UEFv,,,CJK
@@ -30495,7 +30495,7 @@ char,division,code,division_tw,code_tw,region
 𠭝,乚丆尸又,XDBB,,,CJK-B
 𠭞,又又又卩,BBBX,,,CJK-B
 𠭟,冖幺又,WYVB,,,CJK-B
-𠭠,⺈冂儿又,YKQB,,,CJK-B
+𠭠,尸又,YBBu,,,CJK-B
 𠭡,丿人人又,QTTB,,,CJK-B
 𠭢,匕夕又,RRBT,,,CJK-B
 𠭣,彑又,BDBu,,,CJK-B
@@ -33072,7 +33072,7 @@ char,division,code,division_tw,code_tw,region
 𡕮,土厶土夊,HVHE,,,CJK-B
 𡕯,臼幺夊,RVEh,,,CJK-B
 𡕰,凵八夊,WXTE,,,CJK-B
-𡕱,⺈冂儿夊,YKQE,,,CJK-B
+𡕱,日夊,YJEh,,,CJK-B
 𡕲,土人人夊,HTTE,,,CJK-B
 𡕳,⺈日目夊,YJME,,,CJK-B
 𡕴,彳勹口夊,RWLE,,,CJK-B
@@ -39552,7 +39552,7 @@ char,division,code,division_tw,code_tw,region
 𢺾,七丶又,TAOB,七一又,TAFB,CJK-B
 𢺿,世十又,HDBu,,,CJK-B
 𢻀,尸二十又,BSDB,,,CJK-B
-𢻁,十又,YDBu,⺈冂儿又,YKQB,CJK-B
+𢻁,十又,YDBu,,,CJK-B
 𢻂,缶十又,WDBu,,,CJK-B
 𢻃,上小十又,KMDB,,,CJK-B
 𢻄,户儿十又,IQDB,戶儿十又,IQDB,CJK-B
@@ -83816,7 +83816,7 @@ char,division,code,division_tw,code_tw,region
 𭯜,龷日毛,SJRm,,,CJK-F
 𭯝,尚毛,NRmⓢ,,,CJK-F
 𭯞,毛口口口,RLLL,,,CJK-F
-𭯟,毛⺈冂夊,RYKE,,,CJK-F
+𭯟,毛夊,RYEh,,,CJK-F
 𭯠,牙卜又毛,HMBR,,,CJK-F
 𭯡,牛夊厂毛,WESR,,,CJK-F
 𭯢,尸毛丶艮,BROV,,,CJK-F

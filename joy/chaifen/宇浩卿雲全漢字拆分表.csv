@@ -8904,7 +8904,7 @@ char,division,code,division_tw,code_tw,region
 烆,火彳亍,MWOc,,,CJK
 烇,火人王,MUYw,火入王,MIYw,CJK
 烈,一夕刂灬,FYOM,,,CJK
-烉,火,OMh,⺈冂儿火,,CJK
+烉,火,OMh,,,CJK
 烊,火羊,MMi,,,CJK
 烋,亻木灬,EAMb,,,CJK
 烌,火亻木,MEAm,,,CJK
@@ -30495,7 +30495,7 @@ char,division,code,division_tw,code_tw,region
 𠭝,乚丆尸又,TVTD,,,CJK-B
 𠭞,又又又卩,DDDE,,,CJK-B
 𠭟,冖幺又,YOJD,,,CJK-B
-𠭠,⺈冂儿又,OQED,,,CJK-B
+𠭠,尸又,OTDi,,,CJK-B
 𠭡,丿人人又,WUUD,,,CJK-B
 𠭢,匕夕又,BYDR,,,CJK-B
 𠭣,彑又,QKDi,,,CJK-B
@@ -33072,7 +33072,7 @@ char,division,code,division_tw,code_tw,region
 𡕮,土厶土夊,HDHT,,,CJK-B
 𡕯,臼幺夊,IJTp,,,CJK-B
 𡕰,凵八夊,CJMT,,,CJK-B
-𡕱,⺈冂儿夊,OQET,,,CJK-B
+𡕱,日夊,OJTp,,,CJK-B
 𡕲,土人人夊,HUUT,,,CJK-B
 𡕳,⺈日目夊,OJST,,,CJK-B
 𡕴,彳勹口夊,WIKT,,,CJK-B
@@ -39552,7 +39552,7 @@ char,division,code,division_tw,code_tw,region
 𢺾,七丶又,JGID,七一又,JGFD,CJK-B
 𢺿,世十又,LRDi,,,CJK-B
 𢻀,尸二十又,TARD,,,CJK-B
-𢻁,十又,ORDi,⺈冂儿又,OQED,CJK-B
+𢻁,十又,ORDi,,,CJK-B
 𢻂,缶十又,WRDi,,,CJK-B
 𢻃,上小十又,OIRD,,,CJK-B
 𢻄,户儿十又,QERD,戶儿十又,WERD,CJK-B
@@ -83816,7 +83816,7 @@ char,division,code,division_tw,code_tw,region
 𭯜,龷日毛,DJGm,,,CJK-F
 𭯝,尚毛,GGm,,,CJK-F
 𭯞,毛口口口,GKKK,,,CJK-F
-𭯟,毛⺈冂夊,GOQT,,,CJK-F
+𭯟,毛夊,GOTp,,,CJK-F
 𭯠,牙卜又毛,XUDG,,,CJK-F
 𭯡,牛夊厂毛,PTVG,,,CJK-F
 𭯢,尸毛丶艮,TGII,,,CJK-F

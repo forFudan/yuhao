@@ -4,7 +4,7 @@
 # 宇浩光華·全漢字拆分表
 # 官方拆分表
 # 朱宇浩 發明
-# 版本 20240617
+# 版本 20240619
 
 # 介紹：
 # 本拆分表包含CJK基本區、CJK擴展A至H區、部首區、兼容區、筆畫區所有漢字的全漢字拆分。
@@ -21,7 +21,7 @@
 
 ---
 name: "yulight_chaifen"
-version: 20240617
+version: 20240619
 sort: by_weight
 columns:
   - text
@@ -30524,7 +30524,7 @@ columns:
 𠭝	[乚丆尸又,XDBB,,CJK-B,20B5D]
 𠭞	[又又又卩,BBBX,,CJK-B,20B5E]
 𠭟	[月冖幺又,WYVB,,CJK-B,20B5F]
-𠭠	[冖冂儿又,YKQB,,CJK-B,20B60]
+𠭠	[{奐上}尸又,YBBu,,CJK-B,20B60]
 𠭡	[丿人人又,QTTB,,CJK-B,20B61]
 𠭢	[匕夕又{介下},RRBT,,CJK-B,20B62]
 𠭣	[彑豕又,BDBu,,CJK-B,20B63]
@@ -33101,7 +33101,7 @@ columns:
 𡕮	[土厶土夊,HVHE,líng,CJK-B,2156E]
 𡕯	[臼幺夊,RVEh,,CJK-B,2156F]
 𡕰	[𠂭凵八夊,WXTE,zōng,CJK-B,21570]
-𡕱	[冖冂儿夊,YKQE,,CJK-B,21571]
+𡕱	[{奐上}日夊,YJEh,,CJK-B,21571]
 𡕲	[土人人夊,HTTE,,CJK-B,21572]
 𡕳	[冖日目夊,YJME,,CJK-B,21573]
 𡕴	[彳勹口夊,RWLE,,CJK-B,21574]
@@ -83845,7 +83845,7 @@ columns:
 𭯜	[龷日毛,SJRm,,CJK-F,2DBDC]
 𭯝	[尚毛,NRmⓢ,,CJK-F,2DBDD]
 𭯞	[毛口口口,RLLL,,CJK-F,2DBDE]
-𭯟	[毛冖冂夊,RYKE,,CJK-F,2DBDF]
+𭯟	[毛{奐上}夊,RYEh,,CJK-F,2DBDF]
 𭯠	[牙卜又毛,HMBR,,CJK-F,2DBE0]
 𭯡	[牛夊厂毛,WESR,,CJK-F,2DBE1]
 𭯢	[尸毛丶艮,BROV,,CJK-F,2DBE2]
