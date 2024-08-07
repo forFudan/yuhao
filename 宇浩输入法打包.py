@@ -9,7 +9,7 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 
-version = "v3.5.0"
+version = "v3.6.0-rc"
 
 # %%
 for _ in range(2):
@@ -24,6 +24,7 @@ os.makedirs("./dist/yulight/schema/yuhao")
 copyfile("./image/yulight.png", f"./dist/yulight/yulight_{version}.png")
 copyfile("./beta/readme.md", f"./dist/yulight/readme.txt")
 copyfile("./beta/schema/yuhao/yulight.full.dict.yaml", f"./dist/yulight.full.dict.yaml")
+copyfile("../yujoy/beta/schema/yuhao.essay.txt", f"./beta/schema/yuhao.essay.txt")
 
 copy_tree("./beta/mabiao", "./dist/yulight/mabiao")
 copy_tree("./beta/schema", "./dist/yulight/schema")
@@ -50,4 +51,5 @@ try:
     remove_tree("./dist/yulight")
 except:
     print("Delete incomplete")
+
 # %%
