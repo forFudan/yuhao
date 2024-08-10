@@ -10,5 +10,5 @@
 *.zip
 
 # Ignore distributions
-/dist
 */dist
+/dist
