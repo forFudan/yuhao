@@ -1,6 +1,7 @@
 # Ignore local settings
 /.vscode
 .DS_Store
+.mypy_cache
 
 # Ignore locally-generated dictionary files
 */beta/mabiao
