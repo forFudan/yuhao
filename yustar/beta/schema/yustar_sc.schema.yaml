@@ -1,0 +1,342 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: yustar_sc
+  name: 星陈·陆标简码
+  version: 20231001
+  author:
+    - 發明人 朱宇浩
+    - Rime方案 <https://zhuyuhao.com/yustar/>
+    - 官方QQ群 735728797
+  description: |
+    宇浩·星陈，繁简通打，以简化汉字为主设置简码。
+  dependencies:
+    - yuhao_pinyin
+    - yustar_chaifen
+
+switches:
+  - options:
+      - yuhao_char_only
+      - yuhao_char_first
+      - cjk
+    states: [只出常用字, 常用字前置, 全字集原排序]
+    reset: 1
+    # Control+Shift+O: 只出常用字
+  - name: yuhao_sc_first
+    reset: 0
+    states: [繁簡混頻, 簡體優先]
+    # Control+Shift+N: 簡體優先
+  - name: yuhao_single_char_only_for_full_code
+    states: ["字詞同出", "全碼出單"]
+    reset: 0
+    # Control+Shift+D
+  - name: yuhao_postpone_full_code
+    reset: 0
+    states: [原始排序, 全碼後置]
+    # Control+Shift+H
+  - options:
+      - yuhao_chaifen.off
+      - yuhao_chaifen.lv1
+      - yuhao_chaifen.lv2
+      - yuhao_chaifen.lv3
+    states: [〇註解, 一重註解, 二重註解, 三重註解]
+    reset: 0
+  - name: yuhao_autocompletion_filter
+    reset: 0
+    states: [輸入預測, 精確匹配]
+    # Control+Shift+Y
+  - name: embeded_cands
+    reset: 0
+    states: [普通候選, 嵌入候選]
+    # Control+Shift+E
+  - name: traditionalization
+    states: [简保持, 简转繁]
+    reset: 0
+    # Control+Shift+F
+  - name: simplification
+    states: [繁保持, 繁轉簡]
+    reset: 0
+    # Control+Shift+J
+  - name: ascii_punct
+    states: [。，, ．，]
+    reset: 0
+  - name: ascii_mode
+    states: [中文, 西文]
+    reset: 0
+  - name: full_shape
+    states: ["半角", "全角"]
+    reset: 0
+
+engine:
+  processors:
+    - lua_processor@*yuhao.yuhao_switch_proc@yuhao_macro
+    - ascii_composer
+    - recognizer
+    - lua_processor@*yuhao.yuhao_chaifen_processor
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - affix_segmentor@zaoci # 用户造詞
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - history_translator@history
+    - reverse_lookup_translator
+    - table_translator@fixed
+    - table_translator
+    - lua_translator@*yuhao.yuhao_helper # 幫助文檔
+    - table_translator@zaoci # 用户造詞
+    - lua_translator@*yuhao.yuhao_switch_tr@yuhao_macro
+  filters:
+    - lua_filter@*yuhao.yuhao_autocompletion_filter
+    - lua_filter@*yuhao.yuhao_single_char_only_for_full_code
+    - lua_filter@*yuhao.yuhao_char_first
+    - lua_filter@*yuhao.yuhao_char_only
+    - lua_filter@*yuhao.yuhao_sc_first
+    - lua_filter@*yuhao.yuhao_postpone_full_code
+    - simplifier@traditionalize
+    - simplifier@simplify
+    - lua_filter@*yuhao.yuhao_chaifen_filter
+    - lua_filter@*yuhao.yuhao_embeded_cands@embeded_cands
+    - uniquifier
+
+traditionalize:
+  tags: [abc, reverse_lookup]
+  option_name: traditionalization
+  opencc_config: s2t.json
+  tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
+simplify:
+  tags: [abc, reverse_lookup]
+  option_name: simplification
+  opencc_config: t2s.json
+  tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
+yuhao_postpone_full_code:
+  tags: [abc]
+  selected_chars: "束录嫌存猪炸暑睹睛只另乘津糊袍饱書諸后掏眨壓緒" # 後置漢字
+  lua:
+    max_index: 3 # 最大後置位置，默認爲 3
+
+schema_name:
+  code: yustar_sc
+  spelling: yustar_chaifen
+
+yuhao_chaifen:
+  lua:
+    switch_key: "Control+c"
+    cycle_key: "Shift+Control+C"
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  initials: zyxwvutsrqponmlkjihgfedcba
+  delimiter: "`"
+  max_code_length: 4
+  auto_select: false
+  algebra:
+
+translator:
+  dictionary: yustar_sc
+  prism: yustar_sc
+  # db_class: tabledb
+  enable_completion: true
+  enable_sentence: false
+  enable_user_dict: true
+  enable_encoder: true
+  encode_commit_history: false # 对连续上屏的词自动成词
+  max_phrase_length: 4 # 自动成词的最大词长
+  preedit_format: []
+  comment_format:
+    - "xform/^~/ /"
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+
+zaoci:
+  __include: translator
+  initial_quality: 0
+  enable_sentence: true
+  enable_user_dict: true
+  prefix: "`"
+  tips: "〔用户造詞〕"
+  tag: zaoci
+
+# 固定词库词的权重，防止自动调频
+fixed:
+  __include: translator
+  enable_user_dict: false
+  enable_sentence: false
+  initial_quality: 1000000
+
+history:
+  input: z
+  size: 1
+  initial_quality: 1
+
+reverse_lookup:
+  dictionary: yuhao_pinyin
+  prefix: "z"
+  tips: 〔全拼反查〕
+  closing_tips: 〔反查关闭〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+# 嵌入候選的顯示配置
+# 默認顯示效果爲:
+# 浩¹ 泃² 竘³
+embeded_cands:
+  option_name: embeded_cands # 嵌入候選開關
+  index_indicators: [¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ⁰] # 嵌入候選的序號顯示格式
+  first_format: "${候選}${Comment}${Seq}" # 首選的渲染格式
+  next_format: "${候選}${Comment}${Seq}" # 非首選的渲染格式
+  separator: " " # 候選之間的分隔符
+
+# 自定義宏
+yuhao_macro:
+  funckeys:
+    macro: [0x2f] # 當輸入串以 "/" 開頭時, 認爲是宏調用
+  macros:
+    help:
+      - { type: tip, name: ❖配置中心 }
+      - { type: switch, name: embeded_cands, states: [☐嵌入, ☑嵌入] }
+      - {
+          type: switch,
+          name: yuhao_single_char_only_for_full_code,
+          states: [☐字詞, ☑純單],
+        }
+      - {
+          type: radio,
+          names:
+            [
+              yuhao_chaifen.off,
+              yuhao_chaifen.lv1,
+              yuhao_chaifen.lv2,
+              yuhao_chaifen.lv3,
+            ],
+          states: [☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解],
+        }
+      - { type: switch, name: traditionalization, states: [☐簡保持, ☑簡轉繁] }
+      - { type: switch, name: simplification, states: [☐繁保持, ☑繁轉簡] }
+    date:
+      - { type: eval, name: ☀日期, expr: return os.date("%Y-%m-%d") }
+      - { type: eval, name: ⛅年月日, expr: return os.date("%Y年%m月%d日") }
+    time:
+      - { type: eval, name: ⌚時間, expr: return os.date("%H:%M:%S") }
+      - { type: eval, name: Ⓣ時間, expr: return os.date("%Y%m%d%H%M") }
+      - { type: eval, name: Ⓢ時間戳, expr: return tostring(os.time()) }
+    char:
+      - {
+          type: switch,
+          name: yuhao_single_char_only_for_full_code,
+          states: [☐字詞, ☑純單],
+        }
+    div:
+      - {
+          type: radio,
+          names:
+            [
+              yuhao_chaifen.off,
+              yuhao_chaifen.lv1,
+              yuhao_chaifen.lv2,
+              yuhao_chaifen.lv3,
+            ],
+          states: [☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解],
+        }
+    embed:
+      - { type: switch, name: embeded_cands, states: [☐嵌入, ☑嵌入] }
+    trad:
+      - { type: switch, name: traditionalization, states: [☐不轉換, ☑簡轉繁] }
+    simp:
+      - { type: switch, name: simplification, states: [☐不轉換, ☑繁轉簡] }
+    dist:
+      - type: eval
+        expr: >
+          return function(args)
+            return string.format("librime: [%s]", rime_api.get_rime_version())
+          end
+      - type: eval
+        expr: >
+          return function(args)
+            return string.format("distribution: [%s](%s/%s)",
+              rime_api.get_distribution_name(),
+              rime_api.get_distribution_code_name(),
+              rime_api.get_distribution_version())
+          end
+
+punctuator:
+  import_preset: yuhao.symbols
+  half_shape:
+    "#": "#"
+    "%": "%"
+    "*": "*"
+    "\\": "、"
+    "[": "「"
+    "]": "」"
+    "{": "『"
+    "}": "』"
+    "/": "/"
+    "|": "|"
+
+key_binder:
+  bindings:
+    - { when: always, accept: "Control+period", toggle: ascii_punct }
+    - { when: always, accept: "Control+Shift+J", toggle: simplification }
+    - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
+    - { when: always, accept: "Control+Shift+E", toggle: embeded_cands }
+    - { when: always, accept: "Control+Shift+O", toggle: yuhao_char_only } # 常用詞過濾
+    - { when: always, accept: "Control+Shift+N", toggle: yuhao_sc_first } # 簡體優先
+    - { when: has_menu, accept: "0", toggle: yuhao_char_only } # 常用詞過濾
+    - {
+        when: always,
+        accept: "Control+Shift+D",
+        toggle: yuhao_single_char_only_for_full_code,
+      } # 全码出单
+    # - { when: always, accept: "Control+Shift+C", toggle: chaifen } # 拆分
+    - { when: has_menu, accept: "/", toggle: yuhao_chaifen.off } # 拆分
+    - {
+        when: always,
+        accept: "Control+Shift+H",
+        toggle: yuhao_postpone_full_code,
+      } # 全碼後置
+    - {
+        when: always,
+        accept: "Control+Shift+Y",
+        toggle: yuhao_autocompletion_filter,
+      } # 輸入預測
+    - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
+    - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
+    - { when: has_menu, accept: Tab, send: 2 } # 製表符次选
+    - { when: has_menu, accept: minus, send: Page_Up } #減號上翻頁
+    - { when: has_menu, accept: equal, send: Page_Down } #等號下翻頁
+
+recognizer:
+  import_preset: default
+  patterns:
+    uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
+    reverse_lookup: "^z([a-z]+?)*$"
+    zaoci: "^[a-y]*`[a-y`]*$"
+    punct: "^/([0-9]0?|[A-Za-z]+)?$"
+    number: "^[-+]?[0-9][,.:0-9]*[%]?$"
+
+style:
+  horizontal: false
+  inline_preedit: true
+  preedit_type: composition
+# menu:
+#   page_size: 5

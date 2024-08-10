@@ -1,0 +1,133 @@
+# 功能開關一鍵配置
+
+patch:
+  # schema/name: 卿雲爛兮·大陸繁體  # 方案名
+  # speller/auto_select: false  # 四碼唯一自動上屏
+  # menu/page_size: 5  # 每頁候選數量
+  # style/horizontal: false  # 橫排候選欄
+  # style/inline_preedit: true  # 候選欄内置於輸入界面
+  # style/preedit_type: composition  # 候選顯示字母(composition)还是候選(preview)
+  # 以下開關，0爲第一個，1爲第二個，2爲第三個
+  switches/@0/reset: 1 # [只出常用字, 常用字前置, 全字集原排序]
+  switches/@1/reset: 0 # [繁簡混頻, 繁體優先]
+  switches/@2/reset: 0 # [字詞同出, 全碼出單]
+  switches/@3/reset: 0 # [原始排序, 全碼後置]
+  switches/@4/reset: 0 # [〇註解, 一重註解, 二重註解, 三重註解]
+  switches/@5/reset: 0 # [輸入預測, 精確匹配]
+  switches/@6/reset: 0 # [普通候選, 嵌入候選]
+  embeded_cands/+:
+    # option_name: embeded_cands                         # 嵌入候選開關
+    # index_indicators: [ ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, ⁰ ] # 嵌入候選的序號顯示格式
+    # first_format: "${候選}${Comment}${Seq}"            # 首選的渲染格式
+    # next_format: "${候選}${Comment}${Seq}"             # 非首選的渲染格式
+    # separator: " "                                     # 候選之間的分隔符
+  recognizer/patterns/+:
+    # 配合自定義宏, 允許以下宏使用 / 鍵追加參數
+    macros: "^/(calc|echo|len)(/[a-z]*)*$"
+  yuhao_macro/macros/+:
+    # 自定義宏
+    # 先为宏命名, 如 *mymacro*, 则將其添加到 *macros* 下,
+    # 再在 *mymacro* 下添加若干候選宏, 每個候選宏都需指定一個 *type*.
+    # 当前支持的宏類型:
+    # *tip*:    {type: tip,    name: display,     text: commit},                     其中 *text* 为可選項.
+    # *switch*: {type: switch, name: switch_name, states: [off_display,on_display]}, 類似 *schema/switches*.
+    # *radio*:  {type: radio,  names: [s1,s2,s3], states: [d1,d2,d3]},               類似 *schema/switches* 之 *options*.
+    # *shell*:  {type: shell,  name: display,     cmd: shell_cmd,   text: true},     僅支持 Linux/Mac, 不支持 Windows, 亦不支持移動平臺. 選中时執行 *shell_cmd* 命令, *text* 可選, 設为 true 時收集並提交命令輸出.
+    # *eval*:   {type: eval,   name: display,     expr: "local a='bar'; return a"},  其中 *name* 为可選項, *expr* 必須是個 *return* 語句, 蓋 *lua* 將以 "function() <expr> end" 方式組裝函數並調用.
+    # 下面給出一些示例
+    repo:
+      # 此爲 shell 宏演示, 僅在 Linux/Mac 下可用
+      # 又因使用 xdg-open 命令, 故只有 Linux 下可成功調用. Mac 下可將 xdg-open 改爲 open
+      - type: tip
+        name: 訪問倉庫
+      - type: shell
+        name: ⚛宇浩
+        cmd: xdg-open https://github.com/forfudan/yuhao
+    user:
+      # 這是調用 shell 命令, 在 Linux/Mac/Android 下可用
+      # 當 text 指定爲 true 時, 將命令執行的結果上屏
+      - type: shell
+        name: ☘用户名
+        cmd: echo -n $(whoami)
+        text: true
+    echo:
+      # 含參 shell 命令示例, 參数會經由簡易 wrapper 函數傳遞給命令
+      # __macrowrapper() { CMD; }; __macrowrapper ARGS <<<''
+      # 對於 /echo/eng/hello, 其最終執行的 shell 命令爲 echo eng hello
+      # 當 name 字段爲空時, 命令是實時調用的, 卽每輸入一個字符, 都執行一次命令, 請留意可能誤致過多的命令調用
+      # 注意需要配合 recognizer
+      - type: shell
+        cmd: echo -n "$@"
+        text: true
+      - type: shell
+        name: info
+        cmd: zenity --info --text "$(echo -n $@)"
+    quick:
+      # 這裏演示將 tip 用作快捷短語
+      # 當 text 爲空時, 僅作爲提示, 若非空則選中時上屏 text 内容
+      - type: tip
+        name: 快捷短語
+      - type: tip
+        name: ☎郵箱
+        text: 1234567890@qq.com
+      - type: tip
+        name: ☏群號
+        text: "735728797"
+    foo:
+      # lua 語句: 返回一個字符串
+      # 示例在 yuhao.schema.yaml/yuhao_macro/date 和 -/time 中也已給出
+      - type: eval
+        expr: return "bar"
+    len:
+      # lua 函數
+      # 示例: 返回一個 function(args) ... end -> string 函數
+      # 對於 /len/hello/world, 其 args 值爲 {"hello", "world"}
+      # 注意需要配合 recognizer
+      - type: eval
+        expr: return
+          function(args)
+          local lens = {}
+          for _, str in ipairs(args) do
+          table.insert(lens, string.len(str))
+          end
+          return table.concat(lens, ",")
+          end
+    calc:
+      # lua 對象, 須返回一個 {
+      #   peek = function(self, args) ... end -> string, -- 當 name 爲空時, 候選攔顯示此值
+      #   eval = function(self, args) ... end -> string, -- 當按下空格或選重鍵後, 上屏此值
+      # } 對象
+      # 示例: 簡易計算器
+      # qwertyuiop => 1234567890
+      # hjkl => *-+/
+      # x => *
+      # s(square) => ^
+      # d(dot) => .
+      # m(mod) => %
+      # a(remainder) => //
+      - type: eval
+        expr: >
+          local nums = {q='1',w='2',e='3',r='4',t='5',y='6',u='7',i='8',o='9',p='0'}
+          local signs = {h='*',j='-',k='+',l='/',s='^',d='.',m='%',x='*',a='//'}
+          setmetatable(signs, { __index = function() return "+" end })
+          local t = {
+            nums = nums,
+            signs = signs,
+          }
+          function t:calc(args, peek_only)
+            if #args == 0 then return "" end
+            local res = {}
+            for _, expr in ipairs(args) do
+              expr = string.gsub(string.gsub(expr, "[qwertyuiop]", self.nums), "[^0-9]+", self.signs)
+              local eval = load("return " .. expr)
+              table.insert(res, (peek_only and expr .. "=" or "") .. (eval and eval() or "?"))
+            end
+            return table.concat(res, ",")
+          end
+          function t:peek(args)
+            return self:calc(args, true)
+          end
+          function t:eval(args)
+            return self:calc(args, false)
+          end
+          return t

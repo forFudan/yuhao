@@ -1,0 +1,25 @@
+# 功能開關一鍵配置
+
+patch:
+  # schema/name: 卿雲·全碼整句  # 方案名
+  menu/page_size: 9 # 每頁候選數量
+  # style/horizontal: true  # 橫排候選欄
+  # style/inline_preedit: false  # 候選欄内置於輸入界面
+  # style/preedit_type: composition  # 候選顯示字母(composition)还是候選(preview)
+  # style/inline_candidate: false  # MacOs 候選顯示字母(false)还是候選(true)
+  # style/layout/margin_x: -1 # 關閉候選欄 Windows
+  # style/alpha: 0.01 # 隱藏候選欄 Mac
+  #
+  # translator/enable_completion: true # 逐鍵提示
+  #
+  # 以下開關，0爲第一個，1爲第二個，2爲第三個
+  # switches/@0/reset: 1 # [〇註解, 一重註解, 二重註解, 三重註解]
+  # switches/@1/reset: 1 # [全漢字, 常用字, 通规字]
+  # switches/@2/reset: 0 # [简保持, 简转繁]
+  # switches/@3/reset: 0 # [繁保持, 繁轉簡]
+  # switches/@4/reset: 0 # [中文, 西文]
+  # switches/@5/reset: 0 # [半角, 全角]
+  # switches/@6/reset: 0 # [。，, ．，]
+  # switches/@7/reset: 1 # [普通候選, 嵌入候選] (必須和下面同時開啓)
+  # style/preedit_type: composition # 候選顯示字母(composition)还是候選(preview)
+  # style/inline_candidate: false # MacOs 候選顯示字母(false)还是候選(true)

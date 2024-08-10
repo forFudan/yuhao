@@ -1,0 +1,6 @@
+patch:
+  schema_list:
+    - schema: yustar     # 單字全碼 + 重要一級簡碼 + 重要二級簡碼 + 避重三級簡碼 + （可手動載入繁簡簡碼、詞語分字典）
+    - schema: yustar_sc  # 以简化汉字为主设置简码
+    # - schema: yustar_tc  # 以傳統漢字爲主設置簡碼
+    - schema: yustar_tw  # 以臺灣傳統漢字爲主設置簡碼

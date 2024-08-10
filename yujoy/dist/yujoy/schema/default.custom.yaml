@@ -1,0 +1,6 @@
+patch:
+  schema_list:
+    - schema: yujoy # 繁简均衡
+    - schema: yujoy_sc # 以简化汉字字频设置简码
+    - schema: yujoy_tw # 以臺灣傳統漢字字頻設置簡碼
+    - schema: yujoy_fluency # 全碼單字無空格連續輸入

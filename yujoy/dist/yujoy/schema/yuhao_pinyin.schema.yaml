@@ -1,0 +1,94 @@
+# Rime schema
+# encoding: utf-8
+
+schema:
+  schema_id: yuhao_pinyin
+  name: 宇浩·繁簡通·拼音
+  version: 20230418
+  author:
+    - 佛振 <chen.sst@gmail.com>
+    - 佚名
+  description: |
+    基於朙月拼音和袖珍簡化拼音詞庫製作
+    用於宇浩輸入法的拼音反查
+    兼容大陸簡體、大陸古籍繁體、臺灣繁體、香港繁體
+    繁簡漢字相同權重
+
+switches:
+  - name: ascii_mode
+    reset: 0
+    states: [中文, 西文]
+  - name: full_shape
+    states: [半角, 全角]
+  - name: ascii_punct
+    states: [。，, ．，]
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - script_translator
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  delimiter: " '"
+  algebra:
+    - derive/^([nl])ue$/$1ve/
+    - derive/^([jqxy])u/$1v/
+
+translator:
+  dictionary: yuhao_pinyin
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+punctuator:
+  import_preset: yuhao.symbols
+  half_shape:
+    "`": "`"
+    "#": "#"
+    "%": "%"
+    "*": "*"
+    "\\": "、"
+    "[": "「"
+    "]": "」"
+    "{": "『"
+    "}": "』"
+    "/": "/"
+    "|": "|"
+
+key_binder:
+  bindings:
+    - { when: always, accept: "Control+period", toggle: ascii_punct }
+    - { when: always, accept: "Control+Shift+period", toggle: ascii_punct }
+    - { when: always, accept: "Control+Shift+J", toggle: simplification }
+    - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
+    - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
+    - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
+    - { when: has_menu, accept: minus, send: Page_Up } # 減號上翻頁
+    - { when: has_menu, accept: equal, send: Page_Down } # 等號下翻頁
+    - { when: has_menu, accept: Tab, send: Page_Down } # Tab 下翻頁
+    - { when: composing, accept: Escape, send: "Shift+BackSpace" } # 逐字删除
+
+recognizer:
+  # import_preset: default
+  patterns:
+    # hack: to enable "/fh" style symbols, '/' must be mapped to a [list].
+    # so those who have customized '/' for direct commit won't be affected by
+    # this change.
+    punct: "^/([0-9]+[a-z]*|[a-z]+)$"

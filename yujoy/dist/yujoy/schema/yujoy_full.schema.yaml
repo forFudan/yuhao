@@ -1,0 +1,190 @@
+# Rime schema settings
+# encoding: utf-8
+
+schema:
+  schema_id: yujoy_full
+  name: 卿雲·全碼單字
+  version: 20240527
+  author:
+    - 項目策劃 錢多多
+    - 技术支持 forFudan
+    - Rime方案 <https://zhuyuhao.com/yujoy/>
+    - 官方QQ群 374630778
+  dependencies:
+    - yuhao_pinyin
+    - yujoy_chaifen
+
+switches:
+  - options:
+      - yuhao_chaifen.off
+      - yuhao_chaifen.lv1
+      - yuhao_chaifen.lv2
+      - yuhao_chaifen.lv3
+    states: [〇註解, 一重註解, 二重註解, 三重註解]
+    reset: 0
+  - name: yuhao_autocompletion_filter
+    reset: 0
+    states: [輸入預測, 精確匹配]
+    # Control+Shift+Y
+  - name: traditionalization
+    states: [简保持, 简转繁]
+    reset: 0
+    # Control+Shift+F
+  - name: simplification
+    states: [繁保持, 繁轉簡]
+    reset: 0
+    # Control+Shift+J
+  - name: ascii_punct
+    states: [。，, ．，]
+    reset: 0
+  - name: ascii_mode
+    states: [中文, 西文]
+    reset: 0
+  - name: full_shape
+    states: ["半角", "全角"]
+    reset: 0
+
+engine:
+  processors:
+    - ascii_composer
+    - recognizer
+    - lua_processor@*yuhao.yuhao_chaifen_processor
+    - key_binder
+    - speller
+    - punctuator
+    - selector
+    - navigator
+    - express_editor
+  segmentors:
+    - ascii_segmentor
+    - matcher
+    - abc_segmentor
+    - punct_segmentor
+    - fallback_segmentor
+  translators:
+    - punct_translator
+    - history_translator@history
+    - reverse_lookup_translator
+    - table_translator
+  filters:
+    - lua_filter@*yuhao.yuhao_autocompletion_filter
+    - simplifier@traditionalize
+    - simplifier@simplify
+    - lua_filter@*yuhao.yuhao_chaifen_filter
+    - lua_filter@*yuhao.yuhao_postpone_full_code
+    - uniquifier
+
+traditionalize:
+  tags: [abc, reverse_lookup]
+  option_name: traditionalization
+  opencc_config: s2t.json
+  tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
+simplify:
+  tags: [abc, reverse_lookup]
+  option_name: simplification
+  opencc_config: t2s.json
+  tips: all
+  comment_format:
+    - xform/^/〔/
+    - xform/$/〕/
+
+schema_name:
+  code: yujoy_full
+  spelling: yujoy_chaifen
+
+yuhao_chaifen:
+  lua:
+    switch_key: "Control+c"
+    cycle_key: "Shift+Control+C"
+
+speller:
+  alphabet: zyxwvutsrqponmlkjihgfedcba
+  initials: yxwvutsrqponmlkjihgfedcba
+  delimiter: "`"
+  max_code_length: 4
+  auto_select: false
+  algebra:
+
+translator:
+  dictionary: yujoy_full
+  prism: yujoy_full
+  # db_class: tabledb
+  enable_completion: true
+  enable_sentence: false
+  enable_user_dict: false
+  enable_encoder: false
+  encode_commit_history: false # 对连续上屏的词自动成词
+  max_phrase_length: 4 # 自动成词的最大词长
+  preedit_format: []
+  comment_format:
+    - "xform/^~/ /"
+  disable_user_dict_for_patterns:
+    - "^z.*$"
+
+history:
+  input: z
+  size: 1
+  initial_quality: 1
+
+reverse_lookup:
+  dictionary: yuhao_pinyin
+  prefix: "z"
+  tips: 〔全拼反查〕
+  closing_tips: 〔反查关闭〕
+  preedit_format:
+    - xform/([nl])v/$1ü/
+    - xform/([nl])ue/$1üe/
+    - xform/([jqxy])v/$1u/
+
+punctuator:
+  import_preset: yuhao.symbols
+  half_shape:
+    "`": "`"
+    "#": "#"
+    "%": "%"
+    "*": "*"
+    "\\": "、"
+    "[": "「"
+    "]": "」"
+    "{": "『"
+    "}": "』"
+    "/": "/"
+    "|": "|"
+
+key_binder:
+  bindings:
+    - { when: always, accept: "Control+period", toggle: ascii_punct }
+    - { when: always, accept: "Control+Shift+period", toggle: ascii_punct }
+    - { when: always, accept: "Control+Shift+J", toggle: simplification }
+    - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
+    - { when: has_menu, accept: "/", toggle: yuhao_chaifen.off } # 拆分
+    - {
+        when: always,
+        accept: "Control+Shift+Y",
+        toggle: yuhao_autocompletion_filter,
+      } # 輸入預測
+    - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
+    - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
+    - { when: has_menu, accept: Tab, send: 2 } # 製表符次选
+    - { when: has_menu, accept: minus, send: Page_Up } #減號上翻頁
+    - { when: has_menu, accept: equal, send: Page_Down } #等號下翻頁
+
+recognizer:
+  import_preset: default
+  patterns:
+    uppercase: "^(?![`;]).*[A-Z][-_+.'0-9A-Za-z]*$"
+    reverse_lookup: "^z([a-z]+?)*$"
+    punct: "^/([0-9]0?|[A-Za-z]+)?$"
+    number: "^[-+]?[0-9][,.:0-9]*[%]?$"
+
+style:
+  horizontal: false
+  inline_preedit: true
+  preedit_type: composition
+  inline_candidate: true
+# menu:
+#   page_size: 5

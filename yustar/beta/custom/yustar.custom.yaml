@@ -1,0 +1,22 @@
+# 功能開關一鍵配置
+
+patch:
+  # schema/name: 宇浩·星陳  # 方案名
+  # speller/auto_select: true  # 四碼唯一自動上屏
+  # menu/page_size: 9  # 每頁候選數量
+  # style/horizontal: true  # 橫排候選欄
+  # style/inline_preedit: true  # 候選欄内置於輸入界面
+  # style/preedit_type: preview  # 候選顯示字母(composition)还是候選(preview)
+  # style/layout/margin_x: -1 # 關閉候選欄 Windows
+  # style/alpha: 0.01 # 隱藏候選欄 Mac
+  #
+  # 以下開關，0爲第一個，1爲第二個，2爲第三個
+  switches/@0/reset: 1 # [只出常用字, 常用字前置, 全字集原排序]
+  # switches/@1/reset: 0 # [字詞同出, 全碼出單]
+  switches/@2/reset: 1 # [原始排序, 全碼後置]
+  # switches/@3/reset: 0 # [〇註解, 一重註解, 二重註解, 三重註解]
+  # switches/@4/reset: 0 # [輸入預測, 精確匹配]
+  # switches/@5/reset: 0 # [繁简混频, 简体优先]
+  # switches/@6/reset: 0 # [繁簡混頻, 繁體優先]
+  # switches/@7/reset: 0 # [简保持, 简转繁]
+  # switches/@8/reset: 0 # [繁保持, 繁轉簡]
