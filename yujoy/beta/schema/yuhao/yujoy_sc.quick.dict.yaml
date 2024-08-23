@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yujoy_sc.quick"
-version: "20240810"
+version: "20240823"
 sort: original
 columns:
   - text
@@ -113,7 +113,7 @@ columns:
 订	cc
 丁	cd
 祖	ce
-证	cf
+语	cf
 许	cg
 请	ch
 乂	ci
@@ -183,7 +183,7 @@ columns:
 文	ew
 促	ex
 段	ey
-五	fa
+拥	fa
 贝	fb
 川	fc
 开	fd
@@ -196,10 +196,10 @@ columns:
 找	fk
 振	fl
 天	fm
-正	fn
+求	fn
 把	fo
 攒	fp
-无	fq
+两	fq
 技	fr
 投	fs
 来	ft
@@ -341,7 +341,7 @@ columns:
 辰	lc
 并	ld
 耳	le
-丘	lf
+师	lf
 监	lg
 辱	lh
 酉	li
@@ -381,12 +381,13 @@ columns:
 炉	mq
 奔	mr
 矢	ms
-矩	mt
+政	mt
 欲	mu
 肆	mv
 姜	mw
 页	mx
 奓	my
+正	mz
 汗	na
 不	nb
 河	nc
@@ -737,7 +738,7 @@ columns:
 订购	cc
 丁香	cd
 祖国	ce
-证明	cf
+语言	cf
 许多	cg
 请求	ch
 课程	cj
@@ -792,7 +793,7 @@ columns:
 文章	ew
 促进	ex
 段落	ey
-五月	fa
+拥有	fa
 贝壳	fb
 开始	fd
 报道	fe
@@ -803,9 +804,9 @@ columns:
 找到	fk
 振兴	fl
 天下	fm
-正在	fn
+求助	fn
 把握	fo
-无限	fq
+两国	fq
 技术	fr
 投资	fs
 来说	ft
@@ -913,7 +914,7 @@ columns:
 半岛	la
 并且	ld
 耳机	le
-丘陵	lf
+师傅	lf
 监管	lg
 总额	lk
 了解	ll
@@ -946,9 +947,10 @@ columns:
 牵头	mo
 炉灶	mq
 奔驰	mr
-矩阵	mt
+政策	mt
 欲望	mu
 肆意	mv
+正在	mz
 汗水	na
 不要	nb
 河北	nc
@@ -1209,7 +1211,7 @@ columns:
 驿	bda
 骏	bdm
 骅	beb
-悟	bfa
+悟	bfk
 愀	bgm
 悻	bhm
 圆	bkf
@@ -1232,7 +1234,6 @@ columns:
 诙	cxm
 荜	dbb
 葶	ddc
-蔫	dfn
 鹫	diq
 墓	djm
 菰	dlv
@@ -1249,7 +1250,6 @@ columns:
 茬	dxl
 藤	dyl
 货	ebf
-伍	efa
 债	ehf
 閨	ehh
 傧	eil
@@ -1346,10 +1346,12 @@ columns:
 翦	lyo
 烨	meb
 炳	mfq
+灼	mii
 鬓	mil
 贫	mjf
 鄯	mlk
 焱	mmm
+矩	mte
 焗	mto
 烽	mtq
 赀	nbf
@@ -1444,7 +1446,6 @@ columns:
 郡	vwk
 婷	wdc
 嫫	wdj
-嫣	wfn
 微	wfs
 靖	why
 嫔	wil

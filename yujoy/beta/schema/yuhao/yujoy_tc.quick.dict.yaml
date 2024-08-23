@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yujoy_tc.quick"
-version: "20240810"
+version: "20240821"
 sort: original
 columns:
   - text
@@ -29,7 +29,7 @@ columns:
 被	s
 以	t
 到	u
-對	v
+爲	v
 我	w
 有	x
 多	y
@@ -53,7 +53,7 @@ columns:
 被迫	s
 以及	t
 到期	u
-對於	v
+爲了	v
 我們	w
 有些	x
 多少	y
@@ -77,12 +77,12 @@ columns:
 植	ar
 檢	as
 格	at
-違	au
+冷	au
 樹	av
-韋	aw
+鬱	aw
 椤	ax
 棚	ay
-圍	ba
+困	ba
 匕	bb
 窩	bc
 怕	bd
@@ -182,7 +182,7 @@ columns:
 文	ew
 促	ex
 仨	ey
-五	fa
+捕	fa
 指	fb
 川	fc
 形	fd
@@ -195,7 +195,7 @@ columns:
 頭	fk
 攝	fl
 天	fm
-正	fn
+求	fn
 把	fo
 攢	fp
 再	fq
@@ -380,12 +380,13 @@ columns:
 煽	mq
 奔	mr
 矢	ms
-爐	mt
+政	mt
 卻	mu
 肆	mv
 義	mw
 髮	mx
-奓	my
+尪	my
+正	mz
 汗	na
 不	nb
 齒	nc
@@ -489,12 +490,12 @@ columns:
 烏	qw
 毋	qx
 狂	qy
-諱	ra
+博	ra
 話	rb
 訂	rc
 育	rd
 直	re
-訓	rf
+語	rf
 許	rg
 亥	rh
 言	ri
@@ -598,7 +599,7 @@ columns:
 盡	vf
 瓜	vg
 書	vh
-爲	vi
+館	vi
 麼	vj
 喜	vk
 農	vl
@@ -710,9 +711,10 @@ columns:
 植物	ar
 檢查	as
 格局	at
-違規	au
+冷靜	au
 樹立	av
-圍繞	ba
+鬱悶	aw
+困難	ba
 匕首	bb
 四川	be
 園林	bh
@@ -785,7 +787,7 @@ columns:
 健康	ev
 文章	ew
 促進	ex
-五月	fa
+捕捉	fa
 指出	fb
 形成	fd
 非常	ff
@@ -796,7 +798,7 @@ columns:
 頭髮	fk
 攝影	fl
 天下	fm
-正在	fn
+求助	fn
 把握	fo
 再次	fq
 技術	fr
@@ -933,11 +935,12 @@ columns:
 奮鬥	mo
 煽動	mq
 奔馳	mr
-爐竈	mt
+政策	mt
 卻説	mu
 肆意	mv
 義務	mw
 髮型	mx
+正在	mz
 汗水	na
 不要	nb
 齒輪	nc
@@ -1016,10 +1019,11 @@ columns:
 内部	qu
 烏雲	qw
 狂歡	qy
+博士	ra
 話題	rb
 訂購	rc
 直接	re
-訓練	rf
+語言	rf
 許多	rg
 言論	ri
 試點	rk
@@ -1097,7 +1101,6 @@ columns:
 盡力	vf
 瓜分	vg
 書面	vh
-爲了	vi
 喜歡	vk
 農民	vl
 麻煩	vm
@@ -1185,11 +1188,9 @@ columns:
 楔	aqj
 凜	arb
 樸	avl
-鬱	awa
-悟	bfa
+悟	bfk
 愀	bgm
 窄	bgu
-竈	bhh
 悴	bru
 窳	bvv
 恢	bxm
@@ -1216,11 +1217,11 @@ columns:
 藤	dyl
 停	edc
 供	edm
-伍	efa
 閨	ehh
 闥	ehm
 倪	eie
 保	eka
+偉	ekk
 闊	enb
 傻	eoc
 儋	eov
@@ -1288,6 +1289,7 @@ columns:
 噬	kgn
 噠	khm
 嚇	khr
+韌	kka
 患	kkl
 燹	kkm
 戳	kko
@@ -1319,6 +1321,7 @@ columns:
 爺	mcl
 髫	mjk
 兌	mke
+燥	mkk
 鄯	mlk
 螢	mmo
 羶	mrb
@@ -1376,8 +1379,8 @@ columns:
 氈	rbk
 謨	rdj
 顛	rem
-韓	rja
 幔	rjx
+諱	rkk
 誠	rko
 劑	rll
 啻	rlo
@@ -1424,7 +1427,6 @@ columns:
 魘	vjy
 郡	vwk
 婷	wdc
-嫣	wfn
 禦	wgf
 街	whh
 靖	why
@@ -1451,6 +1453,7 @@ columns:
 璜	ydu
 腦	yfo
 腕	yiy
+臊	ykk
 塍	ylm
 膽	yov
 瓚	ype

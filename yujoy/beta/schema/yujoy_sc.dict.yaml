@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 卿雲·陆简
-# 版本: 20240810
+# 版本: 20240823
 #
 ---
 name: "yujoy_sc"
-version: "20240810"
+version: "20240823"
 sort: original
 import_tables:
   - yuhao/yujoy_sc.quick
@@ -36,4 +36,6 @@ encoder:
     - length_in_range: [4, 24]
       formula: "AaBaCaZa"
 ...
+宇浩
+卿云
 

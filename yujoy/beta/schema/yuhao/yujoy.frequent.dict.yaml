@@ -71,7 +71,6 @@ vocabulary: essay_mixed
 梭	admt
 檬	adok
 構	adqh
-韝	adqh
 棉	adrj
 动	adsl
 运	aduc
@@ -84,13 +83,13 @@ vocabulary: essay_mixed
 决	aeur
 材	aewp
 甫	af
-梧	afak
 椏	afei
 樱	affw
 本	afi
 梗	afjc
 桓	afjf
 栈	afkg
+梧	afkk
 柄	afqu
 冽	afyo
 干	ag
@@ -103,7 +102,7 @@ vocabulary: essay_mixed
 梅	agqm
 杵	agrs
 檔	agst
-柞	agub
+柞	aguv
 櫛	agve
 栳	ahbb
 村	ahc
@@ -176,7 +175,6 @@ vocabulary: essay_mixed
 欖	ajgg
 柢	ajgi
 檻	ajgx
-韌	ajid
 檵	ajjt
 機	ajju
 击	ajk
@@ -202,7 +200,7 @@ vocabulary: essay_mixed
 樓	akrw
 枵	aksk
 柺	aksl
-整	aktn
+整	aktm
 敕	aktp
 速	akuc
 束	akv
@@ -342,7 +340,6 @@ vocabulary: essay_mixed
 楼	atwn
 框	atyw
 朴	aub
-違	auc
 逋	auc
 檎	aued
 枪	auej
@@ -363,11 +360,9 @@ vocabulary: essay_mixed
 橱	avfh
 櫪	avgn
 樹	avhc
-韜	avij
 橛	avlh
 樸	avlm
 桴	avlz
-韋	aw
 櫬	awag
 鬱	awaw
 杞	awj
@@ -394,7 +389,6 @@ vocabulary: essay_mixed
 怦	balb
 困	bam
 围	baoi
-圍	baw
 匕	bb
 悃	bbam
 比	bbb
@@ -436,14 +430,13 @@ vocabulary: essay_mixed
 惧	bemb
 快	beur
 团	bewp
-悟	bfak
-圄	bfak
 驯	bfc
 悱	bff
 究	bfj
 恒	bfjf
+悟	bfkk
+圄	bfkk
 舔	bfmi
-怔	bfnz
 惱	bfoc
 园	bfow
 恆	bfyf
@@ -460,12 +453,12 @@ vocabulary: essay_mixed
 悔	bgqm
 忤	bgrs
 惝	bgs
-窄	bgub
-怍	bgub
+窄	bguv
+怍	bguv
 忖	bhc
 怯	bhdm
 恃	bhhc
-竈	bhhm
+竈	bhjv
 憍	bhkk
 園	bhks
 悻	bhmr
@@ -512,6 +505,7 @@ vocabulary: essay_mixed
 驶	bkci
 圆	bkfb
 憾	bkfn
+圍	bkka
 國	bkkf
 窜	bkkl
 憚	bkkr
@@ -557,6 +551,7 @@ vocabulary: essay_mixed
 朙	bmqy
 肄	bmva
 顷	bmx
+怔	bmz
 怀	bnb
 空	bng
 窪	bnhh
@@ -676,7 +671,6 @@ vocabulary: essay_mixed
 讳	caoi
 讲	carj
 殺	cass
-禕	caw
 谐	cbbd
 駟	cbee
 邊	cbiu
@@ -710,21 +704,20 @@ vocabulary: essay_mixed
 祖	ceq
 诅	ceq
 诀	ceur
-语	cfak
 训	cfc
 馴	cfc
 诽	cff
+语	cfkk
 福	cfks
 祆	cfmd
-证	cfnz
 驪	cfqh
 丐	cfti
 視	cgj
 诲	cgqm
 诱	cgrn
 许	cgrs
-诈	cgub
-祚	cgub
+诈	cguv
+祚	cguv
 讨	chc
 祛	chdm
 诗	chhc
@@ -759,6 +752,7 @@ vocabulary: essay_mixed
 诫	ckdn
 祝	ckee
 误	ckfm
+禕	ckka
 禪	ckkr
 谬	ckkw
 识	ckmb
@@ -788,6 +782,7 @@ vocabulary: essay_mixed
 详	cmi
 谈	cmmh
 顶	cmx
+证	cmz
 祕	cnwp
 谧	cnwx
 息	cnx
@@ -885,7 +880,6 @@ vocabulary: essay_mixed
 葙	dasm
 通	dauc
 黃	daum
-葦	daw
 白	db
 菌	dbgh
 茴	dbkv
@@ -952,10 +946,9 @@ vocabulary: essay_mixed
 鄧	dfkp
 凳	dfks
 癸	dfmd
-蔫	dfnm
+芜	dfmw
 帶	dfor
 芫	dfow
-芜	dfqi
 顢	dfrh
 芾	dfrj
 薑	dfsf
@@ -1075,6 +1068,7 @@ vocabulary: essay_mixed
 草	djz
 葳	dkfw
 戏	dkg
+葦	dkka
 觀	dkkg
 歡	dkkh
 顴	dkkh
@@ -1085,7 +1079,7 @@ vocabulary: essay_mixed
 莒	dkkv
 蓼	dkkw
 葺	dkle
-蕺	dklk
+蕺	dkli
 怠	dknx
 蕤	dkps
 藪	dkrt
@@ -1141,6 +1135,7 @@ vocabulary: essay_mixed
 皋	dmrs
 萆	dmrs
 矣	dms
+蔫	dmsm
 畚	dmst
 皴	dmtg
 逡	dmtu
@@ -1376,8 +1371,6 @@ vocabulary: essay_mixed
 伟	eaoi
 鵂	eaqn
 传	eati
-偉	eaw
-闈	eaw
 佞	eawn
 閫	ebam
 化	ebb
@@ -1425,7 +1418,6 @@ vocabulary: essay_mixed
 侯	eems
 閔	eew
 閉	eewp
-伍	efaw
 開	efdn
 俳	eff
 卫	efi
@@ -1434,6 +1426,7 @@ vocabulary: essay_mixed
 便	efjc
 使	efkc
 斌	efkn
+伍	efkw
 侧	efod
 儷	efqh
 俪	efqq
@@ -1452,7 +1445,7 @@ vocabulary: essay_mixed
 仵	egrs
 倘	egs
 伤	egsl
-作	egub
+作	eguv
 倭	egwn
 侥	egwo
 儻	egxh
@@ -1526,6 +1519,8 @@ vocabulary: essay_mixed
 垡	ekht
 代	eki
 岱	ekjs
+偉	ekka
+闈	ekka
 閾	ekkf
 闆	ekkk
 闡	ekkr
@@ -1712,7 +1707,7 @@ vocabulary: essay_mixed
 仫	ewdm
 僮	ewel
 俄	ewfk
-鬮	ewhm
+鬮	ewjc
 億	ewjn
 闇	ewjr
 倍	ewkv
@@ -1742,11 +1737,9 @@ vocabulary: essay_mixed
 搏	fahc
 拥	fai
 押	faj
-吾	fakv
 抨	falb
 杂	fam
 抖	fars
-五	faw
 贝	fb
 捆	fbam
 批	fbbb
@@ -1817,7 +1810,6 @@ vocabulary: essay_mixed
 财	fewp
 盂	fexm
 非	ff
-捂	ffak
 排	fff
 韭	ffi
 执	ffid
@@ -1826,12 +1818,13 @@ vocabulary: essay_mixed
 热	ffim
 势	ffis
 贱	ffkg
+捂	ffkk
 赋	ffkn
+抚	ffmw
 頸	ffnh
 剄	ffno
 勁	ffns
 逕	ffnu
-抚	ffqi
 抛	ffsl
 搢	ffvj
 捷	ffvn
@@ -1928,6 +1921,7 @@ vocabulary: essay_mixed
 摺	fkkd
 擢	fkko
 撣	fkkr
+吾	fkkv
 翡	fkkx
 損	fklb
 豆	fklc
@@ -1952,6 +1946,7 @@ vocabulary: essay_mixed
 捌	fkso
 逼	fksu
 扣	fkv
+五	fkw
 盏	fkxm
 贼	fkxz
 捐	fkyv
@@ -2006,7 +2001,9 @@ vocabulary: essay_mixed
 璽	fmri
 捭	fmrs
 邇	fmru
+拋	fmsl
 挾	fmuu
+无	fmw
 顺	fmx
 扛	fng
 挺	fngi
@@ -2014,11 +2011,7 @@ vocabulary: essay_mixed
 裘	fnis
 救	fnit
 逑	fniu
-焉	fnsm
-鄢	fnsp
-政	fntp
 悲	fnx
-正	fnz
 扯	fnz
 挪	foap
 把	fob
@@ -2056,7 +2049,6 @@ vocabulary: essay_mixed
 邐	fqfu
 护	fqh
 再	fqht
-无	fqi
 扰	fqi
 互	fqj
 搗	fqjs
@@ -2067,7 +2059,6 @@ vocabulary: essay_mixed
 捩	fqqq
 摜	fqrl
 拓	fqs
-拋	fqsl
 丙	fqur
 两	fquu
 拢	fqwp
@@ -2447,7 +2438,6 @@ vocabulary: essay_mixed
 篷	gtqu
 籙	gtvn
 筐	gtyw
-乍	gub
 轮	gubb
 连	guc
 逮	guc
@@ -2463,6 +2453,7 @@ vocabulary: essay_mixed
 黍	guns
 怎	gunx
 籤	guuf
+乍	guv
 筌	guyw
 毽	gvag
 筆	gvak
@@ -2639,7 +2630,6 @@ vocabulary: essay_mixed
 增	hljj
 教	hltp
 孝	hlz
-黽	hm
 塽	hmcc
 報	hmed
 墊	hmfh
@@ -2870,7 +2860,7 @@ vocabulary: essay_mixed
 旅	igsi
 膂	igsy
 旎	igtb
-蚱	igub
+蚱	iguv
 守	ihc
 蟯	ihho
 蛙	ihht
@@ -2878,7 +2868,6 @@ vocabulary: essay_mixed
 鵰	ihkq
 週	ihku
 周	ihkv
-蠅	ihm
 毀	ihss
 尘	iht
 垦	iht
@@ -2926,6 +2915,7 @@ vocabulary: essay_mixed
 氟	ijrj
 氙	ijs
 蚴	ijsl
+蠅	ijvv
 宴	ijwn
 宰	ijx
 蜈	ikfm
@@ -3186,7 +3176,6 @@ vocabulary: essay_mixed
 重	jel
 動	jesl
 迎	jeuc
-晤	jfak
 贸	jfb
 印	jfej
 量	jfel
@@ -3195,6 +3184,7 @@ vocabulary: essay_mixed
 旯	jfj
 覬	jfkg
 顗	jfkh
+晤	jfkk
 豈	jfkl
 剴	jfko
 凱	jfks
@@ -3219,7 +3209,7 @@ vocabulary: essay_mixed
 氏	jgq
 晦	jgqm
 鹽	jgtx
-昨	jgub
+昨	jguv
 巍	jgwm
 晓	jgwo
 覽	jgxg
@@ -3413,6 +3403,7 @@ vocabulary: essay_mixed
 瓣	jvjx
 暧	jvod
 曖	jvot
+黽	jvvj
 崢	jvvo
 昇	jwdn
 峨	jwfk
@@ -3510,7 +3501,6 @@ vocabulary: essay_mixed
 嘢	kelv
 咀	keq
 咿	kevw
-唔	kfak
 员	kfb
 呗	kfb
 咑	kfcd
@@ -3522,6 +3512,7 @@ vocabulary: essay_mixed
 戌	kfi
 哽	kfjc
 觱	kfka
+唔	kfkk
 嗝	kfkl
 感	kfkn
 咸	kfkv
@@ -3543,7 +3534,7 @@ vocabulary: essay_mixed
 噬	kgnu
 吃	kgoi
 噹	kgst
-咋	kgub
+咋	kguv
 咾	khbb
 嗜	khbj
 耐	khc
@@ -3611,6 +3602,11 @@ vocabulary: essay_mixed
 咈	kjrj
 呦	kjsl
 嘣	kjyy
+韝	kkah
+韌	kkai
+韜	kkai
+韋	kkak
+違	kkau
 骂	kkbm
 駡	kkcm
 習	kkdb
@@ -3644,10 +3640,10 @@ vocabulary: essay_mixed
 哭	kkqq
 翠	kkrr
 嘍	kkrw
-鼉	kksh
 咒	kksj
 翼	kksm
 獸	kksq
+鼉	kksv
 戮	kkuk
 吕	kkv
 嚴	kkvt
@@ -3932,21 +3928,19 @@ vocabulary: essay_mixed
 疽	leq
 財	lewp
 癇	leyv
-痦	lfak
 贾	lfb
 瘂	lfei
 痱	lff
 痙	lffn
 丘	lfi
-孑	lfi
 乓	lfid
 岳	lfjs
+痦	lfkk
 痘	lfkl
 賦	lfkn
 癰	lfko
 凸	lflf
 兵	lfmb
-症	lfnz
 邱	lfpf
 病	lfqu
 师	lfrj
@@ -3959,8 +3953,8 @@ vocabulary: essay_mixed
 疲	lgp
 酶	lgqm
 鉴	lgtj
-酢	lgub
-痄	lgub
+酢	lguv
+痄	lguv
 癤	lgve
 痿	lgwn
 监	lgxm
@@ -4095,6 +4089,7 @@ vocabulary: essay_mixed
 蠲	lmxi
 益	lmxm
 鷁	lmxq
+症	lmz
 疵	lnbb
 痧	lniw
 痞	lnkv
@@ -4229,6 +4224,7 @@ vocabulary: essay_mixed
 聽	lyrn
 脣	lyv
 子	lz
+孑	lz
 煉	mabl
 羡	mahq
 奉	mak
@@ -4298,7 +4294,7 @@ vocabulary: essay_mixed
 羲	mgks
 髦	mgm
 炼	mgom
-炸	mgub
+炸	mguv
 矮	mgwn
 烧	mgwo
 火	mh
@@ -4323,6 +4319,7 @@ vocabulary: essay_mixed
 鬢	mifl
 烷	mifo
 灼	miid
+尥	miid
 舂	mij
 鬓	milm
 燬	mins
@@ -4338,6 +4335,7 @@ vocabulary: essay_mixed
 煬	mjfw
 夷	mjg
 羝	mjgi
+尷	mjgx
 坌	mjht
 頒	mjhx
 蠢	mjii
@@ -4369,6 +4367,7 @@ vocabulary: essay_mixed
 烂	mlae
 夹	mlb
 耷	mle
+尴	mlgx
 煙	mlht
 鷯	mljq
 遼	mlju
@@ -4438,6 +4437,8 @@ vocabulary: essay_mixed
 夯	msl
 煨	mslv
 着	msm
+焉	msmb
+鄢	msmp
 奋	mst
 畑	mst
 矩	mtek
@@ -4447,6 +4448,7 @@ vocabulary: essay_mixed
 奩	mtkk
 烙	mtkv
 焗	mtok
+政	mtp
 烽	mtqf
 爐	mtsx
 燐	mtya
@@ -4459,6 +4461,7 @@ vocabulary: essay_mixed
 欲	mukh
 慾	mukn
 谷	mukv
+尬	murj
 頰	muuh
 矬	muuh
 郟	muup
@@ -4481,6 +4484,7 @@ vocabulary: essay_mixed
 燭	mxii
 盖	mxm
 燃	myqm
+正	mz
 淋	naam
 潸	naay
 浦	naf
@@ -4585,7 +4589,6 @@ vocabulary: essay_mixed
 濮	nevm
 汶	new
 潤	neyw
-齬	nfak
 染	nfam
 贡	nfb
 汧	nfdn
@@ -4595,9 +4598,9 @@ vocabulary: essay_mixed
 洹	nfjf
 溼	nfjh
 浅	nfkg
+齬	nfkk
 浙	nflj
 添	nfmi
-歪	nfnz
 测	nfod
 沅	nfow
 邳	nfpf
@@ -4631,7 +4634,6 @@ vocabulary: essay_mixed
 洁	nhkv
 漉	nhl
 漬	nhlb
-澠	nhm
 淩	nhmt
 濤	nhoh
 淸	nhqo
@@ -4723,6 +4725,7 @@ vocabulary: essay_mixed
 涔	njuo
 汩	njv
 湿	njvi
+澠	njvv
 漫	njxd
 温	njxm
 況	nkee
@@ -4782,6 +4785,7 @@ vocabulary: essay_mixed
 浴	nmuk
 浹	nmuu
 项	nmx
+歪	nmz
 齜	nnbb
 江	nng
 瀕	nnih
@@ -5065,7 +5069,7 @@ vocabulary: essay_mixed
 鮍	ogp
 民	ogq
 绣	ogrn
-舴	ogub
+舴	oguv
 绕	ogwo
 鰭	ohbj
 导	ohc
@@ -5333,8 +5337,8 @@ vocabulary: essay_mixed
 阻	peq
 选	peuc
 豺	pewp
-牾	pfak
 陘	pffn
+牾	pfkk
 隔	pfkl
 阮	pfow
 陋	pfqt
@@ -5345,7 +5349,7 @@ vocabulary: essay_mixed
 鞦	pgmh
 陂	pgp
 鞝	pgs
-阼	pgub
+阼	pguv
 阪	phdi
 特	phhc
 鞋	phht
@@ -5507,7 +5511,7 @@ vocabulary: essay_mixed
 矻	qgoi
 犵	qgoi
 破	qgp
-砟	qgub
+砟	qguv
 户	qh
 寿	qhc
 砝	qhdm
@@ -5536,7 +5540,6 @@ vocabulary: essay_mixed
 狠	qig
 狩	qihc
 碉	qihk
-尥	qiid
 狼	qiig
 狗	qikv
 獰	qinc
@@ -5552,7 +5555,6 @@ vocabulary: essay_mixed
 磑	qjfl
 碭	qjfw
 砥	qjgi
-尷	qjgx
 碣	qjit
 础	qjjk
 猖	qjjr
@@ -5575,7 +5577,6 @@ vocabulary: essay_mixed
 碟	qlam
 狽	qlb
 狮	qlfr
-尴	qlgx
 斫	qlj
 磁	qljj
 剛	qljo
@@ -5679,7 +5680,6 @@ vocabulary: essay_mixed
 矿	qug
 砧	qukv
 内	qur
-尬	qurj
 肉	quur
 礪	qvdv
 砺	qvfi
@@ -5716,8 +5716,6 @@ vocabulary: essay_mixed
 闸	raj
 評	ralb
 闲	ram
-諱	raw
-幃	raw
 諧	rbbd
 詣	rbjr
 禀	rbkc
@@ -5770,17 +5768,17 @@ vocabulary: essay_mixed
 闵	rew
 闭	rewp
 夜	reyi
-語	rfak
 訓	rfc
 誹	rff
 亵	rffs
+語	rfkk
 幅	rfks
 訖	rgoi
 帔	rgp
 誨	rgqm
 誘	rgrn
 許	rgrs
-詐	rgub
+詐	rguv
 諉	rgwn
 讜	rgxh
 亥	rh
@@ -5821,7 +5819,6 @@ vocabulary: essay_mixed
 韩	rjao
 率	rjar
 裹	rjas
-韓	rjaw
 詆	rjgi
 乾	rjgo
 玄	rji
@@ -5830,6 +5827,7 @@ vocabulary: essay_mixed
 謁	rjit
 阊	rjjr
 譏	rjju
+韓	rjka
 戟	rjkg
 詔	rjkv
 牽	rjop
@@ -5849,7 +5847,9 @@ vocabulary: essay_mixed
 誤	rkfm
 载	rkgc
 諑	rkid
+諱	rkka
 譟	rkka
+幃	rkka
 喪	rkkl
 諤	rkks
 哉	rkkv
@@ -5876,8 +5876,8 @@ vocabulary: essay_mixed
 阙	rljh
 阐	rljr
 譚	rljz
-阅	rlke
 説	rlke
+阅	rlke
 齊	rlla
 齋	rllc
 齏	rllf
@@ -6354,13 +6354,13 @@ vocabulary: essay_mixed
 虔	tew
 鍛	teys
 鐗	teyv
-鋙	tfak
 鑞	tfbl
 釧	tfc
 匪	tff
 尻	tfj
 粳	tfjc
 戲	tfkk
+鋙	tfkk
 鎘	tfkl
 獻	tfkq
 錙	tfst
@@ -6670,7 +6670,6 @@ vocabulary: essay_mixed
 床	uam
 廂	uasm
 緗	uasm
-緯	uaw
 卜	ub
 舖	ubaf
 仑	ubb
@@ -6759,7 +6758,6 @@ vocabulary: essay_mixed
 纈	uhkh
 結	uhkv
 績	uhlb
-繩	uhm
 綾	uhmt
 饮	uhq
 庄	uht
@@ -6818,12 +6816,14 @@ vocabulary: essay_mixed
 絕	ujob
 紼	ujrj
 馏	ujst
+繩	ujvv
 馒	ujxd
 縵	ujxd
 繃	ujyy
 卓	ujz
 緘	ukfk
 覘	ukgj
+緯	ukka
 战	ukkg
 廖	ukkw
 繆	ukkw
@@ -7246,7 +7246,6 @@ vocabulary: essay_mixed
 竦	wakv
 新	walj
 亲	wam
-衛	waoc
 妣	wbbb
 徊	wbkv
 妈	wbm
@@ -7289,19 +7288,16 @@ vocabulary: essay_mixed
 缺	weur
 嫺	weyv
 缶	wf
-衙	wfao
 妍	wfdn
 婭	wfei
 徘	wff
 徑	wffn
 姮	wfjf
 我	wfkg
+衙	wfko
 鵝	wfkq
 鹅	wfkx
-嫣	wfnm
-惩	wfnn
-征	wfnz
-妩	wfqi
+妩	wfmw
 師	wfrj
 微	wfsj
 徕	wftm
@@ -7328,7 +7324,6 @@ vocabulary: essay_mixed
 娃	whht
 妖	whi
 嬌	whkk
-龜	whm
 娇	whrj
 循	whrs
 婊	whsi
@@ -7375,12 +7370,14 @@ vocabulary: essay_mixed
 贛	wjtl
 戇	wjtn
 後	wjtp
+龜	wjvc
 彰	wjws
 嫚	wjxd
 章	wjz
 竞	wkee
 競	wkee
 娱	wkfm
+衛	wkko
 嬋	wkkr
 嫪	wkkw
 翊	wkkx
@@ -7413,9 +7410,12 @@ vocabulary: essay_mixed
 失	wmf
 徉	wmi
 姨	wmjg
+惩	wmnx
 婢	wmrs
+嫣	wmsm
 迭	wmuc
 须	wmx
+征	wmz
 女	wn
 缸	wng
 延	wngi
@@ -7522,12 +7522,12 @@ vocabulary: essay_mixed
 睾	wxhm
 衅	wxla
 血	wxm
-龍	wyub
 壟	wyuh
 聾	wyul
 龔	wyum
 礱	wyuq
 襲	wyus
+龍	wyuv
 輔	xaf
 軒	xag
 枭	xam
@@ -7564,7 +7564,6 @@ vocabulary: essay_mixed
 䴉	xfkq
 輻	xfks
 還	xfku
-罡	xfnz
 輛	xfri
 輜	xfst
 蹚	xght
@@ -7647,6 +7646,7 @@ vocabulary: essay_mixed
 踟	xmkv
 蹉	xmng
 盔	xmxm
+罡	xmz
 鸟	xn
 罘	xnb
 左	xng
@@ -7747,7 +7747,6 @@ vocabulary: essay_mixed
 栾	yam
 玮	yaoi
 膝	yaun
-瑋	yaw
 脂	ybjr
 膕	ybkf
 玛	ybm
@@ -7854,6 +7853,7 @@ vocabulary: essay_mixed
 胀	ykc
 琢	ykid
 臊	ykka
+瑋	ykka
 噩	ykkk
 膠	ykkw
 肿	ykls

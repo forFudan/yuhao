@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yujoy_sc.words_literature"
-version: "20240810"
+version: "20240823"
 sort: original
 columns:
   - text
@@ -254,7 +254,7 @@ columns:
 病魔缠身	lvou
 早知今日	jmuj
 所见略同	wdsq
-正正经经	ffoo
+正正经经	mmoo
 下回分解	cbmo
 海内存知己	nqxw
 山重水复	jjng
@@ -450,7 +450,7 @@ columns:
 大动肝火	maym
 依葫芦画瓢	eddl
 三十年河东	yrgg
-政教合一	fhsf
+政教合一	mhsf
 精神错乱	tcvb
 有鼻子有眼	xcls
 以战养战	tulu
@@ -723,7 +723,7 @@ columns:
 婆娑起舞	nnhg
 东游西逛	gnlq
 女流之辈	wnkf
-正直无私	frfg
+正直无私	mrfg
 乐而不淫	jknn
 秀才不出门	genr
 五里雾中	fesk
@@ -858,7 +858,7 @@ columns:
 各显其能	tjrd
 无心插柳柳成荫	fnfd
 路漫漫其修远兮	xnnm
-人间正道是沧桑	urfd
+人间正道是沧桑	urmd
 四面出击	bkja
 有百害而无一利	xvig
 小桥流水人家	iani
@@ -869,7 +869,7 @@ columns:
 丈二和尚摸不着头脑	xagy
 相煎何太急	aleo
 难以名状	dtyo
-公正廉洁	mfun
+公正廉洁	mmun
 出师未捷身先死	jlwf
 本是同根生	ajqp
 回眸一笑百媚生	bsfp
@@ -945,7 +945,7 @@ columns:
 气数已尽	itwt
 烈火烹油	fmdn
 兵无常势	lfgf
-身正不怕影子斜	ufnu
+身正不怕影子斜	umnu
 本固邦宁	abqi
 千里共婵娟	jedw
 人老心不老	uhnh
@@ -1293,7 +1293,7 @@ columns:
 丁丁当当	ccii
 道德文章	lwew
 朴素无华	ahfe
-清廉正直	nufr
+清廉正直	numr
 牛之一毛	pkfg
 小惩大诫	iwmc
 交口赞誉	rkpi
@@ -1304,7 +1304,7 @@ columns:
 足不出门	xnjr
 霞光万道	sifl
 七步成诗	gnkc
-正心诚意	fncw
+正心诚意	mncw
 长江天堑	knfg
 个中三昧	ukyj
 是非之心	jfkn
@@ -1343,7 +1343,7 @@ columns:
 杳无人迹	afuy
 桃花流水	adnn
 要而言之	lkrk
-大中至正	mkuf
+大中至正	mkum
 冷水浇头	anna
 深山幽谷	njjm
 李广难封	audh
@@ -1427,7 +1427,7 @@ columns:
 反哺之情	hkkb
 一物不知	fpnm
 现世现报	ylyf
-公平正直	mafr
+公平正直	mamr
 仁民爱物	eovp
 清新俊逸	nweo
 脸红耳热	yolf
@@ -1538,7 +1538,7 @@ columns:
 日丽风和	jfsg
 不甘后人	ndhu
 治丝益棼	nola
-诚心正意	cnfw
+诚心正意	cnmw
 观者云集	dhao
 装潢门面	onrk
 铮铮有声	vvxh
@@ -1581,7 +1581,7 @@ columns:
 永矢弗谖	imjc
 神号鬼哭	ckmk
 里勾外连	eiyg
-方正不阿	ifnp
+方正不阿	imnp
 明目达聪	jsml
 德薄能鲜	wddt
 高阳酒徒	dpnw
@@ -1864,7 +1864,7 @@ columns:
 白手兴家	dkii
 莫待无花空折枝	dwfa
 对影成三人	djku
-必有我师焉	nxwf
+必有我师焉	nxwm
 清泉石上流	ndqn
 独钓寒江雪	qvis
 以子之矛攻子之盾	tlkh
@@ -2353,7 +2353,7 @@ columns:
 往者不可谏	whnc
 淡妆浓抹总相宜	noni
 一顾倾人城	fveh
-风正一帆悬	sffe
+风正一帆悬	smfe
 民无信不立	ofew
 能不忆江南	dnbr
 取其精华去其糟粕	lrtt
@@ -2414,7 +2414,7 @@ columns:
 敢叫日月换新天	okjf
 广征博引	uwrj
 居高声自远	tdhf
-可远观而不可亵玩焉	cfdf
+可远观而不可亵玩焉	cfdm
 花市灯如昼	drmt
 春风拂槛露华浓	msfn
 生于忧患死于安乐	pfbj
@@ -2769,7 +2769,7 @@ columns:
 皎皎河汉女	ddnw
 晋代衣冠成古丘	ferl
 零落成泥碾作尘	sdki
-见贤思齐焉	dlsf
+见贤思齐焉	dlsm
 卷地风来忽吹散	lhsd
 吴宫花草埋幽径	kidw
 十年辛苦不寻常	rgjg
@@ -2994,7 +2994,7 @@ columns:
 十年窗下无人问	rgbr
 独学而无友	qikx
 开轩面场圃	fgkb
-花月正春风	dyfs
+花月正春风	dyms
 一洗万古凡马空	fnfb
 两山排闼送青来	fjff
 飞鸟相与还	oxan
@@ -3037,7 +3037,7 @@ columns:
 明月何时照我还	jyen
 大弦嘈嘈如急雨	mjks
 长恨春归无觅处	kbmt
-正是河豚欲上时	fjnj
+正是河豚欲上时	mjnj
 与尔同销万古愁	soqg
 孤灯不明思欲绝	lmno
 不与秦塞通人烟	nsmm
@@ -3333,7 +3333,7 @@ columns:
 一曲新词酒一杯	fvwa
 不见长安见尘雾	ndks
 马鸣风萧萧	bksd
-中儿正织鸡笼	kefg
+中儿正织鸡笼	kemg
 随风直到夜郎西	psrl
 羞颜未尝开	mwwf
 大儿锄豆溪东	mevg
@@ -3409,7 +3409,7 @@ columns:
 罢如江海凝清光	xwni
 应是绿肥红瘦	ujol
 言师采药去	rlvh
-正是江南好风景	fjnj
+正是江南好风景	mjnj
 来如雷霆收震怒	fwsw
 出山泉水浊	jjdn
 千载琵琶作胡语	jryc
@@ -3738,7 +3738,7 @@ columns:
 谪居卧病浔阳城	ctjh
 请君试问东流水	cvcn
 观海则意溢于海	dnfn
-江晚正愁余	njfu
+江晚正愁余	njmu
 未解忆长安	wobi
 胡琴琵琶与羌笛	oyyg
 忍能对面为盗贼	jddf
@@ -4338,7 +4338,7 @@ columns:
 谁敢横刀立马	coab
 而伯乐不常有	kejx
 拣了芝麻丢了西瓜	fldv
-可以正衣冠	ctfo
+可以正衣冠	ctmo
 问苍茫大地	rddh
 惊诧莫名	bcdy
 翩翩佳公子	qqel
@@ -4364,7 +4364,7 @@ columns:
 假戏成真	edkr
 风流总被雨打风吹去	snlh
 自信人生二百年	ceug
-郑伯克段于鄢	leof
+郑伯克段于鄢	leom
 黑夜给了我黑色的眼睛	xros
 重上井冈山	joaj
 门前冷落鞍马稀	rlag
@@ -4442,7 +4442,7 @@ columns:
 两只黄鹂鸣翠柳	fkda
 小饼如嚼月	iuwy
 春有百花秋有月	mxvy
-徒善不足以为政	wmnf
+徒善不足以为政	wmnm
 交杯换盏	raff
 轻轻的我走了	ggdl
 青春不再来	hmnf
@@ -4460,7 +4460,7 @@ columns:
 君子之德风	vlks
 上品功能甘露味	oknk
 幻想和现实	jagi
-正如我轻轻的来	fwwf
+正如我轻轻的来	mwwf
 岂独善一身	jqmu
 近之则不逊	lkfl
 不知其几千里也	nmre
@@ -4506,7 +4506,7 @@ columns:
 他人亦已歌	euyc
 曾益其所不能	llrd
 亲戚或余悲	wkkf
-必也正名乎	nefw
+必也正名乎	nemw
 五音令人耳聋	fwuq
 安知鱼之乐	imtj
 木受绳则直	avor
@@ -4552,7 +4552,7 @@ columns:
 若无闲事挂心头	dfra
 从此天涯孤旅	unfi
 朝菌不知晦朔	rdnl
-而人之所罕至焉	kukf
+而人之所罕至焉	kukm
 则其负大舟也无力	fros
 汽笛一声肠已断	ngft
 千门万户瞳瞳日	jrfj
@@ -4650,7 +4650,7 @@ columns:
 离天三尺三	efyy
 无羞恶之心	fmfn
 死而不亡者寿	fknq
-吾未尝无诲焉	fwgf
+吾未尝无诲焉	fwgm
 文胜质则史	eyhk
 三军过后尽开颜	yohw
 早春呈水部张十八员外	jmky
@@ -4676,7 +4676,7 @@ columns:
 质胜文则野	hyee
 冬至阳生春又来	tupf
 威加海内兮归故乡	ksno
-正如我悄悄的来	fwwf
+正如我悄悄的来	mwwf
 谨庠序之教	cuuh
 包羞忍耻是男儿	imje
 飒沓如流星	wnwj
@@ -4700,7 +4700,7 @@ columns:
 拂堤杨柳醉春烟	fham
 桑田碧海须臾改	dsyw
 万里长城今犹在	fekx
-夫子焉不学	mlfi
+夫子焉不学	mlmi
 天时人事日相催	fjue
 建安十九年	virg
 节物风光不相待	dpsw
@@ -4872,7 +4872,7 @@ columns:
 海上有仙山	noxj
 桃花源里人家	adni
 人生乐在相知心	upjn
-正得秋而万宝成	fwgk
+正得秋而万宝成	mwgk
 谏太宗十思疏	cmio
 又有清流激湍	dxnn
 零乱不堪	sbnh
@@ -4991,7 +4991,7 @@ columns:
 虎兕出于柙	tqja
 帝高阳之苗裔兮	rdpm
 与天地兮比寿	sfhq
-而人居其一焉	kutf
+而人居其一焉	kutm
 共赏一轮明月	dgfy
 更立西江石壁	fwlt
 时见疏星渡河汉	jdon
@@ -5164,7 +5164,7 @@ columns:
 竹下忘言对紫茶	gcud
 小麦覆陇黄	ihld
 月出于东山之上	yjfo
-有神人居焉	xcuf
+有神人居焉	xcum
 更无豪杰怕熊罴	ffdx
 三十二莲峰	yraj
 月到柳梢头	yuaa
@@ -5245,7 +5245,7 @@ columns:
 明月明年何处看	jyjk
 世上英雄本无主	lodi
 必不得已而去	nnwh
-不能正其身	ndfu
+不能正其身	ndmu
 我不欲人之加诸我也	wnme
 交结五都雄	rofx
 渺万里层云	nfea
@@ -5401,7 +5401,7 @@ columns:
 此恨何时已	nbew
 种树郭橐驼传	gade
 快走踏清秋	bhxg
-天下归仁焉	fclf
+天下归仁焉	fclm
 乐亦在其中矣	jyxd
 种桃道士归何处	galt
 撑一支长篙	ffrg
@@ -5439,7 +5439,7 @@ columns:
 而乐亦无穷也	kjye
 吊古战场文	koue
 不忍食其肉	njvq
-就有道而正焉	dxlf
+就有道而正焉	dxlm
 不敢叹风尘	noki
 溪云初起日沉阁	nasr
 秘密事之载心兮	giem
@@ -5561,7 +5561,7 @@ columns:
 痛饮狂歌空度日	luqj
 故有之以为利	oxkg
 寒食内人长白打	ivqf
-信则人任焉	efuf
+信则人任焉	efum
 此水几时休	nnse
 霁光浮瓦碧参差	sinm
 必也使无讼乎	neew
@@ -5700,7 +5700,7 @@ columns:
 不教而杀谓之虐	nhkt
 保安人物一时新	eiuw
 拔剑起蒿莱	fuhd
-如日月之食焉	wjyf
+如日月之食焉	wjym
 夏虫也为我沉默	viex
 更加郁郁葱葱	fsxd
 雨送黄昏花易落	sldd
@@ -6189,8 +6189,8 @@ columns:
 雪尽马蹄轻	stbg
 我们都互相致意	wehw
 台州地阔海冥冥	diho
-正是橙黄橘绿时	fjaj
-正是浴兰时节动	fjna
+正是橙黄橘绿时	mjaj
+正是浴兰时节动	mjna
 四时佳兴与人同	bjeq
 大隐住朝市	mper
 求仁而得仁	feke
@@ -6596,7 +6596,7 @@ columns:
 赢粮而景从	dtku
 贼义者谓之残	fihf
 何谓宠辱若惊	ecib
-正西风落叶下长安	flsi
+正西风落叶下长安	mlsi
 北山尽仇怨	ojty
 不得其言则去	nwrh
 富而好礼者也	ikwe
@@ -6749,7 +6749,7 @@ columns:
 吾不欲观之矣	fnmd
 中心悦而诚服也	knbe
 山晓望晴空	jjub
-正月十六夜	fyrr
+正月十六夜	myrr
 貂裘换酒也堪豪	pffd
 谁谓天地宽	ccfi
 以小事大者	tieh
@@ -6776,7 +6776,7 @@ columns:
 书任村马铺	oeav
 寄与陇头人	ispu
 金与火交争	tsmo
-则眸子了焉	fslf
+则眸子了焉	fslm
 七月中气后	gykh
 四月江南黄鸟肥	byny
 诗画本一律	cfaw
@@ -6799,12 +6799,12 @@ columns:
 丁香空结雨中愁	cgbg
 瓮牖绳枢之子	mtol
 吾党之直者异于是	fgkj
-苟正其身矣	dfrd
-唯倜傥非常之人称焉	keef
+苟正其身矣	dmrd
+唯倜傥非常之人称焉	keem
 汝体吾此心	nefn
 天地本无心	fhan
 杀人如不能举	cuwi
-为民父母行政	iomf
+为民父母行政	iomm
 兄嫂当知之	kwik
 面脆油香新出炉	kynm
 若入前为寿	dilq
@@ -6963,7 +6963,7 @@ columns:
 翼若垂天之云	kdja
 色与春庭暮	osmd
 项羽季父也	nkge
-于从政乎何有	fufx
+于从政乎何有	fumx
 以大事小者	tmeh
 无日不悠悠	fjne
 夜夜不得息	rrnc
@@ -7067,7 +7067,7 @@ columns:
 相与枕藉乎舟中	asak
 饮马长城窟	ubkb
 犹缘木而求鱼也	qoae
-必有忠信如丘者焉	nxkf
+必有忠信如丘者焉	nxkm
 诗是吾家事	cjfe
 何须浅碧深红色	ewno
 于啼泣之余	fknu
@@ -7101,7 +7101,7 @@ columns:
 乐天者保天下	jfhc
 嘉孺子而哀妇人	vllu
 圣人之心静乎	dukw
-行不忍人之政	wnjf
+行不忍人之政	wnjm
 请看石上藤萝月	ckqy
 不堪幽梦太匆匆	nhji
 老去新诗谁与传	hhwe
@@ -7333,7 +7333,7 @@ columns:
 汉恩自浅胡恩深	nbcn
 风飘万点正愁人	slfu
 月移花影上栏杆	ygda
-君子疾没世而名不称焉	vllf
+君子疾没世而名不称焉	vllm
 多少长安名利客	yiki
 自向庭中种荔枝	coua
 不与我言兮	nswm
@@ -7353,7 +7353,7 @@ columns:
 人乞祭余骄妾妇	ugyw
 江流宛转绕芳甸	nnii
 望之不似人君	uknv
-推心辅王政	fngf
+推心辅王政	fngm
 先破秦入咸阳者王之	pqmk
 青旗沽酒趁梨花	hind
 夏虫不可以语于冰者	vinh
@@ -7393,7 +7393,7 @@ columns:
 丁壮在南冈	coxq
 遍海角天涯	qnon
 口脂面药随恩泽	kykn
-天下之恶皆归焉	fckf
+天下之恶皆归焉	fckm
 杏花消息雨声中	adnk
 云归而岩穴暝	alkj
 罗浮山下梅花村	xnja
@@ -7459,7 +7459,7 @@ columns:
 相思不相见	asnd
 周监于二代	ilfe
 已映洲前芦荻花	wjnd
-一正君而国定矣	ffvd
+一正君而国定矣	fmvd
 多识于鸟兽草木之名	ycfy
 兴酣落笔摇五岳	ildl
 照在绿波中	jxok
@@ -7791,7 +7791,7 @@ columns:
 中适一念无	kbff
 二龙争战决雌雄	aqox
 最是一年秋好处	jjft
-长而无述焉	kkff
+长而无述焉	kkfm
 落日绣帘卷	djol
 认得醉翁语	cwlc
 知君为我新作	mvie
@@ -7953,7 +7953,7 @@ columns:
 出入无完裙	jifs
 德固不小识	wbnc
 大禹理百川	mwyf
-焉得人人而济之	fwuk
+焉得人人而济之	mwuk
 珍宝尽有之	yitk
 陌上看花人	poku
 阮籍哭路岐	pgkj
@@ -7962,7 +7962,7 @@ columns:
 万古青蒙蒙	fohd
 负命者上钩	oshv
 关西杨伯起	llah
-惠而不知为政	xknf
+惠而不知为政	xknm
 楚王疑忠臣	aybj
 吉日兮辰良	hjmi
 卞庄子之勇	iuld
@@ -7976,7 +7976,7 @@ columns:
 虢州岑二十七长史参三十韵	vijw
 男耕女桑不相失	sqww
 上无道揆也	ofle
-殷有三仁焉	hxyf
+殷有三仁焉	hxym
 鱼鳞屋兮龙堂	tttg
 清浅白石滩	nndn
 千叶绿云委	jkog
@@ -8055,7 +8055,7 @@ columns:
 建德非吾土	vwfh
 问客何为来	rief
 相见语依依	adce
-那堪正飘泊	ohfn
+那堪正飘泊	ohmn
 从来幽并客	ufji
 说尽平生意	ctaw
 还将两行泪	nofn
@@ -8088,7 +8088,7 @@ columns:
 少壮能几时	iodj
 阳骄叶更阴	pbkp
 日暮倚修竹	jdeg
-焉知二十载	fmar
+焉知二十载	mmar
 梦随风万里	apse
 乡心新岁切	onwg
 共此灯烛光	dnmi
@@ -8174,7 +8174,7 @@ columns:
 逐客无消息	kifc
 乳燕飞华屋	vdot
 江畔洲如月	nsny
-岂不如贼焉	jnwf
+岂不如贼焉	jnwm
 念武陵人远	ufpf
 独自倚阑干	qcea
 何事入罗帏	eeir
@@ -8267,7 +8267,7 @@ columns:
 望断归来路	utlx
 长歌怀采薇	kcbd
 长亭酒一瓢	kdnl
-正故国晚秋	fobg
+正故国晚秋	mobg
 忠愤气填膺	kbiu
 心随雁飞灭	npvf
 闻风坐相悦	rsub
@@ -8993,7 +8993,7 @@ columns:
 是时青裙女	jjhw
 大火复西流	mmgn
 唾弃如粪丸	krwf
-南国正芳春	rbfm
+南国正芳春	rbmm
 三春车马客	ymgi
 临不测之渊	lnnn
 父老空哽咽	mhbk
@@ -9025,14 +9025,14 @@ columns:
 化则无常也	effe
 随山望菌阁	pjur
 何况到如今	eauu
-子奚不为政	lvnf
+子奚不为政	lvnm
 学非探其花	iffd
 我生不有命	wpns
 使子婴为相	elfa
 渴饮月窟冰	nuya
 令人饮不足	uuux
 结束多红粉	oayt
-正己而已矣	fwkd
+正己而已矣	mwkd
 小语辄响答	icgg
 长安在日边	kixs
 不过三十日	nhyj
@@ -9051,7 +9051,7 @@ columns:
 已自感流年	wckg
 君子多乎哉	vlyr
 冷碧新秋水	aywn
-宗族称孝焉	iigf
+宗族称孝焉	iigm
 不悲口无食	nfkv
 借问新安吏	erwf
 夜雨做成秋	rseg
@@ -9074,7 +9074,7 @@ columns:
 聊寄法王家	lini
 金骨既不毁	thvi
 守节情不移	idbg
-君子平其政	vlaf
+君子平其政	vlam
 东皋薄暮望	gddu
 再续汉阳游	fonn
 落日对春华	djde
@@ -9125,7 +9125,7 @@ columns:
 桃叶一枝开	akff
 又鼓盆而歌	dvmc
 物心不可知	pnnm
-安得而至焉	iwkf
+安得而至焉	iwkm
 儿童尽东征	ewtw
 王氏井依然	yjay
 多为将相官	yioi
@@ -9201,7 +9201,7 @@ columns:
 词气浩纵横	cina
 竹楼缘岸上	gaoo
 引领望金扉	juuq
-正月端门夜	fywr
+正月端门夜	mywr
 杨柳可藏乌	aacx
 笑整香云缕	gago
 芜然蕙草暮	dydd
@@ -9561,7 +9561,7 @@ columns:
 知死不可让	mfnc
 自到青冥里	cuhe
 孔子辞以疾	llbl
-因以为号焉	btif
+因以为号焉	btim
 粽香筒竹嫩	tggw
 审权势之宜	iafi
 垂老不得安	jhni
@@ -9905,11 +9905,11 @@ columns:
 岂知关山苦	jmld
 独酌板桥浦	qlan
 心恬内无忧	nbqb
-大舜有大焉	mvxf
+大舜有大焉	mvxm
 传觞三鼓罢	eoyx
 彼美玉山果	wmyj
 尽日此桥头	tjna
-不近人情焉	nluf
+不近人情焉	nlum
 道芷阳间行	ldpw
 嘈嘈天乐鸣	kkfk
 船下广陵去	ocuh
@@ -10177,7 +10177,7 @@ columns:
 徐妃久已嫁	wwow
 吾问无为谓	frfc
 高低顺过风	defs
-正声易漂沦	fhjn
+正声易漂沦	mhjn
 四代三公族	beyi
 杯中酒不空	aknb
 汝安则为之	nifk
@@ -10233,7 +10233,7 @@ columns:
 风景触乡愁	sjog
 平铺湘水流	avnn
 也知塞垣苦	emid
-南方有鸟焉	rixf
+南方有鸟焉	rixm
 回心反初役	bnhw
 幽州胡马客	jioi
 天地无终极	fhfa
@@ -10373,7 +10373,7 @@ columns:
 绿翠如芙蓉	okwd
 小树枣花春	iaam
 倒被紫绮裘	esnf
-夫焉取九子	mfll
+夫焉取九子	mmll
 担囊行取薪	frwd
 捐弹而反走	fjkh
 灼灼芙蓉姿	mmda
@@ -10467,7 +10467,7 @@ columns:
 庭树巢鹦鹉	uaff
 与子路之妻	slxr
 偷声木兰花	ehad
-雉兔者往焉	mohf
+雉兔者往焉	mohm
 回观村闾间	bdar
 寻一首好诗	vflc
 非死者难也	ffhe
@@ -10527,7 +10527,7 @@ columns:
 竹斋烧药灶	gemm
 去者日以疏	hhjo
 雨势来不已	sffw
-风雨正苍苍	ssfd
+风雨正苍苍	ssmd
 古戍依重险	okep
 琼枝曲不折	yavf
 试问池台主	crni
@@ -10584,7 +10584,7 @@ columns:
 暮雨向三峡	dsoj
 何必怀此都	enbh
 古之贤人也	okle
-刍荛者往焉	odhf
+刍荛者往焉	odhm
 衰年关鬲冷	dgla
 尊罍溢九酝	lsnl
 不念携手好	nufw
@@ -10645,7 +10645,7 @@ columns:
 以黄金注者	tdth
 还期那可寻	nrov
 是役人之役	jwuw
-不期精粗焉	nrtf
+不期精粗焉	nrtm
 明月生南浦	jypn
 日月同光华	jyqe
 于身色有用	fuoa
@@ -10698,7 +10698,7 @@ columns:
 惟有一堪赏	bxfg
 见底何如此	duen
 君臣尚论兵	vjgl
-奚其为为政	vrif
+奚其为为政	vrim
 甘棠忆召公	dgbm
 揽裙脱丝履	fsyt
 曳屐出东冈	htjq
@@ -10870,8 +10870,8 @@ columns:
 天凉景物清	fajn
 君子道者三	vlly
 花不知人瘦	dnml
-池水观为政	nndf
-物孰不资焉	pdnf
+池水观为政	nndm
+物孰不资焉	pdnm
 新贴绣罗襦	wfos
 烂若金照碧	mdty
 大笑向文士	mgoh
@@ -11028,7 +11028,7 @@ columns:
 无泥未有尘	fnwi
 素发干垂领	hjau
 微之炼秋石	wkmq
-焉能守旧丘	fdil
+焉能守旧丘	mdil
 能伴老夫否	dehn
 凉忆岘山巅	abjj
 一别旧游尽	fklt
@@ -11107,7 +11107,7 @@ columns:
 夭矫转空碧	hmgy
 五日画一石	fjfq
 雄笔映千古	xgjo
-乡党称悌焉	oggf
+乡党称悌焉	oggm
 此情不可道	nbnl
 春早见花枝	mjda
 语来江色暮	cfnd
@@ -11125,7 +11125,7 @@ columns:
 城非不高也	hfne
 士大夫之族	hmmi
 猿声碎客心	qhqn
-焉用身独完	faui
+焉用身独完	maui
 乱石通人过	bqdh
 北望五陵间	oufr
 寒暑忽流易	ijij
@@ -11357,7 +11357,7 @@ columns:
 下悯万民疮	cbfl
 经纶世务者	oolh
 清风吹枕席	nsku
-冰霜正惨凄	asfa
+冰霜正惨凄	asma
 减米散同舟	atdo
 彼美君家菜	wmvd
 散发弄扁舟	djyo
@@ -11416,7 +11416,7 @@ columns:
 村边杏花白	asad
 子路无宿诺	lxfc
 驱车上东门	bgor
-终岁常端正	ojgf
+终岁常端正	ojgm
 眼枯即见骨	savh
 马之千里者	bkjh
 事业无穷年	evfg
@@ -11436,7 +11436,7 @@ columns:
 令人发深省	uuji
 秦烹惟羊羹	mdbm
 荷动知鱼散	damd
-正当白下门	fidr
+正当白下门	midr
 不如饮美酒	nwun
 舜亦以命禹	vytw
 欲觉闻晨钟	mirv
@@ -11509,7 +11509,7 @@ columns:
 劝君少求利	dvig
 物性固莫夺	pbbm
 予之不仁也	lkne
-信则民任焉	efof
+信则民任焉	efom
 以相如功大	tawm
 寄与爱茶人	isvu
 如杀人之罪	wcux
@@ -11586,7 +11586,7 @@ columns:
 一病讫不痊	flcl
 因念远戍卒	bufr
 结妾独守志	owqh
-正枕当星剑	faiu
+正枕当星剑	maiu
 盛时不可再	kjnf
 阴霞生远岫	pspj
 罢官亦由人	xiyu
@@ -11600,7 +11600,7 @@ columns:
 何事阴阳工	eepn
 明日又逢春	jjdm
 国家定两税	biig
-君正莫不正	vfdf
+君正莫不正	vmdm
 一字偕华星	fiej
 涂山来去熟	njfd
 新雁过妆楼	wvha
@@ -11690,7 +11690,7 @@ columns:
 死为同穴尘	fiqi
 积疴谢生虑	glct
 江泥轻燕斜	nngu
-不能正五音	ndfw
+不能正五音	ndmw
 万姓疮痍合	fwls
 其次剔毛发	rajj
 结君早归意	ovjw
@@ -11894,7 +11894,7 @@ columns:
 登赫曦台上	dhjo
 生死不相离	pfne
 妾愿随君行	wvpw
-教者必以正	hhnf
+教者必以正	hhnm
 江汉春风起	nnmh
 樱桃千万枝	aaja
 故园今夜里	obue
@@ -11965,7 +11965,7 @@ columns:
 谁识卧龙客	ccji
 今日重阳节	ujjd
 盖棺事则已	maew
-正是江南好	fjnw
+正是江南好	mjnw
 黑质而白章	xhkw
 每欲到荆州	gmui
 富贵本无根	ikaa
@@ -12101,7 +12101,7 @@ columns:
 沾余襟之浪浪	nusn
 人相忘乎道术	uaua
 眄庭柯以怡颜	suaw
-尔焉能浼我哉	ofdr
+尔焉能浼我哉	omdr
 一枕小窗浓睡	fais
 拔剑撞而破之	fufk
 呈集贤诸学士	kolh
@@ -12142,12 +12142,12 @@ columns:
 丽桂树之冬荣	faad
 四海遏密八音	bnjw
 吾无以为质矣	fftd
-焉能系而不食	fdwv
+焉能系而不食	mdwv
 行军用兵之道	woal
 谓之倒置之民	ckeo
 而唯蜩翼之知	kkim
 时不可兮再得	jncw
-正是登高时节	fjdd
+正是登高时节	mjdd
 鹅湖归病起作	wnle
 麋何食兮庭中	hevk
 万物皆出于机	fpba
@@ -12161,7 +12161,7 @@ columns:
 与物相刃相靡	spav
 连无用之肉也	gfae
 而天下始疑矣	kfcd
-四方之政行焉	bikf
+四方之政行焉	bikm
 宅边有五柳树	isxa
 隐思君兮陫侧	psve
 必能裨补阙漏	ndsn
@@ -12216,7 +12216,7 @@ columns:
 沛公则置车骑	nmfb
 捐余玦兮江中	fuyk
 不可以言传也	ncte
-正是人间佳节	fjud
+正是人间佳节	mjud
 是故骈于足者	jobh
 合百草兮实庭	svdu
 蛟何为兮水裔	ieir
@@ -12319,7 +12319,7 @@ columns:
 未必知其道也	wnme
 瞻前而顾后兮	slkm
 采薜荔兮水中	vddk
-必正席先尝之	nfuk
+必正席先尝之	nmuk
 或百步而后止	kvnn
 庄子持竿不顾	ulfv
 使乐乘代廉颇	ejgg
@@ -12331,7 +12331,7 @@ columns:
 并吞八荒之心	lfmn
 算只君与长江	gkvn
 好事者为之也	wehe
-正是去年时节	fjhd
+正是去年时节	mjhd
 孝子不谀其亲	hlnw
 因缟素而哭之	bohk
 近乎卜祝之间	lwur
@@ -12348,7 +12348,7 @@ columns:
 名利不将心挂	ygnf
 结客少年场行	oiiw
 春日暄甚戏作	mjje
-使子路问津焉	elxf
+使子路问津焉	elxm
 予口张而不能	lkjd
 驾着一叶孤舟	smfo
 洗妆不褪唇红	nono
@@ -12367,7 +12367,7 @@ columns:
 门人欲厚葬之	rumk
 今之矜也忿戾	uklq
 夏礼吾能言之	vcfk
-正是维摩境界	fjos
+正是维摩境界	mjos
 语之而不惰者	ckkh
 请奉盆缶秦王	cmmy
 内热溲膏是也	qfne
@@ -12383,7 +12383,7 @@ columns:
 又尚论古之人	dgcu
 柳绿更带朝烟	aofm
 大马之捶钩者	mbkh
-民无得而称焉	ofwf
+民无得而称焉	ofwm
 而天下始分矣	kfcd
 是同为淫僻也	jqie
 吾无与言之矣	ffsd
@@ -12615,7 +12615,7 @@ columns:
 夫子喟然叹曰	mlkj
 常有高猿长啸	gxdk
 其真不知马也	rrne
-必有可观者焉	nxcf
+必有可观者焉	nxcm
 齐彭殇为妄作	evfe
 颠连直接东溟	rgrn
 娇痴不怕人猜	wlnq
@@ -12734,7 +12734,7 @@ columns:
 却愿天日恒炎曦	hvfj
 故闻伯夷之风者	oreh
 虚负东阳酒担来	togf
-纵横正有凌云笔	oafg
+纵横正有凌云笔	oamg
 纷纷红紫已成尘	oooi
 幽闲元不为人芳	jrfd
 曾有惊天动地文	lxbe
@@ -12745,7 +12745,7 @@ columns:
 眼中战国成争鹿	skuh
 云横九派浮黄鹤	aafo
 知君仙骨无寒暑	mvej
-正怜日破浪花出	fbjj
+正怜日破浪花出	mbjj
 父老相逢鼻欲辛	mhaj
 落蕊犹收蜜露香	ddqg
 襄王云雨今安在	dyax
@@ -12962,7 +12962,7 @@ columns:
 三春已暮花从风	ymws
 蓝田丘壑漫寒藤	dsld
 合为一诏渐强大	sifm
-圣人既竭目力焉	duvf
+圣人既竭目力焉	duvm
 洛阳堰上新晴日	nphj
 莺嫌枝嫩不胜吟	dwak
 宦游直送江入海	inrn
@@ -12990,7 +12990,7 @@ columns:
 午窗睡起莺声巧	gbsn
 玄晏舞狂乌帽落	rjgd
 朱雀航南绕香陌	piop
-摘来正带凌晨露	fffs
+摘来正带凌晨露	ffms
 矛头淅米剑头炊	lanm
 风光和暖胜三秦	sigm
 人歌人哭水声中	ucuk
@@ -13150,7 +13150,7 @@ columns:
 寄语红桥桥下水	icon
 灵心圆映三江月	vnby
 金谷风前舞柳枝	tmsa
-万钟于我何加焉	fvff
+万钟于我何加焉	fvfm
 已见松柏摧为薪	wdad
 一样悲欢逐逝波	fafn
 箜篌所悲竟不还	ggwn
@@ -13161,7 +13161,7 @@ columns:
 迟迟春日弄轻柔	ttml
 心同野鹤与尘远	nqef
 未尝举箸忘吾蜀	wgix
-焉得思如陶谢手	fwsk
+焉得思如陶谢手	mwsk
 长江不见鱼书至	knnu
 种柳成行夹流水	gakn
 求人可使报秦者	fuch
@@ -13273,7 +13273,7 @@ columns:
 吾方高驰而不顾	fidv
 破尽青衫尘满帽	qthr
 五里一堠兵火催	fefe
-卫君待子而为政	evwf
+卫君待子而为政	evwm
 跳丸相趁走不住	xfae
 稚孙渐长解烧汤	glnn
 故士有画地为牢	ohxi
@@ -13477,7 +13477,7 @@ columns:
 寄去须凭下水船	ihwo
 别时留解赠佳人	kjju
 苏晋长斋绣佛前	dfkl
-年四十而见恶焉	gbrf
+年四十而见恶焉	gbrm
 二十年前曾去路	argx
 小鼎煎茶面曲池	isln
 雪白河豚不药人	sdnu
@@ -13710,7 +13710,7 @@ columns:
 弟子堂上分两厢	llgv
 年年喜见山长在	ggvx
 肉芝石耳不足数	qdqt
-虽鸡狗不得宁焉	kdqf
+虽鸡狗不得宁焉	kdqm
 任人采弄尽人看	euvk
 平台为客忧思多	adiy
 此日此时人共得	njnw
@@ -13783,7 +13783,7 @@ columns:
 崔李题名王白诗	jajc
 故有斯人慰寂寥	oxri
 桂花成实向秋荣	adkd
-愁人正在书窗下	gufc
+愁人正在书窗下	gumc
 池台竹树三亩馀	ndgu
 覆水再收岂满杯	lnfa
 揭竿命爵分雄雌	fgsn
@@ -13944,7 +13944,7 @@ columns:
 不应墩姓尚随公	nuhm
 莫愁留滞太史公	dgjm
 谁挥鞭策驱四运	cfpa
-正见盛时犹怅望	fdku
+正见盛时犹怅望	mdku
 不信君看弈棋者	nevh
 天涯海角信音稀	fnng
 再拜献大王足下	fkrc
@@ -14022,7 +14022,7 @@ columns:
 槐树层层新绿生	aatp
 闻道梅花坼晓风	rlas
 人道是清光更多	uljy
-使子贡往侍事焉	elnf
+使子贡往侍事焉	elnm
 白发永无怀橘日	djij
 已报生擒吐谷浑	wfpn
 边城暮雨雁飞低	shde
@@ -14270,7 +14270,7 @@ columns:
 好将沈醉酬佳节	wond
 则深根宁极而待	fnaw
 深闭朱门伴细腰	nrpy
-焉得并州快剪刀	fwlj
+焉得并州快剪刀	mwlj
 鸭头春水浓如染	aamn
 邺侯藏书手不触	vedo
 小子鸣鼓而攻之	ilkk
@@ -14325,7 +14325,7 @@ columns:
 满堂共话中兴事	ngde
 输赢须待局终头	gdwa
 若耶溪上踏莓苔	dlnd
-子产听郑国之政	lwkf
+子产听郑国之政	lwkm
 绕郭荷花三十里	odde
 一语天然万古新	fcfw
 落向人间取次生	doup
@@ -14855,7 +14855,7 @@ columns:
 天台一万八千丈	fdfx
 我未见力不足者	wwdh
 弟兄姐妹舞翩跹	lkwx
-天下之民归心焉	fckf
+天下之民归心焉	fckm
 清诗句句尽堪传	ncie
 割慈忍爱还租庸	ilju
 郁郁葱葱佳气浮	xxdn
@@ -14880,7 +14880,7 @@ columns:
 近来时世轻先辈	lfjf
 时时只见龙蛇走	jjkh
 白发东坡又到来	djgf
-焉得铸甲作农器	fwvk
+焉得铸甲作农器	mwvk
 白马湖平秋日光	dbni
 仙风道骨今谁有	eslx
 酒旗相望大堤头	niaa
@@ -14989,7 +14989,7 @@ columns:
 春江浩荡暂徘徊	mnnw
 市南门外泥中歇	rrrj
 岂如春色嗾人狂	jwmq
-耿吾既得此中正	lfvf
+耿吾既得此中正	lfvm
 自三峡七百里中	cyjk
 长安大道横九天	kimf
 长看天西万叠青	kkfh
@@ -15237,7 +15237,7 @@ columns:
 勉远逝而无狐疑兮	offm
 自吾氏三世居是乡	cfjo
 鲁有兀者叔山无趾	txox
-正旦蒙赵王赉酒诗	fjdc
+正旦蒙赵王赉酒诗	mjdc
 小人学道则易使也	iuie
 斯有不忍人之政矣	rxnd
 而不敢怀庆赏爵禄	knoc
@@ -15260,7 +15260,7 @@ columns:
 先生不知何许人也	ppne
 则君使人导之出疆	fvej
 马之死者十二三矣	bkfd
-我叩其两端而竭焉	wkrf
+我叩其两端而竭焉	wkrm
 不知何时已而不虚	nmet
 昔者庄周梦为胡蝶	dhui
 太阳虽不为之回光	mpki
@@ -15282,11 +15282,11 @@ columns:
 敢昭告于皇皇后帝	ojpr
 不乃为大盗积者也	nrie
 其闻道也固先乎吾	rrlf
-梦之中又占其梦焉	akkf
+梦之中又占其梦焉	akkm
 百姓闻王车马之音	vwrw
 未有不嗜杀人者也	wxne
 执敲扑而鞭笞天下	fdfc
-莫不有文武之道焉	dnxf
+莫不有文武之道焉	dnxm
 如不善而莫之违也	wnme
 天下大悦而将归己	fcmw
 今吾嗣为之十二年	ufkg
@@ -15405,7 +15405,7 @@ columns:
 吾长见笑于大方之家	fkdi
 宁其死为留骨而贵乎	irfw
 三代之得天下也以仁	yeke
-从水之道而不为私焉	unkf
+从水之道而不为私焉	unkm
 臣与将军戮力而攻秦	jsom
 何不餔其糟而歠其酾	envl
 哪里去辨什么真共假	kehe
@@ -15449,7 +15449,7 @@ columns:
 有亭翼然临于泉上者	xdkh
 君子何患乎无兄弟也	vlee
 今吾朝受命而夕饮冰	ufra
-于是焉河伯欣然自喜	fjfv
+于是焉河伯欣然自喜	fjmv
 已是十年踪迹十年心	wjrn
 王顾谓其友颜不疑曰	yvcj
 女闻人籁而未闻地籁	wrug
@@ -15459,11 +15459,11 @@ columns:
 礼乐不兴则刑罚不中	cjnk
 邦无道则可卷而怀之	qflk
 百里奚爵禄不入于心	vevn
-焉知来者之不如今也	fmfe
+焉知来者之不如今也	mmfe
 改西乡隆盛诗赠父亲	wlow
 不如乡人之善者好之	nwok
 季康子问政于孔子曰	gulj
-以俟夫观人风者得焉	temf
+以俟夫观人风者得焉	temm
 五六月累丸二而不坠	fryp
 君子有勇而无义为乱	vlxb
 代徐敬业传檄天下文	ewde
@@ -15482,14 +15482,14 @@ columns:
 四者孰知天下之正色哉	bhdr
 仁者老吾老以及人之老	ehhh
 则未尝见舟而便操之也	fwge
-于是焉河伯始旋其面目	fjfs
+于是焉河伯始旋其面目	fjms
 此所谓率土地而食人肉	nwcq
 若其义则不可须臾舍也	drie
 寡人非能好先王之乐也	iufe
 因宾客至蔺相如门谢罪	biix
 故旷日长久而社稷安矣	ojjd
 纪信等四人持剑盾步走	oegh
-楚王使大夫二人往先焉	ayef
+楚王使大夫二人往先焉	ayem
 郢人垩慢其鼻端若蝇翼	kufk
 和答钱穆父咏猩猩毛笔	ggvg
 陵与卫律之罪上通于天	psef
@@ -15516,7 +15516,7 @@ columns:
 止可以一宿而不可久处	nctt
 予恶乎知说生之非惑邪	lfwx
 赵王窃闻秦王善为秦声	hybh
-正初奉酬歙州刺史邢群	fsmv
+正初奉酬歙州刺史邢群	msmv
 苟余情其信姱以练要兮	dubm
 金光菊和女贞子的洪流	tidn
 宁其生而曳尾于涂中乎	irpw
@@ -15547,7 +15547,7 @@ columns:
 送王十八归山寄题仙游寺	lyrh
 以先国家之急而后私仇也	tpbe
 人不间于其父母昆弟之言	unrr
-有不任其声而趋举其诗焉	xnef
+有不任其声而趋举其诗焉	xnem
 曾不如早索我于枯鱼之肆	lnwm
 将赴宣州留题扬州禅智寺	ohih
 国之所以废兴存亡者亦然	bkwy

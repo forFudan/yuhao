@@ -5,8 +5,9 @@ import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 from shutil import copyfile
+import re
 
-version = "v3.6.0-rc.1"
+version = "v3.6.0-rc.5"
 
 # %%
 try:
@@ -14,12 +15,12 @@ try:
 except:
     os.makedirs("./dist/yujoy")
 
-# %%
-# Copy yujoy
-shutil.copyfile(
-    "./beta/schema/yuhao/yujoy.full.dict.yaml", f"./dist/yujoy.full.dict.yaml"
-)
+if re.match(r"^v\d+.\d+.\d+$", version):
+    shutil.copyfile(
+        "./beta/schema/yuhao/yujoy.full.dict.yaml", f"./dist/yujoy.full.dict.yaml"
+    )
 
+# %%
 # shutil.copyfile("./image/yujoy.png", f"./dist/yujoy/yujoy_{version}.png")
 shutil.copyfile("./beta/readme.md", f"./dist/yujoy/readme.txt")
 shutil.copyfile(
@@ -51,10 +52,13 @@ for file_name in [
     "yujoy_tc.schema.yaml",
     "yujoy_tc.dict.yaml",
     "yuhao/yujoy_tc.quick.dict.yaml",
-    "yuhao/yujoy_tc.words_literature.dict.yaml",
-    "yuhao/yujoy_tc.words.dict.yaml",
+    # "yuhao/yujoy_tc.words_literature.dict.yaml",
+    # "yuhao/yujoy_tc.words.dict.yaml",
 ]:
-    os.remove(f"./dist/yujoy/schema/{file_name}")
+    try:
+        os.remove(f"./dist/yujoy/schema/{file_name}")
+    except:
+        print(f"{file_name} does not exist. It is not deleted.")
 
 for file_name in [
     "yujoy_tc.schema.yaml",

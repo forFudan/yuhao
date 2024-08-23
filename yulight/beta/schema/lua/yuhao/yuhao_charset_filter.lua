@@ -39,33 +39,42 @@ So a lua filter would be helpful to filter the frequently used
     入 yuhao_charset.lua 文件.增加一項判斷: 始終不過濾非 CJK 字符.
     增加常用繁簡字符集和通規字符集.
 20240807: 重構並加入常用字前置代碼.
-
-相關文件:
-yuhao_char_filter.lua
+20240819: 前置常用漢字功能只對 CJK 内的漢字生效.
+20240820: 前置常用漢字功能只在輸入爲四碼時方纔生效.
 ------------------------------------------------------------------------
 ]]
 
 local core = require("yuhao.yuhao_core")
 local yuhao_charsets = require("yuhao.yuhao_charsets")
+local set_of_frequent_chars = core.set_from_str(yuhao_charsets.frequent)
 local set_of_common_chars = core.set_from_str(yuhao_charsets.common)
 local set_of_tonggui_chars = core.set_from_str(yuhao_charsets.tonggui)
 local set_of_harmonic_chars = core.set_from_str(yuhao_charsets.harmonic)
 
+--- 前置極常用繁簡漢字
 local function yuhao_charset_filter_prioritization(input, env)
     local switch_on = env.engine.context:get_option("yuhao_charset_filter_prioritization")
     local chars_of_low_priority = {}
-    for cand in input:iter() do
-        local is_charset_or_not_cjk = core.string_is_in_charset_or_not_in_cjk(cand.text, set_of_common_chars)
-        -- 三種情況顯示字符: (1) 常用 (2) 非 CJK (3) 過濾器關閉
-        if is_charset_or_not_cjk or not switch_on then
+    local length_of_input_is_4 = (string.len(env.engine.context.input) == 4)
+    if not length_of_input_is_4 then
+        for cand in input:iter() do
             yield(cand)
-        else
-            table.insert(chars_of_low_priority, cand)
         end
     end
-    -- 非常用字词后置
-    for i, cand in ipairs(chars_of_low_priority) do
-        yield(cand)
+    if length_of_input_is_4 then
+        for cand in input:iter() do
+            local is_charset_or_not_cjk = core.string_is_in_set(cand.text, set_of_frequent_chars)
+            -- 二種情況顯示字符: (1) 極常用 (2) 過濾器關閉
+            if is_charset_or_not_cjk or not switch_on then
+                yield(cand)
+            else
+                table.insert(chars_of_low_priority, cand)
+            end
+        end
+        -- 非常用字词后置
+        for i, cand in ipairs(chars_of_low_priority) do
+            yield(cand)
+        end
     end
 end
 

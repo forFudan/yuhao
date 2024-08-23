@@ -7,6 +7,5 @@ vocabulary: yuhao.essay
 import_tables:
   - yuhao/yujoy.frequent
 ...
-
 # 用户可定義簡碼和詞語於下
 # 不推薦定義少於三碼的字詞

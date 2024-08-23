@@ -1,17 +1,15 @@
 # encoding: utf-8
 #
 # 卿雲
-# 版本: 20240810
+# 版本: 20240823
 #
 ---
 name: "yujoy"
-version: "20240810"
+version: "20240823"
 sort: original
 import_tables:
   # 以下是簡碼字詞，可注釋掉
   - yuhao/yujoy.quick
-  # - yuhao/yujoy_tc.quick
-  # - yuhao/yujoy_sc.quick
   # 以下是單字全碼
   - yuhao/yujoy.full
   - yuhao/yujoy.compatible  # 拆分兼容區
@@ -22,7 +20,7 @@ import_tables:
   # 以下是字根提示
   - yuhao/yujoy.roots
   # 以下是全碼詞庫，可注釋掉
-  - yuhao/yujoy.words
+  - yuhao/yuhao.words  # 宇浩極簡千詞詞庫
 #   - yuhao/yujoy_tc.words
 #   - yuhao/yujoy_sc.words
 #   - yuhao/yujoy_tc.words_literature
@@ -45,4 +43,7 @@ encoder:
     - length_in_range: [4, 24]
       formula: "AaBaCaZa"
 ...
+宇浩
+卿雲
+卿云
 

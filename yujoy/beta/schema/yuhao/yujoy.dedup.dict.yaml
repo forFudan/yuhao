@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yujoy.dedup"
-version: "20240810"
+version: "20240823"
 sort: original
 columns:
   - text
@@ -19,7 +19,6 @@ columns:
 冮	ange
 椎	aocm
 鵏	aqnf
-逋	aucf
 𬷕	axnf
 𬴂	bffm
 驲	bjrm
@@ -57,7 +56,6 @@ columns:
 鄗	dpfg
 茑	dxnc
 閑	eamm
-闈	eawm
 閂	efim
 吝	ekvw
 佴	eler
@@ -74,9 +72,7 @@ columns:
 戋	fkgi
 赈	flcb
 災	fmhc
-扯	fnzs
 剕	fodf
-扰	fqis
 秆	gagh
 竿	gagz
 篙	gdgz
@@ -91,7 +87,6 @@ columns:
 埫	hgst
 圭	hhtt
 垻	hlbt
-鄳	hpfm
 垓	hrht
 圮	hwjt
 勻	iaeb
@@ -131,7 +126,6 @@ columns:
 疔	lcdb
 耵	lcde
 贳	lfbs
-孑	lfil
 酎	lhci
 頎	lhxj
 孓	lidl
@@ -180,9 +174,7 @@ columns:
 鄔	qpfw
 鳧	qsjn
 犷	qugq
-尪	qywi
 朶	ramn
-幃	rawj
 詛	reqi
 詖	rgpi
 訢	rlji
