@@ -11,5 +11,7 @@
 *.zip
 
 # Ignore distributions
-*/dist
 /dist
+yulight/dist/yulight
+yujoy/dist/yujoy
+yustar/dist/yustar
