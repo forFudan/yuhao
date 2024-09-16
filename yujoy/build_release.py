@@ -7,13 +7,18 @@ from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
 
-version = "v3.6.0-rc.5"
+version = "v3.6.0"
 
 # %%
 try:
     remove_tree("./dist/yujoy")
 except:
+    print("Cannot remove dist/yujoy folder!")
+
+try:
     os.makedirs("./dist/yujoy")
+except:
+    print("Cannot create dist/yujoy folder!")
 
 if re.match(r"^v\d+.\d+.\d+$", version):
     shutil.copyfile(
@@ -21,7 +26,7 @@ if re.match(r"^v\d+.\d+.\d+$", version):
     )
 
 # %%
-# shutil.copyfile("./image/yujoy.png", f"./dist/yujoy/yujoy_{version}.png")
+shutil.copyfile("./yujoy.png", f"./dist/yujoy/yujoy_{version}.png")
 shutil.copyfile("./beta/readme.md", f"./dist/yujoy/readme.txt")
 shutil.copyfile(
     "../../../Programs/YuhaoInputMethod/YuhaoRoots/Yuniversus.ttf",
@@ -37,7 +42,7 @@ copy_tree("./beta/font/", "./dist/yujoy/font/")
 
 # %%
 # copy yuhao
-copy_tree("../yulight/beta/schema/lua/", "./dist/yujoy/schema/lua/")
+copy_tree("../lua/", "./dist/yujoy/schema/lua/")
 for file_name in [
     "yuhao.symbols.yaml",
     "yuhao_pinyin.dict.yaml",

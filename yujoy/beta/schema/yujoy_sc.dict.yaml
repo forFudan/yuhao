@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 卿雲·陆简
-# 版本: 20240823
+# 版本: 20240917
 #
 ---
 name: "yujoy_sc"
-version: "20240823"
+version: "20240917"
 sort: original
 import_tables:
   - yuhao/yujoy_sc.quick
@@ -15,6 +15,7 @@ import_tables:
   - yuhao/yujoy.dedup
   - yuhao/yuhao.private
   - yuhao/yujoy.roots
+  - yuhao/yuhao.words  # 宇浩極簡千詞詞庫
   - yuhao/yujoy_sc.words
   - yuhao/yujoy_sc.words_literature
   # - yuhao/yujoy_tc.words

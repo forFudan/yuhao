@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yujoy.adjusted"
-version: "20240823"
+version: "20240917"
 sort: original
 columns:
   - text
@@ -115,7 +115,6 @@ columns:
 𩽓	akjo
 𪈎	akjq
 𪈐	akjq
-檝	aklk
 𣗐	aknp
 桯	aknr
 梠	akov
@@ -546,7 +545,6 @@ columns:
 𩤧	cjvm
 𩣞	cjwd
 𩥳	ckkn
-𩦤	cklk
 𩧀	ckmn
 䄇	cknr
 祦	cktm
@@ -852,7 +850,6 @@ columns:
 𣂼	dkhl
 莂	dkio
 𦸴	dkkn
-蕺	dklk
 㔮	dkmb
 𭀃	dkmc
 𦰩	dkmf
@@ -1262,7 +1259,6 @@ columns:
 捌	fkio
 拐	fkjd
 𧰆	fkla
-擑	fklk
 挰	fknr
 𧹓	fknr
 捛	fkov
@@ -2427,7 +2423,6 @@ columns:
 𩴆	jjkm
 𦬧	jjxr
 𡷘	jkio
-嶯	jklk
 𡴗	jkov
 𡷤	jktm
 𡷤	jktm
@@ -2673,7 +2668,6 @@ columns:
 𦑥	kkhi
 哵	kkio
 𦐠	kkjf
-𠿠	kklk
 戜	kknr
 𠴔	kknr
 㪬	kkot
@@ -2684,7 +2678,6 @@ columns:
 𦑮	kkwp
 䝒	kldu
 𰈸	kldu
-戢	klkg
 𪢎	klkn
 𪢧	klnn
 𠁹	klsm
@@ -2743,7 +2736,6 @@ columns:
 𱔾	ksja
 𭈫	kskf
 𰔅	kskf
-𡅺	kskk
 𡁎	kslm
 𡁎	kswm
 𠽣	ktai
@@ -3063,7 +3055,6 @@ columns:
 䬇	mkes
 𧐉	mkfi
 𡙮	mkkn
-𰟧	mklk
 𥏾	mklt
 𨢰	mklt
 焒	mkov
@@ -3291,7 +3282,6 @@ columns:
 𰝕	nkbx
 𤁭	nkkh
 𤅳	nkkh
-濈	nklk
 塣	nknh
 浧	nknr
 洖	nktm
@@ -3749,8 +3739,6 @@ columns:
 𩷘	ojwd
 𠒾	okex
 𩶭	okfi
-艥	oklk
-𫙺	oklk
 𩷣	oknr
 𮎏	oknr
 𩼦	oldu
@@ -4131,7 +4119,6 @@ columns:
 觢	qjoh
 碳	qjvm
 𠓆	qkee
-𥖙	qklk
 𱭼	qknr
 𱴇	qknr
 𤝲	qktm
@@ -4300,7 +4287,6 @@ columns:
 㡌	rjyv
 𧧸	rkio
 𢧜	rkkn
-𫍎	rklk
 𭘡	rknr
 誤	rktm
 𬴦	rlan
@@ -4484,9 +4470,6 @@ columns:
 𤊅	skdm
 𬨲	skdu
 𩆕	skkd
-霵	sklk
-𥊬	sklk
-𮖹	sklk
 裎	sknr
 睈	sknr
 舉	slia
@@ -4536,7 +4519,6 @@ columns:
 𥆟	smke
 裞	smke
 䡞	smxc
-𩆭	snkk
 𮦼	snmm
 𩂸	snoe
 𩆓	snqd
@@ -4779,7 +4761,6 @@ columns:
 匩	tjyw
 䤢	tkib
 𨫓	tkkn
-𤖞	tklk
 𮊶	tkmi
 𨮯	tkmn
 鋥	tknr
@@ -5111,7 +5092,6 @@ columns:
 𬲮	ujgf
 㔃	ujoj
 㔢	ujos
-𮉋	uklk
 𦀚	uknr
 𨉑	uknr
 絽	ukov
@@ -5132,7 +5112,6 @@ columns:
 廨	uoip
 繲	uoip
 𱄇	uojk
-𨉼	uokn
 總	uown
 𢊕	uown
 馒	uqad
@@ -5813,7 +5792,6 @@ columns:
 䍕	xjgf
 䟡	xjgf
 𫰀	xjjm
-𨎵	xklk
 𢻡	xknd
 𨁎	xknr
 𦊼	xkov
@@ -5950,7 +5928,6 @@ columns:
 脃	yjob
 脃	yjob
 𦛎	yjql
-𦠾	yklk
 𡅖	ykmi
 珵	yknr
 脭	yknr

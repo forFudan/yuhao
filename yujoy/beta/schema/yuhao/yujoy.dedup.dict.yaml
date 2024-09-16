@@ -1,7 +1,7 @@
 # encoding: utf-8
 ---
 name: "yujoy.dedup"
-version: "20240823"
+version: "20240917"
 sort: original
 columns:
   - text

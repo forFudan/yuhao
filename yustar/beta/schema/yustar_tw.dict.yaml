@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 宇浩·星陳·臺正
-# 版本: 20240823
+# 版本: 20240917
 #
 ---
 name: "yustar_tw"
-version: "20240823"
+version: "20240917"
 sort: original
 import_tables:
   - yuhao/yuhao.extended
@@ -13303,7 +13303,7 @@ encoder:
 鿍	htak
 鿎	vooc
 鿏	ohtu
-〇	lvv
+〇	lll
 㑊	etir
 㑚	eyay
 㕮	lksi
@@ -17588,7 +17588,7 @@ encoder:
 亐	ieir
 亖	iirr
 亗	uirs
-亜	llfi
+亜	fkai
 亝	nnni
 亣	kljd
 亪	tyii
@@ -17654,7 +17654,7 @@ encoder:
 佫	etlv
 佭	etak
 佮	erhr
-佱	ripi
+佱	rflz
 佲	exlv
 侊	eilw
 侌	rfyn
@@ -18109,7 +18109,7 @@ encoder:
 唎	lmmd
 唓	ldcv
 唕	ldgi
-唖	lllf
+唖	lfka
 唘	vblv
 唙	lhih
 唜	flnb
@@ -18458,7 +18458,7 @@ encoder:
 壱	hxnb
 売	hxwr
 壵	hhhs
-壷	hxlf
+壷	hxka
 壻	hypw
 夀	iylk
 夁	huwj
@@ -19157,7 +19157,7 @@ encoder:
 悥	briy
 悧	rmmd
 悩	rnsw
-悪	llfr
+悪	fkri
 悮	rlfo
 悳	gjer
 悿	rfok
@@ -24587,7 +24587,7 @@ encoder:
 㔑	sdkm
 㔒	uecm
 㔓	mslq
-㔔	sllv
+㔔	slll
 㔕	gfys
 㔖	slyi
 㔗	bksl
@@ -25999,7 +25999,7 @@ encoder:
 㪰	tqme
 㪱	txod
 㪲	igyi
-㪳	iglv
+㪳	igll
 㪴	flig
 㪵	qaig
 㪶	vjig
@@ -26402,7 +26402,7 @@ encoder:
 㱌	lllx
 㱍	boox
 㱎	unvx
-㱏	ipir
+㱏	flzi
 㱐	ipkd
 㱑	pxxi
 㱒	pjlv
@@ -35849,7 +35849,7 @@ encoder:
 𡏊	hqbk
 𡏋	nnht
 𡏌	hmkc
-𡏍	llfh
+𡏍	fkwh
 𡏎	oqho
 𡏏	hskn
 𡏐	hdht
@@ -41550,7 +41550,7 @@ encoder:
 𢨓	xbtk
 𢨔	rkgq
 𢨕	xvwk
-𢨖	fluk
+𢨖	fkek
 𢨗	owkg
 𢨘	uekg
 𢨙	fujk
@@ -42273,7 +42273,7 @@ encoder:
 𢳦	fidg
 𢳧	fmbd
 𢳨	foqc
-𢳩	fhlf
+𢳩	fhfk
 𢳪	falo
 𢳫	fbuc
 𢳬	fcbj
@@ -43752,7 +43752,7 @@ encoder:
 𣊭	jjjj
 𣊮	hqyj
 𣊯	jcin
-𣊰	jfpf
+𣊰	jfpk
 𣊱	jdkm
 𣊲	jgsi
 𣊳	jmli
@@ -44717,7 +44717,7 @@ encoder:
 𣙳	apam
 𣙴	afkl
 𣙵	anjk
-𣙶	abkf
+𣙶	abkk
 𣙷	ashs
 𣙸	pksw
 𣙹	aljn
@@ -46211,7 +46211,7 @@ encoder:
 𣱉	inox
 𣱊	jkkf
 𣱋	kxfn
-𣱌	llfx
+𣱌	fkkx
 𣱍	urkx
 𣱎	kxfw
 𣱏	kgwx
@@ -47732,7 +47732,7 @@ encoder:
 𤈾	nxih
 𤈿	fnki
 𤉀	anih
-𤉁	illf
+𤉁	ifka
 𤉂	bmib
 𤉃	imkr
 𤉄	tibs
@@ -49800,7 +49800,7 @@ encoder:
 𤩓	jquj
 𤩔	jkvl
 𤩕	jqql
-𤩖	jhxf
+𤩖	jhxk
 𤩗	jpqm
 𤩘	jjaj
 𤩙	jjjr
@@ -64156,7 +64156,7 @@ encoder:
 𨉹	qwkf
 𨉺	qkmj
 𨉻	qdxq
-𨉼	qllr
+𨉼	qfkr
 𨉽	qwjj
 𨉾	qgjm
 𨉿	qssr
@@ -74769,7 +74769,7 @@ encoder:
 𪰢	jnlc
 𪰣	jvvx
 𪰤	jncn
-𪰥	jllf
+𪰥	jfka
 𪰦	jrrh
 𪰧	jien
 𪰨	jrhh
@@ -78474,7 +78474,7 @@ encoder:
 𫫓	lfml
 𫫔	lfhu
 𫫕	lafg
-𫫖	lllr
+𫫖	lfkr
 𫫗	lvjj
 𫫘	vlvl
 𫫙	lnjx
@@ -78810,7 +78810,7 @@ encoder:
 𫰨	cyio
 𫰩	cwam
 𫰪	chkz
-𫰫	cllf
+𫰫	cfka
 𫰬	capg
 𫰭	chkk
 𫰮	csbs
@@ -79112,7 +79112,7 @@ encoder:
 𫵖	bjss
 𫵗	bkbg
 𫵘	brgp
-𫵙	bipi
+𫵙	bflz
 𫵚	bmmq
 𫵛	bkik
 𫵜	bwab
@@ -79962,7 +79962,7 @@ encoder:
 𬂯	adgm
 𬂰	axgy
 𬂱	nyca
-𬂲	allf
+𬂲	afka
 𬂳	aprr
 𬂴	ahya
 𬂵	asks
@@ -80105,7 +80105,7 @@ encoder:
 𬄿	aqlb
 𬅀	akal
 𬅁	ahlj
-𬅂	ajlr
+𬅂	ajfr
 𬅃	aanf
 𬅄	fkya
 𬅅	assf
@@ -83493,8 +83493,8 @@ encoder:
 𬻧	glxj
 𬻨	hqjx
 𬻩	agjx
-𬻪	ipgk
-𬻫	glxf
+𬻪	flgk
+𬻫	glxk
 𬻬	iljv
 𬻭	mnas
 𬻮	fqxx
@@ -93228,7 +93228,7 @@ encoder:
 𰤍	bbgo
 𰤎	bbus
 𰤏	bddo
-𰤐	bllf
+𰤐	bfka
 𰤑	bttu
 𰤒	dyib
 𰤓	dycp
@@ -94581,7 +94581,7 @@ encoder:
 𰹖	dmbj
 𰹗	dufk
 𰹘	duxb
-𰹙	dwip
+𰹙	dwfl
 𰹚	dbbx
 𰹛	dmso
 𰹜	dswb
@@ -95016,7 +95016,7 @@ encoder:
 𱀉	dbbl
 𱀊	yirj
 𱀋	yhht
-𱀌	yipi
+𱀌	yflz
 𱀍	yofk
 𱀎	yvte
 𱀏	yrpi
@@ -95295,7 +95295,7 @@ encoder:
 𱄠	wgos
 𱄡	week
 𱄢	wnib
-𱄣	wwip
+𱄣	wwfl
 𱄤	wdre
 𱄥	wmso
 𱄦	wswb
@@ -98348,7 +98348,7 @@ encoder:
 𱴒	vxlk
 𱴓	vrrs
 𱴔	vnhn
-𱴕	vxlf
+𱴕	vxka
 𱴖	vanw
 𱴗	vmul
 𱴘	vsko
@@ -100400,7 +100400,7 @@ encoder:
 ㇠	yii
 ㇡	yii
 ㇢	yii
-㇣	lvv
+㇣	lll
 豈	uflq
 更	fjsi
 車	dcc
@@ -102027,10 +102027,15 @@ encoder:
 ュ	boo
 ユ	boo
 リ	qkk
+	irr
+	irr
+	irr
 	dff
 	odd
+	jss
 	jss
 	hss
+	soo
 	akk
 	fsak
 	soo
@@ -102111,7 +102116,7 @@ encoder:
 	cyik
 	ckak
 	wyy
-	lufi
+	kaa
 	bww
 	ujj
 	wyy
@@ -102126,6 +102131,7 @@ encoder:
 	gxip
 	kaa
 	djj
+	dii
 	kfim
 	elar
 	dxx
@@ -102197,6 +102203,7 @@ encoder:
 	kkgl
 	qkk
 	qyy
+	qyy
 	qusk
 	irr
 	kaa
@@ -102239,6 +102246,7 @@ encoder:
 	emm
 	emm
 	kjj
+	kaa
 	yeii
 	bbhf
 	nss
@@ -102810,7 +102818,6 @@ encoder:
 昝	tujr
 鳎	xjvv
 廨	mxsp
-戢	llek
 桷	axsy
 墁	hjub
 筥	gllv
@@ -106297,7 +106304,6 @@ encoder:
 𨉕	qhhq
 𨉞	qhkt
 𨉡	qmsf
-𨉼	qfkr
 𨊇	qsdk
 𨋃	dgkd
 𨋛	drsl
@@ -108517,7 +108523,7 @@ encoder:
 咼	rk
 罒	uw
 龰	pi
-〇	lv
+〇	ll
 𠂤	dd
 𧘇	gy
 𬺰	kc
@@ -108926,7 +108932,7 @@ encoder:
 ㇠	yi
 ㇡	yi
 ㇢	yi
-㇣	lv
+㇣	ll
 車	dc
 金	tj
 來	al
@@ -108962,10 +108968,15 @@ encoder:
 ュ	bo
 ユ	bo
 リ	qk
+	ir
+	ir
+	ir
 	df
 	od
+	js
 	js
 	hs
+	so
 	ak
 	so
 	ls
@@ -109018,6 +109029,7 @@ encoder:
 	ck
 	rk
 	wy
+	ka
 	bw
 	uj
 	wy
@@ -109027,6 +109039,7 @@ encoder:
 	gz
 	ka
 	dj
+	di
 	dx
 	dx
 	dg
@@ -109071,6 +109084,7 @@ encoder:
 	tw
 	qk
 	qy
+	qy
 	ir
 	ka
 	ns
@@ -109093,6 +109107,7 @@ encoder:
 	em
 	em
 	kj
+	ka
 	ns
 们	etm
 什	egi
@@ -110985,6 +111000,7 @@ encoder:
 亐	iei
 亖	iir
 亗	uir
+亜	fka
 亣	klj
 亪	tyi
 亯	ajr
@@ -112352,7 +112368,7 @@ encoder:
 㰮	mxq
 㰻	hxq
 㱄	gxq
-㱏	ipi
+㱏	flz
 㱑	pxx
 㱼	oes
 㱾	tes

@@ -19,8 +19,9 @@ schema:
 switches:
   - options:
       - original
-      - yuhao_charset_filter_prioritization
-    states: [原始排序, 常用字前置]
+      - yuhao_charset_prioritizer_common
+      - yuhao_charset_prioritizer_ubiquitous
+    states: [原始排序, 常用字優先, 極常用字優先]
     reset: 1
     # Control+Shift+M
   - options:
@@ -104,7 +105,8 @@ engine:
     - simplifier@simplify
     - lua_filter@*yuhao.yuhao_chaifen_filter
     - lua_filter@*yuhao.yuhao_postpone_full_code
-    - lua_filter@*yuhao.yuhao_charset_filter_prioritization
+    - lua_filter@*yuhao.yuhao_charset_prioritizer_common
+    - lua_filter@*yuhao.yuhao_charset_prioritizer_ubiquitous
     - uniquifier
 
 traditionalize:
@@ -243,7 +245,7 @@ yuhao_macro:
           names:
             [
               cjk,
-              yuhao_charset_filter_prioritization,
+              yuhao_charset_prioritizer,
               yuhao_charset_filter_common,
               yuhao_charset_filter_tonggui,
               yuhao_charset_filter_harmonic,
@@ -305,7 +307,7 @@ key_binder:
     - {
         when: always,
         accept: "Control+Shift+M",
-        toggle: yuhao_charset_filter_prioritization,
+        toggle: yuhao_charset_prioritizer_common,
       } # 常用字優先
     - {
         when: always,
@@ -344,8 +346,8 @@ recognizer:
     punct: "^/([0-9]0?|[A-Za-z]+)?$"
     number: "^[-+]?[0-9][,.:0-9]*[%]?$"
 
-style:
-  horizontal: false
-  inline_preedit: true
-  preedit_type: composition
-  inline_candidate: true
+# style:
+#   horizontal: false
+#   inline_preedit: true
+#   preedit_type: composition
+#   inline_candidate: true

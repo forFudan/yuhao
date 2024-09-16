@@ -1,11 +1,11 @@
 # encoding: utf-8
 #
 # 卿雲
-# 版本: 20240823
+# 版本: 20240917
 #
 ---
 name: "yujoy"
-version: "20240823"
+version: "20240917"
 sort: original
 import_tables:
   # 以下是簡碼字詞，可注釋掉
@@ -21,10 +21,10 @@ import_tables:
   - yuhao/yujoy.roots
   # 以下是全碼詞庫，可注釋掉
   - yuhao/yuhao.words  # 宇浩極簡千詞詞庫
-#   - yuhao/yujoy_tc.words
 #   - yuhao/yujoy_sc.words
-#   - yuhao/yujoy_tc.words_literature
+#   - yuhao/yujoy_tc.words
 #   - yuhao/yujoy_sc.words_literature
+#   - yuhao/yujoy_tc.words_literature
   # 以下是擴展詞庫
   - yuhao/yuhao.symbols
   - yuhao/yuhao.extended

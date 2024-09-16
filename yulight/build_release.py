@@ -11,7 +11,7 @@ from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 import re
 
-version = "v3.6.0-rc.4"
+version = "v3.6.0"
 
 if re.match(r"^v\d+.\d+.\d+$", version):
     shutil.copyfile(
@@ -28,7 +28,7 @@ for _ in range(2):
 # %%
 os.makedirs("./dist/yulight")
 os.makedirs("./dist/yulight/schema/yuhao")
-# copyfile("./image/yulight.png", f"./dist/yulight/yulight_{version}.png")
+copyfile("./yulight.png", f"./dist/yulight/yulight_{version}.png")
 copyfile("./beta/readme.md", f"./dist/yulight/readme.txt")
 copyfile("../yujoy/beta/schema/yuhao.essay.txt", f"./beta/schema/yuhao.essay.txt")
 
@@ -37,6 +37,8 @@ copy_tree("./beta/schema", "./dist/yulight/schema")
 copy_tree("./beta/hotfix", "./dist/yulight/hotfix")
 copy_tree("./beta/trime", "./dist/yulight/trime")
 copy_tree("./beta/custom", "./dist/yulight/custom")
+
+copy_tree("../lua/", "./dist/yulight/schema/lua/")
 
 # %%
 # Hamster IME

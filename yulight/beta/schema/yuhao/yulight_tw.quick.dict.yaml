@@ -1,7 +1,7 @@
 # encoding: utf-8
 #
 # 宇浩·書同文
-# 版本: 20240823
+# 版本: 20240917
 
 # 朱宇浩 开发
 # Rime方案 forFudan <https://zhuyuhao.com/yuhao>
@@ -11,7 +11,7 @@
 
 ---
 name: "yulight_tw.quick"
-version: "20240823"
+version: "20240917"
 sort: original
 columns:
   - text
@@ -673,7 +673,6 @@ columns:
 尋	xf
 戕	xg
 書	xh
-〇	xi
 卩	xj
 力	xk
 加	xl
@@ -3853,7 +3852,6 @@ columns:
 啡	lli
 戰	llj
 嚣	llk
-品	lll
 患	lln
 咒	llq
 器	lls
@@ -6781,6 +6779,7 @@ columns:
 见	kxx
 禺	kyy
 非	lii
+〇	lll
 口	lvv
 小	maa
 貝	mbb
@@ -8392,6 +8391,7 @@ columns:
 佮	eye
 枛	fek
 枺	fho
+亜	fja
 樐	fkl
 盙	fmn
 杁	fru
@@ -9477,6 +9477,7 @@ columns:
 㭋	fdn
 㭬	fds
 㭅	ffa
+㱏	ffk
 㭪	ffu
 㮖	fge
 㮌	fgi
@@ -9986,7 +9987,6 @@ columns:
 䒼	skq
 䒙	sks
 䒕	sma
-㱏	sni
 㲀	sqh
 䒨	sqi
 㓉	sre
