@@ -5,7 +5,13 @@
 
 # Ignore locally-generated dictionary files
 */beta/mabiao
+!*/beta/mabiao/baidu/fcitx*
+!*/beta/mabiao/baidu/小小*
+!*/beta/mabiao/baidu/*.conf
+
 */beta/schema/yuhao
+*/beta/schema/*.dict.yaml
+*/beta/schema/yuhao.essay.txt
 
 # Ignore zip files
 *.zip

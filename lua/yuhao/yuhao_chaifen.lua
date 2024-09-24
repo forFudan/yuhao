@@ -1,8 +1,15 @@
--- yuhao_chaifen.lua
--- 作者：ace-who
--- https://github.com/Ace-Who/rime-xuma/blob/master/schema/lua/ace/xuma_spelling.lua
+--[[
+原作者：ace-who
+https://github.com/Ace-Who/rime-xuma/blob/master/schema/lua/ace/xuma_spelling.lua
+用于生成词语拆分
+------------------------------------------------------------------------
 
--- 用于生成词语拆分
+更新:
+- 20240919: 將詞語拆分中的菱形改爲全角波浪號.
+- 20240921: 更改默認的注解等級.
+---------------------------------------------------------------------------
+]]
+
 
 function map(table, func)
   local t = {}
@@ -103,10 +110,10 @@ end
 -- Generate a processor that cycle a group of options with a key.
 -- For now only works when composing.
 function rime.make_option_cycler(
-  options,
-  cycle_key_config_path,
-  switch_key_config_path,
-  reverse
+    options,
+    cycle_key_config_path,
+    switch_key_config_path,
+    reverse
 )
   local processor, cycle_key, switch_key = {}
   processor.init = function(env)
@@ -152,8 +159,8 @@ end
 
 local config = {}
 config.encode_rules = {
-  { length_equal = 2,          formula = 'AaAbBaBb' },
-  { length_equal = 3,          formula = 'AaBaCaCb' },
+  { length_equal = 2,            formula = 'AaAbBaBb' },
+  { length_equal = 3,            formula = 'AaBaCaCb' },
   { length_in_range = { 4, 10 }, formula = 'AaBaCaZa' }
 }
 -- 注意借用编码规则有局限性：取码索引不一定对应取根索引，尤其是从末尾倒数时。
@@ -165,7 +172,7 @@ local options = {
   'yuhao_chaifen.lv2',
   'yuhao_chaifen.lv3'
 }
-options.default = 3
+options.default = 4
 
 local processor = rime.make_option_cycler(options,
   'yuhao_chaifen/lua/cycle_key',
@@ -224,7 +231,7 @@ local function spell_phrase(s, spll_rvdb)
     if raw == '' then return end
     local char_radicals = parse_spll(parse_raw_tricomment(raw))
     local code_idx = coord[2] > 0 and coord[2] or #char_radicals + 1 + coord[2]
-    radicals[i] = char_radicals[code_idx] or '◇'
+    radicals[i] = char_radicals[code_idx] or '～'
   end
   return table.concat(radicals)
 end
@@ -242,7 +249,7 @@ local function code_phrase(s, spll_rvdb)
     if raw == '' then return end
     local char_radicals = parse_spll(parse_raw_code_comment(raw))
     local code_idx = coord[2] > 0 and coord[2] or #char_radicals + 1 + coord[2]
-    radicals[i] = char_radicals[code_idx] or '◇'
+    radicals[i] = char_radicals[code_idx] or '～'
   end
   return table.concat(radicals)
 end

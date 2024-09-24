@@ -43,10 +43,10 @@ switches:
     # Control+Shift+H
   - options:
       - yuhao_chaifen.off
-      - yuhao_chaifen.lv1
-      - yuhao_chaifen.lv2
       - yuhao_chaifen.lv3
-    states: [〇註解, 一重註解, 二重註解, 三重註解]
+      - yuhao_chaifen.lv2
+      - yuhao_chaifen.lv1
+    states: [無註解, 多重註解, 二重註解, 一重註解]
     reset: 0
   - name: yuhao_autocompletion_filter
     reset: 0
@@ -281,6 +281,10 @@ yuhao_macro:
               rime_api.get_distribution_version())
           end
     uni:
+      - type: eval
+        hijack: true
+        expr: return require("yuhao.yuhao_core").unicode()
+    w:
       - type: eval
         hijack: true
         expr: return require("yuhao.yuhao_core").unicode()
