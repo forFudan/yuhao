@@ -6,7 +6,7 @@ Author: 朱宇浩 (forFudan) <dr.yuhao.zhu@outlook.com>
 Github: https://github.com/forFudan/
 Purpose: 從候選項中過濾出常用繁簡漢字
 版權聲明：
-專爲宇浩輸入法製作 <https://zhuyuhao.com/yuhao/>
+專爲宇浩輸入法製作 <https://shurufa.app>
 轉載請保留作者名和出處
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0
     International

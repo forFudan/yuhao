@@ -6,7 +6,7 @@ Author: 譚淞宸 <https://github.com/tansongchen>
 Purpose: 對於過長的整句輸入,當字數超過一定數量時,下一擊自動選擇第二候選
     項.這個插件可使得第一候選項的字數不超過一定數量(默認爲8).
 版權聲明：
-專爲宇浩輸入法製作 <https://yuhao.forfudan.com>
+專爲宇浩輸入法製作 <https://shurufa.app>
 轉載請保留作者名和出處
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 版本：

@@ -11,7 +11,18 @@ from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 import re
 
-version = "v3.6.1-beta"
+version = "v3.6.1-beta.20240928"
+
+# %%
+try:
+    remove_tree("./dist/yulight")
+except:
+    print("Cannot remove dist/yulight folder!")
+
+try:
+    os.makedirs("./dist/yulight")
+except:
+    print("Cannot create dist/yulight folder!")
 
 if re.match(r"^v\d+.\d+.\d+$", version):
     shutil.copyfile(
@@ -19,14 +30,6 @@ if re.match(r"^v\d+.\d+.\d+$", version):
     )
 
 # %%
-for _ in range(2):
-    try:
-        remove_tree("./dist/yulight")
-    except:
-        pass
-
-# %%
-os.makedirs("./dist/yulight")
 os.makedirs("./dist/yulight/schema/yuhao")
 copyfile("./yulight.png", f"./dist/yulight/yulight_{version}.png")
 copyfile("./beta/readme.md", f"./dist/yulight/readme.txt")

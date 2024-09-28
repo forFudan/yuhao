@@ -8,7 +8,7 @@ schema:
   author:
     - 項目策劃 錢多多
     - 技术支持 forFudan
-    - Rime方案 <https://zhuyuhao.com/yujoy/>
+    - Rime方案 <https://shurufa.app>
     - 官方QQ群 374630778
   description: |
     卿雲爛兮·繁簡平衡，簡碼設置適合主單副詞的繁簡通打派.
@@ -43,10 +43,9 @@ switches:
     # Control+Shift+H
   - options:
       - yuhao_chaifen.off
-      - yuhao_chaifen.lv3
       - yuhao_chaifen.lv2
-      - yuhao_chaifen.lv1
-    states: [無註解, 多重註解, 二重註解, 一重註解]
+      - yuhao_chaifen.lv3
+    states: [無註解, 二重註解, 多重註解]
     reset: 0
   - name: yuhao_autocompletion_filter
     reset: 0

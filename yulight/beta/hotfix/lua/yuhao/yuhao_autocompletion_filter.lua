@@ -5,7 +5,7 @@
 -- Github: https://github.com/forFudan/
 -- Purpose: 通過開關打開或關閉輸入預測，從而不需要修改 schema.yaml
 -- 版權聲明：
--- 專爲宇浩輸入法製作 <https://zhuyuhao.com/yuhao/>
+-- 專爲宇浩輸入法製作 <https://shurufa.app>
 -- 轉載請保留作者名和出處
 -- Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 ---------------------------------------

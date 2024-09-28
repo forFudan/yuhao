@@ -5,7 +5,7 @@ Author: forFudan 朱宇浩 <dr.yuhao.zhu@outlook.com>
 Github: https://github.com/forFudan/
 Purpose: 當編碼長度小於等於四時,關閉輸入預測.
 版權聲明：
-專爲宇浩輸入法製作 <https://yuhao.forfudan.com>
+專爲宇浩輸入法製作 <https://shurufa.app>
 轉載請保留作者名和出處
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 ---------------------------------------

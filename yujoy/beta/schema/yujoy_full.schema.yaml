@@ -8,7 +8,7 @@ schema:
   author:
     - 項目策劃 錢多多
     - 技术支持 forFudan
-    - Rime方案 <https://zhuyuhao.com/yujoy/>
+    - Rime方案 <https://shurufa.app>
     - 官方QQ群 374630778
   dependencies:
     - yuhao_pinyin
@@ -17,10 +17,9 @@ schema:
 switches:
   - options:
       - yuhao_chaifen.off
-      - yuhao_chaifen.lv1
       - yuhao_chaifen.lv2
       - yuhao_chaifen.lv3
-    states: [〇註解, 一重註解, 二重註解, 三重註解]
+    states: [無註解, 二重註解, 多重註解]
     reset: 0
   - name: yuhao_autocompletion_filter
     reset: 0

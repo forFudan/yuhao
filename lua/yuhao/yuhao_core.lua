@@ -6,7 +6,7 @@ Author: 朱宇浩 (forFudan) <dr.yuhao.zhu@outlook.com>
 Github: https://github.com/forFudan/
 Purpose: 宇浩輸入法的 RIME lua 提供核心函數
 版權聲明：
-專爲宇浩輸入法製作 <https://yuhao.forfudan.com>
+專爲宇浩輸入法製作 <https://shurufa.app>
 轉載請保留作者名和出處
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 --------------------------------------------------------------------------------
@@ -22,6 +22,15 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 ]]
 
 local core = {}
+
+--- 取得字符串首字符
+--- @param text string
+--- @return string
+function core.first_char_of_str(text)
+    for p, c in utf8.codes(text) do
+        return utf8.char(c)
+    end
+end
 
 --- 將字符串轉化爲 set
 ---@param text string

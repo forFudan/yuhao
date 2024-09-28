@@ -11,7 +11,7 @@ from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
 
-version = "v3.6.1-beta"
+version = "v3.6.1-beta.20240928"
 
 if re.match(r"^v\d+.\d+.\d+$", version):
     shutil.copyfile(
