@@ -340,3 +340,6 @@ yuhao_macro:
       - type: eval
         hijack: true
         expr: return require("yuhao.yuhao_core").unicode()
+
+style:
+    font_face: Yuniversus

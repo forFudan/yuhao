@@ -11,18 +11,23 @@ from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
 
-version = "v3.6.1-beta.20240928"
-
-if re.match(r"^v\d+.\d+.\d+$", version):
-    shutil.copyfile(
-        "./beta/schema/yuhao/yustar.full.dict.yaml", f"./dist/yustar.full.dict.yaml"
-    )
+version = "v3.6.1-beta.20241202"
 
 # %%
 try:
     remove_tree("./dist/yustar")
 except:
+    print("Cannot remove dist/yustar folder!")
+
+try:
     os.makedirs("./dist/yustar")
+except:
+    print("Cannot create dist/yustar folder!")
+
+if re.match(r"^v\d+.\d+.\d+$", version):
+    shutil.copyfile(
+        "./beta/schema/yuhao/yustar.full.dict.yaml", f"./dist/yustar.full.dict.yaml"
+    )
 
 # %%
 # Copy yustar
@@ -39,7 +44,7 @@ shutil.copyfile(
 copy_tree("./beta/mabiao/", "./dist/yustar/mabiao/")
 copy_tree("./beta/schema/", "./dist/yustar/schema/")
 # copy_tree("../yulight/beta/schema/lua/", "./dist/yustar/hotfix/lua/")
-copy_tree("./beta/hotfix/", "./dist/yustar/hotfix/")
+# copy_tree("./beta/hotfix/", "./dist/yustar/hotfix/")
 copy_tree("./beta/custom/", "./dist/yustar/custom/")
 copy_tree("./beta/trime/", "./dist/yustar/trime/")
 copy_tree("./beta/font/", "./dist/yustar/font/")
