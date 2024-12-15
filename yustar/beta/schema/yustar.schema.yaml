@@ -68,6 +68,7 @@ switches:
   - name: full_shape
     states: ["半角", "全角"]
     reset: 0
+    # Shift + Space
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
@@ -237,11 +238,10 @@ yuhao_macro:
           names:
             [
               yuhao_chaifen.off,
-              yuhao_chaifen.lv1,
               yuhao_chaifen.lv2,
               yuhao_chaifen.lv3,
             ],
-          states: [☐☐☐註解, ☑☐☐註解, ☐☑☐註解, ☐☐☑註解],
+          states: [☐☐☐註解, ☐☑☐註解, ☑☑☑註解],
         }
     cjk:
       - {

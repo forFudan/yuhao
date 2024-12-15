@@ -7,7 +7,7 @@ from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
 
-version = "v3.6.1-beta.20241202"
+version = "v3.7.0"
 
 # %%
 try:
@@ -36,7 +36,6 @@ shutil.copyfile(
 copy_tree("./beta/mabiao/", "./dist/yujoy/mabiao/")
 copy_tree("./beta/schema/", "./dist/yujoy/schema/")
 copy_tree("./beta/custom/", "./dist/yujoy/custom/")
-# copy_tree("./beta/hotfix/", "./dist/yujoy/hotfix/")
 copy_tree("./beta/trime/", "./dist/yujoy/trime/")
 copy_tree("./beta/font/", "./dist/yujoy/font/")
 

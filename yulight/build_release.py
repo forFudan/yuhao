@@ -11,7 +11,7 @@ from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 import re
 
-version = "v3.6.1-beta.20240928"
+version = "v3.7.0"
 
 # %%
 try:
@@ -37,7 +37,6 @@ copyfile("../yujoy/beta/schema/yuhao.essay.txt", f"./beta/schema/yuhao.essay.txt
 
 copy_tree("./beta/mabiao", "./dist/yulight/mabiao")
 copy_tree("./beta/schema", "./dist/yulight/schema")
-copy_tree("./beta/hotfix", "./dist/yulight/hotfix")
 copy_tree("./beta/trime", "./dist/yulight/trime")
 copy_tree("./beta/custom", "./dist/yulight/custom")
 

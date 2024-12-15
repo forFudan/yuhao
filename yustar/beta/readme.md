@@ -12,7 +12,6 @@ patch:
   schema_list:
     - schema: yustar
     - schema: yustar_sc
-    - schema: yustar_tc
     - schema: yustar_tw
 
 重新部署后即可使用。
@@ -21,9 +20,9 @@ patch:
 
 /custom 中的文件爲 Rime 輸入法各平臺（小狼毫、鼠鬚管）方案的自定義設定。
 
-## hotfix
+## trime
 
-/hotfix 中的文件，用於 Android 平臺的「中文輸入法」，以及一些 Rime 内核較老的程序。使用時，直接將文件覆蓋 /schema 下的原文件即可。
+/trime 中的文件，用於 Android 平臺的「同文輸入法」。使用時，直接將文件覆蓋 /Rime 文件夾下的原文件即可。
 
 ## mabiao
 

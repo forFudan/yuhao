@@ -11,7 +11,7 @@ schema:
     - Rime方案 <https://shurufa.app>
     - 官方QQ群 374630778
   description: |
-    卿雲爛兮，繁簡通打，以臺灣傳統漢字爲主設置簡碼。
+    卿雲爛兮，繁簡通打，以臺灣標準字形爲主設置簡碼。
   dependencies:
     - yuhao_pinyin
     - yujoy_chaifen_tw
@@ -20,8 +20,7 @@ switches:
   - options:
       - original
       - yuhao_charset_prioritizer_common
-      - yuhao_charset_prioritizer_ubiquitous
-    states: [原始排序, 常用字優先, 極常用字優先]
+    states: [原始排序, 常用字優先]
     reset: 1
     # Control+Shift+M
   - options:
@@ -91,8 +90,8 @@ engine:
     - reverse_lookup_translator
     - table_translator@fixed # 固定字頻
     - table_translator
-    - table_translator@zaoci # 用户造詞
-    - lua_translator@*yuhao.yuhao_switch_tr@yuhao_macro # 控制臺
+    - table_translator@zaoci  # 用户造詞
+    - lua_translator@*yuhao.yuhao_switch_tr@yuhao_macro  # 控制臺
   filters:
     - lua_filter@*yuhao.yuhao_autocompletion_filter
     - lua_filter@*yuhao.yuhao_single_char_only_for_full_code
@@ -104,7 +103,6 @@ engine:
     - lua_filter@*yuhao.yuhao_chaifen_filter
     - lua_filter@*yuhao.yuhao_postpone_full_code
     - lua_filter@*yuhao.yuhao_charset_prioritizer_common
-    - lua_filter@*yuhao.yuhao_charset_prioritizer_ubiquitous
     - uniquifier
 
 traditionalize:
@@ -336,8 +334,8 @@ key_binder:
     - { when: has_menu, accept: semicolon, send: 2 } # 分号次选
     - { when: has_menu, accept: apostrophe, send: 3 } # 引号三选
     - { when: has_menu, accept: Tab, send: 2 } # 製表符次选
-    - { when: has_menu, accept: minus, send: Page_Up } #減號上翻頁
-    - { when: has_menu, accept: equal, send: Page_Down } #等號下翻頁
+    - { when: has_menu, accept: minus, send: Page_Up } # 減號上翻頁
+    - { when: has_menu, accept: equal, send: Page_Down } # 等號下翻頁
 
 recognizer:
   import_preset: default
