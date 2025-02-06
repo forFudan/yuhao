@@ -7,7 +7,7 @@ from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
 
-version = "v3.8.0-beta.20250206"
+version = "v3.8.0-beta.20250207"
 
 # %%
 try:

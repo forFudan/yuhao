@@ -10,6 +10,8 @@
 !*/beta/mabiao/baidu/*.conf
 
 */beta/schema/yuhao
+!*/beta/schema/yuhao/yuhao.extended.dict.yaml
+!*/beta/schema/yuhao/yuhao.priviate.dict.yaml
 */beta/schema/*.dict.yaml
 */beta/schema/yuhao.essay.txt
 
