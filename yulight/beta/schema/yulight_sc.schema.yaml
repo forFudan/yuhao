@@ -246,9 +246,8 @@ yuhao_macro:
               yuhao_charset_prioritizer,
               yuhao_charset_filter_common,
               yuhao_charset_filter_tonggui,
-              yuhao_charset_filter_harmonic,
             ],
-          states: [☐☐☐全漢字, ☐☐☑常用字前置, ☐☑☐常用字, ☐☑☑通规字, ☑☐☐陸標繁],
+          states: [☐☐☐全漢字, ☐☐☑常用字前置, ☐☑☐常用字, ☐☑☑通规字],
         }
     trad:
       - { type: switch, name: traditionalization, states: [☐不轉換, ☑簡轉繁] }

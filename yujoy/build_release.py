@@ -7,7 +7,7 @@ from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
 
-version = "v3.7.0"
+version = "v3.8.0-beta.20250206"
 
 # %%
 try:
@@ -26,7 +26,11 @@ if re.match(r"^v\d+.\d+.\d+$", version):
     )
 
 # %%
-shutil.copyfile("./yujoy.png", f"./dist/yujoy/yujoy_{version}.png")
+shutil.copyfile("./yujoy.pdf", f"./dist/yujoy/yujoy_{version}.pdf")
+shutil.copyfile(
+    "./changelog.md",
+    "./dist/yujoy/changelog.md",
+)
 shutil.copyfile("./beta/readme.md", f"./dist/yujoy/readme.txt")
 shutil.copyfile(
     "../../../Programs/YuhaoInputMethod/YuhaoRoots/Yuniversus.ttf",
@@ -53,9 +57,9 @@ for file_name in [
     copyfile(f"../yulight/beta/schema/{file_name}", f"./dist/yujoy/schema/{file_name}")
 
 for file_name in [
-    "yujoy_tc.schema.yaml",
-    "yujoy_tc.dict.yaml",
-    "yuhao/yujoy_tc.quick.dict.yaml",
+    # "yujoy_tc.schema.yaml",
+    # "yujoy_tc.dict.yaml",
+    # "yuhao/yujoy_tc.quick.dict.yaml",
     # "yuhao/yujoy_tc.words_literature.dict.yaml",
     # "yuhao/yujoy_tc.words.dict.yaml",
 ]:
@@ -72,3 +76,6 @@ for file_name in [
 # %%
 shutil.make_archive(f"../dist/卿雲爛兮_{version}", "zip", "./dist/yujoy")
 shutil.make_archive(f"../dist/hamster/卿雲爛兮_{version}", "zip", "./dist/yujoy/schema")
+
+# %%
+print(f"成功發佈卿雲 {version}！")

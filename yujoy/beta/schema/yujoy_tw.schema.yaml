@@ -124,8 +124,10 @@ simplify:
     - xform/$/〕/
 
 yuhao_postpone_full_code:
+  ## 以下列出之漢字,出簡後,於全碼後置之.用户可自定義.
+  ## 需要全碼後置的漢字列表,缺省時默認後置所有.
+  # selected_chars: "束員员冻近寒凍准"
   tags: [abc]
-  selected_chars: "束冻近寒凍准" # 後置漢字
   lua:
     max_index: 3 # 最大後置位置，默認爲 3
 
