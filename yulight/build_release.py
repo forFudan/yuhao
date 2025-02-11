@@ -11,7 +11,7 @@ from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 import re
 
-version = "v3.8.0-beta.20250207"
+version = "v3.8.0-beta.20250211"
 
 # %%
 try:
@@ -52,3 +52,4 @@ make_archive(f"../dist/宇浩光華_{version}", "zip", "./dist/yulight")
 # copyfile(f"../dist/宇浩光華_{version}.zip", f"../dist/yuhao_light_{version}.zip")
 
 # %%
+print(f"成功發佈光華 {version}！")

@@ -29,8 +29,7 @@ switches:
       - cjk
       - yuhao_charset_filter_common
       - yuhao_charset_filter_tonggui
-      - yuhao_charset_filter_harmonic
-    states: [全漢字, 常用字, 通规字, 陸繁字]
+    states: [全漢字, 常用字, 通規字]
     reset: 0
     # Control+Shift+O
   - name: yuhao_single_char_only_for_full_code
@@ -101,7 +100,6 @@ engine:
     - lua_filter@*yuhao.yuhao_single_char_only_for_full_code
     - lua_filter@*yuhao.yuhao_charset_filter_common
     - lua_filter@*yuhao.yuhao_charset_filter_tonggui
-    - lua_filter@*yuhao.yuhao_charset_filter_harmonic
     - simplifier@traditionalize
     - simplifier@simplify
     - lua_filter@*yuhao.yuhao_chaifen_filter
@@ -146,8 +144,8 @@ yuhao_chaifen:
     cycle_key: "Shift+Control+C"
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  initials: zyxwvutsrqponmlkjihgfedcba
+  alphabet: zyxwvutsrqponmlkjihgfedcba/
+  initials: zyxwvutsrqponmlkjihgfedcba/
   delimiter: "`"
   max_code_length: 4
   auto_select: false
@@ -187,13 +185,13 @@ fixed:
 
 history:
   input: z
-  size: 1
+  size: 9
   initial_quality: 1
 
 reverse_lookup:
   dictionary: yuhao_pinyin
   prefix: "z"
-  tips: 〔全拼反查〕
+  tips: 〔全拼簡拼反查〕
   closing_tips: 〔反查关闭〕
   preedit_format:
     - xform/([nl])v/$1ü/
@@ -251,9 +249,8 @@ yuhao_macro:
               yuhao_charset_prioritizer,
               yuhao_charset_filter_common,
               yuhao_charset_filter_tonggui,
-              yuhao_charset_filter_harmonic,
             ],
-          states: [☐☐☐全漢字, ☐☐☑常用字前置, ☐☑☐常用字, ☐☑☑通规字, ☑☐☐陸標繁],
+          states: [☐☐全漢字, ☐☑常用字前置, ☑☐常用字, ☑☑通規字],
         }
     trad:
       - { type: switch, name: traditionalization, states: [☐不轉換, ☑簡轉繁] }
@@ -291,7 +288,7 @@ yuhao_macro:
         expr: return require("yuhao.yuhao_core").unicode()
 
 punctuator:
-  import_preset: yuhao.symbols
+  import_preset: symbols
   half_shape:
     "`": "`"
     "#": "#"

@@ -8,7 +8,7 @@ schema:
   author:
     - 項目策劃 錢多多
     - 技术支持 forFudan
-    - Rime方案 <https://yuhao.forfudan.com/docs/joy>
+    - Rime方案 <https://shurufa.com/docs/joy>
     - 官方QQ群 374630778
   description: |
     全碼單字無空格連續輸入模式.
@@ -151,8 +151,8 @@ yuhao_chaifen:
     cycle_key: "Shift+Control+C"
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  initials: zyxwvutsrqponmlkjihgfedcba
+  alphabet: zyxwvutsrqponmlkjihgfedcba/
+  initials: zyxwvutsrqponmlkjihgfedcba/
   delimiter: " `"
 
 translator:
@@ -203,7 +203,7 @@ yujoy_full:
   initial_quality: 0
 
 punctuator:
-  import_preset: yuhao.symbols
+  import_preset: symbols
   half_shape:
     "`": "`"
     "#": "#"

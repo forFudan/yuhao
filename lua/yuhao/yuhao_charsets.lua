@@ -6,7 +6,7 @@ Author: 朱宇浩 (forFudan) <dr.yuhao.zhu@outlook.com>
 Github: https://github.com/forFudan/
 Purpose: 列舉常用漢字字符集
 版權聲明：
-專爲宇浩輸入法製作 <https://yuhao.forfudan.com>
+專爲宇浩輸入法製作 <https://shurufa.com>
 轉載請保留作者名和出處
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 --------------------------------------------------------------------------------
