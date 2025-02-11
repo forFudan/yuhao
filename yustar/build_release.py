@@ -11,7 +11,7 @@ from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
 
-version = "v3.8.0-beta.20250207"
+version = "v3.8.0-beta.20250211"
 
 # %%
 try:
@@ -51,7 +51,7 @@ copy_tree("./beta/font/", "./dist/yustar/font/")
 # copy yuhao
 copy_tree("../lua/", "./dist/yustar/schema/lua/")
 for file_name in [
-    "yuhao.symbols.yaml",
+    # "yuhao.symbols.yaml",
     "yuhao_pinyin.dict.yaml",
     "yuhao_pinyin.schema.yaml",
     "yuhao/yuhao.extended.dict.yaml",
@@ -69,3 +69,4 @@ shutil.make_archive(
 )
 
 # %%
+print(f"成功發佈星陳 {version}！")

@@ -42,6 +42,7 @@ So a lua filter would be helpful to filter the frequently used
 20240819: 前置常用漢字功能只對 CJK 内的漢字生效.
 20240820: 前置常用漢字功能只在輸入爲四碼時方纔生效.
 20240908: 加入前置極常用繁簡漢字功能.
+20250210: 詞語中只要有一個字符在常用字符集内,就前置之.
 ------------------------------------------------------------------------
 ]]
 
@@ -64,7 +65,7 @@ local function yuhao_charset_prioritizer(input, env, option, charset)
     end
     if length_of_input_is_4 then
         for cand in input:iter() do
-            local is_charset_or_not_cjk = core.string_is_in_set(cand.text, charset)
+            local is_charset_or_not_cjk = core.string_is_intersected_with_set(cand.text, charset)
             -- 二種情況顯示字符: (1) 極常用 (2) 過濾器關閉
             if is_charset_or_not_cjk or not switch_on then
                 yield(cand)

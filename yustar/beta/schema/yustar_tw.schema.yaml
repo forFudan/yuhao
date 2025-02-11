@@ -19,7 +19,8 @@ switches:
   - options:
       - original
       - yuhao_charset_prioritizer_common
-    states: [原始排序, 常用字優先]
+      - yuhao_charset_prioritizer_ubiquitous
+    states: [原始排序, 常用字優先, 極常用字優先]
     reset: 1
     # Control+Shift+M
   - options:
@@ -64,9 +65,6 @@ switches:
   - name: ascii_punct
     states: [。，, ．，]
     reset: 0
-  - name: yuhao_tw_first
-    reset: 0
-    states: [繁簡混頻, 正體優先]
 
 engine:
   processors:
@@ -104,7 +102,7 @@ engine:
     - lua_filter@*yuhao.yuhao_chaifen_filter
     - lua_filter@*yuhao.yuhao_postpone_full_code
     - lua_filter@*yuhao.yuhao_charset_prioritizer_common
-    - lua_filter@*yuhao.yuhao_tw_first
+    - lua_filter@*yuhao.yuhao_charset_prioritizer_ubiquitous
     - uniquifier
 
 traditionalize:
@@ -141,8 +139,8 @@ yuhao_chaifen:
     cycle_key: "Shift+Control+C"
 
 speller:
-  alphabet: zyxwvutsrqponmlkjihgfedcba
-  initials: zyxwvutsrqponmlkjihgfedcba
+  alphabet: zyxwvutsrqponmlkjihgfedcba/
+  initials: zyxwvutsrqponmlkjihgfedcba/
   delimiter: "`"
   max_code_length: 4
   auto_select: false
@@ -182,13 +180,13 @@ fixed:
 
 history:
   input: z
-  size: 1
+  size: 9
   initial_quality: 1
 
 reverse_lookup:
   dictionary: yuhao_pinyin
   prefix: "z"
-  tips: 〔全拼反查〕
+  tips: 〔全拼簡拼反查〕
   closing_tips: 〔反查关闭〕
   preedit_format:
     - xform/([nl])v/$1ü/
@@ -285,7 +283,7 @@ yuhao_macro:
         expr: return require("yuhao.yuhao_core").unicode()
 
 punctuator:
-  import_preset: yuhao.symbols
+  import_preset: symbols
   half_shape:
     "`": "`"
     "#": "#"

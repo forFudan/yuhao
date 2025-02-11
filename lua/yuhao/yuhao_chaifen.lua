@@ -7,6 +7,7 @@ https://github.com/Ace-Who/rime-xuma/blob/master/schema/lua/ace/xuma_spelling.lu
 更新:
 - 20240919: 將詞語拆分中的菱形改爲全角波浪號.
 - 20240921: 更改默認的注解等級.
+- 20250210: 修正了一些顯示錯誤.
 ---------------------------------------------------------------------------
 ]]
 
@@ -189,10 +190,11 @@ local function xform(s)
       :gsub(',', ' · ')
       :gsub(' ·  ·  · ', ' · ')
       :gsub(' ·  · ', ' · ')
+      :gsub(' ·  · ', ' · ')
+      :gsub('〔 · 〕', '')
       :gsub('〔〕', '')
       :gsub('〔 · ', "〔")
 end
-
 
 local function parse_spll(str)
   -- Handle spellings like "{于下}{四点}丶"(for 求) where some radicals are

@@ -17,8 +17,10 @@
 
 */beta/archived/*.dict.yaml
 
-# Ignore zip files
+# Ignore specific types of files
 *.zip
+*.pdf
+*.png
 
 # Ignore distributions
 /dist

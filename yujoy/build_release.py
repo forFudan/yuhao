@@ -7,7 +7,7 @@ from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
 
-version = "v3.8.0-beta.20250207"
+version = "v3.8.0-beta.20250211"
 
 # %%
 try:
@@ -17,21 +17,18 @@ except:
 
 try:
     os.makedirs("./dist/yujoy")
-except:
+except Exception as e:
     print("Cannot create dist/yujoy folder!")
+    print(e)
 
 if re.match(r"^v\d+.\d+.\d+$", version):
     shutil.copyfile(
-        "./beta/schema/yuhao/yujoy.full.dict.yaml", f"./dist/yujoy.full.dict.yaml"
+        "./beta/schema/yuhao/yujoy.full.dict.yaml", "./dist/yujoy.full.dict.yaml"
     )
 
 # %%
 shutil.copyfile("./yujoy.pdf", f"./dist/yujoy/yujoy_{version}.pdf")
-shutil.copyfile(
-    "./changelog.md",
-    "./dist/yujoy/changelog.md",
-)
-shutil.copyfile("./beta/readme.md", f"./dist/yujoy/readme.txt")
+shutil.copyfile("./beta/readme.md", "./dist/yujoy/readme.txt")
 shutil.copyfile(
     "../../../Programs/YuhaoInputMethod/YuhaoRoots/Yuniversus.ttf",
     "./beta/font/Yuniversus.ttf",
@@ -47,7 +44,7 @@ copy_tree("./beta/font/", "./dist/yujoy/font/")
 # copy yuhao
 copy_tree("../lua/", "./dist/yujoy/schema/lua/")
 for file_name in [
-    "yuhao.symbols.yaml",
+    # "yuhao.symbols.yaml",
     "yuhao_pinyin.dict.yaml",
     "yuhao_pinyin.schema.yaml",
     "yuhao/yuhao.symbols.dict.yaml",
@@ -55,6 +52,9 @@ for file_name in [
     "yuhao/yuhao.private.dict.yaml",
 ]:
     copyfile(f"../yulight/beta/schema/{file_name}", f"./dist/yujoy/schema/{file_name}")
+
+copyfile("../yulight/beta/schema/yuhao/yulight.roots.dict.yaml", "./dist/yujoy/schema/yuhao/yulight.roots.dict.yaml")
+copyfile("../yustar/beta/schema/yuhao/yustar.roots.dict.yaml", "./dist/yujoy/schema/yuhao/yustar.roots.dict.yaml")
 
 for file_name in [
     # "yujoy_tc.schema.yaml",
@@ -65,8 +65,9 @@ for file_name in [
 ]:
     try:
         os.remove(f"./dist/yujoy/schema/{file_name}")
-    except:
+    except Exception as e:
         print(f"{file_name} does not exist. It is not deleted.")
+        print(e)
 
 # for file_name in [
 #     "yujoy_tc.schema.yaml",
