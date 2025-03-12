@@ -13,6 +13,8 @@
 !*/beta/schema/yuhao/yuhao.extended.dict.yaml
 !*/beta/schema/yuhao/yuhao.priviate.dict.yaml
 */beta/schema/*.dict.yaml
+!yujoy/beta/schema/yujoy_full.dict.yaml
+!yujoy/beta/schema/yujoy_fluency.dict.yaml
 */beta/schema/yuhao.essay.txt
 
 */beta/archived/*.dict.yaml

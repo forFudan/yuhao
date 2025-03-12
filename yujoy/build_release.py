@@ -6,14 +6,23 @@ from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
+from sys import platform
 
-version = "v3.8.0-beta.20250211"
+VERSION = "v3.8.0"
+
+if platform == "darwin":
+    PROJECT_ROOT_PATH = "/Users/ZHU/Dropbox/Programs/YuhaoInputMethod"
+elif platform == "win32":
+    PROJECT_ROOT_PATH = "C:/Users/yuzhu/Dropbox/Programs/YuhaoInputMethod"
+else:
+    raise Exception("Unknown platform!")
 
 # %%
 try:
     remove_tree("./dist/yujoy")
-except:
+except Exception as e:
     print("Cannot remove dist/yujoy folder!")
+    print(e)
 
 try:
     os.makedirs("./dist/yujoy")
@@ -21,16 +30,16 @@ except Exception as e:
     print("Cannot create dist/yujoy folder!")
     print(e)
 
-if re.match(r"^v\d+.\d+.\d+$", version):
+if re.match(r"^v\d+.\d+.\d+$", VERSION):
     shutil.copyfile(
         "./beta/schema/yuhao/yujoy.full.dict.yaml", "./dist/yujoy.full.dict.yaml"
     )
 
 # %%
-shutil.copyfile("./yujoy.pdf", f"./dist/yujoy/yujoy_{version}.pdf")
+shutil.copyfile("./yujoy.pdf", f"./dist/yujoy/yujoy_{VERSION}.pdf")
 shutil.copyfile("./beta/readme.md", "./dist/yujoy/readme.txt")
 shutil.copyfile(
-    "../../../Programs/YuhaoInputMethod/YuhaoRoots/Yuniversus.ttf",
+    f"{PROJECT_ROOT_PATH}/assets/fonts/Yuniversus.ttf",
     "./beta/font/Yuniversus.ttf",
 )
 
@@ -53,8 +62,14 @@ for file_name in [
 ]:
     copyfile(f"../yulight/beta/schema/{file_name}", f"./dist/yujoy/schema/{file_name}")
 
-copyfile("../yulight/beta/schema/yuhao/yulight.roots.dict.yaml", "./dist/yujoy/schema/yuhao/yulight.roots.dict.yaml")
-copyfile("../yustar/beta/schema/yuhao/yustar.roots.dict.yaml", "./dist/yujoy/schema/yuhao/yustar.roots.dict.yaml")
+copyfile(
+    "../yulight/beta/schema/yuhao/yulight.roots.dict.yaml",
+    "./dist/yujoy/schema/yuhao/yulight.roots.dict.yaml",
+)
+copyfile(
+    "../yustar/beta/schema/yuhao/yustar.roots.dict.yaml",
+    "./dist/yujoy/schema/yuhao/yustar.roots.dict.yaml",
+)
 
 for file_name in [
     # "yujoy_tc.schema.yaml",
@@ -69,14 +84,23 @@ for file_name in [
         print(f"{file_name} does not exist. It is not deleted.")
         print(e)
 
+for path, subdirs, files in os.walk("./"):
+    for name in files:
+        # get file path
+        file_path = os.path.join(path, name)
+        if ".DS_Store" in name:
+            os.remove(file_path)
+            print(f"Removed file {file_path}")
+            break
+
 # for file_name in [
 #     "yujoy_tc.schema.yaml",
 # ]:
 #     os.remove(f"./dist/yujoy/hotfix/{file_name}")
 
 # %%
-shutil.make_archive(f"../dist/卿雲爛兮_{version}", "zip", "./dist/yujoy")
-shutil.make_archive(f"../dist/hamster/卿雲爛兮_{version}", "zip", "./dist/yujoy/schema")
+shutil.make_archive(f"../dist/卿雲爛兮_{VERSION}", "zip", "./dist/yujoy")
+shutil.make_archive(f"../dist/hamster/卿雲爛兮_{VERSION}", "zip", "./dist/yujoy/schema")
 
 # %%
-print(f"成功發佈卿雲 {version}！")
+print(f"成功發佈卿雲 {VERSION}！")

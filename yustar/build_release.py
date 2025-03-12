@@ -3,43 +3,51 @@
 from datetime import datetime
 import time
 
-# version = datetime.today().strftime('%Y%m%d')
+# VERSION = datetime.today().strftime('%Y%m%d')
 import shutil
 import os
 from distutils.dir_util import copy_tree
 from distutils.dir_util import remove_tree
 from shutil import copyfile
 import re
+from sys import platform
 
-version = "v3.8.0-beta.20250211"
+VERSION = "v3.8.0"
+
+if platform == "darwin":
+    PROJECT_ROOT_PATH = "/Users/ZHU/Dropbox/Programs/YuhaoInputMethod"
+elif platform == "win32":
+    PROJECT_ROOT_PATH = "C:/Users/yuzhu/Dropbox/Programs/YuhaoInputMethod"
+else:
+    raise Exception("Unknown platform!")
 
 # %%
 try:
     remove_tree("./dist/yustar")
-except:
+except Exception as e:
     print("Cannot remove dist/yustar folder!")
+    print(e)
 
 try:
     os.makedirs("./dist/yustar")
-except:
+except Exception as e:
     print("Cannot create dist/yustar folder!")
+    print(e)
 
-if re.match(r"^v\d+.\d+.\d+$", version):
+if re.match(r"^v\d+.\d+.\d+$", VERSION):
     shutil.copyfile(
-        "./beta/schema/yuhao/yustar.full.dict.yaml", f"./dist/yustar.full.dict.yaml"
+        "./beta/schema/yuhao/yustar.full.dict.yaml", "./dist/yustar.full.dict.yaml"
     )
 
 # %%
 # Copy yustar
-shutil.copyfile("./yustar.png", f"./dist/yustar/yustar_{version}.png")
-shutil.copyfile("./beta/readme.md", f"./dist/yustar/readme.txt")
+shutil.copyfile("./yustar.pdf", f"./dist/yustar/yustar_{VERSION}.pdf")
+shutil.copyfile("./beta/readme.md", "./dist/yustar/readme.txt")
 shutil.copyfile(
-    "../../../Programs/YuhaoInputMethod/YuhaoRoots/Yuniversus.ttf",
+    f"{PROJECT_ROOT_PATH}/assets/fonts/Yuniversus.ttf",
     "./beta/font/Yuniversus.ttf",
 )
-shutil.copyfile(
-    "../yujoy/beta/schema/yuhao.essay.txt", f"./beta/schema/yuhao.essay.txt"
-)
+shutil.copyfile("../yujoy/beta/schema/yuhao.essay.txt", "./beta/schema/yuhao.essay.txt")
 
 copy_tree("./beta/mabiao/", "./dist/yustar/mabiao/")
 copy_tree("./beta/schema/", "./dist/yustar/schema/")
@@ -61,12 +69,12 @@ for file_name in [
     copyfile(f"../yulight/beta/schema/{file_name}", f"./dist/yustar/schema/{file_name}")
 
 # %%
-shutil.make_archive(f"../dist/宇浩星陳_{version}", "zip", "./dist/yustar")
-# copyfile(f"../dist/宇浩星陳_{version}.zip", f"../dist/yuhao_star_{version}.zip")
+shutil.make_archive(f"../dist/宇浩星陳_{VERSION}", "zip", "./dist/yustar")
+# copyfile(f"../dist/宇浩星陳_{VERSION}.zip", f"../dist/yuhao_star_{VERSION}.zip")
 
 shutil.make_archive(
-    f"../dist/hamster/yuhao_star_{version}", "zip", "./dist/yustar/schema"
+    f"../dist/hamster/yuhao_star_{VERSION}", "zip", "./dist/yustar/schema"
 )
 
 # %%
-print(f"成功發佈星陳 {version}！")
+print(f"成功發佈星陳 {VERSION}！")

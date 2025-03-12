@@ -1,0 +1,56 @@
+# encoding: utf-8
+#
+# 卿雲
+# 版本: 20240527
+#
+---
+name: "yujoy_full"
+version: "20240527"
+sort: weight
+vocabulary: yuhao.essay
+import_tables:
+  # 以下是單字全碼
+  - yuhao/yujoy.full
+  - yuhao/yujoy.dedup # 二根字補碼去重區
+  - yuhao/yujoy.compatible # 拆分兼容區
+  # - yuhao/yujoy.adjusted  # 港臺字形兼容區
+  # - yuhao/yujoy.words # 宇浩詞庫參與造句
+  # - yuhao/yuhao.private # 用户拓展詞庫參與造句
+columns:
+  - text
+  - code
+encoder:
+  exclude_patterns:
+    - "^z.*$"
+  rules:
+    - length_equal: 2
+      formula: "AaAbAcAdBaBbBcBd"
+    - length_equal: 3
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCd"
+    - length_equal: 4
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDd"
+    - length_equal: 5
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEd"
+    - length_equal: 6
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFd"
+    - length_equal: 7
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGd"
+    - length_equal: 8
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGdHaHbHcHd"
+    - length_equal: 9
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGdHaHbHcHdIaIbIcId"
+    - length_equal: 10
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGdHaHbHcHdIaIbIcIdJaJbJcJd"
+    - length_equal: 11
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGdHaHbHcHdIaIbIcIdJaJbJcJdKaKbKcKd"
+    - length_equal: 12
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGdHaHbHcHdIaIbIcIdJaJbJcJdKaKbKcKdLaLbLcLd"
+    - length_equal: 13
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGdHaHbHcHdIaIbIcIdJaJbJcJdKaKbKcKdLaLbLcLdMaMbMcMd"
+    - length_equal: 14
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGdHaHbHcHdIaIbIcIdJaJbJcJdKaKbKcKdLaLbLcLdMaMbMcMdNaNbNcNd"
+    - length_equal: 15
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGdHaHbHcHdIaIbIcIdJaJbJcJdKaKbKcKdLaLbLcLdMaMbMcMdNaNbNcNdOaObOcOd"
+    - length_equal: 16
+      formula: "AaAbAcAdBaBbBcBdCaCbCcCdDaDbDcDdEaEbEcEdFaFbFcFdGaGbGcGdHaHbHcHdIaIbIcIdJaJbJcJdKaKbKcKdLaLbLcLdMaMbMcMdNaNbNcNdOaObOcOdPaPbPcPd"
+...
